@@ -1,0 +1,48 @@
+{
+  "ok": true,
+  "checks": [
+    {
+      "source": "pbp_2025",
+      "ok": true,
+      "rows": 46452,
+      "missing_cols": [],
+      "error": null
+    },
+    {
+      "source": "snaps_2025",
+      "ok": true,
+      "rows": 26612,
+      "missing_cols": [],
+      "error": null
+    },
+    {
+      "source": "rosters_2025",
+      "ok": true,
+      "rows": 46849,
+      "missing_cols": [],
+      "error": null
+    },
+    {
+      "source": "ngs_receiving_2025",
+      "ok": true,
+      "rows": 1402,
+      "missing_cols": [],
+      "error": null
+    },
+    {
+      "source": "schedules_2026",
+      "ok": true,
+      "rows": 272,
+      "missing_cols": [],
+      "error": null
+    },
+    {
+      "source": "injuries_2026",
+      "ok": true,
+      "rows": 0,
+      "missing_cols": [],
+      "error": null,
+      "note": "not yet published by nflverse (expected in preseason)"
+    }
+  ]
+}

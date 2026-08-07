@@ -7,7 +7,7 @@
     "completed_weeks": 0,
     "first_kickoff": "2026-09-09",
     "last_game": "2026-09-14",
-    "generated_at_et": "2026-08-01T09:26:59-04:00",
+    "generated_at_et": "2026-08-06T20:45:32-04:00",
     "label": "2026-week-01"
   },
   "blend": {
@@ -15,7 +15,9 @@
     "current": 0.0
   },
   "concepts_built": [
-    "touchdown_radar"
+    "touchdown_radar",
+    "rb_spotlight",
+    "wr_spotlight"
   ],
   "pipeline_phase": "1-scaffold"
 }

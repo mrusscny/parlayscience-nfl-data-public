@@ -9,15 +9,15 @@
     "completed_weeks": 0,
     "first_kickoff": "2026-09-09",
     "last_game": "2026-09-14",
-    "generated_at_et": "2026-08-12T09:51:46-04:00",
+    "generated_at_et": "2026-08-13T09:52:05-04:00",
     "label": "2026-week-01"
   },
   "method": {
     "model": "expected_touchdowns",
     "formula": "xTD/game = SUM(opportunities_per_game * conversion_rate)",
     "conversion_rates": {
-      "end_zone_targets_pg": 0.4056,
-      "inside_10_targets_pg": 0.2751,
+      "end_zone_targets_pg": 0.4052,
+      "inside_10_targets_pg": 0.2758,
       "inside_10_carries_pg": 0.2755
     },
     "conversion_rates_source": "measured from 2025 play-by-play",
@@ -51,7 +51,7 @@
       "player_name": "D.Adams",
       "team": "LA",
       "position": "WR",
-      "xtd_per_game": 1.2632,
+      "xtd_per_game": 1.2635,
       "inside_10_opportunities": 23,
       "end_zone_targets": 28,
       "tds_last_10": 11,
@@ -63,9 +63,9 @@
       "inside_10_carries_pg": 0.0,
       "inside_10_targets_pg": 1.6429,
       "xtd_contribution": {
-        "end_zone_targets": 0.8112,
+        "end_zone_targets": 0.8104,
         "inside_10_carries": 0.0,
-        "inside_10_targets": 0.452
+        "inside_10_targets": 0.4531
       },
       "injury_flag": "",
       "flags": []
@@ -76,7 +76,7 @@
       "player_name": "C.McCaffrey",
       "team": "SF",
       "position": "RB",
-      "xtd_per_game": 0.9293,
+      "xtd_per_game": 0.9297,
       "inside_10_opportunities": 50,
       "end_zone_targets": 5,
       "tds_last_10": 11,
@@ -88,9 +88,9 @@
       "inside_10_carries_pg": 2.1765,
       "inside_10_targets_pg": 0.7647,
       "xtd_contribution": {
-        "end_zone_targets": 0.1193,
+        "end_zone_targets": 0.1192,
         "inside_10_carries": 0.5996,
-        "inside_10_targets": 0.2104
+        "inside_10_targets": 0.2109
       },
       "injury_flag": "",
       "flags": []
@@ -101,7 +101,7 @@
       "player_name": "R.Rice",
       "team": "KC",
       "position": "WR",
-      "xtd_per_game": 0.8726,
+      "xtd_per_game": 0.8737,
       "inside_10_opportunities": 18,
       "end_zone_targets": 5,
       "tds_last_10": 6,
@@ -113,9 +113,9 @@
       "inside_10_carries_pg": 0.375,
       "inside_10_targets_pg": 1.875,
       "xtd_contribution": {
-        "end_zone_targets": 0.2535,
+        "end_zone_targets": 0.2532,
         "inside_10_carries": 0.1033,
-        "inside_10_targets": 0.5158
+        "inside_10_targets": 0.5171
       },
       "injury_flag": "",
       "flags": []
@@ -126,7 +126,7 @@
       "player_name": "M.Nabers",
       "team": "NYG",
       "position": "WR",
-      "xtd_per_game": 0.8147,
+      "xtd_per_game": 0.8146,
       "inside_10_opportunities": 3,
       "end_zone_targets": 6,
       "tds_last_10": 2,
@@ -138,9 +138,9 @@
       "inside_10_carries_pg": 0.0,
       "inside_10_targets_pg": 0.75,
       "xtd_contribution": {
-        "end_zone_targets": 0.6084,
+        "end_zone_targets": 0.6078,
         "inside_10_carries": 0.0,
-        "inside_10_targets": 0.2063
+        "inside_10_targets": 0.2068
       },
       "injury_flag": "",
       "flags": []
@@ -151,7 +151,7 @@
       "player_name": "J.Taylor",
       "team": "IND",
       "position": "RB",
-      "xtd_per_game": 0.6806,
+      "xtd_per_game": 0.6807,
       "inside_10_opportunities": 42,
       "end_zone_targets": 0,
       "tds_last_10": 9,
@@ -176,7 +176,7 @@
       "player_name": "B.Bowers",
       "team": "LV",
       "position": "TE",
-      "xtd_per_game": 0.6686,
+      "xtd_per_game": 0.6688,
       "inside_10_opportunities": 10,
       "end_zone_targets": 13,
       "tds_last_10": 7,
@@ -188,9 +188,9 @@
       "inside_10_carries_pg": 0.0,
       "inside_10_targets_pg": 0.8333,
       "xtd_contribution": {
-        "end_zone_targets": 0.4394,
+        "end_zone_targets": 0.439,
         "inside_10_carries": 0.0,
-        "inside_10_targets": 0.2292
+        "inside_10_targets": 0.2298
       },
       "injury_flag": "",
       "flags": []
@@ -226,7 +226,7 @@
       "player_name": "T.McBride",
       "team": "ARI",
       "position": "TE",
-      "xtd_per_game": 0.6236,
+      "xtd_per_game": 0.6237,
       "inside_10_opportunities": 12,
       "end_zone_targets": 18,
       "tds_last_10": 7,
@@ -238,9 +238,9 @@
       "inside_10_carries_pg": 0.0,
       "inside_10_targets_pg": 0.7059,
       "xtd_contribution": {
-        "end_zone_targets": 0.4295,
+        "end_zone_targets": 0.429,
         "inside_10_carries": 0.0,
-        "inside_10_targets": 0.1942
+        "inside_10_targets": 0.1947
       },
       "injury_flag": "",
       "flags": []
@@ -251,7 +251,7 @@
       "player_name": "J.Jacobs",
       "team": "GB",
       "position": "RB",
-      "xtd_per_game": 0.6147,
+      "xtd_per_game": 0.6148,
       "inside_10_opportunities": 32,
       "end_zone_targets": 1,
       "tds_last_10": 8,
@@ -265,7 +265,7 @@
       "xtd_contribution": {
         "end_zone_targets": 0.027,
         "inside_10_carries": 0.551,
-        "inside_10_targets": 0.0367
+        "inside_10_targets": 0.0368
       },
       "injury_flag": "",
       "flags": []
@@ -288,9 +288,9 @@
       "inside_10_carries_pg": 0.0,
       "inside_10_targets_pg": 0.6471,
       "xtd_contribution": {
-        "end_zone_targets": 0.4295,
+        "end_zone_targets": 0.429,
         "inside_10_carries": 0.0,
-        "inside_10_targets": 0.178
+        "inside_10_targets": 0.1785
       },
       "injury_flag": "",
       "flags": []
@@ -301,7 +301,7 @@
       "player_name": "A.St. Brown",
       "team": "DET",
       "position": "WR",
-      "xtd_per_game": 0.6023,
+      "xtd_per_game": 0.6029,
       "inside_10_opportunities": 21,
       "end_zone_targets": 11,
       "tds_last_10": 4,
@@ -313,9 +313,9 @@
       "inside_10_carries_pg": 0.0,
       "inside_10_targets_pg": 1.2353,
       "xtd_contribution": {
-        "end_zone_targets": 0.2624,
+        "end_zone_targets": 0.2622,
         "inside_10_carries": 0.0,
-        "inside_10_targets": 0.3398
+        "inside_10_targets": 0.3407
       },
       "injury_flag": "",
       "flags": []
@@ -326,7 +326,7 @@
       "player_name": "J.Williams",
       "team": "DAL",
       "position": "RB",
-      "xtd_per_game": 0.5934,
+      "xtd_per_game": 0.5936,
       "inside_10_opportunities": 33,
       "end_zone_targets": 1,
       "tds_last_10": 7,
@@ -338,9 +338,9 @@
       "inside_10_carries_pg": 1.75,
       "inside_10_targets_pg": 0.3125,
       "xtd_contribution": {
-        "end_zone_targets": 0.0254,
+        "end_zone_targets": 0.0253,
         "inside_10_carries": 0.4821,
-        "inside_10_targets": 0.086
+        "inside_10_targets": 0.0862
       },
       "injury_flag": "",
       "flags": []
@@ -351,7 +351,7 @@
       "player_name": "N.Collins",
       "team": "HOU",
       "position": "WR",
-      "xtd_per_game": 0.5803,
+      "xtd_per_game": 0.5804,
       "inside_10_opportunities": 11,
       "end_zone_targets": 14,
       "tds_last_10": 4,
@@ -363,9 +363,9 @@
       "inside_10_carries_pg": 0.0667,
       "inside_10_targets_pg": 0.6667,
       "xtd_contribution": {
-        "end_zone_targets": 0.3786,
+        "end_zone_targets": 0.3782,
         "inside_10_carries": 0.0184,
-        "inside_10_targets": 0.1834
+        "inside_10_targets": 0.1839
       },
       "injury_flag": "",
       "flags": []
@@ -376,7 +376,7 @@
       "player_name": "M.Harrison",
       "team": "ARI",
       "position": "WR",
-      "xtd_per_game": 0.577,
+      "xtd_per_game": 0.5769,
       "inside_10_opportunities": 6,
       "end_zone_targets": 13,
       "tds_last_10": 3,
@@ -388,9 +388,9 @@
       "inside_10_carries_pg": 0.0,
       "inside_10_targets_pg": 0.5,
       "xtd_contribution": {
-        "end_zone_targets": 0.4394,
+        "end_zone_targets": 0.439,
         "inside_10_carries": 0.0,
-        "inside_10_targets": 0.1376
+        "inside_10_targets": 0.1379
       },
       "injury_flag": "",
       "flags": []
@@ -426,7 +426,7 @@
       "player_name": "D.Waller",
       "team": "MIA",
       "position": "TE",
-      "xtd_per_game": 0.5612,
+      "xtd_per_game": 0.5614,
       "inside_10_opportunities": 6,
       "end_zone_targets": 7,
       "tds_last_10": 6,
@@ -438,9 +438,9 @@
       "inside_10_carries_pg": 0.0,
       "inside_10_targets_pg": 0.75,
       "xtd_contribution": {
-        "end_zone_targets": 0.3549,
+        "end_zone_targets": 0.3546,
         "inside_10_carries": 0.0,
-        "inside_10_targets": 0.2063
+        "inside_10_targets": 0.2068
       },
       "injury_flag": "",
       "flags": []
@@ -451,7 +451,7 @@
       "player_name": "J.Jefferson",
       "team": "MIN",
       "position": "WR",
-      "xtd_per_game": 0.5597,
+      "xtd_per_game": 0.5598,
       "inside_10_opportunities": 11,
       "end_zone_targets": 16,
       "tds_last_10": 1,
@@ -463,9 +463,9 @@
       "inside_10_carries_pg": 0.0,
       "inside_10_targets_pg": 0.6471,
       "xtd_contribution": {
-        "end_zone_targets": 0.3817,
+        "end_zone_targets": 0.3814,
         "inside_10_carries": 0.0,
-        "inside_10_targets": 0.178
+        "inside_10_targets": 0.1785
       },
       "injury_flag": "",
       "flags": []
@@ -476,7 +476,7 @@
       "player_name": "T.Etienne",
       "team": "JAX",
       "position": "RB",
-      "xtd_per_game": 0.5423,
+      "xtd_per_game": 0.5425,
       "inside_10_opportunities": 32,
       "end_zone_targets": 1,
       "tds_last_10": 10,
@@ -488,9 +488,9 @@
       "inside_10_carries_pg": 1.5294,
       "inside_10_targets_pg": 0.3529,
       "xtd_contribution": {
-        "end_zone_targets": 0.0239,
+        "end_zone_targets": 0.0238,
         "inside_10_carries": 0.4214,
-        "inside_10_targets": 0.0971
+        "inside_10_targets": 0.0973
       },
       "injury_flag": "",
       "flags": []
@@ -501,7 +501,7 @@
       "player_name": "K.Williams",
       "team": "LA",
       "position": "RB",
-      "xtd_per_game": 0.5347,
+      "xtd_per_game": 0.5348,
       "inside_10_opportunities": 33,
       "end_zone_targets": 0,
       "tds_last_10": 8,
@@ -515,7 +515,7 @@
       "xtd_contribution": {
         "end_zone_targets": 0.0,
         "inside_10_carries": 0.4862,
-        "inside_10_targets": 0.0485
+        "inside_10_targets": 0.0487
       },
       "injury_flag": "",
       "flags": []
@@ -526,7 +526,7 @@
       "player_name": "M.Evans",
       "team": "TB",
       "position": "WR",
-      "xtd_per_game": 0.5268,
+      "xtd_per_game": 0.5269,
       "inside_10_opportunities": 5,
       "end_zone_targets": 7,
       "tds_last_10": 3,
@@ -538,9 +538,9 @@
       "inside_10_carries_pg": 0.0,
       "inside_10_targets_pg": 0.625,
       "xtd_contribution": {
-        "end_zone_targets": 0.3549,
+        "end_zone_targets": 0.3546,
         "inside_10_carries": 0.0,
-        "inside_10_targets": 0.1719
+        "inside_10_targets": 0.1724
       },
       "injury_flag": "",
       "flags": []
@@ -551,7 +551,7 @@
       "player_name": "S.Barkley",
       "team": "PHI",
       "position": "RB",
-      "xtd_per_game": 0.5246,
+      "xtd_per_game": 0.5247,
       "inside_10_opportunities": 29,
       "end_zone_targets": 1,
       "tds_last_10": 5,
@@ -563,9 +563,9 @@
       "inside_10_carries_pg": 1.5625,
       "inside_10_targets_pg": 0.25,
       "xtd_contribution": {
-        "end_zone_targets": 0.0254,
+        "end_zone_targets": 0.0253,
         "inside_10_carries": 0.4305,
-        "inside_10_targets": 0.0688
+        "inside_10_targets": 0.069
       },
       "injury_flag": "",
       "flags": []
@@ -588,9 +588,9 @@
       "inside_10_carries_pg": 0.0,
       "inside_10_targets_pg": 0.5385,
       "xtd_contribution": {
-        "end_zone_targets": 0.3744,
+        "end_zone_targets": 0.374,
         "inside_10_carries": 0.0,
-        "inside_10_targets": 0.1481
+        "inside_10_targets": 0.1485
       },
       "injury_flag": "",
       "flags": []
@@ -601,7 +601,7 @@
       "player_name": "D.London",
       "team": "ATL",
       "position": "WR",
-      "xtd_per_game": 0.5105,
+      "xtd_per_game": 0.5108,
       "inside_10_opportunities": 9,
       "end_zone_targets": 9,
       "tds_last_10": 7,
@@ -613,9 +613,9 @@
       "inside_10_carries_pg": 0.0,
       "inside_10_targets_pg": 0.75,
       "xtd_contribution": {
-        "end_zone_targets": 0.3042,
+        "end_zone_targets": 0.3039,
         "inside_10_carries": 0.0,
-        "inside_10_targets": 0.2063
+        "inside_10_targets": 0.2068
       },
       "injury_flag": "",
       "flags": []
@@ -626,7 +626,7 @@
       "player_name": "R.Odunze",
       "team": "CHI",
       "position": "WR",
-      "xtd_per_game": 0.5094,
+      "xtd_per_game": 0.5093,
       "inside_10_opportunities": 6,
       "end_zone_targets": 11,
       "tds_last_10": 3,
@@ -638,9 +638,9 @@
       "inside_10_carries_pg": 0.0,
       "inside_10_targets_pg": 0.5,
       "xtd_contribution": {
-        "end_zone_targets": 0.3718,
+        "end_zone_targets": 0.3714,
         "inside_10_carries": 0.0,
-        "inside_10_targets": 0.1376
+        "inside_10_targets": 0.1379
       },
       "injury_flag": "",
       "flags": []
@@ -676,7 +676,7 @@
       "player_name": "C.Brown",
       "team": "CIN",
       "position": "RB",
-      "xtd_per_game": 0.4928,
+      "xtd_per_game": 0.493,
       "inside_10_opportunities": 26,
       "end_zone_targets": 3,
       "tds_last_10": 10,
@@ -688,9 +688,9 @@
       "inside_10_carries_pg": 1.1176,
       "inside_10_targets_pg": 0.4118,
       "xtd_contribution": {
-        "end_zone_targets": 0.0716,
+        "end_zone_targets": 0.0715,
         "inside_10_carries": 0.3079,
-        "inside_10_targets": 0.1133
+        "inside_10_targets": 0.1136
       },
       "injury_flag": "",
       "flags": []
@@ -701,7 +701,7 @@
       "player_name": "O.Hampton",
       "team": "LAC",
       "position": "RB",
-      "xtd_per_game": 0.4897,
+      "xtd_per_game": 0.4898,
       "inside_10_opportunities": 16,
       "end_zone_targets": 0,
       "tds_last_10": 5,
@@ -726,7 +726,7 @@
       "player_name": "J.Ferguson",
       "team": "DAL",
       "position": "TE",
-      "xtd_per_game": 0.489,
+      "xtd_per_game": 0.4893,
       "inside_10_opportunities": 14,
       "end_zone_targets": 11,
       "tds_last_10": 2,
@@ -738,9 +738,9 @@
       "inside_10_carries_pg": 0.0,
       "inside_10_targets_pg": 0.8235,
       "xtd_contribution": {
-        "end_zone_targets": 0.2624,
+        "end_zone_targets": 0.2622,
         "inside_10_carries": 0.0,
-        "inside_10_targets": 0.2266
+        "inside_10_targets": 0.2271
       },
       "injury_flag": "",
       "flags": []
@@ -751,7 +751,7 @@
       "player_name": "C.Skattebo",
       "team": "NYG",
       "position": "RB",
-      "xtd_per_game": 0.4821,
+      "xtd_per_game": 0.4822,
       "inside_10_opportunities": 14,
       "end_zone_targets": 0,
       "tds_last_10": 7,
@@ -765,7 +765,7 @@
       "xtd_contribution": {
         "end_zone_targets": 0.0,
         "inside_10_carries": 0.4477,
-        "inside_10_targets": 0.0344
+        "inside_10_targets": 0.0345
       },
       "injury_flag": "",
       "flags": []
@@ -788,9 +788,9 @@
       "inside_10_carries_pg": 0.0,
       "inside_10_targets_pg": 0.4706,
       "xtd_contribution": {
-        "end_zone_targets": 0.334,
+        "end_zone_targets": 0.3337,
         "inside_10_carries": 0.0,
-        "inside_10_targets": 0.1295
+        "inside_10_targets": 0.1298
       },
       "injury_flag": "",
       "flags": []
@@ -813,9 +813,9 @@
       "inside_10_carries_pg": 1.4,
       "inside_10_targets_pg": 0.1,
       "xtd_contribution": {
-        "end_zone_targets": 0.0406,
+        "end_zone_targets": 0.0405,
         "inside_10_carries": 0.3857,
-        "inside_10_targets": 0.0275
+        "inside_10_targets": 0.0276
       },
       "injury_flag": "",
       "flags": []
@@ -826,7 +826,7 @@
       "player_name": "J.Warren",
       "team": "PIT",
       "position": "RB",
-      "xtd_per_game": 0.4476,
+      "xtd_per_game": 0.4478,
       "inside_10_opportunities": 26,
       "end_zone_targets": 0,
       "tds_last_10": 7,
@@ -840,7 +840,7 @@
       "xtd_contribution": {
         "end_zone_targets": 0.0,
         "inside_10_carries": 0.3788,
-        "inside_10_targets": 0.0688
+        "inside_10_targets": 0.069
       },
       "injury_flag": "",
       "flags": []
@@ -851,7 +851,7 @@
       "player_name": "J.Jennings",
       "team": "SF",
       "position": "WR",
-      "xtd_per_game": 0.4451,
+      "xtd_per_game": 0.4454,
       "inside_10_opportunities": 11,
       "end_zone_targets": 9,
       "tds_last_10": 8,
@@ -863,9 +863,9 @@
       "inside_10_carries_pg": 0.0,
       "inside_10_targets_pg": 0.7333,
       "xtd_contribution": {
-        "end_zone_targets": 0.2434,
+        "end_zone_targets": 0.2431,
         "inside_10_carries": 0.0,
-        "inside_10_targets": 0.2017
+        "inside_10_targets": 0.2023
       },
       "injury_flag": "",
       "flags": []
@@ -888,9 +888,9 @@
       "inside_10_carries_pg": 0.0,
       "inside_10_targets_pg": 0.5333,
       "xtd_contribution": {
-        "end_zone_targets": 0.2974,
+        "end_zone_targets": 0.2971,
         "inside_10_carries": 0.0,
-        "inside_10_targets": 0.1467
+        "inside_10_targets": 0.1471
       },
       "injury_flag": "",
       "flags": []
@@ -901,7 +901,7 @@
       "player_name": "T.Franklin",
       "team": "DEN",
       "position": "WR",
-      "xtd_per_game": 0.4405,
+      "xtd_per_game": 0.4406,
       "inside_10_opportunities": 11,
       "end_zone_targets": 11,
       "tds_last_10": 4,
@@ -913,9 +913,9 @@
       "inside_10_carries_pg": 0.0,
       "inside_10_targets_pg": 0.6471,
       "xtd_contribution": {
-        "end_zone_targets": 0.2624,
+        "end_zone_targets": 0.2622,
         "inside_10_carries": 0.0,
-        "inside_10_targets": 0.178
+        "inside_10_targets": 0.1785
       },
       "injury_flag": "",
       "flags": []
@@ -926,7 +926,7 @@
       "player_name": "J.Cook",
       "team": "BUF",
       "position": "RB",
-      "xtd_per_game": 0.4375,
+      "xtd_per_game": 0.4376,
       "inside_10_opportunities": 27,
       "end_zone_targets": 0,
       "tds_last_10": 7,
@@ -951,7 +951,7 @@
       "player_name": "M.Andrews",
       "team": "BAL",
       "position": "TE",
-      "xtd_per_game": 0.4328,
+      "xtd_per_game": 0.433,
       "inside_10_opportunities": 12,
       "end_zone_targets": 10,
       "tds_last_10": 4,
@@ -963,9 +963,9 @@
       "inside_10_carries_pg": 0.1765,
       "inside_10_targets_pg": 0.5294,
       "xtd_contribution": {
-        "end_zone_targets": 0.2386,
+        "end_zone_targets": 0.2384,
         "inside_10_carries": 0.0486,
-        "inside_10_targets": 0.1456
+        "inside_10_targets": 0.146
       },
       "injury_flag": "",
       "flags": []
@@ -976,7 +976,7 @@
       "player_name": "C.Olave",
       "team": "NO",
       "position": "WR",
-      "xtd_per_game": 0.4237,
+      "xtd_per_game": 0.4235,
       "inside_10_opportunities": 4,
       "end_zone_targets": 14,
       "tds_last_10": 8,
@@ -988,9 +988,9 @@
       "inside_10_carries_pg": 0.0,
       "inside_10_targets_pg": 0.25,
       "xtd_contribution": {
-        "end_zone_targets": 0.3549,
+        "end_zone_targets": 0.3546,
         "inside_10_carries": 0.0,
-        "inside_10_targets": 0.0688
+        "inside_10_targets": 0.069
       },
       "injury_flag": "",
       "flags": []
@@ -1001,7 +1001,7 @@
       "player_name": "D.Moore",
       "team": "CHI",
       "position": "WR",
-      "xtd_per_game": 0.4235,
+      "xtd_per_game": 0.4234,
       "inside_10_opportunities": 7,
       "end_zone_targets": 13,
       "tds_last_10": 6,
@@ -1013,9 +1013,9 @@
       "inside_10_carries_pg": 0.0588,
       "inside_10_targets_pg": 0.3529,
       "xtd_contribution": {
-        "end_zone_targets": 0.3102,
+        "end_zone_targets": 0.3099,
         "inside_10_carries": 0.0162,
-        "inside_10_targets": 0.0971
+        "inside_10_targets": 0.0973
       },
       "injury_flag": "",
       "flags": []
@@ -1026,7 +1026,7 @@
       "player_name": "J.Gibbs",
       "team": "DET",
       "position": "RB",
-      "xtd_per_game": 0.4213,
+      "xtd_per_game": 0.4214,
       "inside_10_opportunities": 26,
       "end_zone_targets": 0,
       "tds_last_10": 11,
@@ -1040,7 +1040,7 @@
       "xtd_contribution": {
         "end_zone_targets": 0.0,
         "inside_10_carries": 0.3565,
-        "inside_10_targets": 0.0647
+        "inside_10_targets": 0.0649
       },
       "injury_flag": "",
       "flags": []
@@ -1051,7 +1051,7 @@
       "player_name": "D.Metcalf",
       "team": "PIT",
       "position": "WR",
-      "xtd_per_game": 0.4171,
+      "xtd_per_game": 0.4172,
       "inside_10_opportunities": 8,
       "end_zone_targets": 10,
       "tds_last_10": 3,
@@ -1063,15 +1063,40 @@
       "inside_10_carries_pg": 0.0667,
       "inside_10_targets_pg": 0.4667,
       "xtd_contribution": {
-        "end_zone_targets": 0.2704,
+        "end_zone_targets": 0.2701,
         "inside_10_carries": 0.0184,
-        "inside_10_targets": 0.1284
+        "inside_10_targets": 0.1287
       },
       "injury_flag": "",
       "flags": []
     },
     {
       "rank": 42,
+      "player_id": "00-0039794",
+      "player_name": "B.Allen",
+      "team": "NYJ",
+      "position": "RB",
+      "xtd_per_game": 0.4134,
+      "inside_10_opportunities": 6,
+      "end_zone_targets": 0,
+      "tds_last_10": 1,
+      "inside_10_targets": 2,
+      "inside_10_carries": 4,
+      "goal_line_carries": 1,
+      "games_played": 4,
+      "end_zone_targets_pg": 0.0,
+      "inside_10_carries_pg": 1.0,
+      "inside_10_targets_pg": 0.5,
+      "xtd_contribution": {
+        "end_zone_targets": 0.0,
+        "inside_10_carries": 0.2755,
+        "inside_10_targets": 0.1379
+      },
+      "injury_flag": "",
+      "flags": []
+    },
+    {
+      "rank": 43,
       "player_id": "00-0036275",
       "player_name": "D.Swift",
       "team": "CHI",
@@ -1096,37 +1121,12 @@
       "flags": []
     },
     {
-      "rank": 43,
-      "player_id": "00-0039794",
-      "player_name": "B.Allen",
-      "team": "NYJ",
-      "position": "RB",
-      "xtd_per_game": 0.413,
-      "inside_10_opportunities": 6,
-      "end_zone_targets": 0,
-      "tds_last_10": 1,
-      "inside_10_targets": 2,
-      "inside_10_carries": 4,
-      "goal_line_carries": 1,
-      "games_played": 4,
-      "end_zone_targets_pg": 0.0,
-      "inside_10_carries_pg": 1.0,
-      "inside_10_targets_pg": 0.5,
-      "xtd_contribution": {
-        "end_zone_targets": 0.0,
-        "inside_10_carries": 0.2755,
-        "inside_10_targets": 0.1376
-      },
-      "injury_flag": "",
-      "flags": []
-    },
-    {
       "rank": 44,
       "player_id": "00-0040734",
       "player_name": "T.Henderson",
       "team": "NE",
       "position": "RB",
-      "xtd_per_game": 0.4127,
+      "xtd_per_game": 0.4128,
       "inside_10_opportunities": 24,
       "end_zone_targets": 1,
       "tds_last_10": 9,
@@ -1138,9 +1138,9 @@
       "inside_10_carries_pg": 1.2353,
       "inside_10_targets_pg": 0.1765,
       "xtd_contribution": {
-        "end_zone_targets": 0.0239,
+        "end_zone_targets": 0.0238,
         "inside_10_carries": 0.3403,
-        "inside_10_targets": 0.0485
+        "inside_10_targets": 0.0487
       },
       "injury_flag": "",
       "flags": []
@@ -1165,7 +1165,7 @@
       "xtd_contribution": {
         "end_zone_targets": 0.0579,
         "inside_10_carries": 0.3345,
-        "inside_10_targets": 0.0196
+        "inside_10_targets": 0.0197
       },
       "injury_flag": "",
       "flags": []
@@ -1176,7 +1176,7 @@
       "player_name": "G.Davis",
       "team": "BUF",
       "position": "WR",
-      "xtd_per_game": 0.4103,
+      "xtd_per_game": 0.4109,
       "inside_10_opportunities": 6,
       "end_zone_targets": 2,
       "tds_last_10": 1,
@@ -1188,9 +1188,9 @@
       "inside_10_carries_pg": 0.0,
       "inside_10_targets_pg": 1.0,
       "xtd_contribution": {
-        "end_zone_targets": 0.1352,
+        "end_zone_targets": 0.1351,
         "inside_10_carries": 0.0,
-        "inside_10_targets": 0.2751
+        "inside_10_targets": 0.2758
       },
       "injury_flag": "",
       "flags": []
@@ -1201,7 +1201,7 @@
       "player_name": "K.Coleman",
       "team": "BUF",
       "position": "WR",
-      "xtd_per_game": 0.4091,
+      "xtd_per_game": 0.4094,
       "inside_10_opportunities": 9,
       "end_zone_targets": 6,
       "tds_last_10": 3,
@@ -1213,9 +1213,9 @@
       "inside_10_carries_pg": 0.0,
       "inside_10_targets_pg": 0.75,
       "xtd_contribution": {
-        "end_zone_targets": 0.2028,
+        "end_zone_targets": 0.2026,
         "inside_10_carries": 0.0,
-        "inside_10_targets": 0.2063
+        "inside_10_targets": 0.2068
       },
       "injury_flag": "",
       "flags": []
@@ -1226,7 +1226,7 @@
       "player_name": "R.Doubs",
       "team": "GB",
       "position": "WR",
-      "xtd_per_game": 0.4082,
+      "xtd_per_game": 0.4084,
       "inside_10_opportunities": 9,
       "end_zone_targets": 10,
       "tds_last_10": 2,
@@ -1238,9 +1238,9 @@
       "inside_10_carries_pg": 0.0,
       "inside_10_targets_pg": 0.5625,
       "xtd_contribution": {
-        "end_zone_targets": 0.2535,
+        "end_zone_targets": 0.2532,
         "inside_10_carries": 0.0,
-        "inside_10_targets": 0.1547
+        "inside_10_targets": 0.1551
       },
       "injury_flag": "",
       "flags": []
@@ -1263,9 +1263,9 @@
       "inside_10_carries_pg": 0.0,
       "inside_10_targets_pg": 0.4286,
       "xtd_contribution": {
-        "end_zone_targets": 0.2897,
+        "end_zone_targets": 0.2894,
         "inside_10_carries": 0.0,
-        "inside_10_targets": 0.1179
+        "inside_10_targets": 0.1182
       },
       "injury_flag": "",
       "flags": []
@@ -1276,7 +1276,7 @@
       "player_name": "L.McConkey",
       "team": "LAC",
       "position": "WR",
-      "xtd_per_game": 0.4074,
+      "xtd_per_game": 0.4073,
       "inside_10_opportunities": 6,
       "end_zone_targets": 12,
       "tds_last_10": 4,
@@ -1288,9 +1288,9 @@
       "inside_10_carries_pg": 0.0,
       "inside_10_targets_pg": 0.375,
       "xtd_contribution": {
-        "end_zone_targets": 0.3042,
+        "end_zone_targets": 0.3039,
         "inside_10_carries": 0.0,
-        "inside_10_targets": 0.1032
+        "inside_10_targets": 0.1034
       },
       "injury_flag": "",
       "flags": []
@@ -1326,7 +1326,7 @@
       "player_name": "K.Gainwell",
       "team": "PIT",
       "position": "RB",
-      "xtd_per_game": 0.4041,
+      "xtd_per_game": 0.4043,
       "inside_10_opportunities": 22,
       "end_zone_targets": 2,
       "tds_last_10": 5,
@@ -1340,7 +1340,7 @@
       "xtd_contribution": {
         "end_zone_targets": 0.0477,
         "inside_10_carries": 0.2593,
-        "inside_10_targets": 0.0971
+        "inside_10_targets": 0.0973
       },
       "injury_flag": "",
       "flags": []
@@ -1351,7 +1351,7 @@
       "player_name": "C.Parkinson",
       "team": "LA",
       "position": "TE",
-      "xtd_per_game": 0.3993,
+      "xtd_per_game": 0.3996,
       "inside_10_opportunities": 10,
       "end_zone_targets": 7,
       "tds_last_10": 8,
@@ -1363,9 +1363,9 @@
       "inside_10_carries_pg": 0.0,
       "inside_10_targets_pg": 0.7143,
       "xtd_contribution": {
-        "end_zone_targets": 0.2028,
+        "end_zone_targets": 0.2026,
         "inside_10_carries": 0.0,
-        "inside_10_targets": 0.1965
+        "inside_10_targets": 0.197
       },
       "injury_flag": "",
       "flags": []
@@ -1388,9 +1388,9 @@
       "inside_10_carries_pg": 0.0625,
       "inside_10_targets_pg": 0.375,
       "xtd_contribution": {
-        "end_zone_targets": 0.2788,
+        "end_zone_targets": 0.2786,
         "inside_10_carries": 0.0172,
-        "inside_10_targets": 0.1032
+        "inside_10_targets": 0.1034
       },
       "injury_flag": "",
       "flags": []
@@ -1401,7 +1401,7 @@
       "player_name": "Q.Johnston",
       "team": "LAC",
       "position": "WR",
-      "xtd_per_game": 0.3977,
+      "xtd_per_game": 0.3979,
       "inside_10_opportunities": 7,
       "end_zone_targets": 8,
       "tds_last_10": 5,
@@ -1413,9 +1413,9 @@
       "inside_10_carries_pg": 0.0,
       "inside_10_targets_pg": 0.5385,
       "xtd_contribution": {
-        "end_zone_targets": 0.2496,
+        "end_zone_targets": 0.2494,
         "inside_10_carries": 0.0,
-        "inside_10_targets": 0.1481
+        "inside_10_targets": 0.1485
       },
       "injury_flag": "",
       "flags": []
@@ -1426,7 +1426,7 @@
       "player_name": "T.Warren",
       "team": "IND",
       "position": "TE",
-      "xtd_per_game": 0.3945,
+      "xtd_per_game": 0.3949,
       "inside_10_opportunities": 17,
       "end_zone_targets": 5,
       "tds_last_10": 1,
@@ -1438,9 +1438,9 @@
       "inside_10_carries_pg": 0.2353,
       "inside_10_targets_pg": 0.7647,
       "xtd_contribution": {
-        "end_zone_targets": 0.1193,
+        "end_zone_targets": 0.1192,
         "inside_10_carries": 0.0648,
-        "inside_10_targets": 0.2104
+        "inside_10_targets": 0.2109
       },
       "injury_flag": "",
       "flags": []
@@ -1451,7 +1451,7 @@
       "player_name": "J.Chase",
       "team": "CIN",
       "position": "WR",
-      "xtd_per_game": 0.391,
+      "xtd_per_game": 0.3912,
       "inside_10_opportunities": 8,
       "end_zone_targets": 10,
       "tds_last_10": 4,
@@ -1463,9 +1463,9 @@
       "inside_10_carries_pg": 0.0,
       "inside_10_targets_pg": 0.5,
       "xtd_contribution": {
-        "end_zone_targets": 0.2535,
+        "end_zone_targets": 0.2532,
         "inside_10_carries": 0.0,
-        "inside_10_targets": 0.1376
+        "inside_10_targets": 0.1379
       },
       "injury_flag": "",
       "flags": []
@@ -1476,7 +1476,7 @@
       "player_name": "J.Addison",
       "team": "MIN",
       "position": "WR",
-      "xtd_per_game": 0.388,
+      "xtd_per_game": 0.3879,
       "inside_10_opportunities": 5,
       "end_zone_targets": 10,
       "tds_last_10": 2,
@@ -1488,15 +1488,40 @@
       "inside_10_carries_pg": 0.0,
       "inside_10_targets_pg": 0.3571,
       "xtd_contribution": {
-        "end_zone_targets": 0.2897,
+        "end_zone_targets": 0.2894,
         "inside_10_carries": 0.0,
-        "inside_10_targets": 0.0982
+        "inside_10_targets": 0.0985
       },
       "injury_flag": "",
       "flags": []
     },
     {
       "rank": 59,
+      "player_id": "00-0038542",
+      "player_name": "B.Robinson",
+      "team": "ATL",
+      "position": "RB",
+      "xtd_per_game": 0.3804,
+      "inside_10_opportunities": 22,
+      "end_zone_targets": 1,
+      "tds_last_10": 7,
+      "inside_10_targets": 4,
+      "inside_10_carries": 18,
+      "goal_line_carries": 11,
+      "games_played": 17,
+      "end_zone_targets_pg": 0.0588,
+      "inside_10_carries_pg": 1.0588,
+      "inside_10_targets_pg": 0.2353,
+      "xtd_contribution": {
+        "end_zone_targets": 0.0238,
+        "inside_10_carries": 0.2917,
+        "inside_10_targets": 0.0649
+      },
+      "injury_flag": "",
+      "flags": []
+    },
+    {
+      "rank": 60,
       "player_id": "00-0033923",
       "player_name": "K.Hunt",
       "team": "KC",
@@ -1513,7 +1538,7 @@
       "inside_10_carries_pg": 1.2353,
       "inside_10_targets_pg": 0.0588,
       "xtd_contribution": {
-        "end_zone_targets": 0.0239,
+        "end_zone_targets": 0.0238,
         "inside_10_carries": 0.3403,
         "inside_10_targets": 0.0162
       },
@@ -1521,57 +1546,7 @@
       "flags": []
     },
     {
-      "rank": 60,
-      "player_id": "00-0038542",
-      "player_name": "B.Robinson",
-      "team": "ATL",
-      "position": "RB",
-      "xtd_per_game": 0.3803,
-      "inside_10_opportunities": 22,
-      "end_zone_targets": 1,
-      "tds_last_10": 7,
-      "inside_10_targets": 4,
-      "inside_10_carries": 18,
-      "goal_line_carries": 11,
-      "games_played": 17,
-      "end_zone_targets_pg": 0.0588,
-      "inside_10_carries_pg": 1.0588,
-      "inside_10_targets_pg": 0.2353,
-      "xtd_contribution": {
-        "end_zone_targets": 0.0239,
-        "inside_10_carries": 0.2917,
-        "inside_10_targets": 0.0647
-      },
-      "injury_flag": "",
-      "flags": []
-    },
-    {
       "rank": 61,
-      "player_id": "00-0040236",
-      "player_name": "K.Monangai",
-      "team": "CHI",
-      "position": "RB",
-      "xtd_per_game": 0.3788,
-      "inside_10_opportunities": 22,
-      "end_zone_targets": 0,
-      "tds_last_10": 4,
-      "inside_10_targets": 1,
-      "inside_10_carries": 21,
-      "goal_line_carries": 12,
-      "games_played": 16,
-      "end_zone_targets_pg": 0.0,
-      "inside_10_carries_pg": 1.3125,
-      "inside_10_targets_pg": 0.0625,
-      "xtd_contribution": {
-        "end_zone_targets": 0.0,
-        "inside_10_carries": 0.3616,
-        "inside_10_targets": 0.0172
-      },
-      "injury_flag": "",
-      "flags": []
-    },
-    {
-      "rank": 62,
       "player_id": "00-0034857",
       "player_name": "J.Allen",
       "team": "BUF",
@@ -1596,12 +1571,37 @@
       "flags": []
     },
     {
+      "rank": 62,
+      "player_id": "00-0040236",
+      "player_name": "K.Monangai",
+      "team": "CHI",
+      "position": "RB",
+      "xtd_per_game": 0.3788,
+      "inside_10_opportunities": 22,
+      "end_zone_targets": 0,
+      "tds_last_10": 4,
+      "inside_10_targets": 1,
+      "inside_10_carries": 21,
+      "goal_line_carries": 12,
+      "games_played": 16,
+      "end_zone_targets_pg": 0.0,
+      "inside_10_carries_pg": 1.3125,
+      "inside_10_targets_pg": 0.0625,
+      "xtd_contribution": {
+        "end_zone_targets": 0.0,
+        "inside_10_carries": 0.3616,
+        "inside_10_targets": 0.0172
+      },
+      "injury_flag": "",
+      "flags": []
+    },
+    {
       "rank": 63,
       "player_id": "00-0037112",
       "player_name": "J.Tonges",
       "team": "SF",
       "position": "TE",
-      "xtd_per_game": 0.3782,
+      "xtd_per_game": 0.3783,
       "inside_10_opportunities": 5,
       "end_zone_targets": 5,
       "tds_last_10": 5,
@@ -1613,9 +1613,9 @@
       "inside_10_carries_pg": 0.0,
       "inside_10_targets_pg": 0.5556,
       "xtd_contribution": {
-        "end_zone_targets": 0.2253,
+        "end_zone_targets": 0.2251,
         "inside_10_carries": 0.0,
-        "inside_10_targets": 0.1528
+        "inside_10_targets": 0.1532
       },
       "injury_flag": "",
       "flags": []
@@ -1626,7 +1626,7 @@
       "player_name": "I.TeSlaa",
       "team": "DET",
       "position": "WR",
-      "xtd_per_game": 0.3776,
+      "xtd_per_game": 0.3775,
       "inside_10_opportunities": 3,
       "end_zone_targets": 11,
       "tds_last_10": 4,
@@ -1638,9 +1638,9 @@
       "inside_10_carries_pg": 0.0,
       "inside_10_targets_pg": 0.2143,
       "xtd_contribution": {
-        "end_zone_targets": 0.3187,
+        "end_zone_targets": 0.3184,
         "inside_10_carries": 0.0,
-        "inside_10_targets": 0.059
+        "inside_10_targets": 0.0591
       },
       "injury_flag": "",
       "flags": []
@@ -1651,7 +1651,7 @@
       "player_name": "K.Allen",
       "team": "LAC",
       "position": "WR",
-      "xtd_per_game": 0.3757,
+      "xtd_per_game": 0.3758,
       "inside_10_opportunities": 7,
       "end_zone_targets": 11,
       "tds_last_10": 0,
@@ -1663,9 +1663,9 @@
       "inside_10_carries_pg": 0.0,
       "inside_10_targets_pg": 0.4118,
       "xtd_contribution": {
-        "end_zone_targets": 0.2624,
+        "end_zone_targets": 0.2622,
         "inside_10_carries": 0.0,
-        "inside_10_targets": 0.1133
+        "inside_10_targets": 0.1136
       },
       "injury_flag": "",
       "flags": []
@@ -1701,7 +1701,7 @@
       "player_name": "R.Harvey",
       "team": "DEN",
       "position": "RB",
-      "xtd_per_game": 0.364,
+      "xtd_per_game": 0.3643,
       "inside_10_opportunities": 21,
       "end_zone_targets": 1,
       "tds_last_10": 10,
@@ -1713,9 +1713,9 @@
       "inside_10_carries_pg": 0.8824,
       "inside_10_targets_pg": 0.3529,
       "xtd_contribution": {
-        "end_zone_targets": 0.0239,
+        "end_zone_targets": 0.0238,
         "inside_10_carries": 0.2431,
-        "inside_10_targets": 0.0971
+        "inside_10_targets": 0.0973
       },
       "injury_flag": "",
       "flags": []
@@ -1726,7 +1726,7 @@
       "player_name": "C.Godwin",
       "team": "TB",
       "position": "WR",
-      "xtd_per_game": 0.3637,
+      "xtd_per_game": 0.364,
       "inside_10_opportunities": 6,
       "end_zone_targets": 4,
       "tds_last_10": 2,
@@ -1738,9 +1738,9 @@
       "inside_10_carries_pg": 0.0,
       "inside_10_targets_pg": 0.6667,
       "xtd_contribution": {
-        "end_zone_targets": 0.1803,
+        "end_zone_targets": 0.1801,
         "inside_10_carries": 0.0,
-        "inside_10_targets": 0.1834
+        "inside_10_targets": 0.1839
       },
       "injury_flag": "",
       "flags": []
@@ -1763,9 +1763,9 @@
       "inside_10_carries_pg": 0.9375,
       "inside_10_targets_pg": 0.1875,
       "xtd_contribution": {
-        "end_zone_targets": 0.0507,
+        "end_zone_targets": 0.0506,
         "inside_10_carries": 0.2583,
-        "inside_10_targets": 0.0516
+        "inside_10_targets": 0.0517
       },
       "injury_flag": "",
       "flags": []
@@ -1776,7 +1776,7 @@
       "player_name": "E.Egbuka",
       "team": "TB",
       "position": "WR",
-      "xtd_per_game": 0.3596,
+      "xtd_per_game": 0.3595,
       "inside_10_opportunities": 6,
       "end_zone_targets": 11,
       "tds_last_10": 1,
@@ -1788,9 +1788,9 @@
       "inside_10_carries_pg": 0.0588,
       "inside_10_targets_pg": 0.2941,
       "xtd_contribution": {
-        "end_zone_targets": 0.2624,
+        "end_zone_targets": 0.2622,
         "inside_10_carries": 0.0162,
-        "inside_10_targets": 0.0809
+        "inside_10_targets": 0.0811
       },
       "injury_flag": "",
       "flags": []
@@ -1813,9 +1813,9 @@
       "inside_10_carries_pg": 0.0,
       "inside_10_targets_pg": 0.3529,
       "xtd_contribution": {
-        "end_zone_targets": 0.2624,
+        "end_zone_targets": 0.2622,
         "inside_10_carries": 0.0,
-        "inside_10_targets": 0.0971
+        "inside_10_targets": 0.0973
       },
       "injury_flag": "",
       "flags": []
@@ -1838,9 +1838,9 @@
       "inside_10_carries_pg": 0.0,
       "inside_10_targets_pg": 0.375,
       "xtd_contribution": {
-        "end_zone_targets": 0.2535,
+        "end_zone_targets": 0.2532,
         "inside_10_carries": 0.0,
-        "inside_10_targets": 0.1032
+        "inside_10_targets": 0.1034
       },
       "injury_flag": "",
       "flags": []
@@ -1851,7 +1851,7 @@
       "player_name": "H.Henry",
       "team": "NE",
       "position": "TE",
-      "xtd_per_game": 0.3527,
+      "xtd_per_game": 0.3529,
       "inside_10_opportunities": 10,
       "end_zone_targets": 8,
       "tds_last_10": 4,
@@ -1863,9 +1863,9 @@
       "inside_10_carries_pg": 0.0,
       "inside_10_targets_pg": 0.5882,
       "xtd_contribution": {
-        "end_zone_targets": 0.1909,
+        "end_zone_targets": 0.1907,
         "inside_10_carries": 0.0,
-        "inside_10_targets": 0.1618
+        "inside_10_targets": 0.1622
       },
       "injury_flag": "",
       "flags": []
@@ -1888,45 +1888,20 @@
       "inside_10_carries_pg": 0.0,
       "inside_10_targets_pg": 0.4118,
       "xtd_contribution": {
-        "end_zone_targets": 0.2386,
+        "end_zone_targets": 0.2384,
         "inside_10_carries": 0.0,
-        "inside_10_targets": 0.1133
+        "inside_10_targets": 0.1136
       },
       "injury_flag": "",
       "flags": []
     },
     {
       "rank": 75,
-      "player_id": "00-0038104",
-      "player_name": "T.Thornton",
-      "team": "KC",
-      "position": "WR",
-      "xtd_per_game": 0.345,
-      "inside_10_opportunities": 2,
-      "end_zone_targets": 8,
-      "tds_last_10": 3,
-      "inside_10_targets": 2,
-      "inside_10_carries": 0,
-      "goal_line_carries": 0,
-      "games_played": 11,
-      "end_zone_targets_pg": 0.7273,
-      "inside_10_carries_pg": 0.0,
-      "inside_10_targets_pg": 0.1818,
-      "xtd_contribution": {
-        "end_zone_targets": 0.295,
-        "inside_10_carries": 0.0,
-        "inside_10_targets": 0.05
-      },
-      "injury_flag": "",
-      "flags": []
-    },
-    {
-      "rank": 76,
       "player_id": "00-0038606",
       "player_name": "P.Washington",
       "team": "JAX",
       "position": "WR",
-      "xtd_per_game": 0.3447,
+      "xtd_per_game": 0.3448,
       "inside_10_opportunities": 7,
       "end_zone_targets": 8,
       "tds_last_10": 5,
@@ -1938,9 +1913,34 @@
       "inside_10_carries_pg": 0.0667,
       "inside_10_targets_pg": 0.4,
       "xtd_contribution": {
-        "end_zone_targets": 0.2163,
+        "end_zone_targets": 0.2161,
         "inside_10_carries": 0.0184,
-        "inside_10_targets": 0.11
+        "inside_10_targets": 0.1103
+      },
+      "injury_flag": "",
+      "flags": []
+    },
+    {
+      "rank": 76,
+      "player_id": "00-0038104",
+      "player_name": "T.Thornton",
+      "team": "KC",
+      "position": "WR",
+      "xtd_per_game": 0.3448,
+      "inside_10_opportunities": 2,
+      "end_zone_targets": 8,
+      "tds_last_10": 3,
+      "inside_10_targets": 2,
+      "inside_10_carries": 0,
+      "goal_line_carries": 0,
+      "games_played": 11,
+      "end_zone_targets_pg": 0.7273,
+      "inside_10_carries_pg": 0.0,
+      "inside_10_targets_pg": 0.1818,
+      "xtd_contribution": {
+        "end_zone_targets": 0.2947,
+        "inside_10_carries": 0.0,
+        "inside_10_targets": 0.0501
       },
       "injury_flag": "",
       "flags": []
@@ -1976,7 +1976,7 @@
       "player_name": "A.Pierce",
       "team": "IND",
       "position": "WR",
-      "xtd_per_game": 0.3438,
+      "xtd_per_game": 0.3437,
       "inside_10_opportunities": 4,
       "end_zone_targets": 10,
       "tds_last_10": 6,
@@ -1988,9 +1988,9 @@
       "inside_10_carries_pg": 0.0,
       "inside_10_targets_pg": 0.2667,
       "xtd_contribution": {
-        "end_zone_targets": 0.2704,
+        "end_zone_targets": 0.2701,
         "inside_10_carries": 0.0,
-        "inside_10_targets": 0.0734
+        "inside_10_targets": 0.0735
       },
       "injury_flag": "",
       "flags": []
@@ -2001,7 +2001,7 @@
       "player_name": "P.Nacua",
       "team": "LA",
       "position": "WR",
-      "xtd_per_game": 0.3413,
+      "xtd_per_game": 0.3415,
       "inside_10_opportunities": 11,
       "end_zone_targets": 6,
       "tds_last_10": 8,
@@ -2013,70 +2013,20 @@
       "inside_10_carries_pg": 0.0625,
       "inside_10_targets_pg": 0.625,
       "xtd_contribution": {
-        "end_zone_targets": 0.1521,
+        "end_zone_targets": 0.152,
         "inside_10_carries": 0.0172,
-        "inside_10_targets": 0.1719
+        "inside_10_targets": 0.1724
       },
       "injury_flag": "",
       "flags": []
     },
     {
       "rank": 80,
-      "player_id": "00-0037742",
-      "player_name": "T.Burks",
-      "team": "WAS",
-      "position": "WR",
-      "xtd_per_game": 0.3404,
-      "inside_10_opportunities": 4,
-      "end_zone_targets": 4,
-      "tds_last_10": 1,
-      "inside_10_targets": 4,
-      "inside_10_carries": 0,
-      "goal_line_carries": 0,
-      "games_played": 8,
-      "end_zone_targets_pg": 0.5,
-      "inside_10_carries_pg": 0.0,
-      "inside_10_targets_pg": 0.5,
-      "xtd_contribution": {
-        "end_zone_targets": 0.2028,
-        "inside_10_carries": 0.0,
-        "inside_10_targets": 0.1376
-      },
-      "injury_flag": "",
-      "flags": []
-    },
-    {
-      "rank": 81,
-      "player_id": "00-0035535",
-      "player_name": "D.Slayton",
-      "team": "NYG",
-      "position": "WR",
-      "xtd_per_game": 0.3404,
-      "inside_10_opportunities": 7,
-      "end_zone_targets": 7,
-      "tds_last_10": 1,
-      "inside_10_targets": 7,
-      "inside_10_carries": 0,
-      "goal_line_carries": 0,
-      "games_played": 14,
-      "end_zone_targets_pg": 0.5,
-      "inside_10_carries_pg": 0.0,
-      "inside_10_targets_pg": 0.5,
-      "xtd_contribution": {
-        "end_zone_targets": 0.2028,
-        "inside_10_carries": 0.0,
-        "inside_10_targets": 0.1376
-      },
-      "injury_flag": "",
-      "flags": []
-    },
-    {
-      "rank": 82,
       "player_id": "00-0034983",
       "player_name": "H.Renfrow",
       "team": "CAR",
       "position": "WR",
-      "xtd_per_game": 0.3404,
+      "xtd_per_game": 0.3405,
       "inside_10_opportunities": 3,
       "end_zone_targets": 3,
       "tds_last_10": 2,
@@ -2088,9 +2038,59 @@
       "inside_10_carries_pg": 0.0,
       "inside_10_targets_pg": 0.5,
       "xtd_contribution": {
-        "end_zone_targets": 0.2028,
+        "end_zone_targets": 0.2026,
         "inside_10_carries": 0.0,
-        "inside_10_targets": 0.1376
+        "inside_10_targets": 0.1379
+      },
+      "injury_flag": "",
+      "flags": []
+    },
+    {
+      "rank": 81,
+      "player_id": "00-0037742",
+      "player_name": "T.Burks",
+      "team": "WAS",
+      "position": "WR",
+      "xtd_per_game": 0.3405,
+      "inside_10_opportunities": 4,
+      "end_zone_targets": 4,
+      "tds_last_10": 1,
+      "inside_10_targets": 4,
+      "inside_10_carries": 0,
+      "goal_line_carries": 0,
+      "games_played": 8,
+      "end_zone_targets_pg": 0.5,
+      "inside_10_carries_pg": 0.0,
+      "inside_10_targets_pg": 0.5,
+      "xtd_contribution": {
+        "end_zone_targets": 0.2026,
+        "inside_10_carries": 0.0,
+        "inside_10_targets": 0.1379
+      },
+      "injury_flag": "",
+      "flags": []
+    },
+    {
+      "rank": 82,
+      "player_id": "00-0035535",
+      "player_name": "D.Slayton",
+      "team": "NYG",
+      "position": "WR",
+      "xtd_per_game": 0.3405,
+      "inside_10_opportunities": 7,
+      "end_zone_targets": 7,
+      "tds_last_10": 1,
+      "inside_10_targets": 7,
+      "inside_10_carries": 0,
+      "goal_line_carries": 0,
+      "games_played": 14,
+      "end_zone_targets_pg": 0.5,
+      "inside_10_carries_pg": 0.0,
+      "inside_10_targets_pg": 0.5,
+      "xtd_contribution": {
+        "end_zone_targets": 0.2026,
+        "inside_10_carries": 0.0,
+        "inside_10_targets": 0.1379
       },
       "injury_flag": "",
       "flags": []
@@ -2126,7 +2126,7 @@
       "player_name": "M.Pittman",
       "team": "IND",
       "position": "WR",
-      "xtd_per_game": 0.3288,
+      "xtd_per_game": 0.3291,
       "inside_10_opportunities": 10,
       "end_zone_targets": 7,
       "tds_last_10": 2,
@@ -2138,9 +2138,9 @@
       "inside_10_carries_pg": 0.0,
       "inside_10_targets_pg": 0.5882,
       "xtd_contribution": {
-        "end_zone_targets": 0.167,
+        "end_zone_targets": 0.1668,
         "inside_10_carries": 0.0,
-        "inside_10_targets": 0.1618
+        "inside_10_targets": 0.1622
       },
       "injury_flag": "",
       "flags": []
@@ -2163,9 +2163,9 @@
       "inside_10_carries_pg": 0.0,
       "inside_10_targets_pg": 0.4,
       "xtd_contribution": {
-        "end_zone_targets": 0.2163,
+        "end_zone_targets": 0.2161,
         "inside_10_carries": 0.0,
-        "inside_10_targets": 0.11
+        "inside_10_targets": 0.1103
       },
       "injury_flag": "",
       "flags": []
@@ -2176,7 +2176,7 @@
       "player_name": "D.Achane",
       "team": "MIA",
       "position": "RB",
-      "xtd_per_game": 0.3261,
+      "xtd_per_game": 0.3262,
       "inside_10_opportunities": 16,
       "end_zone_targets": 2,
       "tds_last_10": 6,
@@ -2188,40 +2188,15 @@
       "inside_10_carries_pg": 0.6875,
       "inside_10_targets_pg": 0.3125,
       "xtd_contribution": {
-        "end_zone_targets": 0.0507,
+        "end_zone_targets": 0.0506,
         "inside_10_carries": 0.1894,
-        "inside_10_targets": 0.086
+        "inside_10_targets": 0.0862
       },
       "injury_flag": "",
       "flags": []
     },
     {
       "rank": 87,
-      "player_id": "00-0040737",
-      "player_name": "T.Ferguson",
-      "team": "LA",
-      "position": "TE",
-      "xtd_per_game": 0.3259,
-      "inside_10_opportunities": 3,
-      "end_zone_targets": 6,
-      "tds_last_10": 3,
-      "inside_10_targets": 2,
-      "inside_10_carries": 1,
-      "goal_line_carries": 0,
-      "games_played": 10,
-      "end_zone_targets_pg": 0.6,
-      "inside_10_carries_pg": 0.1,
-      "inside_10_targets_pg": 0.2,
-      "xtd_contribution": {
-        "end_zone_targets": 0.2434,
-        "inside_10_carries": 0.0276,
-        "inside_10_targets": 0.055
-      },
-      "injury_flag": "",
-      "flags": []
-    },
-    {
-      "rank": 88,
       "player_id": "00-0035659",
       "player_name": "T.McLaurin",
       "team": "WAS",
@@ -2238,9 +2213,34 @@
       "inside_10_carries_pg": 0.0,
       "inside_10_targets_pg": 0.3,
       "xtd_contribution": {
-        "end_zone_targets": 0.2434,
+        "end_zone_targets": 0.2431,
         "inside_10_carries": 0.0,
-        "inside_10_targets": 0.0825
+        "inside_10_targets": 0.0827
+      },
+      "injury_flag": "",
+      "flags": []
+    },
+    {
+      "rank": 88,
+      "player_id": "00-0040737",
+      "player_name": "T.Ferguson",
+      "team": "LA",
+      "position": "TE",
+      "xtd_per_game": 0.3258,
+      "inside_10_opportunities": 3,
+      "end_zone_targets": 6,
+      "tds_last_10": 3,
+      "inside_10_targets": 2,
+      "inside_10_carries": 1,
+      "goal_line_carries": 0,
+      "games_played": 10,
+      "end_zone_targets_pg": 0.6,
+      "inside_10_carries_pg": 0.1,
+      "inside_10_targets_pg": 0.2,
+      "xtd_contribution": {
+        "end_zone_targets": 0.2431,
+        "inside_10_carries": 0.0276,
+        "inside_10_targets": 0.0552
       },
       "injury_flag": "",
       "flags": []
@@ -2251,7 +2251,7 @@
       "player_name": "X.Legette",
       "team": "CAR",
       "position": "WR",
-      "xtd_per_game": 0.3254,
+      "xtd_per_game": 0.3253,
       "inside_10_opportunities": 3,
       "end_zone_targets": 10,
       "tds_last_10": 1,
@@ -2263,9 +2263,9 @@
       "inside_10_carries_pg": 0.0,
       "inside_10_targets_pg": 0.2,
       "xtd_contribution": {
-        "end_zone_targets": 0.2704,
+        "end_zone_targets": 0.2701,
         "inside_10_carries": 0.0,
-        "inside_10_targets": 0.055
+        "inside_10_targets": 0.0552
       },
       "injury_flag": "",
       "flags": []
@@ -2276,7 +2276,7 @@
       "player_name": "A.Jeanty",
       "team": "LV",
       "position": "RB",
-      "xtd_per_game": 0.324,
+      "xtd_per_game": 0.3242,
       "inside_10_opportunities": 20,
       "end_zone_targets": 0,
       "tds_last_10": 5,
@@ -2290,7 +2290,7 @@
       "xtd_contribution": {
         "end_zone_targets": 0.0,
         "inside_10_carries": 0.2755,
-        "inside_10_targets": 0.0485
+        "inside_10_targets": 0.0487
       },
       "injury_flag": "",
       "flags": []
@@ -2301,7 +2301,7 @@
       "player_name": "K.Vidal",
       "team": "LAC",
       "position": "RB",
-      "xtd_per_game": 0.3213,
+      "xtd_per_game": 0.3215,
       "inside_10_opportunities": 14,
       "end_zone_targets": 0,
       "tds_last_10": 3,
@@ -2315,7 +2315,7 @@
       "xtd_contribution": {
         "end_zone_targets": 0.0,
         "inside_10_carries": 0.2525,
-        "inside_10_targets": 0.0688
+        "inside_10_targets": 0.069
       },
       "injury_flag": "",
       "flags": []
@@ -2326,7 +2326,7 @@
       "player_name": "B.Thomas",
       "team": "JAX",
       "position": "WR",
-      "xtd_per_game": 0.3207,
+      "xtd_per_game": 0.3208,
       "inside_10_opportunities": 6,
       "end_zone_targets": 7,
       "tds_last_10": 2,
@@ -2338,9 +2338,9 @@
       "inside_10_carries_pg": 0.0714,
       "inside_10_targets_pg": 0.3571,
       "xtd_contribution": {
-        "end_zone_targets": 0.2028,
+        "end_zone_targets": 0.2026,
         "inside_10_carries": 0.0197,
-        "inside_10_targets": 0.0982
+        "inside_10_targets": 0.0985
       },
       "injury_flag": "",
       "flags": []
@@ -2363,9 +2363,9 @@
       "inside_10_carries_pg": 0.0,
       "inside_10_targets_pg": 0.2941,
       "xtd_contribution": {
-        "end_zone_targets": 0.2386,
+        "end_zone_targets": 0.2384,
         "inside_10_carries": 0.0,
-        "inside_10_targets": 0.0809
+        "inside_10_targets": 0.0811
       },
       "injury_flag": "",
       "flags": []
@@ -2388,9 +2388,9 @@
       "inside_10_carries_pg": 0.0,
       "inside_10_targets_pg": 0.3333,
       "xtd_contribution": {
-        "end_zone_targets": 0.2253,
+        "end_zone_targets": 0.2251,
         "inside_10_carries": 0.0,
-        "inside_10_targets": 0.0917
+        "inside_10_targets": 0.0919
       },
       "injury_flag": "",
       "flags": []
@@ -2401,7 +2401,7 @@
       "player_name": "C.Watson",
       "team": "GB",
       "position": "WR",
-      "xtd_per_game": 0.3128,
+      "xtd_per_game": 0.3129,
       "inside_10_opportunities": 4,
       "end_zone_targets": 5,
       "tds_last_10": 6,
@@ -2413,9 +2413,9 @@
       "inside_10_carries_pg": 0.0,
       "inside_10_targets_pg": 0.4,
       "xtd_contribution": {
-        "end_zone_targets": 0.2028,
+        "end_zone_targets": 0.2026,
         "inside_10_carries": 0.0,
-        "inside_10_targets": 0.11
+        "inside_10_targets": 0.1103
       },
       "injury_flag": "",
       "flags": []
@@ -2426,7 +2426,7 @@
       "player_name": "G.Kittle",
       "team": "SF",
       "position": "TE",
-      "xtd_per_game": 0.3094,
+      "xtd_per_game": 0.3095,
       "inside_10_opportunities": 5,
       "end_zone_targets": 5,
       "tds_last_10": 6,
@@ -2438,9 +2438,9 @@
       "inside_10_carries_pg": 0.0,
       "inside_10_targets_pg": 0.4545,
       "xtd_contribution": {
-        "end_zone_targets": 0.1844,
+        "end_zone_targets": 0.1842,
         "inside_10_carries": 0.0,
-        "inside_10_targets": 0.125
+        "inside_10_targets": 0.1254
       },
       "injury_flag": "",
       "flags": []
@@ -2476,7 +2476,7 @@
       "player_name": "J.Higgins",
       "team": "HOU",
       "position": "WR",
-      "xtd_per_game": 0.3033,
+      "xtd_per_game": 0.3032,
       "inside_10_opportunities": 4,
       "end_zone_targets": 10,
       "tds_last_10": 4,
@@ -2488,40 +2488,15 @@
       "inside_10_carries_pg": 0.0,
       "inside_10_targets_pg": 0.2353,
       "xtd_contribution": {
-        "end_zone_targets": 0.2386,
+        "end_zone_targets": 0.2384,
         "inside_10_carries": 0.0,
-        "inside_10_targets": 0.0647
+        "inside_10_targets": 0.0649
       },
       "injury_flag": "",
       "flags": []
     },
     {
       "rank": 99,
-      "player_id": "00-0036158",
-      "player_name": "J.Dobbins",
-      "team": "DEN",
-      "position": "RB",
-      "xtd_per_game": 0.3031,
-      "inside_10_opportunities": 11,
-      "end_zone_targets": 0,
-      "tds_last_10": 4,
-      "inside_10_targets": 0,
-      "inside_10_carries": 11,
-      "goal_line_carries": 7,
-      "games_played": 10,
-      "end_zone_targets_pg": 0.0,
-      "inside_10_carries_pg": 1.1,
-      "inside_10_targets_pg": 0.0,
-      "xtd_contribution": {
-        "end_zone_targets": 0.0,
-        "inside_10_carries": 0.3031,
-        "inside_10_targets": 0.0
-      },
-      "injury_flag": "",
-      "flags": []
-    },
-    {
-      "rank": 100,
       "player_id": "00-0040743",
       "player_name": "T.Shough",
       "team": "NO",
@@ -2546,37 +2521,37 @@
       "flags": []
     },
     {
-      "rank": 101,
-      "player_id": "00-0034521",
-      "player_name": "A.Lazard",
-      "team": "NYJ",
-      "position": "WR",
-      "xtd_per_game": 0.3025,
-      "inside_10_opportunities": 4,
-      "end_zone_targets": 4,
-      "tds_last_10": 1,
-      "inside_10_targets": 4,
-      "inside_10_carries": 0,
-      "goal_line_carries": 0,
-      "games_played": 9,
-      "end_zone_targets_pg": 0.4444,
-      "inside_10_carries_pg": 0.0,
-      "inside_10_targets_pg": 0.4444,
+      "rank": 100,
+      "player_id": "00-0036158",
+      "player_name": "J.Dobbins",
+      "team": "DEN",
+      "position": "RB",
+      "xtd_per_game": 0.3031,
+      "inside_10_opportunities": 11,
+      "end_zone_targets": 0,
+      "tds_last_10": 4,
+      "inside_10_targets": 0,
+      "inside_10_carries": 11,
+      "goal_line_carries": 7,
+      "games_played": 10,
+      "end_zone_targets_pg": 0.0,
+      "inside_10_carries_pg": 1.1,
+      "inside_10_targets_pg": 0.0,
       "xtd_contribution": {
-        "end_zone_targets": 0.1803,
-        "inside_10_carries": 0.0,
-        "inside_10_targets": 0.1223
+        "end_zone_targets": 0.0,
+        "inside_10_carries": 0.3031,
+        "inside_10_targets": 0.0
       },
       "injury_flag": "",
       "flags": []
     },
     {
-      "rank": 102,
+      "rank": 101,
       "player_id": "00-0039424",
       "player_name": "D.Vele",
       "team": "NO",
       "position": "WR",
-      "xtd_per_game": 0.3025,
+      "xtd_per_game": 0.3027,
       "inside_10_opportunities": 4,
       "end_zone_targets": 4,
       "tds_last_10": 2,
@@ -2588,9 +2563,34 @@
       "inside_10_carries_pg": 0.0,
       "inside_10_targets_pg": 0.4444,
       "xtd_contribution": {
-        "end_zone_targets": 0.1803,
+        "end_zone_targets": 0.1801,
         "inside_10_carries": 0.0,
-        "inside_10_targets": 0.1223
+        "inside_10_targets": 0.1226
+      },
+      "injury_flag": "",
+      "flags": []
+    },
+    {
+      "rank": 102,
+      "player_id": "00-0034521",
+      "player_name": "A.Lazard",
+      "team": "NYJ",
+      "position": "WR",
+      "xtd_per_game": 0.3027,
+      "inside_10_opportunities": 4,
+      "end_zone_targets": 4,
+      "tds_last_10": 1,
+      "inside_10_targets": 4,
+      "inside_10_carries": 0,
+      "goal_line_carries": 0,
+      "games_played": 9,
+      "end_zone_targets_pg": 0.4444,
+      "inside_10_carries_pg": 0.0,
+      "inside_10_targets_pg": 0.4444,
+      "xtd_contribution": {
+        "end_zone_targets": 0.1801,
+        "inside_10_carries": 0.0,
+        "inside_10_targets": 0.1226
       },
       "injury_flag": "",
       "flags": []
@@ -2601,7 +2601,7 @@
       "player_name": "D.Goedert",
       "team": "PHI",
       "position": "TE",
-      "xtd_per_game": 0.3003,
+      "xtd_per_game": 0.3005,
       "inside_10_opportunities": 9,
       "end_zone_targets": 5,
       "tds_last_10": 6,
@@ -2613,9 +2613,9 @@
       "inside_10_carries_pg": 0.0,
       "inside_10_targets_pg": 0.6,
       "xtd_contribution": {
-        "end_zone_targets": 0.1352,
+        "end_zone_targets": 0.1351,
         "inside_10_carries": 0.0,
-        "inside_10_targets": 0.1651
+        "inside_10_targets": 0.1655
       },
       "injury_flag": "",
       "flags": []
@@ -2640,7 +2640,7 @@
       "xtd_contribution": {
         "end_zone_targets": 0.0,
         "inside_10_carries": 0.2755,
-        "inside_10_targets": 0.0196
+        "inside_10_targets": 0.0197
       },
       "injury_flag": "",
       "flags": []
@@ -2651,7 +2651,7 @@
       "player_name": "L.Humphrey",
       "team": "DEN",
       "position": "WR",
-      "xtd_per_game": 0.2917,
+      "xtd_per_game": 0.2919,
       "inside_10_opportunities": 3,
       "end_zone_targets": 3,
       "tds_last_10": 1,
@@ -2663,9 +2663,9 @@
       "inside_10_carries_pg": 0.0,
       "inside_10_targets_pg": 0.4286,
       "xtd_contribution": {
-        "end_zone_targets": 0.1738,
+        "end_zone_targets": 0.1737,
         "inside_10_carries": 0.0,
-        "inside_10_targets": 0.1179
+        "inside_10_targets": 0.1182
       },
       "injury_flag": "",
       "flags": []
@@ -2697,36 +2697,11 @@
     },
     {
       "rank": 107,
-      "player_id": "00-0040126",
-      "player_name": "C.Loveland",
-      "team": "CHI",
-      "position": "TE",
-      "xtd_per_game": 0.2897,
-      "inside_10_opportunities": 8,
-      "end_zone_targets": 6,
-      "tds_last_10": 6,
-      "inside_10_targets": 7,
-      "inside_10_carries": 1,
-      "goal_line_carries": 0,
-      "games_played": 16,
-      "end_zone_targets_pg": 0.375,
-      "inside_10_carries_pg": 0.0625,
-      "inside_10_targets_pg": 0.4375,
-      "xtd_contribution": {
-        "end_zone_targets": 0.1521,
-        "inside_10_carries": 0.0172,
-        "inside_10_targets": 0.1204
-      },
-      "injury_flag": "",
-      "flags": []
-    },
-    {
-      "rank": 108,
       "player_id": "00-0035662",
       "player_name": "M.Brown",
       "team": "KC",
       "position": "WR",
-      "xtd_per_game": 0.2896,
+      "xtd_per_game": 0.2898,
       "inside_10_opportunities": 8,
       "end_zone_targets": 6,
       "tds_last_10": 2,
@@ -2738,20 +2713,20 @@
       "inside_10_carries_pg": 0.0,
       "inside_10_targets_pg": 0.5,
       "xtd_contribution": {
-        "end_zone_targets": 0.1521,
+        "end_zone_targets": 0.152,
         "inside_10_carries": 0.0,
-        "inside_10_targets": 0.1376
+        "inside_10_targets": 0.1379
       },
       "injury_flag": "",
       "flags": []
     },
     {
-      "rank": 109,
+      "rank": 108,
       "player_id": "00-0035689",
       "player_name": "D.Knox",
       "team": "BUF",
       "position": "TE",
-      "xtd_per_game": 0.2896,
+      "xtd_per_game": 0.2898,
       "inside_10_opportunities": 8,
       "end_zone_targets": 6,
       "tds_last_10": 3,
@@ -2763,9 +2738,34 @@
       "inside_10_carries_pg": 0.0,
       "inside_10_targets_pg": 0.5,
       "xtd_contribution": {
-        "end_zone_targets": 0.1521,
+        "end_zone_targets": 0.152,
         "inside_10_carries": 0.0,
-        "inside_10_targets": 0.1376
+        "inside_10_targets": 0.1379
+      },
+      "injury_flag": "",
+      "flags": []
+    },
+    {
+      "rank": 109,
+      "player_id": "00-0040126",
+      "player_name": "C.Loveland",
+      "team": "CHI",
+      "position": "TE",
+      "xtd_per_game": 0.2898,
+      "inside_10_opportunities": 8,
+      "end_zone_targets": 6,
+      "tds_last_10": 6,
+      "inside_10_targets": 7,
+      "inside_10_carries": 1,
+      "goal_line_carries": 0,
+      "games_played": 16,
+      "end_zone_targets_pg": 0.375,
+      "inside_10_carries_pg": 0.0625,
+      "inside_10_targets_pg": 0.4375,
+      "xtd_contribution": {
+        "end_zone_targets": 0.152,
+        "inside_10_carries": 0.0172,
+        "inside_10_targets": 0.1207
       },
       "injury_flag": "",
       "flags": []
@@ -2788,9 +2788,9 @@
       "inside_10_carries_pg": 0.0,
       "inside_10_targets_pg": 0.3125,
       "xtd_contribution": {
-        "end_zone_targets": 0.2028,
+        "end_zone_targets": 0.2026,
         "inside_10_carries": 0.0,
-        "inside_10_targets": 0.086
+        "inside_10_targets": 0.0862
       },
       "injury_flag": "",
       "flags": []
@@ -2801,7 +2801,7 @@
       "player_name": "M.Gesicki",
       "team": "CIN",
       "position": "TE",
-      "xtd_per_game": 0.2836,
+      "xtd_per_game": 0.2838,
       "inside_10_opportunities": 5,
       "end_zone_targets": 5,
       "tds_last_10": 2,
@@ -2813,9 +2813,9 @@
       "inside_10_carries_pg": 0.0,
       "inside_10_targets_pg": 0.4167,
       "xtd_contribution": {
-        "end_zone_targets": 0.169,
+        "end_zone_targets": 0.1688,
         "inside_10_carries": 0.0,
-        "inside_10_targets": 0.1146
+        "inside_10_targets": 0.1149
       },
       "injury_flag": "",
       "flags": []
@@ -2826,7 +2826,7 @@
       "player_name": "Z.Ertz",
       "team": "WAS",
       "position": "TE",
-      "xtd_per_game": 0.283,
+      "xtd_per_game": 0.2831,
       "inside_10_opportunities": 6,
       "end_zone_targets": 5,
       "tds_last_10": 2,
@@ -2838,9 +2838,9 @@
       "inside_10_carries_pg": 0.0,
       "inside_10_targets_pg": 0.4615,
       "xtd_contribution": {
-        "end_zone_targets": 0.156,
+        "end_zone_targets": 0.1558,
         "inside_10_carries": 0.0,
-        "inside_10_targets": 0.127
+        "inside_10_targets": 0.1273
       },
       "injury_flag": "",
       "flags": []
@@ -2876,7 +2876,7 @@
       "player_name": "B.Hall",
       "team": "NYJ",
       "position": "RB",
-      "xtd_per_game": 0.2745,
+      "xtd_per_game": 0.2746,
       "inside_10_opportunities": 13,
       "end_zone_targets": 2,
       "tds_last_10": 5,
@@ -2888,15 +2888,40 @@
       "inside_10_carries_pg": 0.625,
       "inside_10_targets_pg": 0.1875,
       "xtd_contribution": {
-        "end_zone_targets": 0.0507,
+        "end_zone_targets": 0.0506,
         "inside_10_carries": 0.1722,
-        "inside_10_targets": 0.0516
+        "inside_10_targets": 0.0517
       },
       "injury_flag": "",
       "flags": []
     },
     {
       "rank": 115,
+      "player_id": "00-0035719",
+      "player_name": "D.Samuel",
+      "team": "WAS",
+      "position": "WR",
+      "xtd_per_game": 0.2736,
+      "inside_10_opportunities": 10,
+      "end_zone_targets": 4,
+      "tds_last_10": 2,
+      "inside_10_targets": 8,
+      "inside_10_carries": 2,
+      "goal_line_carries": 1,
+      "games_played": 16,
+      "end_zone_targets_pg": 0.25,
+      "inside_10_carries_pg": 0.125,
+      "inside_10_targets_pg": 0.5,
+      "xtd_contribution": {
+        "end_zone_targets": 0.1013,
+        "inside_10_carries": 0.0344,
+        "inside_10_targets": 0.1379
+      },
+      "injury_flag": "",
+      "flags": []
+    },
+    {
+      "rank": 116,
       "player_id": "00-0037304",
       "player_name": "Co.Heyward",
       "team": "PIT",
@@ -2913,34 +2938,9 @@
       "inside_10_carries_pg": 0.5,
       "inside_10_targets_pg": 0.125,
       "xtd_contribution": {
-        "end_zone_targets": 0.1014,
+        "end_zone_targets": 0.1013,
         "inside_10_carries": 0.1378,
-        "inside_10_targets": 0.0344
-      },
-      "injury_flag": "",
-      "flags": []
-    },
-    {
-      "rank": 116,
-      "player_id": "00-0035719",
-      "player_name": "D.Samuel",
-      "team": "WAS",
-      "position": "WR",
-      "xtd_per_game": 0.2734,
-      "inside_10_opportunities": 10,
-      "end_zone_targets": 4,
-      "tds_last_10": 2,
-      "inside_10_targets": 8,
-      "inside_10_carries": 2,
-      "goal_line_carries": 1,
-      "games_played": 16,
-      "end_zone_targets_pg": 0.25,
-      "inside_10_carries_pg": 0.125,
-      "inside_10_targets_pg": 0.5,
-      "xtd_contribution": {
-        "end_zone_targets": 0.1014,
-        "inside_10_carries": 0.0344,
-        "inside_10_targets": 0.1376
+        "inside_10_targets": 0.0345
       },
       "injury_flag": "",
       "flags": []
@@ -2951,7 +2951,7 @@
       "player_name": "D.Brown",
       "team": "JAX",
       "position": "WR",
-      "xtd_per_game": 0.2723,
+      "xtd_per_game": 0.2724,
       "inside_10_opportunities": 4,
       "end_zone_targets": 4,
       "tds_last_10": 1,
@@ -2963,9 +2963,9 @@
       "inside_10_carries_pg": 0.1,
       "inside_10_targets_pg": 0.3,
       "xtd_contribution": {
-        "end_zone_targets": 0.1622,
+        "end_zone_targets": 0.1621,
         "inside_10_carries": 0.0276,
-        "inside_10_targets": 0.0825
+        "inside_10_targets": 0.0827
       },
       "injury_flag": "",
       "flags": []
@@ -2976,7 +2976,7 @@
       "player_name": "K.Boutte",
       "team": "NE",
       "position": "WR",
-      "xtd_per_game": 0.2711,
+      "xtd_per_game": 0.2709,
       "inside_10_opportunities": 2,
       "end_zone_targets": 8,
       "tds_last_10": 5,
@@ -2988,9 +2988,9 @@
       "inside_10_carries_pg": 0.0,
       "inside_10_targets_pg": 0.1429,
       "xtd_contribution": {
-        "end_zone_targets": 0.2318,
+        "end_zone_targets": 0.2315,
         "inside_10_carries": 0.0,
-        "inside_10_targets": 0.0393
+        "inside_10_targets": 0.0394
       },
       "injury_flag": "",
       "flags": []
@@ -3013,7 +3013,7 @@
       "inside_10_carries_pg": 0.8235,
       "inside_10_targets_pg": 0.0588,
       "xtd_contribution": {
-        "end_zone_targets": 0.0239,
+        "end_zone_targets": 0.0238,
         "inside_10_carries": 0.2269,
         "inside_10_targets": 0.0162
       },
@@ -3026,7 +3026,7 @@
       "player_name": "A.Barner",
       "team": "SEA",
       "position": "TE",
-      "xtd_per_game": 0.2644,
+      "xtd_per_game": 0.2645,
       "inside_10_opportunities": 8,
       "end_zone_targets": 5,
       "tds_last_10": 3,
@@ -3038,9 +3038,9 @@
       "inside_10_carries_pg": 0.125,
       "inside_10_targets_pg": 0.375,
       "xtd_contribution": {
-        "end_zone_targets": 0.1268,
+        "end_zone_targets": 0.1266,
         "inside_10_carries": 0.0344,
-        "inside_10_targets": 0.1032
+        "inside_10_targets": 0.1034
       },
       "injury_flag": "",
       "flags": []
@@ -3051,7 +3051,7 @@
       "player_name": "R.Flournoy",
       "team": "DAL",
       "position": "WR",
-      "xtd_per_game": 0.2618,
+      "xtd_per_game": 0.2619,
       "inside_10_opportunities": 5,
       "end_zone_targets": 5,
       "tds_last_10": 4,
@@ -3063,9 +3063,9 @@
       "inside_10_carries_pg": 0.0,
       "inside_10_targets_pg": 0.3846,
       "xtd_contribution": {
-        "end_zone_targets": 0.156,
+        "end_zone_targets": 0.1558,
         "inside_10_carries": 0.0,
-        "inside_10_targets": 0.1058
+        "inside_10_targets": 0.1061
       },
       "injury_flag": "",
       "flags": []
@@ -3126,7 +3126,7 @@
       "player_name": "J.Nailor",
       "team": "MIN",
       "position": "WR",
-      "xtd_per_game": 0.2564,
+      "xtd_per_game": 0.2566,
       "inside_10_opportunities": 7,
       "end_zone_targets": 6,
       "tds_last_10": 3,
@@ -3138,9 +3138,9 @@
       "inside_10_carries_pg": 0.0,
       "inside_10_targets_pg": 0.4118,
       "xtd_contribution": {
-        "end_zone_targets": 0.1432,
+        "end_zone_targets": 0.143,
         "inside_10_carries": 0.0,
-        "inside_10_targets": 0.1133
+        "inside_10_targets": 0.1136
       },
       "injury_flag": "",
       "flags": []
@@ -3163,9 +3163,9 @@
       "inside_10_carries_pg": 0.0,
       "inside_10_targets_pg": 0.2353,
       "xtd_contribution": {
-        "end_zone_targets": 0.1909,
+        "end_zone_targets": 0.1907,
         "inside_10_carries": 0.0,
-        "inside_10_targets": 0.0647
+        "inside_10_targets": 0.0649
       },
       "injury_flag": "",
       "flags": []
@@ -3176,7 +3176,7 @@
       "player_name": "E.Ayomanor",
       "team": "TEN",
       "position": "WR",
-      "xtd_per_game": 0.2553,
+      "xtd_per_game": 0.2554,
       "inside_10_opportunities": 6,
       "end_zone_targets": 6,
       "tds_last_10": 2,
@@ -3188,9 +3188,9 @@
       "inside_10_carries_pg": 0.0,
       "inside_10_targets_pg": 0.375,
       "xtd_contribution": {
-        "end_zone_targets": 0.1521,
+        "end_zone_targets": 0.152,
         "inside_10_carries": 0.0,
-        "inside_10_targets": 0.1032
+        "inside_10_targets": 0.1034
       },
       "injury_flag": "",
       "flags": []
@@ -3201,7 +3201,7 @@
       "player_name": "O.Gadsden",
       "team": "LAC",
       "position": "TE",
-      "xtd_per_game": 0.2539,
+      "xtd_per_game": 0.254,
       "inside_10_opportunities": 5,
       "end_zone_targets": 6,
       "tds_last_10": 2,
@@ -3213,9 +3213,9 @@
       "inside_10_carries_pg": 0.0,
       "inside_10_targets_pg": 0.3333,
       "xtd_contribution": {
-        "end_zone_targets": 0.1622,
+        "end_zone_targets": 0.1621,
         "inside_10_carries": 0.0,
-        "inside_10_targets": 0.0917
+        "inside_10_targets": 0.0919
       },
       "injury_flag": "",
       "flags": []
@@ -3226,7 +3226,7 @@
       "player_name": "T.Hunter",
       "team": "JAX",
       "position": "WR",
-      "xtd_per_game": 0.2524,
+      "xtd_per_game": 0.2525,
       "inside_10_opportunities": 2,
       "end_zone_targets": 3,
       "tds_last_10": 1,
@@ -3238,9 +3238,9 @@
       "inside_10_carries_pg": 0.0,
       "inside_10_targets_pg": 0.2857,
       "xtd_contribution": {
-        "end_zone_targets": 0.1738,
+        "end_zone_targets": 0.1737,
         "inside_10_carries": 0.0,
-        "inside_10_targets": 0.0786
+        "inside_10_targets": 0.0788
       },
       "injury_flag": "",
       "flags": []
@@ -3251,7 +3251,7 @@
       "player_name": "D.Kincaid",
       "team": "BUF",
       "position": "TE",
-      "xtd_per_game": 0.2498,
+      "xtd_per_game": 0.25,
       "inside_10_opportunities": 5,
       "end_zone_targets": 4,
       "tds_last_10": 4,
@@ -3263,9 +3263,9 @@
       "inside_10_carries_pg": 0.0,
       "inside_10_targets_pg": 0.4167,
       "xtd_contribution": {
-        "end_zone_targets": 0.1352,
+        "end_zone_targets": 0.1351,
         "inside_10_carries": 0.0,
-        "inside_10_targets": 0.1146
+        "inside_10_targets": 0.1149
       },
       "injury_flag": "",
       "flags": []
@@ -3276,7 +3276,7 @@
       "player_name": "T.Tucker",
       "team": "LV",
       "position": "WR",
-      "xtd_per_game": 0.2479,
+      "xtd_per_game": 0.248,
       "inside_10_opportunities": 5,
       "end_zone_targets": 7,
       "tds_last_10": 1,
@@ -3288,26 +3288,26 @@
       "inside_10_carries_pg": 0.0,
       "inside_10_targets_pg": 0.2941,
       "xtd_contribution": {
-        "end_zone_targets": 0.167,
+        "end_zone_targets": 0.1668,
         "inside_10_carries": 0.0,
-        "inside_10_targets": 0.0809
+        "inside_10_targets": 0.0811
       },
       "injury_flag": "",
       "flags": []
     },
     {
       "rank": 131,
-      "player_id": "00-0039851",
-      "player_name": "D.Maye",
-      "team": "NE",
+      "player_id": "00-0036971",
+      "player_name": "T.Lawrence",
+      "team": "JAX",
       "position": "QB",
       "xtd_per_game": 0.2431,
       "inside_10_opportunities": 15,
       "end_zone_targets": 0,
-      "tds_last_10": 2,
+      "tds_last_10": 7,
       "inside_10_targets": 0,
       "inside_10_carries": 15,
-      "goal_line_carries": 4,
+      "goal_line_carries": 11,
       "games_played": 17,
       "end_zone_targets_pg": 0.0,
       "inside_10_carries_pg": 0.8824,
@@ -3322,17 +3322,17 @@
     },
     {
       "rank": 132,
-      "player_id": "00-0036971",
-      "player_name": "T.Lawrence",
-      "team": "JAX",
+      "player_id": "00-0039851",
+      "player_name": "D.Maye",
+      "team": "NE",
       "position": "QB",
       "xtd_per_game": 0.2431,
       "inside_10_opportunities": 15,
       "end_zone_targets": 0,
-      "tds_last_10": 7,
+      "tds_last_10": 2,
       "inside_10_targets": 0,
       "inside_10_carries": 15,
-      "goal_line_carries": 11,
+      "goal_line_carries": 4,
       "games_played": 17,
       "end_zone_targets_pg": 0.0,
       "inside_10_carries_pg": 0.8824,
@@ -3363,9 +3363,9 @@
       "inside_10_carries_pg": 0.0,
       "inside_10_targets_pg": 0.2222,
       "xtd_contribution": {
-        "end_zone_targets": 0.1803,
+        "end_zone_targets": 0.1801,
         "inside_10_carries": 0.0,
-        "inside_10_targets": 0.0611
+        "inside_10_targets": 0.0613
       },
       "injury_flag": "",
       "flags": []
@@ -3376,7 +3376,7 @@
       "player_name": "T.Kelce",
       "team": "KC",
       "position": "TE",
-      "xtd_per_game": 0.2411,
+      "xtd_per_game": 0.2413,
       "inside_10_opportunities": 9,
       "end_zone_targets": 4,
       "tds_last_10": 3,
@@ -3388,9 +3388,9 @@
       "inside_10_carries_pg": 0.0588,
       "inside_10_targets_pg": 0.4706,
       "xtd_contribution": {
-        "end_zone_targets": 0.0954,
+        "end_zone_targets": 0.0953,
         "inside_10_carries": 0.0162,
-        "inside_10_targets": 0.1295
+        "inside_10_targets": 0.1298
       },
       "injury_flag": "",
       "flags": []
@@ -3401,7 +3401,7 @@
       "player_name": "T.Patrick",
       "team": "JAX",
       "position": "WR",
-      "xtd_per_game": 0.2406,
+      "xtd_per_game": 0.2407,
       "inside_10_opportunities": 4,
       "end_zone_targets": 5,
       "tds_last_10": 3,
@@ -3413,45 +3413,20 @@
       "inside_10_carries_pg": 0.0,
       "inside_10_targets_pg": 0.3077,
       "xtd_contribution": {
-        "end_zone_targets": 0.156,
+        "end_zone_targets": 0.1558,
         "inside_10_carries": 0.0,
-        "inside_10_targets": 0.0846
+        "inside_10_targets": 0.0849
       },
       "injury_flag": "",
       "flags": []
     },
     {
       "rank": 136,
-      "player_id": "00-0038953",
-      "player_name": "D.Drummond",
-      "team": "ATL",
-      "position": "WR",
-      "xtd_per_game": 0.239,
-      "inside_10_opportunities": 2,
-      "end_zone_targets": 1,
-      "tds_last_10": 0,
-      "inside_10_targets": 2,
-      "inside_10_carries": 0,
-      "goal_line_carries": 0,
-      "games_played": 4,
-      "end_zone_targets_pg": 0.25,
-      "inside_10_carries_pg": 0.0,
-      "inside_10_targets_pg": 0.5,
-      "xtd_contribution": {
-        "end_zone_targets": 0.1014,
-        "inside_10_carries": 0.0,
-        "inside_10_targets": 0.1376
-      },
-      "injury_flag": "",
-      "flags": []
-    },
-    {
-      "rank": 137,
       "player_id": "00-0033040",
       "player_name": "T.Hill",
       "team": "MIA",
       "position": "WR",
-      "xtd_per_game": 0.239,
+      "xtd_per_game": 0.2392,
       "inside_10_opportunities": 2,
       "end_zone_targets": 1,
       "tds_last_10": 1,
@@ -3463,9 +3438,34 @@
       "inside_10_carries_pg": 0.0,
       "inside_10_targets_pg": 0.5,
       "xtd_contribution": {
-        "end_zone_targets": 0.1014,
+        "end_zone_targets": 0.1013,
         "inside_10_carries": 0.0,
-        "inside_10_targets": 0.1376
+        "inside_10_targets": 0.1379
+      },
+      "injury_flag": "",
+      "flags": []
+    },
+    {
+      "rank": 137,
+      "player_id": "00-0038953",
+      "player_name": "D.Drummond",
+      "team": "ATL",
+      "position": "WR",
+      "xtd_per_game": 0.2392,
+      "inside_10_opportunities": 2,
+      "end_zone_targets": 1,
+      "tds_last_10": 0,
+      "inside_10_targets": 2,
+      "inside_10_carries": 0,
+      "goal_line_carries": 0,
+      "games_played": 4,
+      "end_zone_targets_pg": 0.25,
+      "inside_10_carries_pg": 0.0,
+      "inside_10_targets_pg": 0.5,
+      "xtd_contribution": {
+        "end_zone_targets": 0.1013,
+        "inside_10_carries": 0.0,
+        "inside_10_targets": 0.1379
       },
       "injury_flag": "",
       "flags": []
@@ -3501,7 +3501,7 @@
       "player_name": "C.Kirk",
       "team": "HOU",
       "position": "WR",
-      "xtd_per_game": 0.2357,
+      "xtd_per_game": 0.2359,
       "inside_10_opportunities": 5,
       "end_zone_targets": 3,
       "tds_last_10": 1,
@@ -3513,9 +3513,9 @@
       "inside_10_carries_pg": 0.0,
       "inside_10_targets_pg": 0.4545,
       "xtd_contribution": {
-        "end_zone_targets": 0.1106,
+        "end_zone_targets": 0.1105,
         "inside_10_carries": 0.0,
-        "inside_10_targets": 0.125
+        "inside_10_targets": 0.1254
       },
       "injury_flag": "",
       "flags": []
@@ -3526,7 +3526,7 @@
       "player_name": "J.Tolbert",
       "team": "DAL",
       "position": "WR",
-      "xtd_per_game": 0.2344,
+      "xtd_per_game": 0.2343,
       "inside_10_opportunities": 2,
       "end_zone_targets": 5,
       "tds_last_10": 1,
@@ -3538,9 +3538,9 @@
       "inside_10_carries_pg": 0.0,
       "inside_10_targets_pg": 0.1818,
       "xtd_contribution": {
-        "end_zone_targets": 0.1844,
+        "end_zone_targets": 0.1842,
         "inside_10_carries": 0.0,
-        "inside_10_targets": 0.05
+        "inside_10_targets": 0.0501
       },
       "injury_flag": "",
       "flags": []
@@ -3551,7 +3551,7 @@
       "player_name": "H.Long",
       "team": "JAX",
       "position": "TE",
-      "xtd_per_game": 0.2338,
+      "xtd_per_game": 0.234,
       "inside_10_opportunities": 3,
       "end_zone_targets": 2,
       "tds_last_10": 2,
@@ -3563,9 +3563,9 @@
       "inside_10_carries_pg": 0.0,
       "inside_10_targets_pg": 0.4286,
       "xtd_contribution": {
-        "end_zone_targets": 0.1159,
+        "end_zone_targets": 0.1158,
         "inside_10_carries": 0.0,
-        "inside_10_targets": 0.1179
+        "inside_10_targets": 0.1182
       },
       "injury_flag": "",
       "flags": []
@@ -3576,7 +3576,7 @@
       "player_name": "A.Beck",
       "team": "NYJ",
       "position": "RB",
-      "xtd_per_game": 0.2338,
+      "xtd_per_game": 0.2339,
       "inside_10_opportunities": 3,
       "end_zone_targets": 2,
       "tds_last_10": 2,
@@ -3588,9 +3588,9 @@
       "inside_10_carries_pg": 0.1429,
       "inside_10_targets_pg": 0.2857,
       "xtd_contribution": {
-        "end_zone_targets": 0.1159,
+        "end_zone_targets": 0.1158,
         "inside_10_carries": 0.0394,
-        "inside_10_targets": 0.0786
+        "inside_10_targets": 0.0788
       },
       "injury_flag": "",
       "flags": []
@@ -3613,9 +3613,9 @@
       "inside_10_carries_pg": 0.0,
       "inside_10_targets_pg": 0.2143,
       "xtd_contribution": {
-        "end_zone_targets": 0.1738,
+        "end_zone_targets": 0.1737,
         "inside_10_carries": 0.0,
-        "inside_10_targets": 0.059
+        "inside_10_targets": 0.0591
       },
       "injury_flag": "",
       "flags": []
@@ -3626,7 +3626,7 @@
       "player_name": "D.Schultz",
       "team": "HOU",
       "position": "TE",
-      "xtd_per_game": 0.2326,
+      "xtd_per_game": 0.2327,
       "inside_10_opportunities": 7,
       "end_zone_targets": 5,
       "tds_last_10": 3,
@@ -3638,9 +3638,9 @@
       "inside_10_carries_pg": 0.0,
       "inside_10_targets_pg": 0.4118,
       "xtd_contribution": {
-        "end_zone_targets": 0.1193,
+        "end_zone_targets": 0.1192,
         "inside_10_carries": 0.0,
-        "inside_10_targets": 0.1133
+        "inside_10_targets": 0.1136
       },
       "injury_flag": "",
       "flags": []
@@ -3651,7 +3651,7 @@
       "player_name": "T.Hudson",
       "team": "CIN",
       "position": "TE",
-      "xtd_per_game": 0.2317,
+      "xtd_per_game": 0.2319,
       "inside_10_opportunities": 4,
       "end_zone_targets": 3,
       "tds_last_10": 2,
@@ -3663,9 +3663,9 @@
       "inside_10_carries_pg": 0.0,
       "inside_10_targets_pg": 0.4,
       "xtd_contribution": {
-        "end_zone_targets": 0.1217,
+        "end_zone_targets": 0.1216,
         "inside_10_carries": 0.0,
-        "inside_10_targets": 0.11
+        "inside_10_targets": 0.1103
       },
       "injury_flag": "",
       "flags": []
@@ -3676,7 +3676,7 @@
       "player_name": "A.Brown",
       "team": "PHI",
       "position": "WR",
-      "xtd_per_game": 0.2269,
+      "xtd_per_game": 0.227,
       "inside_10_opportunities": 5,
       "end_zone_targets": 5,
       "tds_last_10": 6,
@@ -3688,9 +3688,9 @@
       "inside_10_carries_pg": 0.0,
       "inside_10_targets_pg": 0.3333,
       "xtd_contribution": {
-        "end_zone_targets": 0.1352,
+        "end_zone_targets": 0.1351,
         "inside_10_carries": 0.0,
-        "inside_10_targets": 0.0917
+        "inside_10_targets": 0.0919
       },
       "injury_flag": "",
       "flags": []
@@ -3701,7 +3701,7 @@
       "player_name": "C.Wilson",
       "team": "MIA",
       "position": "WR",
-      "xtd_per_game": 0.2269,
+      "xtd_per_game": 0.227,
       "inside_10_opportunities": 2,
       "end_zone_targets": 2,
       "tds_last_10": 0,
@@ -3713,9 +3713,9 @@
       "inside_10_carries_pg": 0.0,
       "inside_10_targets_pg": 0.3333,
       "xtd_contribution": {
-        "end_zone_targets": 0.1352,
+        "end_zone_targets": 0.1351,
         "inside_10_carries": 0.0,
-        "inside_10_targets": 0.0917
+        "inside_10_targets": 0.0919
       },
       "injury_flag": "",
       "flags": []
@@ -3751,7 +3751,7 @@
       "player_name": "D.Njoku",
       "team": "CLE",
       "position": "TE",
-      "xtd_per_game": 0.2225,
+      "xtd_per_game": 0.2226,
       "inside_10_opportunities": 3,
       "end_zone_targets": 4,
       "tds_last_10": 4,
@@ -3763,9 +3763,9 @@
       "inside_10_carries_pg": 0.0,
       "inside_10_targets_pg": 0.2727,
       "xtd_contribution": {
-        "end_zone_targets": 0.1475,
+        "end_zone_targets": 0.1473,
         "inside_10_carries": 0.0,
-        "inside_10_targets": 0.075
+        "inside_10_targets": 0.0752
       },
       "injury_flag": "",
       "flags": []
@@ -3776,7 +3776,7 @@
       "player_name": "C.Dike",
       "team": "TEN",
       "position": "WR",
-      "xtd_per_game": 0.2218,
+      "xtd_per_game": 0.2219,
       "inside_10_opportunities": 7,
       "end_zone_targets": 4,
       "tds_last_10": 5,
@@ -3788,9 +3788,9 @@
       "inside_10_carries_pg": 0.125,
       "inside_10_targets_pg": 0.3125,
       "xtd_contribution": {
-        "end_zone_targets": 0.1014,
+        "end_zone_targets": 0.1013,
         "inside_10_carries": 0.0344,
-        "inside_10_targets": 0.086
+        "inside_10_targets": 0.0862
       },
       "injury_flag": "",
       "flags": []
@@ -3801,7 +3801,7 @@
       "player_name": "C.Hubbard",
       "team": "CAR",
       "position": "RB",
-      "xtd_per_game": 0.2203,
+      "xtd_per_game": 0.2205,
       "inside_10_opportunities": 12,
       "end_zone_targets": 0,
       "tds_last_10": 2,
@@ -3815,7 +3815,7 @@
       "xtd_contribution": {
         "end_zone_targets": 0.0,
         "inside_10_carries": 0.1469,
-        "inside_10_targets": 0.0734
+        "inside_10_targets": 0.0735
       },
       "injury_flag": "",
       "flags": []
@@ -3826,7 +3826,7 @@
       "player_name": "T.Hill",
       "team": "NO",
       "position": "QB",
-      "xtd_per_game": 0.2175,
+      "xtd_per_game": 0.2174,
       "inside_10_opportunities": 8,
       "end_zone_targets": 1,
       "tds_last_10": 0,
@@ -3851,7 +3851,7 @@
       "player_name": "Z.Flowers",
       "team": "BAL",
       "position": "WR",
-      "xtd_per_game": 0.2164,
+      "xtd_per_game": 0.2165,
       "inside_10_opportunities": 6,
       "end_zone_targets": 5,
       "tds_last_10": 5,
@@ -3863,9 +3863,9 @@
       "inside_10_carries_pg": 0.0,
       "inside_10_targets_pg": 0.3529,
       "xtd_contribution": {
-        "end_zone_targets": 0.1193,
+        "end_zone_targets": 0.1192,
         "inside_10_carries": 0.0,
-        "inside_10_targets": 0.0971
+        "inside_10_targets": 0.0973
       },
       "injury_flag": "",
       "flags": []
@@ -3901,7 +3901,7 @@
       "player_name": "C.Kupp",
       "team": "SEA",
       "position": "WR",
-      "xtd_per_game": 0.2127,
+      "xtd_per_game": 0.2128,
       "inside_10_opportunities": 5,
       "end_zone_targets": 5,
       "tds_last_10": 1,
@@ -3913,20 +3913,45 @@
       "inside_10_carries_pg": 0.0,
       "inside_10_targets_pg": 0.3125,
       "xtd_contribution": {
-        "end_zone_targets": 0.1268,
+        "end_zone_targets": 0.1266,
         "inside_10_carries": 0.0,
-        "inside_10_targets": 0.086
+        "inside_10_targets": 0.0862
       },
       "injury_flag": "",
       "flags": []
     },
     {
       "rank": 156,
+      "player_id": "00-0033110",
+      "player_name": "T.Higbee",
+      "team": "LA",
+      "position": "TE",
+      "xtd_per_game": 0.2126,
+      "inside_10_opportunities": 4,
+      "end_zone_targets": 2,
+      "tds_last_10": 3,
+      "inside_10_targets": 4,
+      "inside_10_carries": 0,
+      "goal_line_carries": 0,
+      "games_played": 9,
+      "end_zone_targets_pg": 0.2222,
+      "inside_10_carries_pg": 0.0,
+      "inside_10_targets_pg": 0.4444,
+      "xtd_contribution": {
+        "end_zone_targets": 0.09,
+        "inside_10_carries": 0.0,
+        "inside_10_targets": 0.1226
+      },
+      "injury_flag": "",
+      "flags": []
+    },
+    {
+      "rank": 157,
       "player_id": "00-0037252",
       "player_name": "G.Dulcich",
       "team": "MIA",
       "position": "TE",
-      "xtd_per_game": 0.2124,
+      "xtd_per_game": 0.2126,
       "inside_10_opportunities": 4,
       "end_zone_targets": 2,
       "tds_last_10": 1,
@@ -3938,15 +3963,15 @@
       "inside_10_carries_pg": 0.1111,
       "inside_10_targets_pg": 0.3333,
       "xtd_contribution": {
-        "end_zone_targets": 0.0901,
+        "end_zone_targets": 0.09,
         "inside_10_carries": 0.0306,
-        "inside_10_targets": 0.0917
+        "inside_10_targets": 0.0919
       },
       "injury_flag": "",
       "flags": []
     },
     {
-      "rank": 157,
+      "rank": 158,
       "player_id": "00-0035710",
       "player_name": "D.Jones",
       "team": "IND",
@@ -3971,12 +3996,12 @@
       "flags": []
     },
     {
-      "rank": 158,
+      "rank": 159,
       "player_id": "00-0039491",
       "player_name": "J.Coker",
       "team": "CAR",
       "position": "WR",
-      "xtd_per_game": 0.2107,
+      "xtd_per_game": 0.2108,
       "inside_10_opportunities": 4,
       "end_zone_targets": 3,
       "tds_last_10": 3,
@@ -3988,20 +4013,20 @@
       "inside_10_carries_pg": 0.0,
       "inside_10_targets_pg": 0.3636,
       "xtd_contribution": {
-        "end_zone_targets": 0.1106,
+        "end_zone_targets": 0.1105,
         "inside_10_carries": 0.0,
-        "inside_10_targets": 0.1
+        "inside_10_targets": 0.1003
       },
       "injury_flag": "",
       "flags": []
     },
     {
-      "rank": 159,
+      "rank": 160,
       "player_id": "00-0039384",
       "player_name": "T.Tracy",
       "team": "NYG",
       "position": "RB",
-      "xtd_per_game": 0.2097,
+      "xtd_per_game": 0.2096,
       "inside_10_opportunities": 7,
       "end_zone_targets": 3,
       "tds_last_10": 3,
@@ -4013,20 +4038,20 @@
       "inside_10_carries_pg": 0.4,
       "inside_10_targets_pg": 0.0667,
       "xtd_contribution": {
-        "end_zone_targets": 0.0811,
+        "end_zone_targets": 0.081,
         "inside_10_carries": 0.1102,
-        "inside_10_targets": 0.0183
+        "inside_10_targets": 0.0184
       },
       "injury_flag": "",
       "flags": []
     },
     {
-      "rank": 160,
+      "rank": 161,
       "player_id": "00-0036550",
       "player_name": "R.Bateman",
       "team": "BAL",
       "position": "WR",
-      "xtd_per_game": 0.2094,
+      "xtd_per_game": 0.2095,
       "inside_10_opportunities": 4,
       "end_zone_targets": 4,
       "tds_last_10": 1,
@@ -4038,20 +4063,20 @@
       "inside_10_carries_pg": 0.0,
       "inside_10_targets_pg": 0.3077,
       "xtd_contribution": {
-        "end_zone_targets": 0.1248,
+        "end_zone_targets": 0.1247,
         "inside_10_carries": 0.0,
-        "inside_10_targets": 0.0846
+        "inside_10_targets": 0.0849
       },
       "injury_flag": "",
       "flags": []
     },
     {
-      "rank": 161,
+      "rank": 162,
       "player_id": "00-0036970",
       "player_name": "K.Pitts",
       "team": "ATL",
       "position": "TE",
-      "xtd_per_game": 0.2087,
+      "xtd_per_game": 0.2089,
       "inside_10_opportunities": 7,
       "end_zone_targets": 4,
       "tds_last_10": 4,
@@ -4063,34 +4088,9 @@
       "inside_10_carries_pg": 0.0,
       "inside_10_targets_pg": 0.4118,
       "xtd_contribution": {
-        "end_zone_targets": 0.0954,
+        "end_zone_targets": 0.0953,
         "inside_10_carries": 0.0,
-        "inside_10_targets": 0.1133
-      },
-      "injury_flag": "",
-      "flags": []
-    },
-    {
-      "rank": 162,
-      "player_id": "00-0035243",
-      "player_name": "M.Sanders",
-      "team": "DAL",
-      "position": "RB",
-      "xtd_per_game": 0.2066,
-      "inside_10_opportunities": 3,
-      "end_zone_targets": 0,
-      "tds_last_10": 1,
-      "inside_10_targets": 0,
-      "inside_10_carries": 3,
-      "goal_line_carries": 1,
-      "games_played": 4,
-      "end_zone_targets_pg": 0.0,
-      "inside_10_carries_pg": 0.75,
-      "inside_10_targets_pg": 0.0,
-      "xtd_contribution": {
-        "end_zone_targets": 0.0,
-        "inside_10_carries": 0.2066,
-        "inside_10_targets": 0.0
+        "inside_10_targets": 0.1136
       },
       "injury_flag": "",
       "flags": []
@@ -4122,18 +4122,18 @@
     },
     {
       "rank": 164,
-      "player_id": "00-0040198",
-      "player_name": "O.Gordon",
-      "team": "MIA",
+      "player_id": "00-0035243",
+      "player_name": "M.Sanders",
+      "team": "DAL",
       "position": "RB",
       "xtd_per_game": 0.2066,
-      "inside_10_opportunities": 12,
+      "inside_10_opportunities": 3,
       "end_zone_targets": 0,
-      "tds_last_10": 3,
+      "tds_last_10": 1,
       "inside_10_targets": 0,
-      "inside_10_carries": 12,
-      "goal_line_carries": 6,
-      "games_played": 16,
+      "inside_10_carries": 3,
+      "goal_line_carries": 1,
+      "games_played": 4,
       "end_zone_targets_pg": 0.0,
       "inside_10_carries_pg": 0.75,
       "inside_10_targets_pg": 0.0,
@@ -4172,11 +4172,36 @@
     },
     {
       "rank": 166,
+      "player_id": "00-0040198",
+      "player_name": "O.Gordon",
+      "team": "MIA",
+      "position": "RB",
+      "xtd_per_game": 0.2066,
+      "inside_10_opportunities": 12,
+      "end_zone_targets": 0,
+      "tds_last_10": 3,
+      "inside_10_targets": 0,
+      "inside_10_carries": 12,
+      "goal_line_carries": 6,
+      "games_played": 16,
+      "end_zone_targets_pg": 0.0,
+      "inside_10_carries_pg": 0.75,
+      "inside_10_targets_pg": 0.0,
+      "xtd_contribution": {
+        "end_zone_targets": 0.0,
+        "inside_10_carries": 0.2066,
+        "inside_10_targets": 0.0
+      },
+      "injury_flag": "",
+      "flags": []
+    },
+    {
+      "rank": 167,
       "player_id": "00-0038996",
       "player_name": "T.Kraft",
       "team": "GB",
       "position": "TE",
-      "xtd_per_game": 0.2046,
+      "xtd_per_game": 0.2047,
       "inside_10_opportunities": 3,
       "end_zone_targets": 2,
       "tds_last_10": 6,
@@ -4188,15 +4213,15 @@
       "inside_10_carries_pg": 0.0,
       "inside_10_targets_pg": 0.375,
       "xtd_contribution": {
-        "end_zone_targets": 0.1014,
+        "end_zone_targets": 0.1013,
         "inside_10_carries": 0.0,
-        "inside_10_targets": 0.1032
+        "inside_10_targets": 0.1034
       },
       "injury_flag": "",
       "flags": []
     },
     {
-      "rank": 167,
+      "rank": 168,
       "player_id": "00-0037256",
       "player_name": "R.White",
       "team": "TB",
@@ -4213,7 +4238,7 @@
       "inside_10_carries_pg": 0.5882,
       "inside_10_targets_pg": 0.0588,
       "xtd_contribution": {
-        "end_zone_targets": 0.0239,
+        "end_zone_targets": 0.0238,
         "inside_10_carries": 0.1621,
         "inside_10_targets": 0.0162
       },
@@ -4221,12 +4246,12 @@
       "flags": []
     },
     {
-      "rank": 168,
+      "rank": 169,
       "player_id": "00-0033906",
       "player_name": "A.Kamara",
       "team": "NO",
       "position": "RB",
-      "xtd_per_game": 0.2003,
+      "xtd_per_game": 0.2004,
       "inside_10_opportunities": 8,
       "end_zone_targets": 0,
       "tds_last_10": 0,
@@ -4240,13 +4265,88 @@
       "xtd_contribution": {
         "end_zone_targets": 0.0,
         "inside_10_carries": 0.1503,
-        "inside_10_targets": 0.05
+        "inside_10_targets": 0.0501
       },
       "injury_flag": "",
       "flags": []
     },
     {
-      "rank": 169,
+      "rank": 170,
+      "player_id": "00-0037740",
+      "player_name": "G.Wilson",
+      "team": "NYJ",
+      "position": "WR",
+      "xtd_per_game": 0.1946,
+      "inside_10_opportunities": 2,
+      "end_zone_targets": 2,
+      "tds_last_10": 4,
+      "inside_10_targets": 2,
+      "inside_10_carries": 0,
+      "goal_line_carries": 0,
+      "games_played": 7,
+      "end_zone_targets_pg": 0.2857,
+      "inside_10_carries_pg": 0.0,
+      "inside_10_targets_pg": 0.2857,
+      "xtd_contribution": {
+        "end_zone_targets": 0.1158,
+        "inside_10_carries": 0.0,
+        "inside_10_targets": 0.0788
+      },
+      "injury_flag": "",
+      "flags": []
+    },
+    {
+      "rank": 171,
+      "player_id": "00-0035208",
+      "player_name": "O.Zaccheaus",
+      "team": "CHI",
+      "position": "WR",
+      "xtd_per_game": 0.1946,
+      "inside_10_opportunities": 4,
+      "end_zone_targets": 4,
+      "tds_last_10": 2,
+      "inside_10_targets": 4,
+      "inside_10_carries": 0,
+      "goal_line_carries": 0,
+      "games_played": 14,
+      "end_zone_targets_pg": 0.2857,
+      "inside_10_carries_pg": 0.0,
+      "inside_10_targets_pg": 0.2857,
+      "xtd_contribution": {
+        "end_zone_targets": 0.1158,
+        "inside_10_carries": 0.0,
+        "inside_10_targets": 0.0788
+      },
+      "injury_flag": "",
+      "flags": []
+    },
+    {
+      "rank": 172,
+      "player_id": "00-0039355",
+      "player_name": "L.McCaffrey",
+      "team": "WAS",
+      "position": "WR",
+      "xtd_per_game": 0.1946,
+      "inside_10_opportunities": 2,
+      "end_zone_targets": 2,
+      "tds_last_10": 3,
+      "inside_10_targets": 2,
+      "inside_10_carries": 0,
+      "goal_line_carries": 0,
+      "games_played": 7,
+      "end_zone_targets_pg": 0.2857,
+      "inside_10_carries_pg": 0.0,
+      "inside_10_targets_pg": 0.2857,
+      "xtd_contribution": {
+        "end_zone_targets": 0.1158,
+        "inside_10_carries": 0.0,
+        "inside_10_targets": 0.0788
+      },
+      "injury_flag": "",
+      "flags": []
+    },
+    {
+      "rank": 173,
       "player_id": "00-0035261",
       "player_name": "T.Pollard",
       "team": "TEN",
@@ -4271,87 +4371,12 @@
       "flags": []
     },
     {
-      "rank": 170,
-      "player_id": "00-0039355",
-      "player_name": "L.McCaffrey",
-      "team": "WAS",
-      "position": "WR",
-      "xtd_per_game": 0.1945,
-      "inside_10_opportunities": 2,
-      "end_zone_targets": 2,
-      "tds_last_10": 3,
-      "inside_10_targets": 2,
-      "inside_10_carries": 0,
-      "goal_line_carries": 0,
-      "games_played": 7,
-      "end_zone_targets_pg": 0.2857,
-      "inside_10_carries_pg": 0.0,
-      "inside_10_targets_pg": 0.2857,
-      "xtd_contribution": {
-        "end_zone_targets": 0.1159,
-        "inside_10_carries": 0.0,
-        "inside_10_targets": 0.0786
-      },
-      "injury_flag": "",
-      "flags": []
-    },
-    {
-      "rank": 171,
-      "player_id": "00-0035208",
-      "player_name": "O.Zaccheaus",
-      "team": "CHI",
-      "position": "WR",
-      "xtd_per_game": 0.1945,
-      "inside_10_opportunities": 4,
-      "end_zone_targets": 4,
-      "tds_last_10": 2,
-      "inside_10_targets": 4,
-      "inside_10_carries": 0,
-      "goal_line_carries": 0,
-      "games_played": 14,
-      "end_zone_targets_pg": 0.2857,
-      "inside_10_carries_pg": 0.0,
-      "inside_10_targets_pg": 0.2857,
-      "xtd_contribution": {
-        "end_zone_targets": 0.1159,
-        "inside_10_carries": 0.0,
-        "inside_10_targets": 0.0786
-      },
-      "injury_flag": "",
-      "flags": []
-    },
-    {
-      "rank": 172,
-      "player_id": "00-0037740",
-      "player_name": "G.Wilson",
-      "team": "NYJ",
-      "position": "WR",
-      "xtd_per_game": 0.1945,
-      "inside_10_opportunities": 2,
-      "end_zone_targets": 2,
-      "tds_last_10": 4,
-      "inside_10_targets": 2,
-      "inside_10_carries": 0,
-      "goal_line_carries": 0,
-      "games_played": 7,
-      "end_zone_targets_pg": 0.2857,
-      "inside_10_carries_pg": 0.0,
-      "inside_10_targets_pg": 0.2857,
-      "xtd_contribution": {
-        "end_zone_targets": 0.1159,
-        "inside_10_carries": 0.0,
-        "inside_10_targets": 0.0786
-      },
-      "injury_flag": "",
-      "flags": []
-    },
-    {
-      "rank": 173,
+      "rank": 174,
       "player_id": "00-0035537",
       "player_name": "Ty.Johnson",
       "team": "BUF",
       "position": "RB",
-      "xtd_per_game": 0.1944,
+      "xtd_per_game": 0.1945,
       "inside_10_opportunities": 12,
       "end_zone_targets": 0,
       "tds_last_10": 5,
@@ -4371,12 +4396,12 @@
       "flags": []
     },
     {
-      "rank": 174,
+      "rank": 175,
       "player_id": "00-0039361",
       "player_name": "B.Irving",
       "team": "TB",
       "position": "RB",
-      "xtd_per_game": 0.1928,
+      "xtd_per_game": 0.1929,
       "inside_10_opportunities": 7,
       "end_zone_targets": 0,
       "tds_last_10": 4,
@@ -4390,13 +4415,13 @@
       "xtd_contribution": {
         "end_zone_targets": 0.0,
         "inside_10_carries": 0.1653,
-        "inside_10_targets": 0.0275
+        "inside_10_targets": 0.0276
       },
       "injury_flag": "",
       "flags": []
     },
     {
-      "rank": 175,
+      "rank": 176,
       "player_id": "00-0036407",
       "player_name": "J.Jeudy",
       "team": "CLE",
@@ -4413,20 +4438,20 @@
       "inside_10_carries_pg": 0.0,
       "inside_10_targets_pg": 0.1765,
       "xtd_contribution": {
-        "end_zone_targets": 0.1432,
+        "end_zone_targets": 0.143,
         "inside_10_carries": 0.0,
-        "inside_10_targets": 0.0485
+        "inside_10_targets": 0.0487
       },
       "injury_flag": "",
       "flags": []
     },
     {
-      "rank": 176,
+      "rank": 177,
       "player_id": "00-0033943",
       "player_name": "J.Reynolds",
       "team": "NYJ",
       "position": "WR",
-      "xtd_per_game": 0.1912,
+      "xtd_per_game": 0.1914,
       "inside_10_opportunities": 2,
       "end_zone_targets": 1,
       "tds_last_10": 0,
@@ -4438,20 +4463,20 @@
       "inside_10_carries_pg": 0.0,
       "inside_10_targets_pg": 0.4,
       "xtd_contribution": {
-        "end_zone_targets": 0.0811,
+        "end_zone_targets": 0.081,
         "inside_10_carries": 0.0,
-        "inside_10_targets": 0.11
+        "inside_10_targets": 0.1103
       },
       "injury_flag": "",
       "flags": []
     },
     {
-      "rank": 177,
+      "rank": 178,
       "player_id": "00-0037197",
       "player_name": "I.Pacheco",
       "team": "KC",
       "position": "RB",
-      "xtd_per_game": 0.1907,
+      "xtd_per_game": 0.1908,
       "inside_10_opportunities": 9,
       "end_zone_targets": 0,
       "tds_last_10": 2,
@@ -4465,13 +4490,13 @@
       "xtd_contribution": {
         "end_zone_targets": 0.0,
         "inside_10_carries": 0.1483,
-        "inside_10_targets": 0.0423
+        "inside_10_targets": 0.0424
       },
       "injury_flag": "",
       "flags": []
     },
     {
-      "rank": 178,
+      "rank": 179,
       "player_id": "00-0036309",
       "player_name": "D.Mooney",
       "team": "ATL",
@@ -4488,15 +4513,15 @@
       "inside_10_carries_pg": 0.0,
       "inside_10_targets_pg": 0.2,
       "xtd_contribution": {
-        "end_zone_targets": 0.1352,
+        "end_zone_targets": 0.1351,
         "inside_10_carries": 0.0,
-        "inside_10_targets": 0.055
+        "inside_10_targets": 0.0552
       },
       "injury_flag": "",
       "flags": []
     },
     {
-      "rank": 179,
+      "rank": 180,
       "player_id": "00-0032385",
       "player_name": "S.Shepard",
       "team": "TB",
@@ -4513,20 +4538,20 @@
       "inside_10_carries_pg": 0.0,
       "inside_10_targets_pg": 0.2308,
       "xtd_contribution": {
-        "end_zone_targets": 0.1248,
+        "end_zone_targets": 0.1247,
         "inside_10_carries": 0.0,
-        "inside_10_targets": 0.0635
+        "inside_10_targets": 0.0636
       },
       "injury_flag": "",
       "flags": []
     },
     {
-      "rank": 180,
+      "rank": 181,
       "player_id": "00-0031588",
       "player_name": "S.Diggs",
       "team": "NE",
       "position": "WR",
-      "xtd_per_game": 0.1849,
+      "xtd_per_game": 0.1851,
       "inside_10_opportunities": 7,
       "end_zone_targets": 3,
       "tds_last_10": 4,
@@ -4538,20 +4563,20 @@
       "inside_10_carries_pg": 0.0,
       "inside_10_targets_pg": 0.4118,
       "xtd_contribution": {
-        "end_zone_targets": 0.0716,
+        "end_zone_targets": 0.0715,
         "inside_10_carries": 0.0,
-        "inside_10_targets": 0.1133
+        "inside_10_targets": 0.1136
       },
       "injury_flag": "",
       "flags": []
     },
     {
-      "rank": 181,
+      "rank": 182,
       "player_id": "00-0039894",
       "player_name": "X.Worthy",
       "team": "KC",
       "position": "WR",
-      "xtd_per_game": 0.1842,
+      "xtd_per_game": 0.1841,
       "inside_10_opportunities": 2,
       "end_zone_targets": 5,
       "tds_last_10": 0,
@@ -4563,15 +4588,15 @@
       "inside_10_carries_pg": 0.0,
       "inside_10_targets_pg": 0.1429,
       "xtd_contribution": {
-        "end_zone_targets": 0.1449,
+        "end_zone_targets": 0.1447,
         "inside_10_carries": 0.0,
-        "inside_10_targets": 0.0393
+        "inside_10_targets": 0.0394
       },
       "injury_flag": "",
       "flags": []
     },
     {
-      "rank": 182,
+      "rank": 183,
       "player_id": "00-0039874",
       "player_name": "J.Wright",
       "team": "MIA",
@@ -4596,12 +4621,12 @@
       "flags": []
     },
     {
-      "rank": 183,
+      "rank": 184,
       "player_id": "00-0040078",
       "player_name": "B.Smith",
       "team": "KC",
       "position": "RB",
-      "xtd_per_game": 0.1836,
+      "xtd_per_game": 0.1837,
       "inside_10_opportunities": 8,
       "end_zone_targets": 0,
       "tds_last_10": 1,
@@ -4615,18 +4640,18 @@
       "xtd_contribution": {
         "end_zone_targets": 0.0,
         "inside_10_carries": 0.1148,
-        "inside_10_targets": 0.0688
+        "inside_10_targets": 0.069
       },
       "injury_flag": "",
       "flags": []
     },
     {
-      "rank": 184,
+      "rank": 185,
       "player_id": "00-0040719",
       "player_name": "B.Tuten",
       "team": "JAX",
       "position": "RB",
-      "xtd_per_game": 0.1836,
+      "xtd_per_game": 0.1837,
       "inside_10_opportunities": 10,
       "end_zone_targets": 0,
       "tds_last_10": 5,
@@ -4640,32 +4665,7 @@
       "xtd_contribution": {
         "end_zone_targets": 0.0,
         "inside_10_carries": 0.1653,
-        "inside_10_targets": 0.0183
-      },
-      "injury_flag": "",
-      "flags": []
-    },
-    {
-      "rank": 185,
-      "player_id": "00-0038619",
-      "player_name": "A.Iosivas",
-      "team": "CIN",
-      "position": "WR",
-      "xtd_per_game": 0.1815,
-      "inside_10_opportunities": 4,
-      "end_zone_targets": 4,
-      "tds_last_10": 2,
-      "inside_10_targets": 4,
-      "inside_10_carries": 0,
-      "goal_line_carries": 0,
-      "games_played": 15,
-      "end_zone_targets_pg": 0.2667,
-      "inside_10_carries_pg": 0.0,
-      "inside_10_targets_pg": 0.2667,
-      "xtd_contribution": {
-        "end_zone_targets": 0.1082,
-        "inside_10_carries": 0.0,
-        "inside_10_targets": 0.0734
+        "inside_10_targets": 0.0184
       },
       "injury_flag": "",
       "flags": []
@@ -4676,7 +4676,7 @@
       "player_name": "X.Hutchinson",
       "team": "HOU",
       "position": "WR",
-      "xtd_per_game": 0.1815,
+      "xtd_per_game": 0.1816,
       "inside_10_opportunities": 4,
       "end_zone_targets": 4,
       "tds_last_10": 1,
@@ -4688,20 +4688,20 @@
       "inside_10_carries_pg": 0.0,
       "inside_10_targets_pg": 0.2667,
       "xtd_contribution": {
-        "end_zone_targets": 0.1082,
+        "end_zone_targets": 0.1081,
         "inside_10_carries": 0.0,
-        "inside_10_targets": 0.0734
+        "inside_10_targets": 0.0735
       },
       "injury_flag": "",
       "flags": []
     },
     {
       "rank": 187,
-      "player_id": "00-0036894",
-      "player_name": "P.Freiermuth",
-      "team": "PIT",
-      "position": "TE",
-      "xtd_per_game": 0.1815,
+      "player_id": "00-0038619",
+      "player_name": "A.Iosivas",
+      "team": "CIN",
+      "position": "WR",
+      "xtd_per_game": 0.1816,
       "inside_10_opportunities": 4,
       "end_zone_targets": 4,
       "tds_last_10": 2,
@@ -4713,15 +4713,40 @@
       "inside_10_carries_pg": 0.0,
       "inside_10_targets_pg": 0.2667,
       "xtd_contribution": {
-        "end_zone_targets": 0.1082,
+        "end_zone_targets": 0.1081,
         "inside_10_carries": 0.0,
-        "inside_10_targets": 0.0734
+        "inside_10_targets": 0.0735
       },
       "injury_flag": "",
       "flags": []
     },
     {
       "rank": 188,
+      "player_id": "00-0036894",
+      "player_name": "P.Freiermuth",
+      "team": "PIT",
+      "position": "TE",
+      "xtd_per_game": 0.1816,
+      "inside_10_opportunities": 4,
+      "end_zone_targets": 4,
+      "tds_last_10": 2,
+      "inside_10_targets": 4,
+      "inside_10_carries": 0,
+      "goal_line_carries": 0,
+      "games_played": 15,
+      "end_zone_targets_pg": 0.2667,
+      "inside_10_carries_pg": 0.0,
+      "inside_10_targets_pg": 0.2667,
+      "xtd_contribution": {
+        "end_zone_targets": 0.1081,
+        "inside_10_carries": 0.0,
+        "inside_10_targets": 0.0735
+      },
+      "injury_flag": "",
+      "flags": []
+    },
+    {
+      "rank": 189,
       "player_id": "00-0038979",
       "player_name": "C.Tillman",
       "team": "CLE",
@@ -4738,20 +4763,20 @@
       "inside_10_carries_pg": 0.0,
       "inside_10_targets_pg": 0.1667,
       "xtd_contribution": {
-        "end_zone_targets": 0.1352,
+        "end_zone_targets": 0.1351,
         "inside_10_carries": 0.0,
-        "inside_10_targets": 0.0458
+        "inside_10_targets": 0.046
       },
       "injury_flag": "",
       "flags": []
     },
     {
-      "rank": 189,
+      "rank": 190,
       "player_id": "00-0038134",
       "player_name": "K.Walker",
       "team": "SEA",
       "position": "RB",
-      "xtd_per_game": 0.1782,
+      "xtd_per_game": 0.1783,
       "inside_10_opportunities": 11,
       "end_zone_targets": 0,
       "tds_last_10": 2,
@@ -4771,12 +4796,12 @@
       "flags": []
     },
     {
-      "rank": 190,
+      "rank": 191,
       "player_id": "00-0039880",
       "player_name": "M.Washington",
       "team": "MIA",
       "position": "WR",
-      "xtd_per_game": 0.1772,
+      "xtd_per_game": 0.1774,
       "inside_10_opportunities": 8,
       "end_zone_targets": 2,
       "tds_last_10": 4,
@@ -4790,13 +4815,13 @@
       "xtd_contribution": {
         "end_zone_targets": 0.0477,
         "inside_10_carries": 0.0162,
-        "inside_10_targets": 0.1133
+        "inside_10_targets": 0.1136
       },
       "injury_flag": "",
       "flags": []
     },
     {
-      "rank": 191,
+      "rank": 192,
       "player_id": "00-0037240",
       "player_name": "J.Williams",
       "team": "DET",
@@ -4813,20 +4838,20 @@
       "inside_10_carries_pg": 0.0588,
       "inside_10_targets_pg": 0.2353,
       "xtd_contribution": {
-        "end_zone_targets": 0.0954,
+        "end_zone_targets": 0.0953,
         "inside_10_carries": 0.0162,
-        "inside_10_targets": 0.0647
+        "inside_10_targets": 0.0649
       },
       "injury_flag": "",
       "flags": []
     },
     {
-      "rank": 192,
+      "rank": 193,
       "player_id": "00-0038705",
       "player_name": "E.Demercado",
       "team": "ARI",
       "position": "RB",
-      "xtd_per_game": 0.1752,
+      "xtd_per_game": 0.1754,
       "inside_10_opportunities": 7,
       "end_zone_targets": 0,
       "tds_last_10": 1,
@@ -4840,18 +4865,18 @@
       "xtd_contribution": {
         "end_zone_targets": 0.0,
         "inside_10_carries": 0.1002,
-        "inside_10_targets": 0.075
+        "inside_10_targets": 0.0752
       },
       "injury_flag": "",
       "flags": []
     },
     {
-      "rank": 193,
+      "rank": 194,
       "player_id": "00-0040782",
       "player_name": "I.Bond",
       "team": "CLE",
       "position": "WR",
-      "xtd_per_game": 0.1748,
+      "xtd_per_game": 0.1749,
       "inside_10_opportunities": 3,
       "end_zone_targets": 4,
       "tds_last_10": 0,
@@ -4863,15 +4888,65 @@
       "inside_10_carries_pg": 0.0,
       "inside_10_targets_pg": 0.2143,
       "xtd_contribution": {
-        "end_zone_targets": 0.1159,
+        "end_zone_targets": 0.1158,
         "inside_10_carries": 0.0,
-        "inside_10_targets": 0.059
+        "inside_10_targets": 0.0591
       },
       "injury_flag": "",
       "flags": []
     },
     {
-      "rank": 194,
+      "rank": 195,
+      "player_id": "00-0038797",
+      "player_name": "E.Wilson",
+      "team": "GB",
+      "position": "RB",
+      "xtd_per_game": 0.1722,
+      "inside_10_opportunities": 10,
+      "end_zone_targets": 0,
+      "tds_last_10": 3,
+      "inside_10_targets": 2,
+      "inside_10_carries": 8,
+      "goal_line_carries": 4,
+      "games_played": 16,
+      "end_zone_targets_pg": 0.0,
+      "inside_10_carries_pg": 0.5,
+      "inside_10_targets_pg": 0.125,
+      "xtd_contribution": {
+        "end_zone_targets": 0.0,
+        "inside_10_carries": 0.1378,
+        "inside_10_targets": 0.0345
+      },
+      "injury_flag": "",
+      "flags": []
+    },
+    {
+      "rank": 196,
+      "player_id": "00-0033854",
+      "player_name": "D.Ogunbowale",
+      "team": "HOU",
+      "position": "RB",
+      "xtd_per_game": 0.1722,
+      "inside_10_opportunities": 5,
+      "end_zone_targets": 0,
+      "tds_last_10": 1,
+      "inside_10_targets": 1,
+      "inside_10_carries": 4,
+      "goal_line_carries": 3,
+      "games_played": 8,
+      "end_zone_targets_pg": 0.0,
+      "inside_10_carries_pg": 0.5,
+      "inside_10_targets_pg": 0.125,
+      "xtd_contribution": {
+        "end_zone_targets": 0.0,
+        "inside_10_carries": 0.1378,
+        "inside_10_targets": 0.0345
+      },
+      "injury_flag": "",
+      "flags": []
+    },
+    {
+      "rank": 197,
       "player_id": "00-0033077",
       "player_name": "D.Prescott",
       "team": "DAL",
@@ -4896,62 +4971,12 @@
       "flags": []
     },
     {
-      "rank": 195,
-      "player_id": "00-0038797",
-      "player_name": "E.Wilson",
-      "team": "GB",
-      "position": "RB",
-      "xtd_per_game": 0.1721,
-      "inside_10_opportunities": 10,
-      "end_zone_targets": 0,
-      "tds_last_10": 3,
-      "inside_10_targets": 2,
-      "inside_10_carries": 8,
-      "goal_line_carries": 4,
-      "games_played": 16,
-      "end_zone_targets_pg": 0.0,
-      "inside_10_carries_pg": 0.5,
-      "inside_10_targets_pg": 0.125,
-      "xtd_contribution": {
-        "end_zone_targets": 0.0,
-        "inside_10_carries": 0.1378,
-        "inside_10_targets": 0.0344
-      },
-      "injury_flag": "",
-      "flags": []
-    },
-    {
-      "rank": 196,
-      "player_id": "00-0033854",
-      "player_name": "D.Ogunbowale",
-      "team": "HOU",
-      "position": "RB",
-      "xtd_per_game": 0.1721,
-      "inside_10_opportunities": 5,
-      "end_zone_targets": 0,
-      "tds_last_10": 1,
-      "inside_10_targets": 1,
-      "inside_10_carries": 4,
-      "goal_line_carries": 3,
-      "games_played": 8,
-      "end_zone_targets_pg": 0.0,
-      "inside_10_carries_pg": 0.5,
-      "inside_10_targets_pg": 0.125,
-      "xtd_contribution": {
-        "end_zone_targets": 0.0,
-        "inside_10_carries": 0.1378,
-        "inside_10_targets": 0.0344
-      },
-      "injury_flag": "",
-      "flags": []
-    },
-    {
-      "rank": 197,
+      "rank": 198,
       "player_id": "00-0038935",
       "player_name": "B.Strange",
       "team": "JAX",
       "position": "TE",
-      "xtd_per_game": 0.1702,
+      "xtd_per_game": 0.1703,
       "inside_10_opportunities": 3,
       "end_zone_targets": 3,
       "tds_last_10": 3,
@@ -4963,15 +4988,40 @@
       "inside_10_carries_pg": 0.0,
       "inside_10_targets_pg": 0.25,
       "xtd_contribution": {
-        "end_zone_targets": 0.1014,
+        "end_zone_targets": 0.1013,
         "inside_10_carries": 0.0,
-        "inside_10_targets": 0.0688
+        "inside_10_targets": 0.069
       },
       "injury_flag": "",
       "flags": []
     },
     {
-      "rank": 198,
+      "rank": 199,
+      "player_id": "00-0039032",
+      "player_name": "T.Spears",
+      "team": "TEN",
+      "position": "RB",
+      "xtd_per_game": 0.1696,
+      "inside_10_opportunities": 8,
+      "end_zone_targets": 0,
+      "tds_last_10": 2,
+      "inside_10_targets": 3,
+      "inside_10_carries": 5,
+      "goal_line_carries": 2,
+      "games_played": 13,
+      "end_zone_targets_pg": 0.0,
+      "inside_10_carries_pg": 0.3846,
+      "inside_10_targets_pg": 0.2308,
+      "xtd_contribution": {
+        "end_zone_targets": 0.0,
+        "inside_10_carries": 0.106,
+        "inside_10_targets": 0.0636
+      },
+      "injury_flag": "",
+      "flags": []
+    },
+    {
+      "rank": 200,
       "player_id": "00-0033526",
       "player_name": "S.Perine",
       "team": "CIN",
@@ -4996,37 +5046,12 @@
       "flags": []
     },
     {
-      "rank": 199,
-      "player_id": "00-0039032",
-      "player_name": "T.Spears",
-      "team": "TEN",
-      "position": "RB",
-      "xtd_per_game": 0.1694,
-      "inside_10_opportunities": 8,
-      "end_zone_targets": 0,
-      "tds_last_10": 2,
-      "inside_10_targets": 3,
-      "inside_10_carries": 5,
-      "goal_line_carries": 2,
-      "games_played": 13,
-      "end_zone_targets_pg": 0.0,
-      "inside_10_carries_pg": 0.3846,
-      "inside_10_targets_pg": 0.2308,
-      "xtd_contribution": {
-        "end_zone_targets": 0.0,
-        "inside_10_carries": 0.106,
-        "inside_10_targets": 0.0635
-      },
-      "injury_flag": "",
-      "flags": []
-    },
-    {
-      "rank": 200,
+      "rank": 201,
       "player_id": "00-0038558",
       "player_name": "D.Washington",
       "team": "PIT",
       "position": "TE",
-      "xtd_per_game": 0.1682,
+      "xtd_per_game": 0.1684,
       "inside_10_opportunities": 5,
       "end_zone_targets": 2,
       "tds_last_10": 1,
@@ -5038,40 +5063,40 @@
       "inside_10_carries_pg": 0.0,
       "inside_10_targets_pg": 0.3846,
       "xtd_contribution": {
-        "end_zone_targets": 0.0624,
+        "end_zone_targets": 0.0623,
         "inside_10_carries": 0.0,
-        "inside_10_targets": 0.1058
-      },
-      "injury_flag": "",
-      "flags": []
-    },
-    {
-      "rank": 201,
-      "player_id": "00-0033110",
-      "player_name": "T.Higbee",
-      "team": "LA",
-      "position": "TE",
-      "xtd_per_game": 0.1673,
-      "inside_10_opportunities": 4,
-      "end_zone_targets": 1,
-      "tds_last_10": 3,
-      "inside_10_targets": 4,
-      "inside_10_carries": 0,
-      "goal_line_carries": 0,
-      "games_played": 9,
-      "end_zone_targets_pg": 0.1111,
-      "inside_10_carries_pg": 0.0,
-      "inside_10_targets_pg": 0.4444,
-      "xtd_contribution": {
-        "end_zone_targets": 0.0451,
-        "inside_10_carries": 0.0,
-        "inside_10_targets": 0.1223
+        "inside_10_targets": 0.1061
       },
       "injury_flag": "",
       "flags": []
     },
     {
       "rank": 202,
+      "player_id": "00-0039875",
+      "player_name": "R.Davis",
+      "team": "BUF",
+      "position": "RB",
+      "xtd_per_game": 0.1654,
+      "inside_10_opportunities": 6,
+      "end_zone_targets": 0,
+      "tds_last_10": 2,
+      "inside_10_targets": 3,
+      "inside_10_carries": 3,
+      "goal_line_carries": 2,
+      "games_played": 10,
+      "end_zone_targets_pg": 0.0,
+      "inside_10_carries_pg": 0.3,
+      "inside_10_targets_pg": 0.3,
+      "xtd_contribution": {
+        "end_zone_targets": 0.0,
+        "inside_10_carries": 0.0826,
+        "inside_10_targets": 0.0827
+      },
+      "injury_flag": "",
+      "flags": []
+    },
+    {
+      "rank": 203,
       "player_id": "00-0026158",
       "player_name": "J.Flacco",
       "team": "CIN",
@@ -5096,31 +5121,6 @@
       "flags": []
     },
     {
-      "rank": 203,
-      "player_id": "00-0039875",
-      "player_name": "R.Davis",
-      "team": "BUF",
-      "position": "RB",
-      "xtd_per_game": 0.1652,
-      "inside_10_opportunities": 6,
-      "end_zone_targets": 0,
-      "tds_last_10": 2,
-      "inside_10_targets": 3,
-      "inside_10_carries": 3,
-      "goal_line_carries": 2,
-      "games_played": 10,
-      "end_zone_targets_pg": 0.0,
-      "inside_10_carries_pg": 0.3,
-      "inside_10_targets_pg": 0.3,
-      "xtd_contribution": {
-        "end_zone_targets": 0.0,
-        "inside_10_carries": 0.0826,
-        "inside_10_targets": 0.0825
-      },
-      "injury_flag": "",
-      "flags": []
-    },
-    {
       "rank": 204,
       "player_id": "00-0035229",
       "player_name": "T.Hockenson",
@@ -5138,45 +5138,20 @@
       "inside_10_carries_pg": 0.0,
       "inside_10_targets_pg": 0.2,
       "xtd_contribution": {
-        "end_zone_targets": 0.1082,
+        "end_zone_targets": 0.1081,
         "inside_10_carries": 0.0,
-        "inside_10_targets": 0.055
+        "inside_10_targets": 0.0552
       },
       "injury_flag": "",
       "flags": []
     },
     {
       "rank": 205,
-      "player_id": "00-0040663",
-      "player_name": "H.Fannin",
-      "team": "CLE",
-      "position": "TE",
-      "xtd_per_game": 0.162,
-      "inside_10_opportunities": 5,
-      "end_zone_targets": 3,
-      "tds_last_10": 6,
-      "inside_10_targets": 4,
-      "inside_10_carries": 1,
-      "goal_line_carries": 1,
-      "games_played": 16,
-      "end_zone_targets_pg": 0.1875,
-      "inside_10_carries_pg": 0.0625,
-      "inside_10_targets_pg": 0.25,
-      "xtd_contribution": {
-        "end_zone_targets": 0.0761,
-        "inside_10_carries": 0.0172,
-        "inside_10_targets": 0.0688
-      },
-      "injury_flag": "",
-      "flags": []
-    },
-    {
-      "rank": 206,
       "player_id": "00-0038997",
       "player_name": "J.Downs",
       "team": "IND",
       "position": "WR",
-      "xtd_per_game": 0.162,
+      "xtd_per_game": 0.1622,
       "inside_10_opportunities": 5,
       "end_zone_targets": 3,
       "tds_last_10": 3,
@@ -5188,9 +5163,34 @@
       "inside_10_carries_pg": 0.0,
       "inside_10_targets_pg": 0.3125,
       "xtd_contribution": {
-        "end_zone_targets": 0.0761,
+        "end_zone_targets": 0.076,
         "inside_10_carries": 0.0,
-        "inside_10_targets": 0.086
+        "inside_10_targets": 0.0862
+      },
+      "injury_flag": "",
+      "flags": []
+    },
+    {
+      "rank": 206,
+      "player_id": "00-0040663",
+      "player_name": "H.Fannin",
+      "team": "CLE",
+      "position": "TE",
+      "xtd_per_game": 0.1621,
+      "inside_10_opportunities": 5,
+      "end_zone_targets": 3,
+      "tds_last_10": 6,
+      "inside_10_targets": 4,
+      "inside_10_carries": 1,
+      "goal_line_carries": 1,
+      "games_played": 16,
+      "end_zone_targets_pg": 0.1875,
+      "inside_10_carries_pg": 0.0625,
+      "inside_10_targets_pg": 0.25,
+      "xtd_contribution": {
+        "end_zone_targets": 0.076,
+        "inside_10_carries": 0.0172,
+        "inside_10_targets": 0.069
       },
       "injury_flag": "",
       "flags": []
@@ -5213,20 +5213,20 @@
       "inside_10_carries_pg": 0.0,
       "inside_10_targets_pg": 0.125,
       "xtd_contribution": {
-        "end_zone_targets": 0.1268,
+        "end_zone_targets": 0.1266,
         "inside_10_carries": 0.0,
-        "inside_10_targets": 0.0344
+        "inside_10_targets": 0.0345
       },
       "injury_flag": "",
       "flags": []
     },
     {
       "rank": 208,
-      "player_id": "00-0037838",
-      "player_name": "I.Likely",
-      "team": "BAL",
+      "player_id": "00-0039356",
+      "player_name": "J.Sanders",
+      "team": "CAR",
       "position": "TE",
-      "xtd_per_game": 0.1606,
+      "xtd_per_game": 0.1607,
       "inside_10_opportunities": 2,
       "end_zone_targets": 3,
       "tds_last_10": 1,
@@ -5238,20 +5238,20 @@
       "inside_10_carries_pg": 0.0,
       "inside_10_targets_pg": 0.1818,
       "xtd_contribution": {
-        "end_zone_targets": 0.1106,
+        "end_zone_targets": 0.1105,
         "inside_10_carries": 0.0,
-        "inside_10_targets": 0.05
+        "inside_10_targets": 0.0501
       },
       "injury_flag": "",
       "flags": []
     },
     {
       "rank": 209,
-      "player_id": "00-0039356",
-      "player_name": "J.Sanders",
-      "team": "CAR",
+      "player_id": "00-0037838",
+      "player_name": "I.Likely",
+      "team": "BAL",
       "position": "TE",
-      "xtd_per_game": 0.1606,
+      "xtd_per_game": 0.1607,
       "inside_10_opportunities": 2,
       "end_zone_targets": 3,
       "tds_last_10": 1,
@@ -5263,9 +5263,9 @@
       "inside_10_carries_pg": 0.0,
       "inside_10_targets_pg": 0.1818,
       "xtd_contribution": {
-        "end_zone_targets": 0.1106,
+        "end_zone_targets": 0.1105,
         "inside_10_carries": 0.0,
-        "inside_10_targets": 0.05
+        "inside_10_targets": 0.0501
       },
       "injury_flag": "",
       "flags": []
@@ -5276,7 +5276,7 @@
       "player_name": "P.Bryant",
       "team": "DEN",
       "position": "WR",
-      "xtd_per_game": 0.1593,
+      "xtd_per_game": 0.1595,
       "inside_10_opportunities": 4,
       "end_zone_targets": 2,
       "tds_last_10": 1,
@@ -5288,9 +5288,9 @@
       "inside_10_carries_pg": 0.0,
       "inside_10_targets_pg": 0.3333,
       "xtd_contribution": {
-        "end_zone_targets": 0.0676,
+        "end_zone_targets": 0.0675,
         "inside_10_carries": 0.0,
-        "inside_10_targets": 0.0917
+        "inside_10_targets": 0.0919
       },
       "injury_flag": "",
       "flags": []
@@ -5326,7 +5326,7 @@
       "player_name": "N.Fant",
       "team": "CIN",
       "position": "TE",
-      "xtd_per_game": 0.1571,
+      "xtd_per_game": 0.1572,
       "inside_10_opportunities": 3,
       "end_zone_targets": 3,
       "tds_last_10": 2,
@@ -5338,9 +5338,9 @@
       "inside_10_carries_pg": 0.0,
       "inside_10_targets_pg": 0.2308,
       "xtd_contribution": {
-        "end_zone_targets": 0.0936,
+        "end_zone_targets": 0.0935,
         "inside_10_carries": 0.0,
-        "inside_10_targets": 0.0635
+        "inside_10_targets": 0.0636
       },
       "injury_flag": "",
       "flags": []
@@ -5372,11 +5372,11 @@
     },
     {
       "rank": 214,
-      "player_id": "00-0039074",
-      "player_name": "D.Allen",
-      "team": "LA",
-      "position": "TE",
-      "xtd_per_game": 0.1545,
+      "player_id": "00-0038621",
+      "player_name": "D.Douglas",
+      "team": "NE",
+      "position": "WR",
+      "xtd_per_game": 0.1546,
       "inside_10_opportunities": 4,
       "end_zone_targets": 3,
       "tds_last_10": 1,
@@ -5388,20 +5388,20 @@
       "inside_10_carries_pg": 0.0,
       "inside_10_targets_pg": 0.2667,
       "xtd_contribution": {
-        "end_zone_targets": 0.0811,
+        "end_zone_targets": 0.081,
         "inside_10_carries": 0.0,
-        "inside_10_targets": 0.0734
+        "inside_10_targets": 0.0735
       },
       "injury_flag": "",
       "flags": []
     },
     {
       "rank": 215,
-      "player_id": "00-0038621",
-      "player_name": "D.Douglas",
-      "team": "NE",
-      "position": "WR",
-      "xtd_per_game": 0.1545,
+      "player_id": "00-0039074",
+      "player_name": "D.Allen",
+      "team": "LA",
+      "position": "TE",
+      "xtd_per_game": 0.1546,
       "inside_10_opportunities": 4,
       "end_zone_targets": 3,
       "tds_last_10": 1,
@@ -5413,9 +5413,9 @@
       "inside_10_carries_pg": 0.0,
       "inside_10_targets_pg": 0.2667,
       "xtd_contribution": {
-        "end_zone_targets": 0.0811,
+        "end_zone_targets": 0.081,
         "inside_10_carries": 0.0,
-        "inside_10_targets": 0.0734
+        "inside_10_targets": 0.0735
       },
       "injury_flag": "",
       "flags": []
@@ -5438,7 +5438,7 @@
       "inside_10_carries_pg": 0.4118,
       "inside_10_targets_pg": 0.0588,
       "xtd_contribution": {
-        "end_zone_targets": 0.0239,
+        "end_zone_targets": 0.0238,
         "inside_10_carries": 0.1134,
         "inside_10_targets": 0.0162
       },
@@ -5463,9 +5463,9 @@
       "inside_10_carries_pg": 0.0,
       "inside_10_targets_pg": 0.1875,
       "xtd_contribution": {
-        "end_zone_targets": 0.1014,
+        "end_zone_targets": 0.1013,
         "inside_10_carries": 0.0,
-        "inside_10_targets": 0.0516
+        "inside_10_targets": 0.0517
       },
       "injury_flag": "",
       "flags": []
@@ -5488,9 +5488,9 @@
       "inside_10_carries_pg": 0.0,
       "inside_10_targets_pg": 0.1875,
       "xtd_contribution": {
-        "end_zone_targets": 0.1014,
+        "end_zone_targets": 0.1013,
         "inside_10_carries": 0.0,
-        "inside_10_targets": 0.0516
+        "inside_10_targets": 0.0517
       },
       "injury_flag": "",
       "flags": []
@@ -5501,7 +5501,7 @@
       "player_name": "M.Carter",
       "team": "ARI",
       "position": "RB",
-      "xtd_per_game": 0.1483,
+      "xtd_per_game": 0.1484,
       "inside_10_opportunities": 7,
       "end_zone_targets": 0,
       "tds_last_10": 0,
@@ -5515,7 +5515,7 @@
       "xtd_contribution": {
         "end_zone_targets": 0.0,
         "inside_10_carries": 0.0848,
-        "inside_10_targets": 0.0635
+        "inside_10_targets": 0.0636
       },
       "injury_flag": "",
       "flags": []
@@ -5526,7 +5526,7 @@
       "player_name": "J.Palmer",
       "team": "BUF",
       "position": "WR",
-      "xtd_per_game": 0.1472,
+      "xtd_per_game": 0.1473,
       "inside_10_opportunities": 2,
       "end_zone_targets": 3,
       "tds_last_10": 0,
@@ -5538,9 +5538,9 @@
       "inside_10_carries_pg": 0.0,
       "inside_10_targets_pg": 0.1667,
       "xtd_contribution": {
-        "end_zone_targets": 0.1014,
+        "end_zone_targets": 0.1013,
         "inside_10_carries": 0.0,
-        "inside_10_targets": 0.0458
+        "inside_10_targets": 0.046
       },
       "injury_flag": "",
       "flags": []
@@ -5551,7 +5551,7 @@
       "player_name": "M.Taylor",
       "team": "NYJ",
       "position": "TE",
-      "xtd_per_game": 0.147,
+      "xtd_per_game": 0.1472,
       "inside_10_opportunities": 4,
       "end_zone_targets": 2,
       "tds_last_10": 1,
@@ -5563,65 +5563,15 @@
       "inside_10_carries_pg": 0.0,
       "inside_10_targets_pg": 0.3077,
       "xtd_contribution": {
-        "end_zone_targets": 0.0624,
+        "end_zone_targets": 0.0623,
         "inside_10_carries": 0.0,
-        "inside_10_targets": 0.0846
+        "inside_10_targets": 0.0849
       },
       "injury_flag": "",
       "flags": []
     },
     {
       "rank": 222,
-      "player_id": "00-0040644",
-      "player_name": "T.Etienne",
-      "team": "CAR",
-      "position": "RB",
-      "xtd_per_game": 0.1378,
-      "inside_10_opportunities": 3,
-      "end_zone_targets": 0,
-      "tds_last_10": 0,
-      "inside_10_targets": 0,
-      "inside_10_carries": 3,
-      "goal_line_carries": 1,
-      "games_played": 6,
-      "end_zone_targets_pg": 0.0,
-      "inside_10_carries_pg": 0.5,
-      "inside_10_targets_pg": 0.0,
-      "xtd_contribution": {
-        "end_zone_targets": 0.0,
-        "inside_10_carries": 0.1378,
-        "inside_10_targets": 0.0
-      },
-      "injury_flag": "",
-      "flags": []
-    },
-    {
-      "rank": 223,
-      "player_id": "00-0039405",
-      "player_name": "J.Jordan",
-      "team": "HOU",
-      "position": "RB",
-      "xtd_per_game": 0.1378,
-      "inside_10_opportunities": 2,
-      "end_zone_targets": 0,
-      "tds_last_10": 0,
-      "inside_10_targets": 0,
-      "inside_10_carries": 2,
-      "goal_line_carries": 1,
-      "games_played": 4,
-      "end_zone_targets_pg": 0.0,
-      "inside_10_carries_pg": 0.5,
-      "inside_10_targets_pg": 0.0,
-      "xtd_contribution": {
-        "end_zone_targets": 0.0,
-        "inside_10_carries": 0.1378,
-        "inside_10_targets": 0.0
-      },
-      "injury_flag": "",
-      "flags": []
-    },
-    {
-      "rank": 224,
       "player_id": "00-0033293",
       "player_name": "A.Jones",
       "team": "MIN",
@@ -5646,7 +5596,32 @@
       "flags": []
     },
     {
-      "rank": 225,
+      "rank": 223,
+      "player_id": "00-0040644",
+      "player_name": "T.Etienne",
+      "team": "CAR",
+      "position": "RB",
+      "xtd_per_game": 0.1378,
+      "inside_10_opportunities": 3,
+      "end_zone_targets": 0,
+      "tds_last_10": 0,
+      "inside_10_targets": 0,
+      "inside_10_carries": 3,
+      "goal_line_carries": 1,
+      "games_played": 6,
+      "end_zone_targets_pg": 0.0,
+      "inside_10_carries_pg": 0.5,
+      "inside_10_targets_pg": 0.0,
+      "xtd_contribution": {
+        "end_zone_targets": 0.0,
+        "inside_10_carries": 0.1378,
+        "inside_10_targets": 0.0
+      },
+      "injury_flag": "",
+      "flags": []
+    },
+    {
+      "rank": 224,
       "player_id": "00-0039921",
       "player_name": "T.Benson",
       "team": "ARI",
@@ -5671,37 +5646,12 @@
       "flags": []
     },
     {
-      "rank": 226,
-      "player_id": "00-0039359",
-      "player_name": "C.Stover",
-      "team": "HOU",
-      "position": "TE",
-      "xtd_per_game": 0.1376,
-      "inside_10_opportunities": 3,
-      "end_zone_targets": 0,
-      "tds_last_10": 0,
-      "inside_10_targets": 2,
-      "inside_10_carries": 1,
-      "goal_line_carries": 0,
-      "games_played": 6,
-      "end_zone_targets_pg": 0.0,
-      "inside_10_carries_pg": 0.1667,
-      "inside_10_targets_pg": 0.3333,
-      "xtd_contribution": {
-        "end_zone_targets": 0.0,
-        "inside_10_carries": 0.0459,
-        "inside_10_targets": 0.0917
-      },
-      "injury_flag": "",
-      "flags": []
-    },
-    {
-      "rank": 227,
+      "rank": 225,
       "player_id": "00-0040179",
       "player_name": "D.Giddens",
       "team": "IND",
       "position": "RB",
-      "xtd_per_game": 0.1376,
+      "xtd_per_game": 0.1378,
       "inside_10_opportunities": 2,
       "end_zone_targets": 0,
       "tds_last_10": 0,
@@ -5715,7 +5665,57 @@
       "xtd_contribution": {
         "end_zone_targets": 0.0,
         "inside_10_carries": 0.0689,
-        "inside_10_targets": 0.0688
+        "inside_10_targets": 0.069
+      },
+      "injury_flag": "",
+      "flags": []
+    },
+    {
+      "rank": 226,
+      "player_id": "00-0039405",
+      "player_name": "J.Jordan",
+      "team": "HOU",
+      "position": "RB",
+      "xtd_per_game": 0.1378,
+      "inside_10_opportunities": 2,
+      "end_zone_targets": 0,
+      "tds_last_10": 0,
+      "inside_10_targets": 0,
+      "inside_10_carries": 2,
+      "goal_line_carries": 1,
+      "games_played": 4,
+      "end_zone_targets_pg": 0.0,
+      "inside_10_carries_pg": 0.5,
+      "inside_10_targets_pg": 0.0,
+      "xtd_contribution": {
+        "end_zone_targets": 0.0,
+        "inside_10_carries": 0.1378,
+        "inside_10_targets": 0.0
+      },
+      "injury_flag": "",
+      "flags": []
+    },
+    {
+      "rank": 227,
+      "player_id": "00-0039359",
+      "player_name": "C.Stover",
+      "team": "HOU",
+      "position": "TE",
+      "xtd_per_game": 0.1378,
+      "inside_10_opportunities": 3,
+      "end_zone_targets": 0,
+      "tds_last_10": 0,
+      "inside_10_targets": 2,
+      "inside_10_carries": 1,
+      "goal_line_carries": 0,
+      "games_played": 6,
+      "end_zone_targets_pg": 0.0,
+      "inside_10_carries_pg": 0.1667,
+      "inside_10_targets_pg": 0.3333,
+      "xtd_contribution": {
+        "end_zone_targets": 0.0,
+        "inside_10_carries": 0.0459,
+        "inside_10_targets": 0.0919
       },
       "injury_flag": "",
       "flags": []
@@ -5726,7 +5726,7 @@
       "player_name": "S.LaPorta",
       "team": "DET",
       "position": "TE",
-      "xtd_per_game": 0.1368,
+      "xtd_per_game": 0.137,
       "inside_10_opportunities": 3,
       "end_zone_targets": 1,
       "tds_last_10": 3,
@@ -5738,9 +5738,9 @@
       "inside_10_carries_pg": 0.0,
       "inside_10_targets_pg": 0.3333,
       "xtd_contribution": {
-        "end_zone_targets": 0.0451,
+        "end_zone_targets": 0.045,
         "inside_10_carries": 0.0,
-        "inside_10_targets": 0.0917
+        "inside_10_targets": 0.0919
       },
       "injury_flag": "",
       "flags": []
@@ -5751,7 +5751,7 @@
       "player_name": "B.Wright",
       "team": "DET",
       "position": "TE",
-      "xtd_per_game": 0.1365,
+      "xtd_per_game": 0.1367,
       "inside_10_opportunities": 2,
       "end_zone_targets": 1,
       "tds_last_10": 2,
@@ -5765,7 +5765,7 @@
       "xtd_contribution": {
         "end_zone_targets": 0.0579,
         "inside_10_carries": 0.0,
-        "inside_10_targets": 0.0786
+        "inside_10_targets": 0.0788
       },
       "injury_flag": "",
       "flags": []
@@ -5776,7 +5776,7 @@
       "player_name": "D.Sills",
       "team": "ATL",
       "position": "WR",
-      "xtd_per_game": 0.1364,
+      "xtd_per_game": 0.1365,
       "inside_10_opportunities": 3,
       "end_zone_targets": 2,
       "tds_last_10": 2,
@@ -5788,9 +5788,9 @@
       "inside_10_carries_pg": 0.0,
       "inside_10_targets_pg": 0.25,
       "xtd_contribution": {
-        "end_zone_targets": 0.0676,
+        "end_zone_targets": 0.0675,
         "inside_10_carries": 0.0,
-        "inside_10_targets": 0.0688
+        "inside_10_targets": 0.069
       },
       "injury_flag": "",
       "flags": []
@@ -5801,7 +5801,7 @@
       "player_name": "K.Shakir",
       "team": "BUF",
       "position": "WR",
-      "xtd_per_game": 0.1285,
+      "xtd_per_game": 0.1287,
       "inside_10_opportunities": 6,
       "end_zone_targets": 1,
       "tds_last_10": 2,
@@ -5813,9 +5813,9 @@
       "inside_10_carries_pg": 0.0,
       "inside_10_targets_pg": 0.375,
       "xtd_contribution": {
-        "end_zone_targets": 0.0254,
+        "end_zone_targets": 0.0253,
         "inside_10_carries": 0.0,
-        "inside_10_targets": 0.1032
+        "inside_10_targets": 0.1034
       },
       "injury_flag": "",
       "flags": []
@@ -5826,7 +5826,7 @@
       "player_name": "J.Smith-Schuster",
       "team": "KC",
       "position": "WR",
-      "xtd_per_game": 0.1276,
+      "xtd_per_game": 0.1277,
       "inside_10_opportunities": 3,
       "end_zone_targets": 3,
       "tds_last_10": 0,
@@ -5838,9 +5838,9 @@
       "inside_10_carries_pg": 0.0,
       "inside_10_targets_pg": 0.1875,
       "xtd_contribution": {
-        "end_zone_targets": 0.0761,
+        "end_zone_targets": 0.076,
         "inside_10_carries": 0.0,
-        "inside_10_targets": 0.0516
+        "inside_10_targets": 0.0517
       },
       "injury_flag": "",
       "flags": []
@@ -5851,7 +5851,7 @@
       "player_name": "K.Juszczyk",
       "team": "SF",
       "position": "RB",
-      "xtd_per_game": 0.1275,
+      "xtd_per_game": 0.1276,
       "inside_10_opportunities": 4,
       "end_zone_targets": 2,
       "tds_last_10": 1,
@@ -5863,9 +5863,9 @@
       "inside_10_carries_pg": 0.0667,
       "inside_10_targets_pg": 0.2,
       "xtd_contribution": {
-        "end_zone_targets": 0.0541,
+        "end_zone_targets": 0.054,
         "inside_10_carries": 0.0184,
-        "inside_10_targets": 0.055
+        "inside_10_targets": 0.0552
       },
       "injury_flag": "",
       "flags": []
@@ -5888,20 +5888,45 @@
       "inside_10_carries_pg": 0.0,
       "inside_10_targets_pg": 0.1429,
       "xtd_contribution": {
-        "end_zone_targets": 0.0869,
+        "end_zone_targets": 0.0868,
         "inside_10_carries": 0.0,
-        "inside_10_targets": 0.0393
+        "inside_10_targets": 0.0394
       },
       "injury_flag": "",
       "flags": []
     },
     {
       "rank": 235,
+      "player_id": "00-0040187",
+      "player_name": "M.Evans",
+      "team": "CAR",
+      "position": "TE",
+      "xtd_per_game": 0.126,
+      "inside_10_opportunities": 3,
+      "end_zone_targets": 2,
+      "tds_last_10": 1,
+      "inside_10_targets": 3,
+      "inside_10_carries": 0,
+      "goal_line_carries": 0,
+      "games_played": 13,
+      "end_zone_targets_pg": 0.1538,
+      "inside_10_carries_pg": 0.0,
+      "inside_10_targets_pg": 0.2308,
+      "xtd_contribution": {
+        "end_zone_targets": 0.0623,
+        "inside_10_carries": 0.0,
+        "inside_10_targets": 0.0636
+      },
+      "injury_flag": "",
+      "flags": []
+    },
+    {
+      "rank": 236,
       "player_id": "00-0032392",
       "player_name": "A.Hooper",
       "team": "NE",
       "position": "TE",
-      "xtd_per_game": 0.1259,
+      "xtd_per_game": 0.126,
       "inside_10_opportunities": 3,
       "end_zone_targets": 2,
       "tds_last_10": 2,
@@ -5913,34 +5938,9 @@
       "inside_10_carries_pg": 0.0,
       "inside_10_targets_pg": 0.2308,
       "xtd_contribution": {
-        "end_zone_targets": 0.0624,
+        "end_zone_targets": 0.0623,
         "inside_10_carries": 0.0,
-        "inside_10_targets": 0.0635
-      },
-      "injury_flag": "",
-      "flags": []
-    },
-    {
-      "rank": 236,
-      "player_id": "00-0040187",
-      "player_name": "M.Evans",
-      "team": "CAR",
-      "position": "TE",
-      "xtd_per_game": 0.1259,
-      "inside_10_opportunities": 3,
-      "end_zone_targets": 2,
-      "tds_last_10": 1,
-      "inside_10_targets": 3,
-      "inside_10_carries": 0,
-      "goal_line_carries": 0,
-      "games_played": 13,
-      "end_zone_targets_pg": 0.1538,
-      "inside_10_carries_pg": 0.0,
-      "inside_10_targets_pg": 0.2308,
-      "xtd_contribution": {
-        "end_zone_targets": 0.0624,
-        "inside_10_carries": 0.0,
-        "inside_10_targets": 0.0635
+        "inside_10_targets": 0.0636
       },
       "injury_flag": "",
       "flags": []
@@ -5951,7 +5951,7 @@
       "player_name": "J.FitzPatrick",
       "team": "GB",
       "position": "TE",
-      "xtd_per_game": 0.1231,
+      "xtd_per_game": 0.1233,
       "inside_10_opportunities": 3,
       "end_zone_targets": 1,
       "tds_last_10": 1,
@@ -5963,9 +5963,9 @@
       "inside_10_carries_pg": 0.0,
       "inside_10_targets_pg": 0.3,
       "xtd_contribution": {
-        "end_zone_targets": 0.0406,
+        "end_zone_targets": 0.0405,
         "inside_10_carries": 0.0,
-        "inside_10_targets": 0.0825
+        "inside_10_targets": 0.0827
       },
       "injury_flag": "",
       "flags": []
@@ -6038,7 +6038,7 @@
       "inside_10_carries_pg": 0.0,
       "inside_10_targets_pg": 0.1111,
       "xtd_contribution": {
-        "end_zone_targets": 0.0901,
+        "end_zone_targets": 0.09,
         "inside_10_carries": 0.0,
         "inside_10_targets": 0.0306
       },
@@ -6113,9 +6113,9 @@
       "inside_10_carries_pg": 0.0,
       "inside_10_targets_pg": 0.1333,
       "xtd_contribution": {
-        "end_zone_targets": 0.0811,
+        "end_zone_targets": 0.081,
         "inside_10_carries": 0.0,
-        "inside_10_targets": 0.0367
+        "inside_10_targets": 0.0368
       },
       "injury_flag": "",
       "flags": []
@@ -6151,7 +6151,7 @@
       "player_name": "J.Smith",
       "team": "PIT",
       "position": "TE",
-      "xtd_per_game": 0.1124,
+      "xtd_per_game": 0.1126,
       "inside_10_opportunities": 4,
       "end_zone_targets": 2,
       "tds_last_10": 1,
@@ -6165,17 +6165,17 @@
       "xtd_contribution": {
         "end_zone_targets": 0.0477,
         "inside_10_carries": 0.0,
-        "inside_10_targets": 0.0647
+        "inside_10_targets": 0.0649
       },
       "injury_flag": "",
       "flags": []
     },
     {
       "rank": 246,
-      "player_id": "00-0035228",
-      "player_name": "K.Murray",
-      "team": "ARI",
-      "position": "QB",
+      "player_id": "00-0040586",
+      "player_name": "J.Blue",
+      "team": "DAL",
+      "position": "RB",
       "xtd_per_game": 0.1102,
       "inside_10_opportunities": 2,
       "end_zone_targets": 0,
@@ -6197,18 +6197,18 @@
     },
     {
       "rank": 247,
-      "player_id": "00-0040586",
-      "player_name": "J.Blue",
-      "team": "DAL",
+      "player_id": "00-0034791",
+      "player_name": "N.Chubb",
+      "team": "HOU",
       "position": "RB",
       "xtd_per_game": 0.1102,
-      "inside_10_opportunities": 2,
+      "inside_10_opportunities": 6,
       "end_zone_targets": 0,
       "tds_last_10": 1,
       "inside_10_targets": 0,
-      "inside_10_carries": 2,
-      "goal_line_carries": 1,
-      "games_played": 5,
+      "inside_10_carries": 6,
+      "goal_line_carries": 6,
+      "games_played": 15,
       "end_zone_targets_pg": 0.0,
       "inside_10_carries_pg": 0.4,
       "inside_10_targets_pg": 0.0,
@@ -6247,18 +6247,18 @@
     },
     {
       "rank": 249,
-      "player_id": "00-0034791",
-      "player_name": "N.Chubb",
-      "team": "HOU",
-      "position": "RB",
+      "player_id": "00-0035228",
+      "player_name": "K.Murray",
+      "team": "ARI",
+      "position": "QB",
       "xtd_per_game": 0.1102,
-      "inside_10_opportunities": 6,
+      "inside_10_opportunities": 2,
       "end_zone_targets": 0,
       "tds_last_10": 1,
       "inside_10_targets": 0,
-      "inside_10_carries": 6,
-      "goal_line_carries": 6,
-      "games_played": 15,
+      "inside_10_carries": 2,
+      "goal_line_carries": 1,
+      "games_played": 5,
       "end_zone_targets_pg": 0.0,
       "inside_10_carries_pg": 0.4,
       "inside_10_targets_pg": 0.0,
@@ -6301,7 +6301,7 @@
       "player_name": "C.Otton",
       "team": "TB",
       "position": "TE",
-      "xtd_per_game": 0.1091,
+      "xtd_per_game": 0.1092,
       "inside_10_opportunities": 3,
       "end_zone_targets": 2,
       "tds_last_10": 1,
@@ -6313,9 +6313,9 @@
       "inside_10_carries_pg": 0.0,
       "inside_10_targets_pg": 0.2,
       "xtd_contribution": {
-        "end_zone_targets": 0.0541,
+        "end_zone_targets": 0.054,
         "inside_10_carries": 0.0,
-        "inside_10_targets": 0.055
+        "inside_10_targets": 0.0552
       },
       "injury_flag": "",
       "flags": []
@@ -6326,7 +6326,7 @@
       "player_name": "L.Farrell",
       "team": "SF",
       "position": "TE",
-      "xtd_per_game": 0.1062,
+      "xtd_per_game": 0.1063,
       "inside_10_opportunities": 2,
       "end_zone_targets": 1,
       "tds_last_10": 2,
@@ -6338,9 +6338,9 @@
       "inside_10_carries_pg": 0.0,
       "inside_10_targets_pg": 0.2222,
       "xtd_contribution": {
-        "end_zone_targets": 0.0451,
+        "end_zone_targets": 0.045,
         "inside_10_carries": 0.0,
-        "inside_10_targets": 0.0611
+        "inside_10_targets": 0.0613
       },
       "injury_flag": "",
       "flags": []
@@ -6351,7 +6351,7 @@
       "player_name": "J.Bates",
       "team": "WAS",
       "position": "TE",
-      "xtd_per_game": 0.1062,
+      "xtd_per_game": 0.1063,
       "inside_10_opportunities": 2,
       "end_zone_targets": 1,
       "tds_last_10": 1,
@@ -6363,9 +6363,9 @@
       "inside_10_carries_pg": 0.0,
       "inside_10_targets_pg": 0.2222,
       "xtd_contribution": {
-        "end_zone_targets": 0.0451,
+        "end_zone_targets": 0.045,
         "inside_10_carries": 0.0,
-        "inside_10_targets": 0.0611
+        "inside_10_targets": 0.0613
       },
       "injury_flag": "",
       "flags": []
@@ -6397,36 +6397,11 @@
     },
     {
       "rank": 255,
-      "player_id": "00-0037805",
-      "player_name": "J.Ruckert",
-      "team": "NYJ",
-      "position": "TE",
-      "xtd_per_game": 0.1047,
-      "inside_10_opportunities": 2,
-      "end_zone_targets": 2,
-      "tds_last_10": 0,
-      "inside_10_targets": 2,
-      "inside_10_carries": 0,
-      "goal_line_carries": 0,
-      "games_played": 13,
-      "end_zone_targets_pg": 0.1538,
-      "inside_10_carries_pg": 0.0,
-      "inside_10_targets_pg": 0.1538,
-      "xtd_contribution": {
-        "end_zone_targets": 0.0624,
-        "inside_10_carries": 0.0,
-        "inside_10_targets": 0.0423
-      },
-      "injury_flag": "",
-      "flags": []
-    },
-    {
-      "rank": 256,
       "player_id": "00-0040194",
       "player_name": "J.Hawes",
       "team": "BUF",
       "position": "TE",
-      "xtd_per_game": 0.1047,
+      "xtd_per_game": 0.1048,
       "inside_10_opportunities": 2,
       "end_zone_targets": 2,
       "tds_last_10": 2,
@@ -6438,9 +6413,34 @@
       "inside_10_carries_pg": 0.0,
       "inside_10_targets_pg": 0.1538,
       "xtd_contribution": {
-        "end_zone_targets": 0.0624,
+        "end_zone_targets": 0.0623,
         "inside_10_carries": 0.0,
-        "inside_10_targets": 0.0423
+        "inside_10_targets": 0.0424
+      },
+      "injury_flag": "",
+      "flags": []
+    },
+    {
+      "rank": 256,
+      "player_id": "00-0037805",
+      "player_name": "J.Ruckert",
+      "team": "NYJ",
+      "position": "TE",
+      "xtd_per_game": 0.1048,
+      "inside_10_opportunities": 2,
+      "end_zone_targets": 2,
+      "tds_last_10": 0,
+      "inside_10_targets": 2,
+      "inside_10_carries": 0,
+      "goal_line_carries": 0,
+      "games_played": 13,
+      "end_zone_targets_pg": 0.1538,
+      "inside_10_carries_pg": 0.0,
+      "inside_10_targets_pg": 0.1538,
+      "xtd_contribution": {
+        "end_zone_targets": 0.0623,
+        "inside_10_carries": 0.0,
+        "inside_10_targets": 0.0424
       },
       "injury_flag": "",
       "flags": []
@@ -6451,7 +6451,7 @@
       "player_name": "A.Prentice",
       "team": "DEN",
       "position": "RB",
-      "xtd_per_game": 0.1032,
+      "xtd_per_game": 0.1034,
       "inside_10_opportunities": 3,
       "end_zone_targets": 0,
       "tds_last_10": 0,
@@ -6465,7 +6465,7 @@
       "xtd_contribution": {
         "end_zone_targets": 0.0,
         "inside_10_carries": 0.0344,
-        "inside_10_targets": 0.0688
+        "inside_10_targets": 0.069
       },
       "injury_flag": "",
       "flags": []
@@ -6476,7 +6476,7 @@
       "player_name": "M.Mayer",
       "team": "LV",
       "position": "TE",
-      "xtd_per_game": 0.1026,
+      "xtd_per_game": 0.1027,
       "inside_10_opportunities": 3,
       "end_zone_targets": 1,
       "tds_last_10": 1,
@@ -6490,7 +6490,7 @@
       "xtd_contribution": {
         "end_zone_targets": 0.0338,
         "inside_10_carries": 0.0,
-        "inside_10_targets": 0.0688
+        "inside_10_targets": 0.069
       },
       "injury_flag": "",
       "flags": []
@@ -6590,7 +6590,7 @@
       "xtd_contribution": {
         "end_zone_targets": 0.0477,
         "inside_10_carries": 0.0,
-        "inside_10_targets": 0.0485
+        "inside_10_targets": 0.0487
       },
       "injury_flag": "",
       "flags": []
@@ -6601,7 +6601,7 @@
       "player_name": "B.Spann-Ford",
       "team": "DAL",
       "position": "TE",
-      "xtd_per_game": 0.0956,
+      "xtd_per_game": 0.0957,
       "inside_10_opportunities": 2,
       "end_zone_targets": 1,
       "tds_last_10": 1,
@@ -6613,9 +6613,9 @@
       "inside_10_carries_pg": 0.0,
       "inside_10_targets_pg": 0.2,
       "xtd_contribution": {
-        "end_zone_targets": 0.0406,
+        "end_zone_targets": 0.0405,
         "inside_10_carries": 0.0,
-        "inside_10_targets": 0.055
+        "inside_10_targets": 0.0552
       },
       "injury_flag": "",
       "flags": []
@@ -6626,7 +6626,7 @@
       "player_name": "E.Arroyo",
       "team": "SEA",
       "position": "TE",
-      "xtd_per_game": 0.0947,
+      "xtd_per_game": 0.0948,
       "inside_10_opportunities": 3,
       "end_zone_targets": 1,
       "tds_last_10": 1,
@@ -6640,18 +6640,43 @@
       "xtd_contribution": {
         "end_zone_targets": 0.0312,
         "inside_10_carries": 0.0,
-        "inside_10_targets": 0.0635
+        "inside_10_targets": 0.0636
       },
       "injury_flag": "",
       "flags": []
     },
     {
       "rank": 265,
+      "player_id": "00-0033955",
+      "player_name": "J.McNichols",
+      "team": "WAS",
+      "position": "RB",
+      "xtd_per_game": 0.0919,
+      "inside_10_opportunities": 5,
+      "end_zone_targets": 0,
+      "tds_last_10": 0,
+      "inside_10_targets": 1,
+      "inside_10_carries": 4,
+      "goal_line_carries": 2,
+      "games_played": 15,
+      "end_zone_targets_pg": 0.0,
+      "inside_10_carries_pg": 0.2667,
+      "inside_10_targets_pg": 0.0667,
+      "xtd_contribution": {
+        "end_zone_targets": 0.0,
+        "inside_10_carries": 0.0735,
+        "inside_10_targets": 0.0184
+      },
+      "injury_flag": "",
+      "flags": []
+    },
+    {
+      "rank": 266,
       "player_id": "00-0037746",
       "player_name": "B.Robinson",
       "team": "SF",
       "position": "RB",
-      "xtd_per_game": 0.0918,
+      "xtd_per_game": 0.0919,
       "inside_10_opportunities": 5,
       "end_zone_targets": 0,
       "tds_last_10": 2,
@@ -6665,138 +6690,13 @@
       "xtd_contribution": {
         "end_zone_targets": 0.0,
         "inside_10_carries": 0.0735,
-        "inside_10_targets": 0.0183
-      },
-      "injury_flag": "",
-      "flags": []
-    },
-    {
-      "rank": 266,
-      "player_id": "00-0037834",
-      "player_name": "B.Purdy",
-      "team": "SF",
-      "position": "QB",
-      "xtd_per_game": 0.0918,
-      "inside_10_opportunities": 3,
-      "end_zone_targets": 0,
-      "tds_last_10": 3,
-      "inside_10_targets": 0,
-      "inside_10_carries": 3,
-      "goal_line_carries": 2,
-      "games_played": 9,
-      "end_zone_targets_pg": 0.0,
-      "inside_10_carries_pg": 0.3333,
-      "inside_10_targets_pg": 0.0,
-      "xtd_contribution": {
-        "end_zone_targets": 0.0,
-        "inside_10_carries": 0.0918,
-        "inside_10_targets": 0.0
+        "inside_10_targets": 0.0184
       },
       "injury_flag": "",
       "flags": []
     },
     {
       "rank": 267,
-      "player_id": "00-0033955",
-      "player_name": "J.McNichols",
-      "team": "WAS",
-      "position": "RB",
-      "xtd_per_game": 0.0918,
-      "inside_10_opportunities": 5,
-      "end_zone_targets": 0,
-      "tds_last_10": 0,
-      "inside_10_targets": 1,
-      "inside_10_carries": 4,
-      "goal_line_carries": 2,
-      "games_played": 15,
-      "end_zone_targets_pg": 0.0,
-      "inside_10_carries_pg": 0.2667,
-      "inside_10_targets_pg": 0.0667,
-      "xtd_contribution": {
-        "end_zone_targets": 0.0,
-        "inside_10_carries": 0.0735,
-        "inside_10_targets": 0.0183
-      },
-      "injury_flag": "",
-      "flags": []
-    },
-    {
-      "rank": 268,
-      "player_id": "00-0034869",
-      "player_name": "S.Darnold",
-      "team": "SEA",
-      "position": "QB",
-      "xtd_per_game": 0.0918,
-      "inside_10_opportunities": 4,
-      "end_zone_targets": 0,
-      "tds_last_10": 0,
-      "inside_10_targets": 0,
-      "inside_10_carries": 4,
-      "goal_line_carries": 2,
-      "games_played": 12,
-      "end_zone_targets_pg": 0.0,
-      "inside_10_carries_pg": 0.3333,
-      "inside_10_targets_pg": 0.0,
-      "xtd_contribution": {
-        "end_zone_targets": 0.0,
-        "inside_10_carries": 0.0918,
-        "inside_10_targets": 0.0
-      },
-      "injury_flag": "",
-      "flags": []
-    },
-    {
-      "rank": 269,
-      "player_id": "00-0039917",
-      "player_name": "M.Penix",
-      "team": "ATL",
-      "position": "QB",
-      "xtd_per_game": 0.0918,
-      "inside_10_opportunities": 3,
-      "end_zone_targets": 0,
-      "tds_last_10": 1,
-      "inside_10_targets": 0,
-      "inside_10_carries": 3,
-      "goal_line_carries": 2,
-      "games_played": 9,
-      "end_zone_targets_pg": 0.0,
-      "inside_10_carries_pg": 0.3333,
-      "inside_10_targets_pg": 0.0,
-      "xtd_contribution": {
-        "end_zone_targets": 0.0,
-        "inside_10_carries": 0.0918,
-        "inside_10_targets": 0.0
-      },
-      "injury_flag": "",
-      "flags": []
-    },
-    {
-      "rank": 270,
-      "player_id": "00-0026498",
-      "player_name": "M.Stafford",
-      "team": "LA",
-      "position": "QB",
-      "xtd_per_game": 0.0918,
-      "inside_10_opportunities": 4,
-      "end_zone_targets": 0,
-      "tds_last_10": 0,
-      "inside_10_targets": 0,
-      "inside_10_carries": 4,
-      "goal_line_carries": 3,
-      "games_played": 12,
-      "end_zone_targets_pg": 0.0,
-      "inside_10_carries_pg": 0.3333,
-      "inside_10_targets_pg": 0.0,
-      "xtd_contribution": {
-        "end_zone_targets": 0.0,
-        "inside_10_carries": 0.0918,
-        "inside_10_targets": 0.0
-      },
-      "injury_flag": "",
-      "flags": []
-    },
-    {
-      "rank": 271,
       "player_id": "00-0036898",
       "player_name": "D.Mills",
       "team": "HOU",
@@ -6821,7 +6721,57 @@
       "flags": []
     },
     {
-      "rank": 272,
+      "rank": 268,
+      "player_id": "00-0026498",
+      "player_name": "M.Stafford",
+      "team": "LA",
+      "position": "QB",
+      "xtd_per_game": 0.0918,
+      "inside_10_opportunities": 4,
+      "end_zone_targets": 0,
+      "tds_last_10": 0,
+      "inside_10_targets": 0,
+      "inside_10_carries": 4,
+      "goal_line_carries": 3,
+      "games_played": 12,
+      "end_zone_targets_pg": 0.0,
+      "inside_10_carries_pg": 0.3333,
+      "inside_10_targets_pg": 0.0,
+      "xtd_contribution": {
+        "end_zone_targets": 0.0,
+        "inside_10_carries": 0.0918,
+        "inside_10_targets": 0.0
+      },
+      "injury_flag": "",
+      "flags": []
+    },
+    {
+      "rank": 269,
+      "player_id": "00-0037834",
+      "player_name": "B.Purdy",
+      "team": "SF",
+      "position": "QB",
+      "xtd_per_game": 0.0918,
+      "inside_10_opportunities": 3,
+      "end_zone_targets": 0,
+      "tds_last_10": 3,
+      "inside_10_targets": 0,
+      "inside_10_carries": 3,
+      "goal_line_carries": 2,
+      "games_played": 9,
+      "end_zone_targets_pg": 0.0,
+      "inside_10_carries_pg": 0.3333,
+      "inside_10_targets_pg": 0.0,
+      "xtd_contribution": {
+        "end_zone_targets": 0.0,
+        "inside_10_carries": 0.0918,
+        "inside_10_targets": 0.0
+      },
+      "injury_flag": "",
+      "flags": []
+    },
+    {
+      "rank": 270,
       "player_id": "00-0036755",
       "player_name": "J.Patterson",
       "team": "LAC",
@@ -6846,12 +6796,62 @@
       "flags": []
     },
     {
+      "rank": 271,
+      "player_id": "00-0034869",
+      "player_name": "S.Darnold",
+      "team": "SEA",
+      "position": "QB",
+      "xtd_per_game": 0.0918,
+      "inside_10_opportunities": 4,
+      "end_zone_targets": 0,
+      "tds_last_10": 0,
+      "inside_10_targets": 0,
+      "inside_10_carries": 4,
+      "goal_line_carries": 2,
+      "games_played": 12,
+      "end_zone_targets_pg": 0.0,
+      "inside_10_carries_pg": 0.3333,
+      "inside_10_targets_pg": 0.0,
+      "xtd_contribution": {
+        "end_zone_targets": 0.0,
+        "inside_10_carries": 0.0918,
+        "inside_10_targets": 0.0
+      },
+      "injury_flag": "",
+      "flags": []
+    },
+    {
+      "rank": 272,
+      "player_id": "00-0039917",
+      "player_name": "M.Penix",
+      "team": "ATL",
+      "position": "QB",
+      "xtd_per_game": 0.0918,
+      "inside_10_opportunities": 3,
+      "end_zone_targets": 0,
+      "tds_last_10": 1,
+      "inside_10_targets": 0,
+      "inside_10_carries": 3,
+      "goal_line_carries": 2,
+      "games_played": 9,
+      "end_zone_targets_pg": 0.0,
+      "inside_10_carries_pg": 0.3333,
+      "inside_10_targets_pg": 0.0,
+      "xtd_contribution": {
+        "end_zone_targets": 0.0,
+        "inside_10_carries": 0.0918,
+        "inside_10_targets": 0.0
+      },
+      "injury_flag": "",
+      "flags": []
+    },
+    {
       "rank": 273,
       "player_id": "00-0033217",
       "player_name": "M.Alie-Cox",
       "team": "IND",
       "position": "TE",
-      "xtd_per_game": 0.0869,
+      "xtd_per_game": 0.087,
       "inside_10_opportunities": 2,
       "end_zone_targets": 1,
       "tds_last_10": 1,
@@ -6863,9 +6863,9 @@
       "inside_10_carries_pg": 0.0,
       "inside_10_targets_pg": 0.1818,
       "xtd_contribution": {
-        "end_zone_targets": 0.0369,
+        "end_zone_targets": 0.0368,
         "inside_10_carries": 0.0,
-        "inside_10_targets": 0.05
+        "inside_10_targets": 0.0501
       },
       "injury_flag": "",
       "flags": []
@@ -6876,7 +6876,7 @@
       "player_name": "C.Kolar",
       "team": "BAL",
       "position": "TE",
-      "xtd_per_game": 0.0869,
+      "xtd_per_game": 0.087,
       "inside_10_opportunities": 2,
       "end_zone_targets": 1,
       "tds_last_10": 2,
@@ -6888,9 +6888,9 @@
       "inside_10_carries_pg": 0.0,
       "inside_10_targets_pg": 0.1818,
       "xtd_contribution": {
-        "end_zone_targets": 0.0369,
+        "end_zone_targets": 0.0368,
         "inside_10_carries": 0.0,
-        "inside_10_targets": 0.05
+        "inside_10_targets": 0.0501
       },
       "injury_flag": "",
       "flags": []
@@ -6947,36 +6947,11 @@
     },
     {
       "rank": 277,
-      "player_id": "00-0040162",
-      "player_name": "D.Sampson",
-      "team": "CLE",
-      "position": "RB",
-      "xtd_per_game": 0.0821,
-      "inside_10_opportunities": 3,
-      "end_zone_targets": 1,
-      "tds_last_10": 1,
-      "inside_10_targets": 2,
-      "inside_10_carries": 1,
-      "goal_line_carries": 0,
-      "games_played": 15,
-      "end_zone_targets_pg": 0.0667,
-      "inside_10_carries_pg": 0.0667,
-      "inside_10_targets_pg": 0.1333,
-      "xtd_contribution": {
-        "end_zone_targets": 0.027,
-        "inside_10_carries": 0.0184,
-        "inside_10_targets": 0.0367
-      },
-      "injury_flag": "",
-      "flags": []
-    },
-    {
-      "rank": 278,
       "player_id": "00-0039041",
       "player_name": "E.Higgins",
       "team": "ARI",
       "position": "TE",
-      "xtd_per_game": 0.0821,
+      "xtd_per_game": 0.0822,
       "inside_10_opportunities": 3,
       "end_zone_targets": 1,
       "tds_last_10": 0,
@@ -6990,18 +6965,18 @@
       "xtd_contribution": {
         "end_zone_targets": 0.027,
         "inside_10_carries": 0.0,
-        "inside_10_targets": 0.055
+        "inside_10_targets": 0.0552
       },
       "injury_flag": "",
       "flags": []
     },
     {
-      "rank": 279,
+      "rank": 278,
       "player_id": "00-0037005",
       "player_name": "T.Tremble",
       "team": "CAR",
       "position": "TE",
-      "xtd_per_game": 0.0821,
+      "xtd_per_game": 0.0822,
       "inside_10_opportunities": 3,
       "end_zone_targets": 1,
       "tds_last_10": 1,
@@ -7015,7 +6990,32 @@
       "xtd_contribution": {
         "end_zone_targets": 0.027,
         "inside_10_carries": 0.0,
-        "inside_10_targets": 0.055
+        "inside_10_targets": 0.0552
+      },
+      "injury_flag": "",
+      "flags": []
+    },
+    {
+      "rank": 279,
+      "player_id": "00-0040162",
+      "player_name": "D.Sampson",
+      "team": "CLE",
+      "position": "RB",
+      "xtd_per_game": 0.0822,
+      "inside_10_opportunities": 3,
+      "end_zone_targets": 1,
+      "tds_last_10": 1,
+      "inside_10_targets": 2,
+      "inside_10_carries": 1,
+      "goal_line_carries": 0,
+      "games_played": 15,
+      "end_zone_targets_pg": 0.0667,
+      "inside_10_carries_pg": 0.0667,
+      "inside_10_targets_pg": 0.1333,
+      "xtd_contribution": {
+        "end_zone_targets": 0.027,
+        "inside_10_carries": 0.0184,
+        "inside_10_targets": 0.0368
       },
       "injury_flag": "",
       "flags": []
@@ -7026,7 +7026,7 @@
       "player_name": "J.Metchie",
       "team": "NYJ",
       "position": "WR",
-      "xtd_per_game": 0.0796,
+      "xtd_per_game": 0.0797,
       "inside_10_opportunities": 2,
       "end_zone_targets": 1,
       "tds_last_10": 2,
@@ -7040,24 +7040,24 @@
       "xtd_contribution": {
         "end_zone_targets": 0.0338,
         "inside_10_carries": 0.0,
-        "inside_10_targets": 0.0458
+        "inside_10_targets": 0.046
       },
       "injury_flag": "",
       "flags": []
     },
     {
       "rank": 281,
-      "player_id": "00-0038551",
-      "player_name": "K.Miller",
-      "team": "NO",
+      "player_id": "00-0037594",
+      "player_name": "J.Chestnut",
+      "team": "TEN",
       "position": "RB",
       "xtd_per_game": 0.0787,
       "inside_10_opportunities": 2,
       "end_zone_targets": 0,
-      "tds_last_10": 1,
+      "tds_last_10": 0,
       "inside_10_targets": 0,
       "inside_10_carries": 2,
-      "goal_line_carries": 0,
+      "goal_line_carries": 2,
       "games_played": 7,
       "end_zone_targets_pg": 0.0,
       "inside_10_carries_pg": 0.2857,
@@ -7072,17 +7072,17 @@
     },
     {
       "rank": 282,
-      "player_id": "00-0037594",
-      "player_name": "J.Chestnut",
-      "team": "TEN",
+      "player_id": "00-0038551",
+      "player_name": "K.Miller",
+      "team": "NO",
       "position": "RB",
       "xtd_per_game": 0.0787,
       "inside_10_opportunities": 2,
       "end_zone_targets": 0,
-      "tds_last_10": 0,
+      "tds_last_10": 1,
       "inside_10_targets": 0,
       "inside_10_carries": 2,
-      "goal_line_carries": 2,
+      "goal_line_carries": 0,
       "games_played": 7,
       "end_zone_targets_pg": 0.0,
       "inside_10_carries_pg": 0.2857,
@@ -7126,7 +7126,7 @@
       "player_name": "N.Gray",
       "team": "KC",
       "position": "TE",
-      "xtd_per_game": 0.0735,
+      "xtd_per_game": 0.0736,
       "inside_10_opportunities": 2,
       "end_zone_targets": 1,
       "tds_last_10": 0,
@@ -7140,7 +7140,7 @@
       "xtd_contribution": {
         "end_zone_targets": 0.0312,
         "inside_10_carries": 0.0,
-        "inside_10_targets": 0.0423
+        "inside_10_targets": 0.0424
       },
       "injury_flag": "",
       "flags": []
@@ -7151,7 +7151,7 @@
       "player_name": "C.Okonkwo",
       "team": "TEN",
       "position": "TE",
-      "xtd_per_game": 0.0724,
+      "xtd_per_game": 0.0725,
       "inside_10_opportunities": 3,
       "end_zone_targets": 1,
       "tds_last_10": 2,
@@ -7163,15 +7163,40 @@
       "inside_10_carries_pg": 0.0,
       "inside_10_targets_pg": 0.1765,
       "xtd_contribution": {
-        "end_zone_targets": 0.0239,
+        "end_zone_targets": 0.0238,
         "inside_10_carries": 0.0,
-        "inside_10_targets": 0.0485
+        "inside_10_targets": 0.0487
       },
       "injury_flag": "",
       "flags": []
     },
     {
       "rank": 286,
+      "player_id": "00-0035249",
+      "player_name": "J.Oliver",
+      "team": "MIN",
+      "position": "TE",
+      "xtd_per_game": 0.069,
+      "inside_10_opportunities": 3,
+      "end_zone_targets": 0,
+      "tds_last_10": 3,
+      "inside_10_targets": 3,
+      "inside_10_carries": 0,
+      "goal_line_carries": 0,
+      "games_played": 12,
+      "end_zone_targets_pg": 0.0,
+      "inside_10_carries_pg": 0.0,
+      "inside_10_targets_pg": 0.25,
+      "xtd_contribution": {
+        "end_zone_targets": 0.0,
+        "inside_10_carries": 0.0,
+        "inside_10_targets": 0.069
+      },
+      "injury_flag": "",
+      "flags": []
+    },
+    {
+      "rank": 287,
       "player_id": "00-0040668",
       "player_name": "S.Sanders",
       "team": "CLE",
@@ -7196,7 +7221,7 @@
       "flags": []
     },
     {
-      "rank": 287,
+      "rank": 288,
       "player_id": "00-0040202",
       "player_name": "D.Neal",
       "team": "NO",
@@ -7221,7 +7246,7 @@
       "flags": []
     },
     {
-      "rank": 288,
+      "rank": 289,
       "player_id": "00-0038794",
       "player_name": "J.McLaughlin",
       "team": "DEN",
@@ -7246,12 +7271,12 @@
       "flags": []
     },
     {
-      "rank": 289,
+      "rank": 290,
       "player_id": "00-0039920",
       "player_name": "M.Corley",
       "team": "CLE",
       "position": "WR",
-      "xtd_per_game": 0.0688,
+      "xtd_per_game": 0.0689,
       "inside_10_opportunities": 2,
       "end_zone_targets": 0,
       "tds_last_10": 0,
@@ -7265,32 +7290,7 @@
       "xtd_contribution": {
         "end_zone_targets": 0.0,
         "inside_10_carries": 0.0344,
-        "inside_10_targets": 0.0344
-      },
-      "injury_flag": "",
-      "flags": []
-    },
-    {
-      "rank": 290,
-      "player_id": "00-0035249",
-      "player_name": "J.Oliver",
-      "team": "MIN",
-      "position": "TE",
-      "xtd_per_game": 0.0688,
-      "inside_10_opportunities": 3,
-      "end_zone_targets": 0,
-      "tds_last_10": 3,
-      "inside_10_targets": 3,
-      "inside_10_carries": 0,
-      "goal_line_carries": 0,
-      "games_played": 12,
-      "end_zone_targets_pg": 0.0,
-      "inside_10_carries_pg": 0.0,
-      "inside_10_targets_pg": 0.25,
-      "xtd_contribution": {
-        "end_zone_targets": 0.0,
-        "inside_10_carries": 0.0,
-        "inside_10_targets": 0.0688
+        "inside_10_targets": 0.0345
       },
       "injury_flag": "",
       "flags": []
@@ -7301,7 +7301,7 @@
       "player_name": "S.Rattler",
       "team": "NO",
       "position": "QB",
-      "xtd_per_game": 0.0688,
+      "xtd_per_game": 0.0689,
       "inside_10_opportunities": 2,
       "end_zone_targets": 0,
       "tds_last_10": 0,
@@ -7315,7 +7315,7 @@
       "xtd_contribution": {
         "end_zone_targets": 0.0,
         "inside_10_carries": 0.0344,
-        "inside_10_targets": 0.0344
+        "inside_10_targets": 0.0345
       },
       "injury_flag": "",
       "flags": []
@@ -7338,9 +7338,9 @@
       "inside_10_carries_pg": 0.0,
       "inside_10_targets_pg": 0.1429,
       "xtd_contribution": {
-        "end_zone_targets": 0.029,
+        "end_zone_targets": 0.0289,
         "inside_10_carries": 0.0,
-        "inside_10_targets": 0.0393
+        "inside_10_targets": 0.0394
       },
       "injury_flag": "",
       "flags": []
@@ -7351,7 +7351,7 @@
       "player_name": "J.Noel",
       "team": "HOU",
       "position": "WR",
-      "xtd_per_game": 0.0635,
+      "xtd_per_game": 0.0636,
       "inside_10_opportunities": 3,
       "end_zone_targets": 0,
       "tds_last_10": 1,
@@ -7365,7 +7365,7 @@
       "xtd_contribution": {
         "end_zone_targets": 0.0,
         "inside_10_carries": 0.0,
-        "inside_10_targets": 0.0635
+        "inside_10_targets": 0.0636
       },
       "injury_flag": "",
       "flags": []
@@ -7376,7 +7376,7 @@
       "player_name": "R.Mostert",
       "team": "LV",
       "position": "RB",
-      "xtd_per_game": 0.0612,
+      "xtd_per_game": 0.0613,
       "inside_10_opportunities": 2,
       "end_zone_targets": 0,
       "tds_last_10": 0,
@@ -7422,6 +7422,31 @@
     },
     {
       "rank": 296,
+      "player_id": "00-0038738",
+      "player_name": "H.Luepke",
+      "team": "DAL",
+      "position": "RB",
+      "xtd_per_game": 0.0552,
+      "inside_10_opportunities": 2,
+      "end_zone_targets": 0,
+      "tds_last_10": 1,
+      "inside_10_targets": 2,
+      "inside_10_carries": 0,
+      "goal_line_carries": 0,
+      "games_played": 10,
+      "end_zone_targets_pg": 0.0,
+      "inside_10_carries_pg": 0.0,
+      "inside_10_targets_pg": 0.2,
+      "xtd_contribution": {
+        "end_zone_targets": 0.0,
+        "inside_10_carries": 0.0,
+        "inside_10_targets": 0.0552
+      },
+      "injury_flag": "",
+      "flags": []
+    },
+    {
+      "rank": 297,
       "player_id": "00-0036264",
       "player_name": "J.Love",
       "team": "GB",
@@ -7441,31 +7466,6 @@
         "end_zone_targets": 0.0,
         "inside_10_carries": 0.0551,
         "inside_10_targets": 0.0
-      },
-      "injury_flag": "",
-      "flags": []
-    },
-    {
-      "rank": 297,
-      "player_id": "00-0038738",
-      "player_name": "H.Luepke",
-      "team": "DAL",
-      "position": "RB",
-      "xtd_per_game": 0.055,
-      "inside_10_opportunities": 2,
-      "end_zone_targets": 0,
-      "tds_last_10": 1,
-      "inside_10_targets": 2,
-      "inside_10_carries": 0,
-      "goal_line_carries": 0,
-      "games_played": 10,
-      "end_zone_targets_pg": 0.0,
-      "inside_10_carries_pg": 0.0,
-      "inside_10_targets_pg": 0.2,
-      "xtd_contribution": {
-        "end_zone_targets": 0.0,
-        "inside_10_carries": 0.0,
-        "inside_10_targets": 0.055
       },
       "injury_flag": "",
       "flags": []

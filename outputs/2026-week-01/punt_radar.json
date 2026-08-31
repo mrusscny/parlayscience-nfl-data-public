@@ -14,7 +14,7 @@
     "completed_weeks": 0,
     "first_kickoff": "2026-09-09",
     "last_game": "2026-09-14",
-    "generated_at_et": "2026-08-31T12:04:18-04:00",
+    "generated_at_et": "2026-08-31T13:35:58-04:00",
     "label": "2026-week-01"
   },
   "method": {
@@ -56,6 +56,11 @@
       "punts_per_game": 5.3529,
       "defensive_stop_score": 86.56,
       "games_played": 17,
+      "first_drive_punt_probability": 0.5197,
+      "first_drive_punt_rank": 2,
+      "open_drive_punt_rate_observed": 0.6471,
+      "open_drive_three_and_out_rate_observed": 0.2941,
+      "open_drives_observed": 17,
       "flags": []
     },
     {
@@ -73,6 +78,11 @@
       "punts_per_game": 4.5882,
       "defensive_stop_score": 55.16,
       "games_played": 17,
+      "first_drive_punt_probability": 0.5054,
+      "first_drive_punt_rank": 3,
+      "open_drive_punt_rate_observed": 0.3529,
+      "open_drive_three_and_out_rate_observed": 0.1765,
+      "open_drives_observed": 17,
       "flags": []
     },
     {
@@ -90,6 +100,11 @@
       "punts_per_game": 4.2353,
       "defensive_stop_score": 65.94,
       "games_played": 17,
+      "first_drive_punt_probability": 0.3604,
+      "first_drive_punt_rank": 19,
+      "open_drive_punt_rate_observed": 0.4118,
+      "open_drive_three_and_out_rate_observed": 0.1176,
+      "open_drives_observed": 17,
       "flags": []
     },
     {
@@ -107,6 +122,11 @@
       "punts_per_game": 4.2353,
       "defensive_stop_score": 62.81,
       "games_played": 17,
+      "first_drive_punt_probability": 0.4563,
+      "first_drive_punt_rank": 6,
+      "open_drive_punt_rate_observed": 0.4706,
+      "open_drive_three_and_out_rate_observed": 0.1765,
+      "open_drives_observed": 17,
       "flags": []
     },
     {
@@ -124,6 +144,11 @@
       "punts_per_game": 4.1765,
       "defensive_stop_score": 54.69,
       "games_played": 17,
+      "first_drive_punt_probability": 0.448,
+      "first_drive_punt_rank": 7,
+      "open_drive_punt_rate_observed": 0.4118,
+      "open_drive_three_and_out_rate_observed": 0.3529,
+      "open_drives_observed": 17,
       "flags": []
     },
     {
@@ -141,6 +166,11 @@
       "punts_per_game": 4.4118,
       "defensive_stop_score": 97.19,
       "games_played": 17,
+      "first_drive_punt_probability": 0.4962,
+      "first_drive_punt_rank": 4,
+      "open_drive_punt_rate_observed": 0.3529,
+      "open_drive_three_and_out_rate_observed": 0.3529,
+      "open_drives_observed": 17,
       "flags": []
     },
     {
@@ -158,6 +188,11 @@
       "punts_per_game": 3.8235,
       "defensive_stop_score": 84.06,
       "games_played": 17,
+      "first_drive_punt_probability": 0.4183,
+      "first_drive_punt_rank": 10,
+      "open_drive_punt_rate_observed": 0.2941,
+      "open_drive_three_and_out_rate_observed": 0.1176,
+      "open_drives_observed": 17,
       "flags": []
     },
     {
@@ -175,6 +210,11 @@
       "punts_per_game": 4.1765,
       "defensive_stop_score": 97.81,
       "games_played": 17,
+      "first_drive_punt_probability": 0.4877,
+      "first_drive_punt_rank": 5,
+      "open_drive_punt_rate_observed": 0.3529,
+      "open_drive_three_and_out_rate_observed": 0.1765,
+      "open_drives_observed": 17,
       "flags": []
     },
     {
@@ -192,6 +232,11 @@
       "punts_per_game": 3.6471,
       "defensive_stop_score": 49.69,
       "games_played": 17,
+      "first_drive_punt_probability": 0.4156,
+      "first_drive_punt_rank": 11,
+      "open_drive_punt_rate_observed": 0.3529,
+      "open_drive_three_and_out_rate_observed": 0.1765,
+      "open_drives_observed": 17,
       "flags": []
     },
     {
@@ -209,6 +254,11 @@
       "punts_per_game": 3.6471,
       "defensive_stop_score": 37.19,
       "games_played": 17,
+      "first_drive_punt_probability": 0.3711,
+      "first_drive_punt_rank": 17,
+      "open_drive_punt_rate_observed": 0.4118,
+      "open_drive_three_and_out_rate_observed": 0.2941,
+      "open_drives_observed": 17,
       "flags": []
     },
     {
@@ -226,6 +276,11 @@
       "punts_per_game": 3.4706,
       "defensive_stop_score": 5.0,
       "games_played": 17,
+      "first_drive_punt_probability": 0.3847,
+      "first_drive_punt_rank": 16,
+      "open_drive_punt_rate_observed": 0.3529,
+      "open_drive_three_and_out_rate_observed": 0.1176,
+      "open_drives_observed": 17,
       "flags": []
     },
     {
@@ -243,6 +298,11 @@
       "punts_per_game": 3.8235,
       "defensive_stop_score": 23.75,
       "games_played": 17,
+      "first_drive_punt_probability": 0.3917,
+      "first_drive_punt_rank": 13,
+      "open_drive_punt_rate_observed": 0.4706,
+      "open_drive_three_and_out_rate_observed": 0.2353,
+      "open_drives_observed": 17,
       "flags": []
     },
     {
@@ -260,6 +320,11 @@
       "punts_per_game": 3.7647,
       "defensive_stop_score": 34.22,
       "games_played": 17,
+      "first_drive_punt_probability": 0.3387,
+      "first_drive_punt_rank": 22,
+      "open_drive_punt_rate_observed": 0.4706,
+      "open_drive_three_and_out_rate_observed": 0.1176,
+      "open_drives_observed": 17,
       "flags": []
     },
     {
@@ -277,6 +342,11 @@
       "punts_per_game": 3.3529,
       "defensive_stop_score": 30.47,
       "games_played": 17,
+      "first_drive_punt_probability": 0.3855,
+      "first_drive_punt_rank": 15,
+      "open_drive_punt_rate_observed": 0.3529,
+      "open_drive_three_and_out_rate_observed": 0.3529,
+      "open_drives_observed": 17,
       "flags": []
     },
     {
@@ -294,6 +364,11 @@
       "punts_per_game": 3.2941,
       "defensive_stop_score": 66.88,
       "games_played": 17,
+      "first_drive_punt_probability": 0.5378,
+      "first_drive_punt_rank": 1,
+      "open_drive_punt_rate_observed": 0.5294,
+      "open_drive_three_and_out_rate_observed": 0.3529,
+      "open_drives_observed": 17,
       "flags": []
     },
     {
@@ -311,6 +386,11 @@
       "punts_per_game": 3.7647,
       "defensive_stop_score": 41.88,
       "games_played": 17,
+      "first_drive_punt_probability": 0.3635,
+      "first_drive_punt_rank": 18,
+      "open_drive_punt_rate_observed": 0.5882,
+      "open_drive_three_and_out_rate_observed": 0.4118,
+      "open_drives_observed": 17,
       "flags": []
     },
     {
@@ -328,6 +408,11 @@
       "punts_per_game": 3.4706,
       "defensive_stop_score": 61.56,
       "games_played": 17,
+      "first_drive_punt_probability": 0.2708,
+      "first_drive_punt_rank": 30,
+      "open_drive_punt_rate_observed": 0.2941,
+      "open_drive_three_and_out_rate_observed": 0.2941,
+      "open_drives_observed": 17,
       "flags": []
     },
     {
@@ -345,6 +430,11 @@
       "punts_per_game": 3.3529,
       "defensive_stop_score": 28.44,
       "games_played": 17,
+      "first_drive_punt_probability": 0.3258,
+      "first_drive_punt_rank": 23,
+      "open_drive_punt_rate_observed": 0.2941,
+      "open_drive_three_and_out_rate_observed": 0.1176,
+      "open_drives_observed": 17,
       "flags": []
     },
     {
@@ -362,6 +452,11 @@
       "punts_per_game": 3.2941,
       "defensive_stop_score": 11.56,
       "games_played": 17,
+      "first_drive_punt_probability": 0.4078,
+      "first_drive_punt_rank": 12,
+      "open_drive_punt_rate_observed": 0.4706,
+      "open_drive_three_and_out_rate_observed": 0.2941,
+      "open_drives_observed": 17,
       "flags": []
     },
     {
@@ -379,6 +474,11 @@
       "punts_per_game": 3.2353,
       "defensive_stop_score": 31.56,
       "games_played": 17,
+      "first_drive_punt_probability": 0.3178,
+      "first_drive_punt_rank": 25,
+      "open_drive_punt_rate_observed": 0.2941,
+      "open_drive_three_and_out_rate_observed": 0.1765,
+      "open_drives_observed": 17,
       "flags": []
     },
     {
@@ -396,6 +496,11 @@
       "punts_per_game": 3.5294,
       "defensive_stop_score": 54.69,
       "games_played": 17,
+      "first_drive_punt_probability": 0.4446,
+      "first_drive_punt_rank": 8,
+      "open_drive_punt_rate_observed": 0.5882,
+      "open_drive_three_and_out_rate_observed": 0.4118,
+      "open_drives_observed": 17,
       "flags": []
     },
     {
@@ -413,6 +518,11 @@
       "punts_per_game": 3.5294,
       "defensive_stop_score": 27.19,
       "games_played": 17,
+      "first_drive_punt_probability": 0.3222,
+      "first_drive_punt_rank": 24,
+      "open_drive_punt_rate_observed": 0.4706,
+      "open_drive_three_and_out_rate_observed": 0.4118,
+      "open_drives_observed": 17,
       "flags": []
     },
     {
@@ -430,6 +540,11 @@
       "punts_per_game": 3.1176,
       "defensive_stop_score": 14.06,
       "games_played": 17,
+      "first_drive_punt_probability": 0.2752,
+      "first_drive_punt_rank": 29,
+      "open_drive_punt_rate_observed": 0.3529,
+      "open_drive_three_and_out_rate_observed": 0.1765,
+      "open_drives_observed": 17,
       "flags": []
     },
     {
@@ -447,6 +562,11 @@
       "punts_per_game": 3.2941,
       "defensive_stop_score": 68.59,
       "games_played": 17,
+      "first_drive_punt_probability": 0.3078,
+      "first_drive_punt_rank": 27,
+      "open_drive_punt_rate_observed": 0.3529,
+      "open_drive_three_and_out_rate_observed": 0.1765,
+      "open_drives_observed": 17,
       "flags": []
     },
     {
@@ -464,6 +584,11 @@
       "punts_per_game": 2.8824,
       "defensive_stop_score": 57.5,
       "games_played": 17,
+      "first_drive_punt_probability": 0.3865,
+      "first_drive_punt_rank": 14,
+      "open_drive_punt_rate_observed": 0.2941,
+      "open_drive_three_and_out_rate_observed": 0.1765,
+      "open_drives_observed": 17,
       "flags": []
     },
     {
@@ -481,6 +606,11 @@
       "punts_per_game": 3.0,
       "defensive_stop_score": 79.38,
       "games_played": 17,
+      "first_drive_punt_probability": 0.3421,
+      "first_drive_punt_rank": 21,
+      "open_drive_punt_rate_observed": 0.4118,
+      "open_drive_three_and_out_rate_observed": 0.2353,
+      "open_drives_observed": 17,
       "flags": []
     },
     {
@@ -498,6 +628,11 @@
       "punts_per_game": 2.9412,
       "defensive_stop_score": 74.69,
       "games_played": 17,
+      "first_drive_punt_probability": 0.3581,
+      "first_drive_punt_rank": 20,
+      "open_drive_punt_rate_observed": 0.2941,
+      "open_drive_three_and_out_rate_observed": 0.1176,
+      "open_drives_observed": 17,
       "flags": []
     },
     {
@@ -515,6 +650,11 @@
       "punts_per_game": 2.8824,
       "defensive_stop_score": 85.0,
       "games_played": 17,
+      "first_drive_punt_probability": 0.4252,
+      "first_drive_punt_rank": 9,
+      "open_drive_punt_rate_observed": 0.1765,
+      "open_drive_three_and_out_rate_observed": 0.1176,
+      "open_drives_observed": 17,
       "flags": []
     },
     {
@@ -532,6 +672,11 @@
       "punts_per_game": 2.5882,
       "defensive_stop_score": 17.81,
       "games_played": 17,
+      "first_drive_punt_probability": 0.2361,
+      "first_drive_punt_rank": 32,
+      "open_drive_punt_rate_observed": 0.2353,
+      "open_drive_three_and_out_rate_observed": 0.1176,
+      "open_drives_observed": 17,
       "flags": []
     },
     {
@@ -549,6 +694,11 @@
       "punts_per_game": 2.8824,
       "defensive_stop_score": 75.0,
       "games_played": 17,
+      "first_drive_punt_probability": 0.3106,
+      "first_drive_punt_rank": 26,
+      "open_drive_punt_rate_observed": 0.1765,
+      "open_drive_three_and_out_rate_observed": 0.0588,
+      "open_drives_observed": 17,
       "flags": []
     },
     {
@@ -566,6 +716,11 @@
       "punts_per_game": 2.5294,
       "defensive_stop_score": 52.19,
       "games_played": 17,
+      "first_drive_punt_probability": 0.3015,
+      "first_drive_punt_rank": 28,
+      "open_drive_punt_rate_observed": 0.4118,
+      "open_drive_three_and_out_rate_observed": 0.2353,
+      "open_drives_observed": 17,
       "flags": []
     },
     {
@@ -583,6 +738,11 @@
       "punts_per_game": 2.4118,
       "defensive_stop_score": 17.5,
       "games_played": 17,
+      "first_drive_punt_probability": 0.2454,
+      "first_drive_punt_rank": 31,
+      "open_drive_punt_rate_observed": 0.2353,
+      "open_drive_three_and_out_rate_observed": 0.2353,
+      "open_drives_observed": 17,
       "flags": []
     }
   ],
@@ -763,5 +923,121 @@
       "away_punt_radar_score": 8.12,
       "rank": 16
     }
-  ]
+  ],
+  "first_drive_board": [
+    {
+      "rank": 1,
+      "team": "KC",
+      "opponent": "vs DEN",
+      "kickoff": "Monday 20:15 ET",
+      "first_drive_punt_probability": 0.5378,
+      "punt_rate": 0.3294,
+      "three_and_out_rate": 0.2059,
+      "punts_per_game": 3.2941,
+      "opponent_defensive_stop_rank": 2,
+      "open_drive_punt_rate_observed": 0.5294,
+      "open_drives_observed": 17
+    },
+    {
+      "rank": 2,
+      "team": "CLE",
+      "opponent": "@ JAX",
+      "kickoff": "Sunday 13:00 ET",
+      "first_drive_punt_probability": 0.5197,
+      "punt_rate": 0.4573,
+      "three_and_out_rate": 0.2412,
+      "punts_per_game": 5.3529,
+      "opponent_defensive_stop_rank": 16,
+      "open_drive_punt_rate_observed": 0.6471,
+      "open_drives_observed": 17
+    },
+    {
+      "rank": 3,
+      "team": "TEN",
+      "opponent": "vs NYJ",
+      "kickoff": "Sunday 13:00 ET",
+      "first_drive_punt_probability": 0.5054,
+      "punt_rate": 0.4171,
+      "three_and_out_rate": 0.262,
+      "punts_per_game": 4.5882,
+      "opponent_defensive_stop_rank": 16,
+      "open_drive_punt_rate_observed": 0.3529,
+      "open_drives_observed": 17
+    },
+    {
+      "rank": 4,
+      "team": "DEN",
+      "opponent": "@ KC",
+      "kickoff": "Monday 20:15 ET",
+      "first_drive_punt_probability": 0.4962,
+      "punt_rate": 0.3906,
+      "three_and_out_rate": 0.2448,
+      "punts_per_game": 4.4118,
+      "opponent_defensive_stop_rank": 10,
+      "open_drive_punt_rate_observed": 0.3529,
+      "open_drives_observed": 17
+    },
+    {
+      "rank": 5,
+      "team": "HOU",
+      "opponent": "vs BUF",
+      "kickoff": "Sunday 13:00 ET",
+      "first_drive_punt_probability": 0.4877,
+      "punt_rate": 0.3586,
+      "three_and_out_rate": 0.2121,
+      "punts_per_game": 4.1765,
+      "opponent_defensive_stop_rank": 4,
+      "open_drive_punt_rate_observed": 0.3529,
+      "open_drives_observed": 17
+    },
+    {
+      "rank": 6,
+      "team": "LV",
+      "opponent": "vs MIA",
+      "kickoff": "Sunday 16:25 ET",
+      "first_drive_punt_probability": 0.4563,
+      "punt_rate": 0.3956,
+      "three_and_out_rate": 0.2143,
+      "punts_per_game": 4.2353,
+      "opponent_defensive_stop_rank": 19,
+      "open_drive_punt_rate_observed": 0.4706,
+      "open_drives_observed": 17
+    },
+    {
+      "rank": 7,
+      "team": "NYJ",
+      "opponent": "@ TEN",
+      "kickoff": "Sunday 13:00 ET",
+      "first_drive_punt_probability": 0.448,
+      "punt_rate": 0.3797,
+      "three_and_out_rate": 0.2246,
+      "punts_per_game": 4.1765,
+      "opponent_defensive_stop_rank": 15,
+      "open_drive_punt_rate_observed": 0.4118,
+      "open_drives_observed": 17
+    },
+    {
+      "rank": 8,
+      "team": "JAX",
+      "opponent": "vs CLE",
+      "kickoff": "Sunday 13:00 ET",
+      "first_drive_punt_probability": 0.4446,
+      "punt_rate": 0.3109,
+      "three_and_out_rate": 0.2021,
+      "punts_per_game": 3.5294,
+      "opponent_defensive_stop_rank": 3,
+      "open_drive_punt_rate_observed": 0.5882,
+      "open_drives_observed": 17
+    }
+  ],
+  "first_drive_board_size": 8,
+  "first_drive_method": {
+    "model": "base_rate_odds_ratio",
+    "formula": "p = league opening-drive punt rate x (offense punt rate / league) x (opponent punt-forced rate / league)",
+    "clamp": [
+      0.08,
+      0.8
+    ],
+    "why_not_opening_drive_history": "Opening-drive punt rate persists at 0.080 within season and 0.132 across seasons on ~17 observations per team per season. Ranking on it scored 0.527 AUC, 0.492 in 2025 -- worse than a coin flip. Full-game punt rate persists at 0.417, so it is the honest input for what a team does on any single drive. The observed opening-drive rate is published as context only, in the *_observed fields, and is not ranked on."
+  }
 }

@@ -16,7 +16,7 @@
     "completed_weeks": 0,
     "first_kickoff": "2026-09-09",
     "last_game": "2026-09-14",
-    "generated_at_et": "2026-08-30T12:45:34-04:00",
+    "generated_at_et": "2026-08-31T12:04:18-04:00",
     "label": "2026-week-01"
   },
   "method": {
@@ -63,6 +63,7 @@
       "targets_per_game": 7.5882,
       "snap_share": 0.8174,
       "receptions_per_game": 6.0,
+      "rush_yards_per_game": 70.7059,
       "carries": 311,
       "targets": 129,
       "receptions": 102
@@ -85,6 +86,7 @@
       "targets_per_game": 6.0588,
       "snap_share": 0.7818,
       "receptions_per_game": 4.6471,
+      "rush_yards_per_game": 86.9412,
       "carries": 288,
       "targets": 103,
       "receptions": 79
@@ -107,6 +109,7 @@
       "targets_per_game": 3.2941,
       "snap_share": 0.8259,
       "receptions_per_game": 2.7059,
+      "rush_yards_per_game": 93.2353,
       "carries": 324,
       "targets": 56,
       "receptions": 46
@@ -129,6 +132,7 @@
       "targets_per_game": 4.2941,
       "snap_share": 0.7788,
       "receptions_per_game": 3.2353,
+      "rush_yards_per_game": 57.3529,
       "carries": 267,
       "targets": 73,
       "receptions": 55
@@ -151,6 +155,7 @@
       "targets_per_game": 3.1875,
       "snap_share": 0.7871,
       "receptions_per_game": 2.3125,
+      "rush_yards_per_game": 71.25,
       "carries": 281,
       "targets": 51,
       "receptions": 37
@@ -173,6 +178,7 @@
       "targets_per_game": 5.3125,
       "snap_share": 0.7538,
       "receptions_per_game": 4.1875,
+      "rush_yards_per_game": 84.375,
       "carries": 238,
       "targets": 85,
       "receptions": 67
@@ -195,6 +201,7 @@
       "targets_per_game": 3.5,
       "snap_share": 0.616,
       "receptions_per_game": 3.0,
+      "rush_yards_per_game": 58.8,
       "carries": 173,
       "targets": 35,
       "receptions": 30
@@ -217,6 +224,7 @@
       "targets_per_game": 5.5294,
       "snap_share": 0.67,
       "receptions_per_game": 4.5294,
+      "rush_yards_per_game": 71.9412,
       "carries": 243,
       "targets": 94,
       "receptions": 77
@@ -239,6 +247,7 @@
       "targets_per_game": 3.1875,
       "snap_share": 0.69,
       "receptions_per_game": 2.1875,
+      "rush_yards_per_game": 75.0625,
       "carries": 252,
       "targets": 51,
       "receptions": 35
@@ -261,6 +270,7 @@
       "targets_per_game": 5.2353,
       "snap_share": 0.6659,
       "receptions_per_game": 4.0588,
+      "rush_yards_per_game": 59.9412,
       "carries": 233,
       "targets": 89,
       "receptions": 69
@@ -283,6 +293,7 @@
       "targets_per_game": 3.0588,
       "snap_share": 0.5978,
       "receptions_per_game": 2.1176,
+      "rush_yards_per_game": 65.1176,
       "carries": 260,
       "targets": 52,
       "receptions": 36
@@ -305,6 +316,7 @@
       "targets_per_game": 3.8889,
       "snap_share": 0.574,
       "receptions_per_game": 3.5556,
+      "rush_yards_per_game": 60.5556,
       "carries": 124,
       "targets": 35,
       "receptions": 32
@@ -327,6 +339,7 @@
       "targets_per_game": 2.9412,
       "snap_share": 0.669,
       "receptions_per_game": 2.1176,
+      "rush_yards_per_game": 73.6471,
       "carries": 259,
       "targets": 50,
       "receptions": 36
@@ -349,6 +362,7 @@
       "targets_per_game": 3.0,
       "snap_share": 0.6438,
       "receptions_per_game": 2.25,
+      "rush_yards_per_game": 66.5625,
       "carries": 243,
       "targets": 48,
       "receptions": 36
@@ -371,6 +385,7 @@
       "targets_per_game": 2.9333,
       "snap_share": 0.5931,
       "receptions_per_game": 2.4,
+      "rush_yards_per_game": 61.9333,
       "carries": 234,
       "targets": 44,
       "receptions": 36
@@ -393,6 +408,7 @@
       "targets_per_game": 2.3529,
       "snap_share": 0.5768,
       "receptions_per_game": 1.9412,
+      "rush_yards_per_game": 95.3529,
       "carries": 309,
       "targets": 40,
       "receptions": 33
@@ -415,6 +431,7 @@
       "targets_per_game": 3.5455,
       "snap_share": 0.6373,
       "receptions_per_game": 3.0,
+      "rush_yards_per_game": 42.8182,
       "carries": 131,
       "targets": 39,
       "receptions": 33
@@ -437,6 +454,7 @@
       "targets_per_game": 4.0,
       "snap_share": 0.5225,
       "receptions_per_game": 3.0,
+      "rush_yards_per_game": 51.25,
       "carries": 102,
       "targets": 32,
       "receptions": 24
@@ -459,6 +477,7 @@
       "targets_per_game": 3.0,
       "snap_share": 0.5767,
       "receptions_per_game": 2.125,
+      "rush_yards_per_game": 67.9375,
       "carries": 223,
       "targets": 48,
       "receptions": 34
@@ -481,6 +500,7 @@
       "targets_per_game": 2.5714,
       "snap_share": 0.505,
       "receptions_per_game": 1.8571,
+      "rush_yards_per_game": 59.0714,
       "carries": 231,
       "targets": 36,
       "receptions": 26
@@ -503,6 +523,7 @@
       "targets_per_game": 2.9412,
       "snap_share": 0.5494,
       "receptions_per_game": 2.2941,
+      "rush_yards_per_game": 63.2941,
       "carries": 237,
       "targets": 50,
       "receptions": 39
@@ -525,6 +546,7 @@
       "targets_per_game": 2.4118,
       "snap_share": 0.6247,
       "receptions_per_game": 1.9412,
+      "rush_yards_per_game": 63.6471,
       "carries": 242,
       "targets": 41,
       "receptions": 33
@@ -547,6 +569,7 @@
       "targets_per_game": 3.4167,
       "snap_share": 0.5508,
       "receptions_per_game": 2.3333,
+      "rush_yards_per_game": 45.6667,
       "carries": 132,
       "targets": 41,
       "receptions": 28
@@ -569,6 +592,7 @@
       "targets_per_game": 1.2353,
       "snap_share": 0.5453,
       "receptions_per_game": 0.8824,
+      "rush_yards_per_game": 93.8235,
       "carries": 307,
       "targets": 21,
       "receptions": 15
@@ -591,6 +615,7 @@
       "targets_per_game": 3.2,
       "snap_share": 0.5447,
       "receptions_per_game": 2.4,
+      "rush_yards_per_game": 49.3333,
       "carries": 176,
       "targets": 48,
       "receptions": 36
@@ -613,6 +638,7 @@
       "targets_per_game": 2.8125,
       "snap_share": 0.5047,
       "receptions_per_game": 2.5,
+      "rush_yards_per_game": 59.875,
       "carries": 211,
       "targets": 45,
       "receptions": 40
@@ -635,6 +661,7 @@
       "targets_per_game": 1.4,
       "snap_share": 0.511,
       "receptions_per_game": 1.1,
+      "rush_yards_per_game": 77.2,
       "carries": 153,
       "targets": 14,
       "receptions": 11
@@ -657,6 +684,7 @@
       "targets_per_game": 2.7143,
       "snap_share": 0.6178,
       "receptions_per_game": 2.2857,
+      "rush_yards_per_game": 43.0714,
       "carries": 131,
       "targets": 38,
       "receptions": 32
@@ -679,6 +707,7 @@
       "targets_per_game": 1.8333,
       "snap_share": 0.5721,
       "receptions_per_game": 1.3333,
+      "rush_yards_per_game": 53.5833,
       "carries": 155,
       "targets": 22,
       "receptions": 16
@@ -701,6 +730,7 @@
       "targets_per_game": 2.25,
       "snap_share": 0.535,
       "receptions_per_game": 1.5,
+      "rush_yards_per_game": 43.9375,
       "carries": 196,
       "targets": 36,
       "receptions": 24
@@ -723,6 +753,7 @@
       "targets_per_game": 2.1176,
       "snap_share": 0.4935,
       "receptions_per_game": 1.8235,
+      "rush_yards_per_game": 60.4118,
       "carries": 221,
       "targets": 36,
       "receptions": 31
@@ -745,6 +776,7 @@
       "targets_per_game": 4.0,
       "snap_share": 0.4825,
       "receptions_per_game": 3.25,
+      "rush_yards_per_game": 40.0,
       "carries": 29,
       "targets": 16,
       "receptions": 13
@@ -767,6 +799,7 @@
       "targets_per_game": 3.4118,
       "snap_share": 0.4374,
       "receptions_per_game": 2.7647,
+      "rush_yards_per_game": 31.7647,
       "carries": 147,
       "targets": 58,
       "receptions": 47
@@ -789,6 +822,7 @@
       "targets_per_game": 5.0,
       "snap_share": 0.5,
       "receptions_per_game": 4.2941,
+      "rush_yards_per_game": 31.5882,
       "carries": 114,
       "targets": 85,
       "receptions": 73
@@ -811,6 +845,7 @@
       "targets_per_game": 2.4706,
       "snap_share": 0.4305,
       "receptions_per_game": 2.0588,
+      "rush_yards_per_game": 53.5882,
       "carries": 180,
       "targets": 42,
       "receptions": 35
@@ -833,6 +868,7 @@
       "targets_per_game": 1.5,
       "snap_share": 0.4641,
       "receptions_per_game": 1.25,
+      "rush_yards_per_game": 45.625,
       "carries": 185,
       "targets": 24,
       "receptions": 20
@@ -855,6 +891,7 @@
       "targets_per_game": 3.4615,
       "snap_share": 0.4523,
       "receptions_per_game": 2.5385,
+      "rush_yards_per_game": 25.6154,
       "carries": 92,
       "targets": 45,
       "receptions": 33
@@ -877,6 +914,7 @@
       "targets_per_game": 3.8462,
       "snap_share": 0.4592,
       "receptions_per_game": 3.4615,
+      "rush_yards_per_game": 21.7692,
       "carries": 72,
       "targets": 50,
       "receptions": 45
@@ -899,6 +937,7 @@
       "targets_per_game": 2.6,
       "snap_share": 0.4675,
       "receptions_per_game": 2.0,
+      "rush_yards_per_game": 34.0667,
       "carries": 135,
       "targets": 39,
       "receptions": 30
@@ -921,6 +960,7 @@
       "targets_per_game": 1.875,
       "snap_share": 0.4095,
       "receptions_per_game": 1.125,
+      "rush_yards_per_game": 48.9375,
       "carries": 171,
       "targets": 30,
       "receptions": 18
@@ -943,6 +983,7 @@
       "targets_per_game": 3.1,
       "snap_share": 0.3308,
       "receptions_per_game": 2.2,
+      "rush_yards_per_game": 26.9,
       "carries": 83,
       "targets": 31,
       "receptions": 22
@@ -965,6 +1006,7 @@
       "targets_per_game": 2.0,
       "snap_share": 0.5169,
       "receptions_per_game": 1.4615,
+      "rush_yards_per_game": 35.5385,
       "carries": 118,
       "targets": 26,
       "receptions": 19
@@ -987,6 +1029,7 @@
       "targets_per_game": 2.6471,
       "snap_share": 0.5106,
       "receptions_per_game": 2.3529,
+      "rush_yards_per_game": 33.6471,
       "carries": 133,
       "targets": 45,
       "receptions": 40
@@ -1009,6 +1052,7 @@
       "targets_per_game": 2.6,
       "snap_share": 0.3929,
       "receptions_per_game": 2.4,
+      "rush_yards_per_game": 39.6,
       "carries": 46,
       "targets": 13,
       "receptions": 12
@@ -1031,6 +1075,7 @@
       "targets_per_game": 1.4706,
       "snap_share": 0.4706,
       "receptions_per_game": 1.0588,
+      "rush_yards_per_game": 35.9412,
       "carries": 163,
       "targets": 25,
       "receptions": 18
@@ -1053,6 +1098,7 @@
       "targets_per_game": 1.75,
       "snap_share": 0.3,
       "receptions_per_game": 1.75,
+      "rush_yards_per_game": 48.25,
       "carries": 43,
       "targets": 7,
       "receptions": 7
@@ -1075,6 +1121,7 @@
       "targets_per_game": 1.7059,
       "snap_share": 0.3706,
       "receptions_per_game": 1.4118,
+      "rush_yards_per_game": 42.1176,
       "carries": 159,
       "targets": 29,
       "receptions": 24
@@ -1097,6 +1144,7 @@
       "targets_per_game": 1.0,
       "snap_share": 0.4275,
       "receptions_per_game": 0.875,
+      "rush_yards_per_game": 47.375,
       "carries": 159,
       "targets": 16,
       "receptions": 14
@@ -1119,6 +1167,7 @@
       "targets_per_game": 0.7647,
       "snap_share": 0.3947,
       "receptions_per_game": 0.5294,
+      "rush_yards_per_game": 47.3529,
       "carries": 176,
       "targets": 13,
       "receptions": 9
@@ -1141,6 +1190,7 @@
       "targets_per_game": 2.375,
       "snap_share": 0.4,
       "receptions_per_game": 2.125,
+      "rush_yards_per_game": 25.75,
       "carries": 57,
       "targets": 19,
       "receptions": 17
@@ -1163,6 +1213,7 @@
       "targets_per_game": 0.3333,
       "snap_share": 0.3123,
       "receptions_per_game": 0.25,
+      "rush_yards_per_game": 41.6667,
       "carries": 112,
       "targets": 4,
       "receptions": 3
@@ -1185,6 +1236,7 @@
       "targets_per_game": 1.3333,
       "snap_share": 0.3182,
       "receptions_per_game": 0.8667,
+      "rush_yards_per_game": 33.7333,
       "carries": 122,
       "targets": 20,
       "receptions": 13
@@ -1207,6 +1259,7 @@
       "targets_per_game": 0.8235,
       "snap_share": 0.3035,
       "receptions_per_game": 0.4706,
+      "rush_yards_per_game": 43.8824,
       "carries": 145,
       "targets": 14,
       "receptions": 8
@@ -1229,6 +1282,7 @@
       "targets_per_game": 1.125,
       "snap_share": 0.3039,
       "receptions_per_game": 0.9375,
+      "rush_yards_per_game": 31.0,
       "carries": 125,
       "targets": 18,
       "receptions": 15
@@ -1251,6 +1305,7 @@
       "targets_per_game": 0.9412,
       "snap_share": 0.3024,
       "receptions_per_game": 0.8235,
+      "rush_yards_per_game": 30.2353,
       "carries": 143,
       "targets": 16,
       "receptions": 14
@@ -1273,6 +1328,7 @@
       "targets_per_game": 1.0,
       "snap_share": 0.215,
       "receptions_per_game": 0.5556,
+      "rush_yards_per_game": 32.0,
       "carries": 70,
       "targets": 9,
       "receptions": 5
@@ -1295,6 +1351,7 @@
       "targets_per_game": 1.1176,
       "snap_share": 0.2765,
       "receptions_per_game": 1.0588,
+      "rush_yards_per_game": 25.7059,
       "carries": 119,
       "targets": 19,
       "receptions": 18

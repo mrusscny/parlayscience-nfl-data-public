@@ -1,0 +1,342 @@
+{
+  "concept": "all_in_one",
+  "title": "All In One Stat Sheet",
+  "primary_markets": [
+    "Anytime TD",
+    "Passing Yards",
+    "Rush Yards",
+    "Receiving Yards"
+  ],
+  "week": {
+    "season": 2026,
+    "week": 1,
+    "prior_season": 2025,
+    "is_preseason": true,
+    "completed_weeks": 0,
+    "first_kickoff": "2026-09-09",
+    "last_game": "2026-09-14",
+    "generated_at_et": "2026-09-02T14:52:32-04:00",
+    "label": "2026-week-01"
+  },
+  "method": {
+    "structure": "four categories, four picks each",
+    "derivation": "Digest. Touchdown/Rushing/Receiving inherit eligibility from touchdown_radar, rb_spotlight and wr_spotlight and are re-ranked on the market-specific rate. Passing Yards is built here from _passer_metrics; no V1 concept produced it.",
+    "scoring_mode": "generated_target",
+    "scoring_caveat": "Targets are GENERATED, not pulled from a sportsbook. Each is the largest rung on the market's ladder that the projection clears with probability >= p_target, under a lognormal fitted to the player's own mean and shrunk per-game spread. No book has confirmed these numbers: book_line is null and book_verified is false on every pick. A target no book offers cannot be bet, so wire src/sources/odds.py before presenting these as playable.",
+    "p_target": {
+      "pass_yards": 0.7,
+      "rush_yards": 0.7,
+      "rec_yards": 0.7
+    },
+    "target_grid_step": {
+      "pass_yards": 25.0,
+      "rush_yards": 10.0,
+      "rec_yards": 10.0
+    },
+    "distribution": "lognormal by method of moments; Poisson for Anytime TD. scipy is not a dependency, so the survival function is math.erfc and the ladder is scanned rather than inverted.",
+    "variance": {
+      "source": "nfl_data.get_player_stats (weekly box scores)",
+      "seasons_pooled": [
+        2025,
+        2026
+      ],
+      "shrink_k": 4,
+      "markets": {
+        "pass_yards": "UNAVAILABLE: ConnectionError: Failed to download https://github.com/nflverse/nflverse-data/releases/download/stats_player/stats_player_week_2026.parquet: 404 Client Error: Not Found for url: https://github.com/nflverse/nflverse-data/releases/download/stats_player/stats_player_week_2026.parquet",
+        "rush_yards": "UNAVAILABLE: ConnectionError: Failed to download https://github.com/nflverse/nflverse-data/releases/download/stats_player/stats_player_week_2026.parquet: 404 Client Error: Not Found for url: https://github.com/nflverse/nflverse-data/releases/download/stats_player/stats_player_week_2026.parquet",
+        "rec_yards": "UNAVAILABLE: ConnectionError: Failed to download https://github.com/nflverse/nflverse-data/releases/download/stats_player/stats_player_week_2026.parquet: 404 Client Error: Not Found for url: https://github.com/nflverse/nflverse-data/releases/download/stats_player/stats_player_week_2026.parquet"
+      }
+    },
+    "backtested": false,
+    "backtest_note": "Unlike the five V1 concepts, this sheet has not been measured against holdout weeks. Do not present its ordering as validated.",
+    "weights": {
+      "touchdown": {
+        "xtd_per_game": 1.0
+      },
+      "passing_yards": {
+        "pass_yards_pg": 1.0
+      },
+      "rushing_yards": {
+        "rush_yards_pg": 1.0
+      },
+      "receiving_yards": {
+        "rec_yards_pg": 1.0
+      }
+    },
+    "blend": {
+      "prior": 1.0,
+      "current": 0.0
+    },
+    "constraints": {
+      "max_per_team": 2,
+      "cross_category_dedupe": true,
+      "category_priority": [
+        "touchdown",
+        "passing_yards",
+        "rushing_yards",
+        "receiving_yards"
+      ],
+      "rookie_policy": "inherit",
+      "rookie_note": "Inherited. Three of four categories take their pool from boards that already applied ROOKIE_ELIGIBLE_WEEK=3, so rookies cannot be admitted early without changing SpotlightConfig -- shared code the live sheets depend on. Only Passing Yards is gated here."
+    },
+    "qb_eligibility": {
+      "min_games_played": 4,
+      "min_pass_attempts_pg": 18.0,
+      "validated": false
+    }
+  },
+  "sources_unavailable": {},
+  "categories": [
+    {
+      "key": "touchdown",
+      "label": "TOUCHDOWN",
+      "market": "Anytime TD",
+      "unit": "touchdowns",
+      "picks_shown": 4,
+      "source_concept": "touchdown_radar",
+      "total_eligible": 303,
+      "picks": [
+        {
+          "player_id": "00-0031381",
+          "player_name": "D.Adams",
+          "player_full_name": "Davante Adams",
+          "team": "LA",
+          "position": "WR",
+          "opponent": "vs SF",
+          "kickoff": "Thursday 20:35 ET",
+          "line": 0.5,
+          "side": "over",
+          "projection": 1.03,
+          "hit_probability": 0.6432,
+          "cushion_sigmas": null,
+          "cushion_yards": null,
+          "sigma": null,
+          "book_line": null,
+          "book_verified": false,
+          "injury_flag": "",
+          "flags": [],
+          "on_graphic": true
+        },
+        {
+          "player_id": "00-0033280",
+          "player_name": "C.McCaffrey",
+          "player_full_name": "Christian McCaffrey",
+          "team": "SF",
+          "position": "RB",
+          "opponent": "@ LA",
+          "kickoff": "Thursday 20:35 ET",
+          "line": 0.5,
+          "side": "over",
+          "projection": 0.79,
+          "hit_probability": 0.5479,
+          "cushion_sigmas": null,
+          "cushion_yards": null,
+          "sigma": null,
+          "book_line": null,
+          "book_verified": false,
+          "injury_flag": "",
+          "flags": [],
+          "on_graphic": true
+        },
+        {
+          "player_id": "00-0039067",
+          "player_name": "R.Rice",
+          "player_full_name": "Rashee Rice",
+          "team": "KC",
+          "position": "WR",
+          "opponent": "vs DEN",
+          "kickoff": "Monday 20:15 ET",
+          "line": 0.5,
+          "side": "over",
+          "projection": 0.65,
+          "hit_probability": 0.4803,
+          "cushion_sigmas": null,
+          "cushion_yards": null,
+          "sigma": null,
+          "book_line": null,
+          "book_verified": false,
+          "injury_flag": "",
+          "flags": [],
+          "on_graphic": true
+        },
+        {
+          "player_id": "00-0036223",
+          "player_name": "J.Taylor",
+          "player_full_name": "Jonathan Taylor",
+          "team": "IND",
+          "position": "RB",
+          "opponent": "vs BAL",
+          "kickoff": "Sunday 13:00 ET",
+          "line": 0.5,
+          "side": "over",
+          "projection": 0.59,
+          "hit_probability": 0.4469,
+          "cushion_sigmas": null,
+          "cushion_yards": null,
+          "sigma": null,
+          "book_line": null,
+          "book_verified": false,
+          "injury_flag": "",
+          "flags": [],
+          "on_graphic": true
+        },
+        {
+          "player_id": "00-0032764",
+          "player_name": "D.Henry",
+          "player_full_name": "Derrick Henry",
+          "team": "BAL",
+          "position": "RB",
+          "opponent": "@ IND",
+          "kickoff": "Sunday 13:00 ET",
+          "line": 0.5,
+          "side": "over",
+          "projection": 0.57,
+          "hit_probability": 0.4322,
+          "cushion_sigmas": null,
+          "cushion_yards": null,
+          "sigma": null,
+          "book_line": null,
+          "book_verified": false,
+          "injury_flag": "",
+          "flags": [],
+          "on_graphic": false
+        },
+        {
+          "player_id": "00-0039338",
+          "player_name": "B.Bowers",
+          "player_full_name": "Brock Bowers",
+          "team": "LV",
+          "position": "TE",
+          "opponent": "vs MIA",
+          "kickoff": "Sunday 16:25 ET",
+          "line": 0.5,
+          "side": "over",
+          "projection": 0.56,
+          "hit_probability": 0.4263,
+          "cushion_sigmas": null,
+          "cushion_yards": null,
+          "sigma": null,
+          "book_line": null,
+          "book_verified": false,
+          "injury_flag": "",
+          "flags": [],
+          "on_graphic": false
+        },
+        {
+          "player_id": "00-0037744",
+          "player_name": "T.McBride",
+          "player_full_name": "Trey McBride",
+          "team": "ARI",
+          "position": "TE",
+          "opponent": "@ LAC",
+          "kickoff": "Sunday 16:25 ET",
+          "line": 0.5,
+          "side": "over",
+          "projection": 0.55,
+          "hit_probability": 0.4208,
+          "cushion_sigmas": null,
+          "cushion_yards": null,
+          "sigma": null,
+          "book_line": null,
+          "book_verified": false,
+          "injury_flag": "",
+          "flags": [],
+          "on_graphic": false
+        },
+        {
+          "player_id": "00-0037247",
+          "player_name": "G.Pickens",
+          "player_full_name": "George Pickens",
+          "team": "DAL",
+          "position": "WR",
+          "opponent": "@ NYG",
+          "kickoff": "Sunday 20:20 ET",
+          "line": 0.5,
+          "side": "over",
+          "projection": 0.53,
+          "hit_probability": 0.4131,
+          "cushion_sigmas": null,
+          "cushion_yards": null,
+          "sigma": null,
+          "book_line": null,
+          "book_verified": false,
+          "injury_flag": "",
+          "flags": [],
+          "on_graphic": false
+        },
+        {
+          "player_id": "00-0035700",
+          "player_name": "J.Jacobs",
+          "player_full_name": "Josh Jacobs",
+          "team": "GB",
+          "position": "RB",
+          "opponent": "@ MIN",
+          "kickoff": "Sunday 16:25 ET",
+          "line": 0.5,
+          "side": "over",
+          "projection": 0.53,
+          "hit_probability": 0.4119,
+          "cushion_sigmas": null,
+          "cushion_yards": null,
+          "sigma": null,
+          "book_line": null,
+          "book_verified": false,
+          "injury_flag": "",
+          "flags": [],
+          "on_graphic": false
+        },
+        {
+          "player_id": "00-0036963",
+          "player_name": "A.St. Brown",
+          "player_full_name": "Amon-Ra St. Brown",
+          "team": "DET",
+          "position": "WR",
+          "opponent": "vs NO",
+          "kickoff": "Sunday 13:00 ET",
+          "line": 0.5,
+          "side": "over",
+          "projection": 0.53,
+          "hit_probability": 0.4109,
+          "cushion_sigmas": null,
+          "cushion_yards": null,
+          "sigma": null,
+          "book_line": null,
+          "book_verified": false,
+          "injury_flag": "",
+          "flags": [],
+          "on_graphic": false
+        }
+      ]
+    },
+    {
+      "key": "passing_yards",
+      "label": "PASSING YARDS",
+      "market": "Passing Yards",
+      "unit": "yards",
+      "picks_shown": 4,
+      "source_concept": "_passer_metrics",
+      "total_eligible": 0,
+      "picks": []
+    },
+    {
+      "key": "rushing_yards",
+      "label": "RUSHING YARDS",
+      "market": "Rush Yards",
+      "unit": "yards",
+      "picks_shown": 4,
+      "source_concept": "rb_spotlight",
+      "total_eligible": 0,
+      "picks": []
+    },
+    {
+      "key": "receiving_yards",
+      "label": "RECEIVING YARDS",
+      "market": "Receiving Yards",
+      "unit": "yards",
+      "picks_shown": 4,
+      "source_concept": "wr_spotlight",
+      "total_eligible": 0,
+      "picks": []
+    }
+  ]
+}

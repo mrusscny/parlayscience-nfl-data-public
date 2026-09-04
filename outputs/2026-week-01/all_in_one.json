@@ -15,7 +15,7 @@
     "completed_weeks": 0,
     "first_kickoff": "2026-09-09",
     "last_game": "2026-09-14",
-    "generated_at_et": "2026-09-04T12:33:22-04:00",
+    "generated_at_et": "2026-09-04T12:39:17-04:00",
     "label": "2026-week-01"
   },
   "method": {
@@ -40,7 +40,7 @@
     },
     "started_games_excluded": true,
     "started_games_note": "Week 1 opens on a Wednesday, so by the Sunday run the Wed/Thu/Sat props are already settled. Players whose kickoff has passed are excluded outright.",
-    "generated_at_et": "2026-09-04T12:33:29-04:00",
+    "generated_at_et": "2026-09-04T12:39:26-04:00",
     "p_target": {
       "pass_yards": 0.7,
       "rush_yards": 0.7,
@@ -499,7 +499,7 @@
           "book_line": 199.5,
           "book_ticker": "KXNFLPASSYDS-26SEP09NESEA-NEDMAYE10-200",
           "book_verified": true,
-          "market_implied_probability": 0.655,
+          "market_implied_probability": 0.65,
           "injury_flag": "",
           "flags": [],
           "on_graphic": true
@@ -810,7 +810,7 @@
           "player_id": "00-0039040",
           "player_name": "D.Achane",
           "player_full_name": "De'Von Achane",
-          "first_name": "Devon",
+          "first_name": "De'Von",
           "last_name": "Achane",
           "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/xk1xwio0bryfxo1ylweu",
           "team_variant": "Dolphins",

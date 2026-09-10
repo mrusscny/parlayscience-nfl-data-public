@@ -39,10 +39,10 @@
     {
       "source": "injuries_2026",
       "ok": true,
-      "rows": 0,
+      "rows": 139,
       "missing_cols": [],
       "error": null,
-      "note": "not yet published by nflverse (expected in preseason)"
+      "note": "published"
     }
   ]
 }

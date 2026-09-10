@@ -15,7 +15,7 @@
     "completed_weeks": 0,
     "first_kickoff": "2026-09-09",
     "last_game": "2026-09-14",
-    "generated_at_et": "2026-09-09T12:43:36-04:00",
+    "generated_at_et": "2026-09-10T12:29:46-04:00",
     "label": "2026-week-01"
   },
   "method": {
@@ -144,7 +144,7 @@
       "opponent": "@ LV",
       "opponent_offense": "LV",
       "kickoff": "Sunday 16:25 ET",
-      "vulnerability_score": 84.69,
+      "vulnerability_score": 84.38,
       "games_played": 17,
       "matchup_signal_rho": 0.034,
       "flags": [],
@@ -306,7 +306,7 @@
       "opponent": "@ SEA",
       "opponent_offense": "SEA",
       "kickoff": "Wednesday 20:20 ET",
-      "vulnerability_score": 57.03,
+      "vulnerability_score": 57.34,
       "games_played": 17,
       "matchup_signal_rho": 0.034,
       "flags": [],
@@ -635,7 +635,7 @@
       "matchup_signal_rho": 0.034,
       "flags": [],
       "receptions_allowed": 10.057,
-      "receptions_allowed_unadjusted": 10.176,
+      "receptions_allowed_unadjusted": 10.177,
       "rec_yards_allowed": 110.394,
       "rec_yards_allowed_unadjusted": 111.706,
       "rec_tds_allowed": 0.698,
@@ -2329,9 +2329,9 @@
       "pass_yards_allowed": 192.342,
       "pass_yards_allowed_unadjusted": 212.882,
       "pass_tds_allowed": 1.063,
-      "pass_tds_allowed_unadjusted": 1.176,
+      "pass_tds_allowed_unadjusted": 1.177,
       "qb_rush_yards_allowed": 21.073,
-      "qb_rush_yards_allowed_unadjusted": 17.176
+      "qb_rush_yards_allowed_unadjusted": 17.177
     },
     {
       "position": "QB",

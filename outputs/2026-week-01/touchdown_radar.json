@@ -9,7 +9,7 @@
     "completed_weeks": 0,
     "first_kickoff": "2026-09-09",
     "last_game": "2026-09-14",
-    "generated_at_et": "2026-09-11T16:02:36-04:00",
+    "generated_at_et": "2026-09-11T16:24:44-04:00",
     "label": "2026-week-01"
   },
   "method": {
@@ -60,6 +60,7 @@
       "position": "WR",
       "opponent": "vs SF",
       "kickoff": "Thursday 20:35 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/tdzluk4xau3arxqk9zsl",
       "xtd_per_game": 1.0307,
       "anytime_td_prob": 0.6432,
       "trend": {
@@ -109,6 +110,7 @@
       "position": "RB",
       "opponent": "@ LA",
       "kickoff": "Thursday 20:35 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/st82s2ytyzanatcmkqck",
       "xtd_per_game": 0.7938,
       "anytime_td_prob": 0.5479,
       "trend": {
@@ -158,6 +160,7 @@
       "position": "WR",
       "opponent": "vs DEN",
       "kickoff": "Monday 20:15 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/qhkbqrydjeur8zvrrmfl",
       "xtd_per_game": 0.6545,
       "anytime_td_prob": 0.4803,
       "trend": {
@@ -207,6 +210,7 @@
       "position": "RB",
       "opponent": "vs BAL",
       "kickoff": "Sunday 13:00 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/yw46ky6akdm7h7siofu8",
       "xtd_per_game": 0.5922,
       "anytime_td_prob": 0.4469,
       "trend": {
@@ -256,6 +260,7 @@
       "position": "RB",
       "opponent": "@ IND",
       "kickoff": "Sunday 13:00 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/tm79x0iknqg6hms3ypyt",
       "xtd_per_game": 0.5659,
       "anytime_td_prob": 0.4322,
       "trend": {
@@ -305,6 +310,7 @@
       "position": "TE",
       "opponent": "vs MIA",
       "kickoff": "Sunday 16:25 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/waorceny0ggpaeckaol8",
       "xtd_per_game": 0.5556,
       "anytime_td_prob": 0.4263,
       "trend": {
@@ -354,6 +360,7 @@
       "position": "TE",
       "opponent": "@ LAC",
       "kickoff": "Sunday 16:25 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/psasp10nn5pcvkli9kil",
       "xtd_per_game": 0.5461,
       "anytime_td_prob": 0.4208,
       "trend": {
@@ -403,6 +410,7 @@
       "position": "WR",
       "opponent": "@ NYG",
       "kickoff": "Sunday 20:20 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/cbpyykoguf7rsxezqzvk",
       "xtd_per_game": 0.5329,
       "anytime_td_prob": 0.4131,
       "trend": {
@@ -452,6 +460,7 @@
       "position": "RB",
       "opponent": "@ MIN",
       "kickoff": "Sunday 16:25 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/uceokxeo0uqrqms3e3vl",
       "xtd_per_game": 0.5308,
       "anytime_td_prob": 0.4119,
       "trend": {
@@ -501,6 +510,7 @@
       "position": "WR",
       "opponent": "vs NO",
       "kickoff": "Sunday 13:00 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/fd8nwhm6pvxfyzphzl6i",
       "xtd_per_game": 0.5292,
       "anytime_td_prob": 0.4109,
       "trend": {
@@ -550,6 +560,7 @@
       "position": "RB",
       "opponent": "@ NYG",
       "kickoff": "Sunday 20:20 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/xvwroirev2kie6oiphtz",
       "xtd_per_game": 0.5181,
       "anytime_td_prob": 0.4043,
       "trend": {
@@ -599,6 +610,7 @@
       "position": "WR",
       "opponent": "vs DAL",
       "kickoff": "Sunday 20:20 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/w3edoyyuomqlovvp9ixc",
       "xtd_per_game": 0.5153,
       "anytime_td_prob": 0.4027,
       "trend": {
@@ -648,6 +660,7 @@
       "position": "WR",
       "opponent": "vs BUF",
       "kickoff": "Sunday 13:00 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/fguybjrn1kwflxm5szwq",
       "xtd_per_game": 0.5037,
       "anytime_td_prob": 0.3957,
       "trend": {
@@ -697,6 +710,7 @@
       "position": "RB",
       "opponent": "vs NE",
       "kickoff": "Wednesday 20:20 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/cuuyog0lpxfaj0y0huvp",
       "xtd_per_game": 0.4978,
       "anytime_td_prob": 0.3921,
       "trend": {
@@ -746,6 +760,7 @@
       "position": "WR",
       "opponent": "vs GB",
       "kickoff": "Sunday 16:25 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/htjevkugzk6ietrjysny",
       "xtd_per_game": 0.4943,
       "anytime_td_prob": 0.39,
       "trend": {
@@ -795,6 +810,7 @@
       "position": "WR",
       "opponent": "@ LAC",
       "kickoff": "Sunday 16:25 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/hwpoo1icpnh8emjvqaii",
       "xtd_per_game": 0.4866,
       "anytime_td_prob": 0.3853,
       "trend": {
@@ -844,6 +860,7 @@
       "position": "RB",
       "opponent": "vs CLE",
       "kickoff": "Sunday 13:00 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/pwko5dybmjie8qqo4qz2",
       "xtd_per_game": 0.4803,
       "anytime_td_prob": 0.3814,
       "trend": {
@@ -893,6 +910,7 @@
       "position": "RB",
       "opponent": "vs SF",
       "kickoff": "Thursday 20:35 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/xti3pek6rmojqchakxpy",
       "xtd_per_game": 0.4741,
       "anytime_td_prob": 0.3776,
       "trend": {
@@ -942,6 +960,7 @@
       "position": "RB",
       "opponent": "vs WAS",
       "kickoff": "Sunday 16:25 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/qcayrzjpura2zydszonh",
       "xtd_per_game": 0.463,
       "anytime_td_prob": 0.3706,
       "trend": {
@@ -991,6 +1010,7 @@
       "position": "WR",
       "opponent": "@ NYG",
       "kickoff": "Sunday 20:20 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/mbblzwtynxr15ovzkevi",
       "xtd_per_game": 0.4504,
       "anytime_td_prob": 0.3626,
       "trend": {
@@ -1040,6 +1060,7 @@
       "position": "TE",
       "opponent": "@ LV",
       "kickoff": "Sunday 16:25 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/loyehiyzcu2lexjk7plq",
       "xtd_per_game": 0.4463,
       "anytime_td_prob": 0.36,
       "trend": {
@@ -1089,6 +1110,7 @@
       "position": "RB",
       "opponent": "vs TB",
       "kickoff": "Sunday 13:00 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/tch3y6jlj7khvyi9jg0c",
       "xtd_per_game": 0.4402,
       "anytime_td_prob": 0.3561,
       "trend": {
@@ -1138,6 +1160,7 @@
       "position": "TE",
       "opponent": "@ NYG",
       "kickoff": "Sunday 20:20 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/xpykb0tbosfwsn6dqstb",
       "xtd_per_game": 0.4373,
       "anytime_td_prob": 0.3542,
       "trend": {
@@ -1187,6 +1210,7 @@
       "position": "WR",
       "opponent": "@ PIT",
       "kickoff": "Sunday 13:00 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/mcllowcfrmmdeo4zy3g1",
       "xtd_per_game": 0.4371,
       "anytime_td_prob": 0.3541,
       "trend": {
@@ -1236,6 +1260,7 @@
       "position": "WR",
       "opponent": "@ CAR",
       "kickoff": "Sunday 13:00 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/niewdl2p2325kpohbw9v",
       "xtd_per_game": 0.436,
       "anytime_td_prob": 0.3534,
       "trend": {
@@ -1285,6 +1310,7 @@
       "position": "RB",
       "opponent": "@ PHI",
       "kickoff": "Sunday 16:25 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/pknd5uajvpvfd8c744im",
       "xtd_per_game": 0.4328,
       "anytime_td_prob": 0.3513,
       "trend": {
@@ -1334,6 +1360,7 @@
       "position": "WR",
       "opponent": "@ LA",
       "kickoff": "Thursday 20:35 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/zc4ujpmndyxrbiyyjomz",
       "xtd_per_game": 0.4233,
       "anytime_td_prob": 0.3451,
       "trend": {
@@ -1383,6 +1410,7 @@
       "position": "WR",
       "opponent": "@ KC",
       "kickoff": "Monday 20:15 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/kqwmqcrlrwmqcvfuguhs",
       "xtd_per_game": 0.4163,
       "anytime_td_prob": 0.3405,
       "trend": {
@@ -1432,6 +1460,7 @@
       "position": "RB",
       "opponent": "vs ARI",
       "kickoff": "Sunday 16:25 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/lf2jxvxnbexlinoydbej",
       "xtd_per_game": 0.4056,
       "anytime_td_prob": 0.3334,
       "trend": {
@@ -1481,6 +1510,7 @@
       "position": "RB",
       "opponent": "vs ATL",
       "kickoff": "Sunday 13:00 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/dkiteytgnxar1mpaxcxv",
       "xtd_per_game": 0.4014,
       "anytime_td_prob": 0.3306,
       "trend": {
@@ -1530,6 +1560,7 @@
       "position": "WR",
       "opponent": "@ KC",
       "kickoff": "Monday 20:15 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/wgfbgxjntyqzojpizgaj",
       "xtd_per_game": 0.3979,
       "anytime_td_prob": 0.3283,
       "trend": {
@@ -1579,6 +1610,7 @@
       "position": "WR",
       "opponent": "@ LA",
       "kickoff": "Thursday 20:35 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ben8kbygzzlid6ltmdum",
       "xtd_per_game": 0.3971,
       "anytime_td_prob": 0.3277,
       "trend": {
@@ -1628,6 +1660,7 @@
       "position": "WR",
       "opponent": "vs TB",
       "kickoff": "Sunday 13:00 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/gpwtyv3viwy9q4ewderl",
       "xtd_per_game": 0.3962,
       "anytime_td_prob": 0.3271,
       "trend": {
@@ -1677,6 +1710,7 @@
       "position": "RB",
       "opponent": "@ HOU",
       "kickoff": "Sunday 13:00 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/anjbznqb9i21wzcgrtbs",
       "xtd_per_game": 0.3954,
       "anytime_td_prob": 0.3266,
       "trend": {
@@ -1726,6 +1760,7 @@
       "position": "RB",
       "opponent": "vs DAL",
       "kickoff": "Sunday 20:20 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/hlggiqdfvj1f4kntkafr",
       "xtd_per_game": 0.3934,
       "anytime_td_prob": 0.3252,
       "trend": {
@@ -1775,6 +1810,7 @@
       "position": "TE",
       "opponent": "@ IND",
       "kickoff": "Sunday 13:00 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/u4xzz7tclch0tpzm9hhz",
       "xtd_per_game": 0.3916,
       "anytime_td_prob": 0.324,
       "trend": {
@@ -1824,6 +1860,7 @@
       "position": "RB",
       "opponent": "@ LAC",
       "kickoff": "Sunday 16:25 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/mjxnlzlnnwlfqayeybut",
       "xtd_per_game": 0.3859,
       "anytime_td_prob": 0.3202,
       "trend": {
@@ -1873,6 +1910,7 @@
       "position": "WR",
       "opponent": "@ CAR",
       "kickoff": "Sunday 13:00 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/lsavpxtqoqu25emwcnvy",
       "xtd_per_game": 0.3839,
       "anytime_td_prob": 0.3188,
       "trend": {
@@ -1922,6 +1960,7 @@
       "position": "RB",
       "opponent": "vs NO",
       "kickoff": "Sunday 13:00 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/cursejnmmp1i9hnxihkj",
       "xtd_per_game": 0.3823,
       "anytime_td_prob": 0.3177,
       "trend": {
@@ -1971,6 +2010,7 @@
       "position": "WR",
       "opponent": "@ DET",
       "kickoff": "Sunday 13:00 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/onmxufsprtvglhejg94o",
       "xtd_per_game": 0.382,
       "anytime_td_prob": 0.3175,
       "trend": {
@@ -2020,6 +2060,7 @@
       "position": "WR",
       "opponent": "vs ATL",
       "kickoff": "Sunday 13:00 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/kxql4sjfelubhxawu2zh",
       "xtd_per_game": 0.3748,
       "anytime_td_prob": 0.3126,
       "trend": {
@@ -2069,6 +2110,7 @@
       "position": "RB",
       "opponent": "@ CAR",
       "kickoff": "Sunday 13:00 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/owpmwzoilitcodc6cmxo",
       "xtd_per_game": 0.3738,
       "anytime_td_prob": 0.3119,
       "trend": {
@@ -2118,6 +2160,7 @@
       "position": "WR",
       "opponent": "@ SEA",
       "kickoff": "Wednesday 20:20 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/yxvzijmgwyyigljxfmyb",
       "xtd_per_game": 0.3699,
       "anytime_td_prob": 0.3092,
       "trend": {
@@ -2167,6 +2210,7 @@
       "position": "WR",
       "opponent": "vs ARI",
       "kickoff": "Sunday 16:25 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/q2sk7yforrkiusvruo1o",
       "xtd_per_game": 0.3691,
       "anytime_td_prob": 0.3086,
       "trend": {
@@ -2216,6 +2260,7 @@
       "position": "RB",
       "opponent": "vs NO",
       "kickoff": "Sunday 13:00 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/csz0c9roa4pqsccothxg",
       "xtd_per_game": 0.3691,
       "anytime_td_prob": 0.3086,
       "trend": {
@@ -2265,6 +2310,7 @@
       "position": "RB",
       "opponent": "@ SEA",
       "kickoff": "Wednesday 20:20 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/zmpuirvuw4r04inxth5i",
       "xtd_per_game": 0.3685,
       "anytime_td_prob": 0.3082,
       "trend": {
@@ -2314,6 +2360,7 @@
       "position": "RB",
       "opponent": "vs ATL",
       "kickoff": "Sunday 13:00 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/eo62l8ec8e3lzt86ihth",
       "xtd_per_game": 0.3684,
       "anytime_td_prob": 0.3082,
       "trend": {
@@ -2363,6 +2410,7 @@
       "position": "WR",
       "opponent": "vs CLE",
       "kickoff": "Sunday 13:00 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/zrs4ij8mvw7wr1uujwew",
       "xtd_per_game": 0.3626,
       "anytime_td_prob": 0.3041,
       "trend": {
@@ -2412,6 +2460,7 @@
       "position": "WR",
       "opponent": "@ HOU",
       "kickoff": "Sunday 13:00 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/cm7g87waetksjouyjgvg",
       "xtd_per_game": 0.3611,
       "anytime_td_prob": 0.3031,
       "trend": {
@@ -2461,6 +2510,7 @@
       "position": "TE",
       "opponent": "vs BAL",
       "kickoff": "Sunday 13:00 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/f1mfwwrr3qvnxuiackgq",
       "xtd_per_game": 0.3608,
       "anytime_td_prob": 0.3029,
       "trend": {
@@ -2510,6 +2560,7 @@
       "position": "TE",
       "opponent": "vs SF",
       "kickoff": "Thursday 20:35 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/qsyrgtfjj06wryahnxc9",
       "xtd_per_game": 0.3588,
       "anytime_td_prob": 0.3015,
       "trend": {
@@ -2559,6 +2610,7 @@
       "position": "WR",
       "opponent": "vs TB",
       "kickoff": "Sunday 13:00 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/qya3dtjb5kgofcuj2tuw",
       "xtd_per_game": 0.3561,
       "anytime_td_prob": 0.2996,
       "trend": {
@@ -2608,6 +2660,7 @@
       "position": "WR",
       "opponent": "vs ARI",
       "kickoff": "Sunday 16:25 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/lyvsrjh4mjb4dqwp6shm",
       "xtd_per_game": 0.3551,
       "anytime_td_prob": 0.2989,
       "trend": {
@@ -2657,6 +2710,7 @@
       "position": "WR",
       "opponent": "vs GB",
       "kickoff": "Sunday 16:25 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/mi4lzk9gvjrvo6rwdf1e",
       "xtd_per_game": 0.3497,
       "anytime_td_prob": 0.2951,
       "trend": {
@@ -2706,6 +2760,7 @@
       "position": "RB",
       "opponent": "@ PIT",
       "kickoff": "Sunday 13:00 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/esii5yb8yn9edboi4mlq",
       "xtd_per_game": 0.3491,
       "anytime_td_prob": 0.2947,
       "trend": {
@@ -2755,6 +2810,7 @@
       "position": "RB",
       "opponent": "@ CAR",
       "kickoff": "Sunday 13:00 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/bkkk3uuouhcobydqawro",
       "xtd_per_game": 0.3463,
       "anytime_td_prob": 0.2927,
       "trend": {
@@ -2804,6 +2860,7 @@
       "position": "QB",
       "opponent": "@ HOU",
       "kickoff": "Sunday 13:00 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/mjwbioajzldkq1vzoz2d",
       "xtd_per_game": 0.3462,
       "anytime_td_prob": 0.2926,
       "trend": {
@@ -2853,6 +2910,7 @@
       "position": "WR",
       "opponent": "vs ARI",
       "kickoff": "Sunday 16:25 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ri267r6lzfwarh89hsn6",
       "xtd_per_game": 0.3453,
       "anytime_td_prob": 0.292,
       "trend": {
@@ -2902,6 +2960,7 @@
       "position": "WR",
       "opponent": "vs NO",
       "kickoff": "Sunday 13:00 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ducfhbiy2a8loytcjymn",
       "xtd_per_game": 0.3416,
       "anytime_td_prob": 0.2894,
       "trend": {
@@ -2951,6 +3010,7 @@
       "position": "RB",
       "opponent": "@ JAX",
       "kickoff": "Sunday 13:00 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ojtce2im0wp2ltyel0vc",
       "xtd_per_game": 0.3388,
       "anytime_td_prob": 0.2874,
       "trend": {
@@ -3000,6 +3060,7 @@
       "position": "WR",
       "opponent": "vs NE",
       "kickoff": "Wednesday 20:20 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/lmsun4qzmk1rkgt4kw76",
       "xtd_per_game": 0.3379,
       "anytime_td_prob": 0.2867,
       "trend": {
@@ -3049,6 +3110,7 @@
       "position": "RB",
       "opponent": "@ KC",
       "kickoff": "Monday 20:15 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/szxmro5enrxlscvv67xg",
       "xtd_per_game": 0.336,
       "anytime_td_prob": 0.2854,
       "trend": {
@@ -3098,6 +3160,7 @@
       "position": "WR",
       "opponent": "@ CIN",
       "kickoff": "Sunday 13:00 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/z224kbzs62rjuykc0vha",
       "xtd_per_game": 0.3322,
       "anytime_td_prob": 0.2827,
       "trend": {
@@ -3147,6 +3210,7 @@
       "position": "WR",
       "opponent": "vs CHI",
       "kickoff": "Sunday 13:00 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/gilgvjemumd6kpc9eiku",
       "xtd_per_game": 0.3322,
       "anytime_td_prob": 0.2827,
       "trend": {
@@ -3196,6 +3260,7 @@
       "position": "RB",
       "opponent": "vs BUF",
       "kickoff": "Sunday 13:00 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/y5ntpcenhhhv98uz2fys",
       "xtd_per_game": 0.3317,
       "anytime_td_prob": 0.2823,
       "trend": {
@@ -3245,6 +3310,7 @@
       "position": "WR",
       "opponent": "vs DAL",
       "kickoff": "Sunday 20:20 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/yzcvyhmilvxedfjfjglc",
       "xtd_per_game": 0.3285,
       "anytime_td_prob": 0.28,
       "trend": {
@@ -3294,6 +3360,7 @@
       "position": "TE",
       "opponent": "@ LA",
       "kickoff": "Thursday 20:35 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/z6goxhdhfc2m0rmwvtbl",
       "xtd_per_game": 0.3284,
       "anytime_td_prob": 0.2799,
       "trend": {
@@ -3343,6 +3410,7 @@
       "position": "TE",
       "opponent": "@ SEA",
       "kickoff": "Wednesday 20:20 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/cvlunbqgztudbhjrug7l",
       "xtd_per_game": 0.3268,
       "anytime_td_prob": 0.2788,
       "trend": {
@@ -3392,6 +3460,7 @@
       "position": "WR",
       "opponent": "vs NE",
       "kickoff": "Wednesday 20:20 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/yx1xjrupbqdknnjaq4a6",
       "xtd_per_game": 0.326,
       "anytime_td_prob": 0.2782,
       "trend": {
@@ -3441,6 +3510,7 @@
       "position": "WR",
       "opponent": "@ CIN",
       "kickoff": "Sunday 13:00 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ilkheljdx4hbjpisulke",
       "xtd_per_game": 0.3184,
       "anytime_td_prob": 0.2727,
       "trend": {
@@ -3490,6 +3560,7 @@
       "position": "WR",
       "opponent": "vs CLE",
       "kickoff": "Sunday 13:00 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/yn0hc5xrz5nqeccg8two",
       "xtd_per_game": 0.3177,
       "anytime_td_prob": 0.2722,
       "trend": {
@@ -3539,6 +3610,7 @@
       "position": "WR",
       "opponent": "vs BAL",
       "kickoff": "Sunday 13:00 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/qcg9t51wgp3hicavmkmy",
       "xtd_per_game": 0.3168,
       "anytime_td_prob": 0.2715,
       "trend": {
@@ -3588,6 +3660,7 @@
       "position": "RB",
       "opponent": "@ PHI",
       "kickoff": "Sunday 16:25 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/qew4qhlj4yuf50voko61",
       "xtd_per_game": 0.3166,
       "anytime_td_prob": 0.2714,
       "trend": {
@@ -3637,6 +3710,7 @@
       "position": "WR",
       "opponent": "vs SF",
       "kickoff": "Thursday 20:35 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ipy6qw7hdygdfc8k86ba",
       "xtd_per_game": 0.3164,
       "anytime_td_prob": 0.2712,
       "trend": {
@@ -3686,6 +3760,7 @@
       "position": "RB",
       "opponent": "@ TEN",
       "kickoff": "Sunday 13:00 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/fmpzgmfjmcbrv1gmqbdn",
       "xtd_per_game": 0.3147,
       "anytime_td_prob": 0.27,
       "trend": {
@@ -3735,6 +3810,7 @@
       "position": "WR",
       "opponent": "vs DAL",
       "kickoff": "Sunday 20:20 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/fyjkvaekv40jn72d0b3q",
       "xtd_per_game": 0.3128,
       "anytime_td_prob": 0.2686,
       "trend": {
@@ -3784,6 +3860,7 @@
       "position": "WR",
       "opponent": "vs DEN",
       "kickoff": "Monday 20:15 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/bjqzuempyiwxe0hl7e5a",
       "xtd_per_game": 0.3105,
       "anytime_td_prob": 0.2669,
       "trend": {
@@ -3833,6 +3910,7 @@
       "position": "WR",
       "opponent": "vs BAL",
       "kickoff": "Sunday 13:00 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/q1ythn05kwcmdr4mwzll",
       "xtd_per_game": 0.3075,
       "anytime_td_prob": 0.2647,
       "trend": {
@@ -3882,6 +3960,7 @@
       "position": "RB",
       "opponent": "@ LV",
       "kickoff": "Sunday 16:25 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/xk1xwio0bryfxo1ylweu",
       "xtd_per_game": 0.3042,
       "anytime_td_prob": 0.2623,
       "trend": {
@@ -3931,6 +4010,7 @@
       "position": "RB",
       "opponent": "vs MIA",
       "kickoff": "Sunday 16:25 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/syspis1mntov9kgspb7r",
       "xtd_per_game": 0.3036,
       "anytime_td_prob": 0.2618,
       "trend": {
@@ -3980,6 +4060,7 @@
       "position": "TE",
       "opponent": "vs DAL",
       "kickoff": "Sunday 20:20 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/fv2jbzlocr1o3ahkru43",
       "xtd_per_game": 0.3032,
       "anytime_td_prob": 0.2615,
       "trend": {
@@ -4029,6 +4110,7 @@
       "position": "WR",
       "opponent": "vs CHI",
       "kickoff": "Sunday 13:00 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/yoyxkitrdqbkhyqncy5p",
       "xtd_per_game": 0.3023,
       "anytime_td_prob": 0.2609,
       "trend": {
@@ -4078,6 +4160,7 @@
       "position": "WR",
       "opponent": "@ LAC",
       "kickoff": "Sunday 16:25 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/hm2b9z4zujjmbiyldh8n",
       "xtd_per_game": 0.2998,
       "anytime_td_prob": 0.259,
       "trend": {
@@ -4127,6 +4210,7 @@
       "position": "WR",
       "opponent": "@ PHI",
       "kickoff": "Sunday 16:25 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/bmozbzdxgnnwdniuvgnn",
       "xtd_per_game": 0.299,
       "anytime_td_prob": 0.2584,
       "trend": {
@@ -4176,6 +4260,7 @@
       "position": "WR",
       "opponent": "vs CLE",
       "kickoff": "Sunday 13:00 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/plnekkriys4cm11rnxwl",
       "xtd_per_game": 0.2975,
       "anytime_td_prob": 0.2573,
       "trend": {
@@ -4225,6 +4310,7 @@
       "position": "RB",
       "opponent": "vs ARI",
       "kickoff": "Sunday 16:25 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/tqdctdun0bv60d5ziwtl",
       "xtd_per_game": 0.2951,
       "anytime_td_prob": 0.2555,
       "trend": {
@@ -4274,6 +4360,7 @@
       "position": "WR",
       "opponent": "@ PHI",
       "kickoff": "Sunday 16:25 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/tmfl2zruajmkrtcg4zxp",
       "xtd_per_game": 0.2945,
       "anytime_td_prob": 0.2551,
       "trend": {
@@ -4323,6 +4410,7 @@
       "position": "TE",
       "opponent": "vs SF",
       "kickoff": "Thursday 20:35 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/w5o0s5yf6j5dsmiwdtfg",
       "xtd_per_game": 0.2944,
       "anytime_td_prob": 0.255,
       "trend": {
@@ -4372,6 +4460,7 @@
       "position": "RB",
       "opponent": "@ PIT",
       "kickoff": "Sunday 13:00 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/sp9lhhmpv4qy3xy2msxd",
       "xtd_per_game": 0.2904,
       "anytime_td_prob": 0.252,
       "trend": {
@@ -4421,6 +4510,7 @@
       "position": "WR",
       "opponent": "vs BUF",
       "kickoff": "Sunday 13:00 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/s3zuo0ysm9ncxr9o4420",
       "xtd_per_game": 0.2866,
       "anytime_td_prob": 0.2492,
       "trend": {
@@ -4470,6 +4560,7 @@
       "position": "WR",
       "opponent": "@ MIN",
       "kickoff": "Sunday 16:25 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/tumeg4d32sirkab2xzu5",
       "xtd_per_game": 0.2852,
       "anytime_td_prob": 0.2481,
       "trend": {
@@ -4519,6 +4610,7 @@
       "position": "TE",
       "opponent": "@ LA",
       "kickoff": "Thursday 20:35 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/vkicdglglkyukgyxtmpx",
       "xtd_per_game": 0.2846,
       "anytime_td_prob": 0.2477,
       "trend": {
@@ -4568,6 +4660,7 @@
       "position": "TE",
       "opponent": "vs WAS",
       "kickoff": "Sunday 16:25 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/bafepstxu7vvxb9v5vua",
       "xtd_per_game": 0.2827,
       "anytime_td_prob": 0.2463,
       "trend": {
@@ -4617,6 +4710,7 @@
       "position": "RB",
       "opponent": "@ JAX",
       "kickoff": "Sunday 13:00 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/bopoof9uczgpvpggeahp",
       "xtd_per_game": 0.2802,
       "anytime_td_prob": 0.2444,
       "trend": {
@@ -4659,55 +4753,6 @@
     },
     {
       "rank": 95,
-      "player_id": "00-0036158",
-      "player_name": "J.Dobbins",
-      "player_full_name": "J.K. Dobbins",
-      "team": "DEN",
-      "position": "RB",
-      "opponent": "@ KC",
-      "kickoff": "Monday 20:15 ET",
-      "xtd_per_game": 0.2782,
-      "anytime_td_prob": 0.2429,
-      "trend": {
-        "direction": "down",
-        "recent_games": 3,
-        "earlier_games": 7,
-        "games_in_window": 10,
-        "recent_chances_per_game": 0.667,
-        "earlier_chances_per_game": 1.286,
-        "recent_tds": 0
-      },
-      "games_scored_last_10": 4,
-      "display": {
-        "player_name": "J. DOBBINS",
-        "hero": "24%",
-        "hero_label": "CHANCE TO SCORE",
-        "stat_1": "4 OF 10",
-        "stat_1_label": "GAMES W/ A TD",
-        "stat_2": "COOLING OFF",
-        "stat_2_label": "LAST 3 GAMES"
-      },
-      "inside_10_opportunities": 11,
-      "end_zone_targets": 0,
-      "tds_last_10": 4,
-      "window_games": 10,
-      "inside_10_targets": 0,
-      "inside_10_carries": 0,
-      "goal_line_carries": 0,
-      "games_played": 10,
-      "end_zone_targets_pg": 0.0609,
-      "inside_10_carries_pg": 0.8605,
-      "inside_10_targets_pg": 0.0595,
-      "xtd_contribution": {
-        "end_zone_targets": 0.0247,
-        "inside_10_carries": 0.2371,
-        "inside_10_targets": 0.0164
-      },
-      "injury_flag": "",
-      "flags": []
-    },
-    {
-      "rank": 96,
       "player_id": "00-0040743",
       "player_name": "T.Shough",
       "player_full_name": "Tyler Shough",
@@ -4715,6 +4760,7 @@
       "position": "QB",
       "opponent": "@ DET",
       "kickoff": "Sunday 13:00 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/toiafc7qighw86geo7jf",
       "xtd_per_game": 0.2782,
       "anytime_td_prob": 0.2429,
       "trend": {
@@ -4756,6 +4802,56 @@
       "flags": []
     },
     {
+      "rank": 96,
+      "player_id": "00-0036158",
+      "player_name": "J.Dobbins",
+      "player_full_name": "J.K. Dobbins",
+      "team": "DEN",
+      "position": "RB",
+      "opponent": "@ KC",
+      "kickoff": "Monday 20:15 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/cevotvl3ho5h1mioruyg",
+      "xtd_per_game": 0.2782,
+      "anytime_td_prob": 0.2429,
+      "trend": {
+        "direction": "down",
+        "recent_games": 3,
+        "earlier_games": 7,
+        "games_in_window": 10,
+        "recent_chances_per_game": 0.667,
+        "earlier_chances_per_game": 1.286,
+        "recent_tds": 0
+      },
+      "games_scored_last_10": 4,
+      "display": {
+        "player_name": "J. DOBBINS",
+        "hero": "24%",
+        "hero_label": "CHANCE TO SCORE",
+        "stat_1": "4 OF 10",
+        "stat_1_label": "GAMES W/ A TD",
+        "stat_2": "COOLING OFF",
+        "stat_2_label": "LAST 3 GAMES"
+      },
+      "inside_10_opportunities": 11,
+      "end_zone_targets": 0,
+      "tds_last_10": 4,
+      "window_games": 10,
+      "inside_10_targets": 0,
+      "inside_10_carries": 0,
+      "goal_line_carries": 0,
+      "games_played": 10,
+      "end_zone_targets_pg": 0.0609,
+      "inside_10_carries_pg": 0.8605,
+      "inside_10_targets_pg": 0.0595,
+      "xtd_contribution": {
+        "end_zone_targets": 0.0247,
+        "inside_10_carries": 0.2371,
+        "inside_10_targets": 0.0164
+      },
+      "injury_flag": "",
+      "flags": []
+    },
+    {
       "rank": 97,
       "player_id": "00-0038951",
       "player_name": "S.Tucker",
@@ -4764,6 +4860,7 @@
       "position": "RB",
       "opponent": "@ CIN",
       "kickoff": "Sunday 13:00 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/wiarwjvy8p6bojlratp4",
       "xtd_per_game": 0.2776,
       "anytime_td_prob": 0.2424,
       "trend": {
@@ -4813,6 +4910,7 @@
       "position": "RB",
       "opponent": "vs DAL",
       "kickoff": "Sunday 20:20 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/xy2r2msxjqneml2c1cdc",
       "xtd_per_game": 0.2773,
       "anytime_td_prob": 0.2422,
       "trend": {
@@ -4862,6 +4960,7 @@
       "position": "WR",
       "opponent": "@ DET",
       "kickoff": "Sunday 13:00 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/fa3dwsu8nxzkbf2knczm",
       "xtd_per_game": 0.276,
       "anytime_td_prob": 0.2412,
       "trend": {
@@ -4911,6 +5010,7 @@
       "position": "TE",
       "opponent": "@ HOU",
       "kickoff": "Sunday 13:00 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/k8bi9ppahwfmoxs8ij4w",
       "xtd_per_game": 0.2751,
       "anytime_td_prob": 0.2405,
       "trend": {
@@ -4953,55 +5053,6 @@
     },
     {
       "rank": 101,
-      "player_id": "00-0040126",
-      "player_name": "C.Loveland",
-      "player_full_name": "Colston Loveland",
-      "team": "CHI",
-      "position": "TE",
-      "opponent": "@ CAR",
-      "kickoff": "Sunday 13:00 ET",
-      "xtd_per_game": 0.2751,
-      "anytime_td_prob": 0.2405,
-      "trend": {
-        "direction": "up",
-        "recent_games": 3,
-        "earlier_games": 7,
-        "games_in_window": 10,
-        "recent_chances_per_game": 1.0,
-        "earlier_chances_per_game": 0.571,
-        "recent_tds": 2
-      },
-      "games_scored_last_10": 5,
-      "display": {
-        "player_name": "C. LOVELAND",
-        "hero": "24%",
-        "hero_label": "CHANCE TO SCORE",
-        "stat_1": "5 OF 10",
-        "stat_1_label": "GAMES W/ A TD",
-        "stat_2": "HEATING UP",
-        "stat_2_label": "LAST 3 GAMES"
-      },
-      "inside_10_opportunities": 7,
-      "end_zone_targets": 5,
-      "tds_last_10": 6,
-      "window_games": 10,
-      "inside_10_targets": 0,
-      "inside_10_carries": 0,
-      "goal_line_carries": 0,
-      "games_played": 16,
-      "end_zone_targets_pg": 0.3426,
-      "inside_10_carries_pg": 0.1023,
-      "inside_10_targets_pg": 0.3917,
-      "xtd_contribution": {
-        "end_zone_targets": 0.1388,
-        "inside_10_carries": 0.0282,
-        "inside_10_targets": 0.108
-      },
-      "injury_flag": "",
-      "flags": []
-    },
-    {
-      "rank": 102,
       "player_id": "00-0035662",
       "player_name": "M.Brown",
       "player_full_name": "Marquise Brown",
@@ -5009,6 +5060,7 @@
       "position": "WR",
       "opponent": "vs DEN",
       "kickoff": "Monday 20:15 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/shkjxggufymydgp6wk3p",
       "xtd_per_game": 0.2751,
       "anytime_td_prob": 0.2405,
       "trend": {
@@ -5050,6 +5102,56 @@
       "flags": []
     },
     {
+      "rank": 102,
+      "player_id": "00-0040126",
+      "player_name": "C.Loveland",
+      "player_full_name": "Colston Loveland",
+      "team": "CHI",
+      "position": "TE",
+      "opponent": "@ CAR",
+      "kickoff": "Sunday 13:00 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/cnxiyi76jeahgx94nh6d",
+      "xtd_per_game": 0.2751,
+      "anytime_td_prob": 0.2405,
+      "trend": {
+        "direction": "up",
+        "recent_games": 3,
+        "earlier_games": 7,
+        "games_in_window": 10,
+        "recent_chances_per_game": 1.0,
+        "earlier_chances_per_game": 0.571,
+        "recent_tds": 2
+      },
+      "games_scored_last_10": 5,
+      "display": {
+        "player_name": "C. LOVELAND",
+        "hero": "24%",
+        "hero_label": "CHANCE TO SCORE",
+        "stat_1": "5 OF 10",
+        "stat_1_label": "GAMES W/ A TD",
+        "stat_2": "HEATING UP",
+        "stat_2_label": "LAST 3 GAMES"
+      },
+      "inside_10_opportunities": 7,
+      "end_zone_targets": 5,
+      "tds_last_10": 6,
+      "window_games": 10,
+      "inside_10_targets": 0,
+      "inside_10_carries": 0,
+      "goal_line_carries": 0,
+      "games_played": 16,
+      "end_zone_targets_pg": 0.3426,
+      "inside_10_carries_pg": 0.1023,
+      "inside_10_targets_pg": 0.3917,
+      "xtd_contribution": {
+        "end_zone_targets": 0.1388,
+        "inside_10_carries": 0.0282,
+        "inside_10_targets": 0.108
+      },
+      "injury_flag": "",
+      "flags": []
+    },
+    {
       "rank": 103,
       "player_id": "00-0036613",
       "player_name": "J.Waddle",
@@ -5058,6 +5160,7 @@
       "position": "WR",
       "opponent": "@ LV",
       "kickoff": "Sunday 16:25 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/gkh7m1jedon9mwn5jlf1",
       "xtd_per_game": 0.2742,
       "anytime_td_prob": 0.2398,
       "trend": {
@@ -5107,6 +5210,7 @@
       "position": "TE",
       "opponent": "vs TB",
       "kickoff": "Sunday 13:00 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/dykckg6we3cnw9yhpggi",
       "xtd_per_game": 0.2668,
       "anytime_td_prob": 0.2342,
       "trend": {
@@ -5156,6 +5260,7 @@
       "position": "WR",
       "opponent": "@ KC",
       "kickoff": "Monday 20:15 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/otxrvkflhixz9akhmfqq",
       "xtd_per_game": 0.2643,
       "anytime_td_prob": 0.2323,
       "trend": {
@@ -5205,6 +5310,7 @@
       "position": "RB",
       "opponent": "@ TEN",
       "kickoff": "Sunday 13:00 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/i01xtqbfajfq68lb6orh",
       "xtd_per_game": 0.2628,
       "anytime_td_prob": 0.2311,
       "trend": {
@@ -5254,6 +5360,7 @@
       "position": "WR",
       "opponent": "@ LA",
       "kickoff": "Thursday 20:35 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ntgyhqg6hq7fanhhsqiw",
       "xtd_per_game": 0.2621,
       "anytime_td_prob": 0.2306,
       "trend": {
@@ -5303,6 +5410,7 @@
       "position": "WR",
       "opponent": "@ SEA",
       "kickoff": "Wednesday 20:20 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/mg4icjqhwhnc5uobmau5",
       "xtd_per_game": 0.2587,
       "anytime_td_prob": 0.2279,
       "trend": {
@@ -5352,6 +5460,7 @@
       "position": "RB",
       "opponent": "vs CHI",
       "kickoff": "Sunday 13:00 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/mx2bxccuzmdvzbksypws",
       "xtd_per_game": 0.2572,
       "anytime_td_prob": 0.2268,
       "trend": {
@@ -5401,6 +5510,7 @@
       "position": "WR",
       "opponent": "vs CLE",
       "kickoff": "Sunday 13:00 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/addv9eheok1jj7amfkpb",
       "xtd_per_game": 0.2563,
       "anytime_td_prob": 0.2261,
       "trend": {
@@ -5450,6 +5560,7 @@
       "position": "TE",
       "opponent": "vs NE",
       "kickoff": "Wednesday 20:20 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/i0esiguve9if4ts5mm1q",
       "xtd_per_game": 0.2548,
       "anytime_td_prob": 0.2249,
       "trend": {
@@ -5499,6 +5610,7 @@
       "position": "RB",
       "opponent": "vs ATL",
       "kickoff": "Sunday 13:00 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/nbbhxtutzvbj0ejljyyp",
       "xtd_per_game": 0.2543,
       "anytime_td_prob": 0.2245,
       "trend": {
@@ -5548,6 +5660,7 @@
       "position": "WR",
       "opponent": "@ NYG",
       "kickoff": "Sunday 20:20 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/tqwq3cgpqu7j9hzoyicx",
       "xtd_per_game": 0.2511,
       "anytime_td_prob": 0.2221,
       "trend": {
@@ -5597,6 +5710,7 @@
       "position": "RB",
       "opponent": "vs SF",
       "kickoff": "Thursday 20:35 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/axzqbqjkrbwfzodwwakq",
       "xtd_per_game": 0.251,
       "anytime_td_prob": 0.222,
       "trend": {
@@ -5646,6 +5760,7 @@
       "position": "QB",
       "opponent": "vs WAS",
       "kickoff": "Sunday 16:25 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/xow5yvxjeqa6witmofmp",
       "xtd_per_game": 0.2498,
       "anytime_td_prob": 0.221,
       "trend": {
@@ -5695,6 +5810,7 @@
       "position": "RB",
       "opponent": "@ DET",
       "kickoff": "Sunday 13:00 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/lcoend1mysjfhl8f4rrt",
       "xtd_per_game": 0.249,
       "anytime_td_prob": 0.2204,
       "trend": {
@@ -5744,6 +5860,7 @@
       "position": "WR",
       "opponent": "vs GB",
       "kickoff": "Sunday 16:25 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/nojopyt8hxuwycxyaokb",
       "xtd_per_game": 0.2488,
       "anytime_td_prob": 0.2203,
       "trend": {
@@ -5793,6 +5910,7 @@
       "position": "WR",
       "opponent": "vs WAS",
       "kickoff": "Sunday 16:25 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/k724kq3hyv7jc0y9s03x",
       "xtd_per_game": 0.248,
       "anytime_td_prob": 0.2196,
       "trend": {
@@ -5842,6 +5960,7 @@
       "position": "WR",
       "opponent": "vs NYJ",
       "kickoff": "Sunday 13:00 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/jjmscqt6v4ecasveugoh",
       "xtd_per_game": 0.2475,
       "anytime_td_prob": 0.2192,
       "trend": {
@@ -5891,6 +6010,7 @@
       "position": "TE",
       "opponent": "vs ARI",
       "kickoff": "Sunday 16:25 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/r8b4oghjwhw8x9nv1wbs",
       "xtd_per_game": 0.246,
       "anytime_td_prob": 0.2181,
       "trend": {
@@ -5940,6 +6060,7 @@
       "position": "WR",
       "opponent": "vs MIA",
       "kickoff": "Sunday 16:25 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/hazzk3hrcequzosdgzgv",
       "xtd_per_game": 0.2419,
       "anytime_td_prob": 0.2149,
       "trend": {
@@ -5989,6 +6110,7 @@
       "position": "TE",
       "opponent": "@ HOU",
       "kickoff": "Sunday 13:00 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/z7k857flehljboaixj8m",
       "xtd_per_game": 0.2415,
       "anytime_td_prob": 0.2146,
       "trend": {
@@ -6038,6 +6160,7 @@
       "position": "WR",
       "opponent": "vs CLE",
       "kickoff": "Sunday 13:00 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/absw1gfqoiztajjagmf6",
       "xtd_per_game": 0.2392,
       "anytime_td_prob": 0.2127,
       "trend": {
@@ -6080,55 +6203,6 @@
     },
     {
       "rank": 124,
-      "player_id": "00-0039851",
-      "player_name": "D.Maye",
-      "player_full_name": "Drake Maye",
-      "team": "NE",
-      "position": "QB",
-      "opponent": "@ SEA",
-      "kickoff": "Wednesday 20:20 ET",
-      "xtd_per_game": 0.2379,
-      "anytime_td_prob": 0.2117,
-      "trend": {
-        "direction": "down",
-        "recent_games": 3,
-        "earlier_games": 7,
-        "games_in_window": 10,
-        "recent_chances_per_game": 0.333,
-        "earlier_chances_per_game": 1.143,
-        "recent_tds": 0
-      },
-      "games_scored_last_10": 1,
-      "display": {
-        "player_name": "D. MAYE",
-        "hero": "21%",
-        "hero_label": "CHANCE TO SCORE",
-        "stat_1": "1 OF 10",
-        "stat_1_label": "GAMES W/ A TD",
-        "stat_2": "COOLING OFF",
-        "stat_2_label": "LAST 3 GAMES"
-      },
-      "inside_10_opportunities": 9,
-      "end_zone_targets": 0,
-      "tds_last_10": 2,
-      "window_games": 10,
-      "inside_10_targets": 0,
-      "inside_10_carries": 0,
-      "goal_line_carries": 0,
-      "games_played": 17,
-      "end_zone_targets_pg": 0.0406,
-      "inside_10_carries_pg": 0.7642,
-      "inside_10_targets_pg": 0.0397,
-      "xtd_contribution": {
-        "end_zone_targets": 0.0165,
-        "inside_10_carries": 0.2105,
-        "inside_10_targets": 0.0109
-      },
-      "injury_flag": "",
-      "flags": []
-    },
-    {
-      "rank": 125,
       "player_id": "00-0036971",
       "player_name": "T.Lawrence",
       "player_full_name": "Trevor Lawrence",
@@ -6136,6 +6210,7 @@
       "position": "QB",
       "opponent": "vs CLE",
       "kickoff": "Sunday 13:00 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/k9uzdernqkx7oquy7dkg",
       "xtd_per_game": 0.2379,
       "anytime_td_prob": 0.2117,
       "trend": {
@@ -6177,6 +6252,56 @@
       "flags": []
     },
     {
+      "rank": 125,
+      "player_id": "00-0039851",
+      "player_name": "D.Maye",
+      "player_full_name": "Drake Maye",
+      "team": "NE",
+      "position": "QB",
+      "opponent": "@ SEA",
+      "kickoff": "Wednesday 20:20 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/s1nmoon2xnrc3bnyulv4",
+      "xtd_per_game": 0.2379,
+      "anytime_td_prob": 0.2117,
+      "trend": {
+        "direction": "down",
+        "recent_games": 3,
+        "earlier_games": 7,
+        "games_in_window": 10,
+        "recent_chances_per_game": 0.333,
+        "earlier_chances_per_game": 1.143,
+        "recent_tds": 0
+      },
+      "games_scored_last_10": 1,
+      "display": {
+        "player_name": "D. MAYE",
+        "hero": "21%",
+        "hero_label": "CHANCE TO SCORE",
+        "stat_1": "1 OF 10",
+        "stat_1_label": "GAMES W/ A TD",
+        "stat_2": "COOLING OFF",
+        "stat_2_label": "LAST 3 GAMES"
+      },
+      "inside_10_opportunities": 9,
+      "end_zone_targets": 0,
+      "tds_last_10": 2,
+      "window_games": 10,
+      "inside_10_targets": 0,
+      "inside_10_carries": 0,
+      "goal_line_carries": 0,
+      "games_played": 17,
+      "end_zone_targets_pg": 0.0406,
+      "inside_10_carries_pg": 0.7642,
+      "inside_10_targets_pg": 0.0397,
+      "xtd_contribution": {
+        "end_zone_targets": 0.0165,
+        "inside_10_carries": 0.2105,
+        "inside_10_targets": 0.0109
+      },
+      "injury_flag": "",
+      "flags": []
+    },
+    {
       "rank": 126,
       "player_id": "00-0030506",
       "player_name": "T.Kelce",
@@ -6185,6 +6310,7 @@
       "position": "TE",
       "opponent": "vs DEN",
       "kickoff": "Monday 20:15 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/dpxovcfku6ud2aohgf6a",
       "xtd_per_game": 0.2365,
       "anytime_td_prob": 0.2106,
       "trend": {
@@ -6234,6 +6360,7 @@
       "position": "WR",
       "opponent": "vs CLE",
       "kickoff": "Sunday 13:00 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/hw06t7n00cfpt7euljza",
       "xtd_per_game": 0.2349,
       "anytime_td_prob": 0.2094,
       "trend": {
@@ -6283,6 +6410,7 @@
       "position": "WR",
       "opponent": "@ LA",
       "kickoff": "Thursday 20:35 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/rrv2qhkjqagb8ibzwakv",
       "xtd_per_game": 0.2336,
       "anytime_td_prob": 0.2083,
       "trend": {
@@ -6332,6 +6460,7 @@
       "position": "QB",
       "opponent": "vs DAL",
       "kickoff": "Sunday 20:20 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/n6uymxssgiicjmxkzxoc",
       "xtd_per_game": 0.2317,
       "anytime_td_prob": 0.2068,
       "trend": {
@@ -6381,6 +6510,7 @@
       "position": "WR",
       "opponent": "vs BUF",
       "kickoff": "Sunday 13:00 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ffp75mtwnqgrv0qz0txz",
       "xtd_per_game": 0.2306,
       "anytime_td_prob": 0.2059,
       "trend": {
@@ -6430,6 +6560,7 @@
       "position": "TE",
       "opponent": "vs BUF",
       "kickoff": "Sunday 13:00 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ym8sbkev8l4scnrc0vd8",
       "xtd_per_game": 0.2295,
       "anytime_td_prob": 0.2051,
       "trend": {
@@ -6479,6 +6610,7 @@
       "position": "WR",
       "opponent": "@ NYG",
       "kickoff": "Sunday 20:20 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/dthrzudnyh1mcrh1det2",
       "xtd_per_game": 0.2294,
       "anytime_td_prob": 0.205,
       "trend": {
@@ -6528,6 +6660,7 @@
       "position": "WR",
       "opponent": "@ SEA",
       "kickoff": "Wednesday 20:20 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/qbz7whjzsittudcecezw",
       "xtd_per_game": 0.229,
       "anytime_td_prob": 0.2047,
       "trend": {
@@ -6577,6 +6710,7 @@
       "position": "WR",
       "opponent": "@ PIT",
       "kickoff": "Sunday 13:00 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/xyexcy7ur9nscytyhinx",
       "xtd_per_game": 0.2276,
       "anytime_td_prob": 0.2036,
       "trend": {
@@ -6626,6 +6760,7 @@
       "position": "RB",
       "opponent": "@ TEN",
       "kickoff": "Sunday 13:00 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/zv8xb3nfxamq7sqa1xqt",
       "xtd_per_game": 0.2274,
       "anytime_td_prob": 0.2034,
       "trend": {
@@ -6675,6 +6810,7 @@
       "position": "TE",
       "opponent": "vs CLE",
       "kickoff": "Sunday 13:00 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/wlj6sdfj5qcy8bt2qyxb",
       "xtd_per_game": 0.2274,
       "anytime_td_prob": 0.2034,
       "trend": {
@@ -6724,6 +6860,7 @@
       "position": "TE",
       "opponent": "vs TB",
       "kickoff": "Sunday 13:00 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/pyl2bpjw0vy4idcseama",
       "xtd_per_game": 0.2273,
       "anytime_td_prob": 0.2033,
       "trend": {
@@ -6773,6 +6910,7 @@
       "position": "WR",
       "opponent": "@ SEA",
       "kickoff": "Wednesday 20:20 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/qfhvjyssf0lwsh0kienp",
       "xtd_per_game": 0.2247,
       "anytime_td_prob": 0.2012,
       "trend": {
@@ -6822,6 +6960,7 @@
       "position": "RB",
       "opponent": "vs WAS",
       "kickoff": "Sunday 16:25 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/vfkdjfpiyrcuzahrmfvn",
       "xtd_per_game": 0.2229,
       "anytime_td_prob": 0.1998,
       "trend": {
@@ -6871,6 +7010,7 @@
       "position": "TE",
       "opponent": "@ JAX",
       "kickoff": "Sunday 13:00 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/y4g1iayqrbrhdvkqywpx",
       "xtd_per_game": 0.2208,
       "anytime_td_prob": 0.1981,
       "trend": {
@@ -6920,6 +7060,7 @@
       "position": "WR",
       "opponent": "vs NYJ",
       "kickoff": "Sunday 13:00 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/cbcpv4931dqmgsu3anvo",
       "xtd_per_game": 0.2207,
       "anytime_td_prob": 0.198,
       "trend": {
@@ -6969,6 +7110,7 @@
       "position": "RB",
       "opponent": "vs CHI",
       "kickoff": "Sunday 13:00 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/rzsvnt0pxsaize2ndhxm",
       "xtd_per_game": 0.2195,
       "anytime_td_prob": 0.1971,
       "trend": {
@@ -7018,6 +7160,7 @@
       "position": "WR",
       "opponent": "@ IND",
       "kickoff": "Sunday 13:00 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/xzhto2dejy2pflkfx40c",
       "xtd_per_game": 0.2164,
       "anytime_td_prob": 0.1946,
       "trend": {
@@ -7067,6 +7210,7 @@
       "position": "QB",
       "opponent": "@ TEN",
       "kickoff": "Sunday 13:00 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/npjrombgxkc5vjkctcgy",
       "xtd_per_game": 0.2148,
       "anytime_td_prob": 0.1933,
       "trend": {
@@ -7109,55 +7253,6 @@
     },
     {
       "rank": 145,
-      "player_id": "00-0037252",
-      "player_name": "G.Dulcich",
-      "player_full_name": "Greg Dulcich",
-      "team": "MIA",
-      "position": "TE",
-      "opponent": "@ LV",
-      "kickoff": "Sunday 16:25 ET",
-      "xtd_per_game": 0.2136,
-      "anytime_td_prob": 0.1923,
-      "trend": {
-        "direction": "down",
-        "recent_games": 3,
-        "earlier_games": 6,
-        "games_in_window": 9,
-        "recent_chances_per_game": 0.333,
-        "earlier_chances_per_game": 0.5,
-        "recent_tds": 1
-      },
-      "games_scored_last_10": 1,
-      "display": {
-        "player_name": "G. DULCICH",
-        "hero": "19%",
-        "hero_label": "CHANCE TO SCORE",
-        "stat_1": "1 OF 9",
-        "stat_1_label": "GAMES W/ A TD",
-        "stat_2": "COOLING OFF",
-        "stat_2_label": "LAST 3 GAMES"
-      },
-      "inside_10_opportunities": 4,
-      "end_zone_targets": 2,
-      "tds_last_10": 1,
-      "window_games": 10,
-      "inside_10_targets": 0,
-      "inside_10_carries": 0,
-      "goal_line_carries": 0,
-      "games_played": 9,
-      "end_zone_targets_pg": 0.2195,
-      "inside_10_carries_pg": 0.1574,
-      "inside_10_targets_pg": 0.2949,
-      "xtd_contribution": {
-        "end_zone_targets": 0.0889,
-        "inside_10_carries": 0.0434,
-        "inside_10_targets": 0.0813
-      },
-      "injury_flag": "",
-      "flags": []
-    },
-    {
-      "rank": 146,
       "player_id": "00-0033110",
       "player_name": "T.Higbee",
       "player_full_name": "Tyler Higbee",
@@ -7165,6 +7260,7 @@
       "position": "TE",
       "opponent": "vs SF",
       "kickoff": "Thursday 20:35 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/x1d4osiefibd04df6gow",
       "xtd_per_game": 0.2136,
       "anytime_td_prob": 0.1923,
       "trend": {
@@ -7206,6 +7302,56 @@
       "flags": []
     },
     {
+      "rank": 146,
+      "player_id": "00-0037252",
+      "player_name": "G.Dulcich",
+      "player_full_name": "Greg Dulcich",
+      "team": "MIA",
+      "position": "TE",
+      "opponent": "@ LV",
+      "kickoff": "Sunday 16:25 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/kw4cwgjl4kywh6le4sfh",
+      "xtd_per_game": 0.2136,
+      "anytime_td_prob": 0.1923,
+      "trend": {
+        "direction": "down",
+        "recent_games": 3,
+        "earlier_games": 6,
+        "games_in_window": 9,
+        "recent_chances_per_game": 0.333,
+        "earlier_chances_per_game": 0.5,
+        "recent_tds": 1
+      },
+      "games_scored_last_10": 1,
+      "display": {
+        "player_name": "G. DULCICH",
+        "hero": "19%",
+        "hero_label": "CHANCE TO SCORE",
+        "stat_1": "1 OF 9",
+        "stat_1_label": "GAMES W/ A TD",
+        "stat_2": "COOLING OFF",
+        "stat_2_label": "LAST 3 GAMES"
+      },
+      "inside_10_opportunities": 4,
+      "end_zone_targets": 2,
+      "tds_last_10": 1,
+      "window_games": 10,
+      "inside_10_targets": 0,
+      "inside_10_carries": 0,
+      "goal_line_carries": 0,
+      "games_played": 9,
+      "end_zone_targets_pg": 0.2195,
+      "inside_10_carries_pg": 0.1574,
+      "inside_10_targets_pg": 0.2949,
+      "xtd_contribution": {
+        "end_zone_targets": 0.0889,
+        "inside_10_carries": 0.0434,
+        "inside_10_targets": 0.0813
+      },
+      "injury_flag": "",
+      "flags": []
+    },
+    {
       "rank": 147,
       "player_id": "00-0033908",
       "player_name": "C.Kupp",
@@ -7214,6 +7360,7 @@
       "position": "WR",
       "opponent": "vs NE",
       "kickoff": "Wednesday 20:20 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/kjixprihktsfog6wx9sq",
       "xtd_per_game": 0.2134,
       "anytime_td_prob": 0.1922,
       "trend": {
@@ -7263,6 +7410,7 @@
       "position": "QB",
       "opponent": "vs BAL",
       "kickoff": "Sunday 13:00 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ohvvctuykzwrpqer7xgl",
       "xtd_per_game": 0.2129,
       "anytime_td_prob": 0.1918,
       "trend": {
@@ -7312,6 +7460,7 @@
       "position": "WR",
       "opponent": "vs CHI",
       "kickoff": "Sunday 13:00 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/yynz8rxen6tsvhojggiv",
       "xtd_per_game": 0.2122,
       "anytime_td_prob": 0.1912,
       "trend": {
@@ -7361,6 +7510,7 @@
       "position": "QB",
       "opponent": "@ MIN",
       "kickoff": "Sunday 16:25 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/txvgdbwbryzyyqq6gfet",
       "xtd_per_game": 0.2113,
       "anytime_td_prob": 0.1905,
       "trend": {
@@ -7410,6 +7560,7 @@
       "position": "WR",
       "opponent": "@ IND",
       "kickoff": "Sunday 13:00 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/gtktmsfcxc1eijwpwzyq",
       "xtd_per_game": 0.2111,
       "anytime_td_prob": 0.1903,
       "trend": {
@@ -7459,6 +7610,7 @@
       "position": "RB",
       "opponent": "vs DAL",
       "kickoff": "Sunday 20:20 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/b9nje50lohbprf06xoom",
       "xtd_per_game": 0.211,
       "anytime_td_prob": 0.1902,
       "trend": {
@@ -7508,6 +7660,7 @@
       "position": "TE",
       "opponent": "@ PIT",
       "kickoff": "Sunday 13:00 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/xczipzxvytnmvgznhhb4",
       "xtd_per_game": 0.2103,
       "anytime_td_prob": 0.1897,
       "trend": {
@@ -7557,6 +7710,7 @@
       "position": "TE",
       "opponent": "@ MIN",
       "kickoff": "Sunday 16:25 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/n6vu44jbq31rydoaadaq",
       "xtd_per_game": 0.2085,
       "anytime_td_prob": 0.1882,
       "trend": {
@@ -7606,6 +7760,7 @@
       "position": "RB",
       "opponent": "@ LV",
       "kickoff": "Sunday 16:25 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/bv33rgypaauv7sealwkr",
       "xtd_per_game": 0.2085,
       "anytime_td_prob": 0.1882,
       "trend": {
@@ -7655,6 +7810,7 @@
       "position": "RB",
       "opponent": "@ CIN",
       "kickoff": "Sunday 13:00 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/wtdhs50gcl2p6vngsnre",
       "xtd_per_game": 0.2048,
       "anytime_td_prob": 0.1852,
       "trend": {
@@ -7704,6 +7860,7 @@
       "position": "RB",
       "opponent": "@ DET",
       "kickoff": "Sunday 13:00 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/yxebpuskandivlh2iil4",
       "xtd_per_game": 0.2046,
       "anytime_td_prob": 0.185,
       "trend": {
@@ -7753,6 +7910,7 @@
       "position": "WR",
       "opponent": "@ TEN",
       "kickoff": "Sunday 13:00 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/upxwxmhdd8xluztgqwhe",
       "xtd_per_game": 0.2024,
       "anytime_td_prob": 0.1832,
       "trend": {
@@ -7802,6 +7960,7 @@
       "position": "WR",
       "opponent": "@ PHI",
       "kickoff": "Sunday 16:25 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/xtxiwlkniuldrqg65n3q",
       "xtd_per_game": 0.2024,
       "anytime_td_prob": 0.1832,
       "trend": {
@@ -7851,6 +8010,7 @@
       "position": "RB",
       "opponent": "@ CIN",
       "kickoff": "Sunday 13:00 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/vkc00rvnix3f2b96vkwo",
       "xtd_per_game": 0.1995,
       "anytime_td_prob": 0.1809,
       "trend": {
@@ -7900,6 +8060,7 @@
       "position": "WR",
       "opponent": "@ CAR",
       "kickoff": "Sunday 13:00 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/zsnzd30ysrewgufbv06y",
       "xtd_per_game": 0.1993,
       "anytime_td_prob": 0.1807,
       "trend": {
@@ -7942,55 +8103,6 @@
     },
     {
       "rank": 162,
-      "player_id": "00-0035261",
-      "player_name": "T.Pollard",
-      "player_full_name": "Tony Pollard",
-      "team": "TEN",
-      "position": "RB",
-      "opponent": "vs NYJ",
-      "kickoff": "Sunday 13:00 ET",
-      "xtd_per_game": 0.1986,
-      "anytime_td_prob": 0.1801,
-      "trend": {
-        "direction": "steady",
-        "recent_games": 3,
-        "earlier_games": 7,
-        "games_in_window": 10,
-        "recent_chances_per_game": 0.667,
-        "earlier_chances_per_game": 0.714,
-        "recent_tds": 0
-      },
-      "games_scored_last_10": 2,
-      "display": {
-        "player_name": "T. POLLARD",
-        "hero": "18%",
-        "hero_label": "CHANCE TO SCORE",
-        "stat_1": "2 OF 10",
-        "stat_1_label": "GAMES W/ A TD",
-        "stat_2": "STEADY",
-        "stat_2_label": "LAST 3 GAMES"
-      },
-      "inside_10_opportunities": 7,
-      "end_zone_targets": 0,
-      "tds_last_10": 3,
-      "window_games": 10,
-      "inside_10_targets": 0,
-      "inside_10_carries": 0,
-      "goal_line_carries": 0,
-      "games_played": 17,
-      "end_zone_targets_pg": 0.0406,
-      "inside_10_carries_pg": 0.6213,
-      "inside_10_targets_pg": 0.0397,
-      "xtd_contribution": {
-        "end_zone_targets": 0.0165,
-        "inside_10_carries": 0.1712,
-        "inside_10_targets": 0.0109
-      },
-      "injury_flag": "",
-      "flags": []
-    },
-    {
-      "rank": 163,
       "player_id": "00-0035537",
       "player_name": "Ty.Johnson",
       "player_full_name": "Ty Johnson",
@@ -7998,6 +8110,7 @@
       "position": "RB",
       "opponent": "@ HOU",
       "kickoff": "Sunday 13:00 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/zruhihypizhtgpvsaj3c",
       "xtd_per_game": 0.1986,
       "anytime_td_prob": 0.1801,
       "trend": {
@@ -8039,6 +8152,56 @@
       "flags": []
     },
     {
+      "rank": 163,
+      "player_id": "00-0035261",
+      "player_name": "T.Pollard",
+      "player_full_name": "Tony Pollard",
+      "team": "TEN",
+      "position": "RB",
+      "opponent": "vs NYJ",
+      "kickoff": "Sunday 13:00 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/mb2xdrqiys6ktlcuah2n",
+      "xtd_per_game": 0.1986,
+      "anytime_td_prob": 0.1801,
+      "trend": {
+        "direction": "steady",
+        "recent_games": 3,
+        "earlier_games": 7,
+        "games_in_window": 10,
+        "recent_chances_per_game": 0.667,
+        "earlier_chances_per_game": 0.714,
+        "recent_tds": 0
+      },
+      "games_scored_last_10": 2,
+      "display": {
+        "player_name": "T. POLLARD",
+        "hero": "18%",
+        "hero_label": "CHANCE TO SCORE",
+        "stat_1": "2 OF 10",
+        "stat_1_label": "GAMES W/ A TD",
+        "stat_2": "STEADY",
+        "stat_2_label": "LAST 3 GAMES"
+      },
+      "inside_10_opportunities": 7,
+      "end_zone_targets": 0,
+      "tds_last_10": 3,
+      "window_games": 10,
+      "inside_10_targets": 0,
+      "inside_10_carries": 0,
+      "goal_line_carries": 0,
+      "games_played": 17,
+      "end_zone_targets_pg": 0.0406,
+      "inside_10_carries_pg": 0.6213,
+      "inside_10_targets_pg": 0.0397,
+      "xtd_contribution": {
+        "end_zone_targets": 0.0165,
+        "inside_10_carries": 0.1712,
+        "inside_10_targets": 0.0109
+      },
+      "injury_flag": "",
+      "flags": []
+    },
+    {
       "rank": 164,
       "player_id": "00-0037197",
       "player_name": "I.Pacheco",
@@ -8047,6 +8210,7 @@
       "position": "RB",
       "opponent": "vs DEN",
       "kickoff": "Monday 20:15 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/hkqb4imkum3vxxkwuetl",
       "xtd_per_game": 0.1967,
       "anytime_td_prob": 0.1786,
       "trend": {
@@ -8096,6 +8260,7 @@
       "position": "WR",
       "opponent": "@ JAX",
       "kickoff": "Sunday 13:00 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/szca1v9butuqkjs7ekpm",
       "xtd_per_game": 0.1963,
       "anytime_td_prob": 0.1782,
       "trend": {
@@ -8145,6 +8310,7 @@
       "position": "WR",
       "opponent": "@ PIT",
       "kickoff": "Sunday 13:00 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/eaejonwaflt9drrs9ika",
       "xtd_per_game": 0.1956,
       "anytime_td_prob": 0.1777,
       "trend": {
@@ -8194,6 +8360,7 @@
       "position": "RB",
       "opponent": "@ LV",
       "kickoff": "Sunday 16:25 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/feeuommtlmpvuxvtb1zt",
       "xtd_per_game": 0.1936,
       "anytime_td_prob": 0.176,
       "trend": {
@@ -8243,6 +8410,7 @@
       "position": "RB",
       "opponent": "vs DEN",
       "kickoff": "Monday 20:15 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/xnf4x6b9a2yunsc0gaej",
       "xtd_per_game": 0.1918,
       "anytime_td_prob": 0.1745,
       "trend": {
@@ -8292,6 +8460,7 @@
       "position": "WR",
       "opponent": "vs DEN",
       "kickoff": "Monday 20:15 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/u6fmnffwteccoxn3uguq",
       "xtd_per_game": 0.1912,
       "anytime_td_prob": 0.174,
       "trend": {
@@ -8341,6 +8510,7 @@
       "position": "WR",
       "opponent": "@ SEA",
       "kickoff": "Wednesday 20:20 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/cemcexmscsarpvwhafln",
       "xtd_per_game": 0.191,
       "anytime_td_prob": 0.1739,
       "trend": {
@@ -8390,6 +8560,7 @@
       "position": "RB",
       "opponent": "vs CLE",
       "kickoff": "Sunday 13:00 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ryjnphuyjbedmgpx5qqj",
       "xtd_per_game": 0.1905,
       "anytime_td_prob": 0.1735,
       "trend": {
@@ -8439,6 +8610,7 @@
       "position": "WR",
       "opponent": "@ JAX",
       "kickoff": "Sunday 13:00 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/xust9v3gob1qqwhziugh",
       "xtd_per_game": 0.1898,
       "anytime_td_prob": 0.1729,
       "trend": {
@@ -8488,6 +8660,7 @@
       "position": "WR",
       "opponent": "vs BUF",
       "kickoff": "Sunday 13:00 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/n5baiu6sg9wh3xhhewkd",
       "xtd_per_game": 0.1888,
       "anytime_td_prob": 0.172,
       "trend": {
@@ -8537,6 +8710,7 @@
       "position": "WR",
       "opponent": "vs TB",
       "kickoff": "Sunday 13:00 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/xhrvbt81iohroyftuyj2",
       "xtd_per_game": 0.1888,
       "anytime_td_prob": 0.172,
       "trend": {
@@ -8586,6 +8760,7 @@
       "position": "TE",
       "opponent": "vs ATL",
       "kickoff": "Sunday 13:00 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/pyrdsypgggjshiaygkr7",
       "xtd_per_game": 0.1888,
       "anytime_td_prob": 0.172,
       "trend": {
@@ -8635,6 +8810,7 @@
       "position": "RB",
       "opponent": "vs BUF",
       "kickoff": "Sunday 13:00 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/bsm0k0jkytuiej2riudv",
       "xtd_per_game": 0.1868,
       "anytime_td_prob": 0.1704,
       "trend": {
@@ -8684,6 +8860,7 @@
       "position": "RB",
       "opponent": "@ LAC",
       "kickoff": "Sunday 16:25 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/wu0sm9ttr4aiugi9fquf",
       "xtd_per_game": 0.1862,
       "anytime_td_prob": 0.1699,
       "trend": {
@@ -8733,6 +8910,7 @@
       "position": "RB",
       "opponent": "vs NE",
       "kickoff": "Wednesday 20:20 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/vk6nruaqdewdglofcwwg",
       "xtd_per_game": 0.1855,
       "anytime_td_prob": 0.1693,
       "trend": {
@@ -8782,6 +8960,7 @@
       "position": "WR",
       "opponent": "@ LV",
       "kickoff": "Sunday 16:25 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/dmaiwnmaal9nrwfskl28",
       "xtd_per_game": 0.1848,
       "anytime_td_prob": 0.1687,
       "trend": {
@@ -8831,6 +9010,7 @@
       "position": "WR",
       "opponent": "@ JAX",
       "kickoff": "Sunday 13:00 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/piv889pkizjvgrtpfkxm",
       "xtd_per_game": 0.184,
       "anytime_td_prob": 0.1681,
       "trend": {
@@ -8880,6 +9060,7 @@
       "position": "WR",
       "opponent": "vs NO",
       "kickoff": "Sunday 13:00 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/byiptqggtglvy5qrw5wp",
       "xtd_per_game": 0.184,
       "anytime_td_prob": 0.1681,
       "trend": {
@@ -8929,6 +9110,7 @@
       "position": "TE",
       "opponent": "vs CLE",
       "kickoff": "Sunday 13:00 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/devxzxwf1sfficgncggm",
       "xtd_per_game": 0.1817,
       "anytime_td_prob": 0.1661,
       "trend": {
@@ -8978,6 +9160,7 @@
       "position": "RB",
       "opponent": "vs NE",
       "kickoff": "Wednesday 20:20 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/uorruvczsxzvffpbxu8z",
       "xtd_per_game": 0.181,
       "anytime_td_prob": 0.1656,
       "trend": {
@@ -9027,6 +9210,7 @@
       "position": "QB",
       "opponent": "@ NYG",
       "kickoff": "Sunday 20:20 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/yvscmqq1qki8zfsemmcd",
       "xtd_per_game": 0.1809,
       "anytime_td_prob": 0.1655,
       "trend": {
@@ -9076,6 +9260,7 @@
       "position": "RB",
       "opponent": "vs NYJ",
       "kickoff": "Sunday 13:00 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/pkly3nkohty1tuijtwty",
       "xtd_per_game": 0.1805,
       "anytime_td_prob": 0.1651,
       "trend": {
@@ -9125,6 +9310,7 @@
       "position": "RB",
       "opponent": "vs TB",
       "kickoff": "Sunday 13:00 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/fllwhcdovol5i7xxahf6",
       "xtd_per_game": 0.1805,
       "anytime_td_prob": 0.1651,
       "trend": {
@@ -9174,6 +9360,7 @@
       "position": "RB",
       "opponent": "@ HOU",
       "kickoff": "Sunday 13:00 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/xibwzhrl6q5xkgh3utug",
       "xtd_per_game": 0.1798,
       "anytime_td_prob": 0.1646,
       "trend": {
@@ -9223,6 +9410,7 @@
       "position": "QB",
       "opponent": "vs TB",
       "kickoff": "Sunday 13:00 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/dre1d2f2d6dxqohzn5l2",
       "xtd_per_game": 0.1798,
       "anytime_td_prob": 0.1646,
       "trend": {
@@ -9272,6 +9460,7 @@
       "position": "TE",
       "opponent": "vs ATL",
       "kickoff": "Sunday 13:00 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/inwx7uipfktapaump5pj",
       "xtd_per_game": 0.1796,
       "anytime_td_prob": 0.1644,
       "trend": {
@@ -9321,6 +9510,7 @@
       "position": "RB",
       "opponent": "@ LAC",
       "kickoff": "Sunday 16:25 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/liruc5jotnsi4ue9p9yx",
       "xtd_per_game": 0.1769,
       "anytime_td_prob": 0.1621,
       "trend": {
@@ -9363,55 +9553,6 @@
     },
     {
       "rank": 191,
-      "player_id": "00-0040179",
-      "player_name": "D.Giddens",
-      "player_full_name": "DJ Giddens",
-      "team": "IND",
-      "position": "RB",
-      "opponent": "vs BAL",
-      "kickoff": "Sunday 13:00 ET",
-      "xtd_per_game": 0.1769,
-      "anytime_td_prob": 0.1621,
-      "trend": {
-        "direction": "down",
-        "recent_games": 3,
-        "earlier_games": 2,
-        "games_in_window": 5,
-        "recent_chances_per_game": 0.0,
-        "earlier_chances_per_game": 1.0,
-        "recent_tds": 0
-      },
-      "games_scored_last_10": 0,
-      "display": {
-        "player_name": "D. GIDDENS",
-        "hero": "16%",
-        "hero_label": "CHANCE TO SCORE",
-        "stat_1": "0 OF 5",
-        "stat_1_label": "GAMES W/ A TD",
-        "stat_2": "COOLING OFF",
-        "stat_2_label": "LAST 3 GAMES"
-      },
-      "inside_10_opportunities": 2,
-      "end_zone_targets": 0,
-      "tds_last_10": 0,
-      "window_games": 10,
-      "inside_10_targets": 0,
-      "inside_10_carries": 0,
-      "goal_line_carries": 0,
-      "games_played": 4,
-      "end_zone_targets_pg": 0.1066,
-      "inside_10_carries_pg": 0.2558,
-      "inside_10_targets_pg": 0.2292,
-      "xtd_contribution": {
-        "end_zone_targets": 0.0432,
-        "inside_10_carries": 0.0705,
-        "inside_10_targets": 0.0632
-      },
-      "injury_flag": "",
-      "flags": []
-    },
-    {
-      "rank": 192,
       "player_id": "00-0039405",
       "player_name": "J.Jordan",
       "player_full_name": "Jawhar Jordan",
@@ -9419,6 +9560,7 @@
       "position": "RB",
       "opponent": "vs BUF",
       "kickoff": "Sunday 13:00 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/mdov6nge0ui6pc3kx0l2",
       "xtd_per_game": 0.1769,
       "anytime_td_prob": 0.1621,
       "trend": {
@@ -9460,6 +9602,56 @@
       "flags": []
     },
     {
+      "rank": 192,
+      "player_id": "00-0040179",
+      "player_name": "D.Giddens",
+      "player_full_name": "DJ Giddens",
+      "team": "IND",
+      "position": "RB",
+      "opponent": "vs BAL",
+      "kickoff": "Sunday 13:00 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/y2vrgvb9kbvfpmyb3yzu",
+      "xtd_per_game": 0.1769,
+      "anytime_td_prob": 0.1621,
+      "trend": {
+        "direction": "down",
+        "recent_games": 3,
+        "earlier_games": 2,
+        "games_in_window": 5,
+        "recent_chances_per_game": 0.0,
+        "earlier_chances_per_game": 1.0,
+        "recent_tds": 0
+      },
+      "games_scored_last_10": 0,
+      "display": {
+        "player_name": "D. GIDDENS",
+        "hero": "16%",
+        "hero_label": "CHANCE TO SCORE",
+        "stat_1": "0 OF 5",
+        "stat_1_label": "GAMES W/ A TD",
+        "stat_2": "COOLING OFF",
+        "stat_2_label": "LAST 3 GAMES"
+      },
+      "inside_10_opportunities": 2,
+      "end_zone_targets": 0,
+      "tds_last_10": 0,
+      "window_games": 10,
+      "inside_10_targets": 0,
+      "inside_10_carries": 0,
+      "goal_line_carries": 0,
+      "games_played": 4,
+      "end_zone_targets_pg": 0.1066,
+      "inside_10_carries_pg": 0.2558,
+      "inside_10_targets_pg": 0.2292,
+      "xtd_contribution": {
+        "end_zone_targets": 0.0432,
+        "inside_10_carries": 0.0705,
+        "inside_10_targets": 0.0632
+      },
+      "injury_flag": "",
+      "flags": []
+    },
+    {
       "rank": 193,
       "player_id": "00-0037838",
       "player_name": "I.Likely",
@@ -9468,6 +9660,7 @@
       "position": "TE",
       "opponent": "@ IND",
       "kickoff": "Sunday 13:00 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/b1pahldt9ixp9lssxi2d",
       "xtd_per_game": 0.1754,
       "anytime_td_prob": 0.1609,
       "trend": {
@@ -9517,6 +9710,7 @@
       "position": "TE",
       "opponent": "vs CHI",
       "kickoff": "Sunday 13:00 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/le2akm1cbou170ioctxl",
       "xtd_per_game": 0.1754,
       "anytime_td_prob": 0.1609,
       "trend": {
@@ -9566,6 +9760,7 @@
       "position": "TE",
       "opponent": "vs GB",
       "kickoff": "Sunday 16:25 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/rs8o65x0u0n9xzde0fd6",
       "xtd_per_game": 0.1743,
       "anytime_td_prob": 0.16,
       "trend": {
@@ -9615,6 +9810,7 @@
       "position": "WR",
       "opponent": "@ KC",
       "kickoff": "Monday 20:15 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/n91hznzkfpftxhqt1qd9",
       "xtd_per_game": 0.1736,
       "anytime_td_prob": 0.1594,
       "trend": {
@@ -9657,55 +9853,6 @@
     },
     {
       "rank": 197,
-      "player_id": "00-0040663",
-      "player_name": "H.Fannin",
-      "player_full_name": "Harold Fannin Jr.",
-      "team": "CLE",
-      "position": "TE",
-      "opponent": "@ JAX",
-      "kickoff": "Sunday 13:00 ET",
-      "xtd_per_game": 0.1729,
-      "anytime_td_prob": 0.1588,
-      "trend": {
-        "direction": "up",
-        "recent_games": 3,
-        "earlier_games": 7,
-        "games_in_window": 10,
-        "recent_chances_per_game": 0.667,
-        "earlier_chances_per_game": 0.286,
-        "recent_tds": 3
-      },
-      "games_scored_last_10": 5,
-      "display": {
-        "player_name": "H. FANNIN JR.",
-        "hero": "16%",
-        "hero_label": "CHANCE TO SCORE",
-        "stat_1": "5 OF 10",
-        "stat_1_label": "GAMES W/ A TD",
-        "stat_2": "HEATING UP",
-        "stat_2_label": "LAST 3 GAMES"
-      },
-      "inside_10_opportunities": 4,
-      "end_zone_targets": 2,
-      "tds_last_10": 6,
-      "window_games": 10,
-      "inside_10_targets": 0,
-      "inside_10_carries": 0,
-      "goal_line_carries": 0,
-      "games_played": 16,
-      "end_zone_targets_pg": 0.1926,
-      "inside_10_carries_pg": 0.1023,
-      "inside_10_targets_pg": 0.2417,
-      "xtd_contribution": {
-        "end_zone_targets": 0.0781,
-        "inside_10_carries": 0.0282,
-        "inside_10_targets": 0.0667
-      },
-      "injury_flag": "",
-      "flags": []
-    },
-    {
-      "rank": 198,
       "player_id": "00-0038997",
       "player_name": "J.Downs",
       "player_full_name": "Josh Downs",
@@ -9713,6 +9860,7 @@
       "position": "WR",
       "opponent": "vs BAL",
       "kickoff": "Sunday 13:00 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/z3wahaxpmc6d5lcxgh60",
       "xtd_per_game": 0.1729,
       "anytime_td_prob": 0.1588,
       "trend": {
@@ -9754,6 +9902,56 @@
       "flags": []
     },
     {
+      "rank": 198,
+      "player_id": "00-0040663",
+      "player_name": "H.Fannin",
+      "player_full_name": "Harold Fannin Jr.",
+      "team": "CLE",
+      "position": "TE",
+      "opponent": "@ JAX",
+      "kickoff": "Sunday 13:00 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/fxublmpnxx9uggsddwik",
+      "xtd_per_game": 0.1729,
+      "anytime_td_prob": 0.1588,
+      "trend": {
+        "direction": "up",
+        "recent_games": 3,
+        "earlier_games": 7,
+        "games_in_window": 10,
+        "recent_chances_per_game": 0.667,
+        "earlier_chances_per_game": 0.286,
+        "recent_tds": 3
+      },
+      "games_scored_last_10": 5,
+      "display": {
+        "player_name": "H. FANNIN JR.",
+        "hero": "16%",
+        "hero_label": "CHANCE TO SCORE",
+        "stat_1": "5 OF 10",
+        "stat_1_label": "GAMES W/ A TD",
+        "stat_2": "HEATING UP",
+        "stat_2_label": "LAST 3 GAMES"
+      },
+      "inside_10_opportunities": 4,
+      "end_zone_targets": 2,
+      "tds_last_10": 6,
+      "window_games": 10,
+      "inside_10_targets": 0,
+      "inside_10_carries": 0,
+      "goal_line_carries": 0,
+      "games_played": 16,
+      "end_zone_targets_pg": 0.1926,
+      "inside_10_carries_pg": 0.1023,
+      "inside_10_targets_pg": 0.2417,
+      "xtd_contribution": {
+        "end_zone_targets": 0.0781,
+        "inside_10_carries": 0.0282,
+        "inside_10_targets": 0.0667
+      },
+      "injury_flag": "",
+      "flags": []
+    },
+    {
       "rank": 199,
       "player_id": "00-0039890",
       "player_name": "A.Mitchell",
@@ -9762,6 +9960,7 @@
       "position": "WR",
       "opponent": "@ TEN",
       "kickoff": "Sunday 13:00 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/hwwacoa3pqapd7pgahfx",
       "xtd_per_game": 0.1721,
       "anytime_td_prob": 0.1581,
       "trend": {
@@ -9811,6 +10010,7 @@
       "position": "TE",
       "opponent": "vs TB",
       "kickoff": "Sunday 13:00 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/lijnonbrcmplvkcb5kqv",
       "xtd_per_game": 0.171,
       "anytime_td_prob": 0.1572,
       "trend": {
@@ -9860,6 +10060,7 @@
       "position": "QB",
       "opponent": "vs NYJ",
       "kickoff": "Sunday 13:00 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/l7switu6stlwd2irm8yo",
       "xtd_per_game": 0.1704,
       "anytime_td_prob": 0.1567,
       "trend": {
@@ -9909,6 +10110,7 @@
       "position": "TE",
       "opponent": "vs BUF",
       "kickoff": "Sunday 13:00 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ur3ihcg0rkeqbfiksj5y",
       "xtd_per_game": 0.1691,
       "anytime_td_prob": 0.1556,
       "trend": {
@@ -9958,6 +10160,7 @@
       "position": "RB",
       "opponent": "vs CHI",
       "kickoff": "Sunday 13:00 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/pcuzq84x7ia5yvmikltb",
       "xtd_per_game": 0.169,
       "anytime_td_prob": 0.1555,
       "trend": {
@@ -10007,6 +10210,7 @@
       "position": "TE",
       "opponent": "vs SF",
       "kickoff": "Thursday 20:35 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/iweydtcrfchsl3mt6jtd",
       "xtd_per_game": 0.1675,
       "anytime_td_prob": 0.1542,
       "trend": {
@@ -10056,6 +10260,7 @@
       "position": "WR",
       "opponent": "@ SEA",
       "kickoff": "Wednesday 20:20 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/cm9vnzqu5phlmsocjwgc",
       "xtd_per_game": 0.1675,
       "anytime_td_prob": 0.1542,
       "trend": {
@@ -10105,6 +10310,7 @@
       "position": "RB",
       "opponent": "vs GB",
       "kickoff": "Sunday 16:25 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/qeeucinnxl8mpzaw23hc",
       "xtd_per_game": 0.1672,
       "anytime_td_prob": 0.154,
       "trend": {
@@ -10147,55 +10353,6 @@
     },
     {
       "rank": 207,
-      "player_id": "00-0040584",
-      "player_name": "G.Helm",
-      "player_full_name": "Gunnar Helm",
-      "team": "TEN",
-      "position": "TE",
-      "opponent": "vs NYJ",
-      "kickoff": "Sunday 13:00 ET",
-      "xtd_per_game": 0.1656,
-      "anytime_td_prob": 0.1526,
-      "trend": {
-        "direction": "up",
-        "recent_games": 3,
-        "earlier_games": 7,
-        "games_in_window": 10,
-        "recent_chances_per_game": 0.333,
-        "earlier_chances_per_game": 0.286,
-        "recent_tds": 1
-      },
-      "games_scored_last_10": 2,
-      "display": {
-        "player_name": "G. HELM",
-        "hero": "15%",
-        "hero_label": "CHANCE TO SCORE",
-        "stat_1": "2 OF 10",
-        "stat_1_label": "GAMES W/ A TD",
-        "stat_2": "HEATING UP",
-        "stat_2_label": "LAST 3 GAMES"
-      },
-      "inside_10_opportunities": 3,
-      "end_zone_targets": 3,
-      "tds_last_10": 2,
-      "window_games": 10,
-      "inside_10_targets": 0,
-      "inside_10_carries": 0,
-      "goal_line_carries": 0,
-      "games_played": 16,
-      "end_zone_targets_pg": 0.2426,
-      "inside_10_carries_pg": 0.0523,
-      "inside_10_targets_pg": 0.1917,
-      "xtd_contribution": {
-        "end_zone_targets": 0.0983,
-        "inside_10_carries": 0.0144,
-        "inside_10_targets": 0.0529
-      },
-      "injury_flag": "",
-      "flags": []
-    },
-    {
-      "rank": 208,
       "player_id": "00-0036290",
       "player_name": "C.Kmet",
       "player_full_name": "Cole Kmet",
@@ -10203,6 +10360,7 @@
       "position": "TE",
       "opponent": "@ CAR",
       "kickoff": "Sunday 13:00 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ysnui8mzlu2fo70ub0yt",
       "xtd_per_game": 0.1656,
       "anytime_td_prob": 0.1526,
       "trend": {
@@ -10244,6 +10402,56 @@
       "flags": []
     },
     {
+      "rank": 208,
+      "player_id": "00-0040584",
+      "player_name": "G.Helm",
+      "player_full_name": "Gunnar Helm",
+      "team": "TEN",
+      "position": "TE",
+      "opponent": "vs NYJ",
+      "kickoff": "Sunday 13:00 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/hewm6ztgka7xkbl6ybvb",
+      "xtd_per_game": 0.1656,
+      "anytime_td_prob": 0.1526,
+      "trend": {
+        "direction": "up",
+        "recent_games": 3,
+        "earlier_games": 7,
+        "games_in_window": 10,
+        "recent_chances_per_game": 0.333,
+        "earlier_chances_per_game": 0.286,
+        "recent_tds": 1
+      },
+      "games_scored_last_10": 2,
+      "display": {
+        "player_name": "G. HELM",
+        "hero": "15%",
+        "hero_label": "CHANCE TO SCORE",
+        "stat_1": "2 OF 10",
+        "stat_1_label": "GAMES W/ A TD",
+        "stat_2": "HEATING UP",
+        "stat_2_label": "LAST 3 GAMES"
+      },
+      "inside_10_opportunities": 3,
+      "end_zone_targets": 3,
+      "tds_last_10": 2,
+      "window_games": 10,
+      "inside_10_targets": 0,
+      "inside_10_carries": 0,
+      "goal_line_carries": 0,
+      "games_played": 16,
+      "end_zone_targets_pg": 0.2426,
+      "inside_10_carries_pg": 0.0523,
+      "inside_10_targets_pg": 0.1917,
+      "xtd_contribution": {
+        "end_zone_targets": 0.0983,
+        "inside_10_carries": 0.0144,
+        "inside_10_targets": 0.0529
+      },
+      "injury_flag": "",
+      "flags": []
+    },
+    {
       "rank": 209,
       "player_id": "00-0036754",
       "player_name": "B.Wright",
@@ -10252,6 +10460,7 @@
       "position": "TE",
       "opponent": "vs NO",
       "kickoff": "Sunday 13:00 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ghmaeofuj87fm97yhvcp",
       "xtd_per_game": 0.1655,
       "anytime_td_prob": 0.1525,
       "trend": {
@@ -10301,6 +10510,7 @@
       "position": "QB",
       "opponent": "@ CAR",
       "kickoff": "Sunday 13:00 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/h4qs11kutwiw7whekmyt",
       "xtd_per_game": 0.1654,
       "anytime_td_prob": 0.1524,
       "trend": {
@@ -10350,6 +10560,7 @@
       "position": "WR",
       "opponent": "@ HOU",
       "kickoff": "Sunday 13:00 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/woswdfrtxnsfgzsjvsxx",
       "xtd_per_game": 0.1644,
       "anytime_td_prob": 0.1516,
       "trend": {
@@ -10399,6 +10610,7 @@
       "position": "RB",
       "opponent": "@ LAC",
       "kickoff": "Sunday 16:25 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/cwqrxzouk4gkhfziyqre",
       "xtd_per_game": 0.1643,
       "anytime_td_prob": 0.1515,
       "trend": {
@@ -10448,6 +10660,7 @@
       "position": "TE",
       "opponent": "@ TEN",
       "kickoff": "Sunday 13:00 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/xittx9gih104lw1atfiv",
       "xtd_per_game": 0.1634,
       "anytime_td_prob": 0.1507,
       "trend": {
@@ -10497,6 +10710,7 @@
       "position": "TE",
       "opponent": "vs NO",
       "kickoff": "Sunday 13:00 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/wxlk7ysg2nfq6h6ntdcu",
       "xtd_per_game": 0.1613,
       "anytime_td_prob": 0.149,
       "trend": {
@@ -10546,6 +10760,7 @@
       "position": "RB",
       "opponent": "vs GB",
       "kickoff": "Sunday 16:25 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/bktkfvgfwujkdbzkcfim",
       "xtd_per_game": 0.1573,
       "anytime_td_prob": 0.1456,
       "trend": {
@@ -10588,55 +10803,6 @@
     },
     {
       "rank": 216,
-      "player_id": "00-0035228",
-      "player_name": "K.Murray",
-      "player_full_name": "Kyler Murray",
-      "team": "ARI",
-      "position": "QB",
-      "opponent": "@ LAC",
-      "kickoff": "Sunday 16:25 ET",
-      "xtd_per_game": 0.1572,
-      "anytime_td_prob": 0.1455,
-      "trend": {
-        "direction": "down",
-        "recent_games": 3,
-        "earlier_games": 2,
-        "games_in_window": 5,
-        "recent_chances_per_game": 0.0,
-        "earlier_chances_per_game": 1.0,
-        "recent_tds": 1
-      },
-      "games_scored_last_10": 1,
-      "display": {
-        "player_name": "K. MURRAY",
-        "hero": "15%",
-        "hero_label": "CHANCE TO SCORE",
-        "stat_1": "1 OF 5",
-        "stat_1_label": "GAMES W/ A TD",
-        "stat_2": "COOLING OFF",
-        "stat_2_label": "LAST 3 GAMES"
-      },
-      "inside_10_opportunities": 2,
-      "end_zone_targets": 0,
-      "tds_last_10": 1,
-      "window_games": 10,
-      "inside_10_targets": 0,
-      "inside_10_carries": 0,
-      "goal_line_carries": 0,
-      "games_played": 5,
-      "end_zone_targets_pg": 0.0948,
-      "inside_10_carries_pg": 0.3385,
-      "inside_10_targets_pg": 0.0926,
-      "xtd_contribution": {
-        "end_zone_targets": 0.0384,
-        "inside_10_carries": 0.0933,
-        "inside_10_targets": 0.0255
-      },
-      "injury_flag": "",
-      "flags": []
-    },
-    {
-      "rank": 217,
       "player_id": "00-0040586",
       "player_name": "J.Blue",
       "player_full_name": "Jaydon Blue",
@@ -10644,6 +10810,7 @@
       "position": "RB",
       "opponent": "@ NYG",
       "kickoff": "Sunday 20:20 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/lscygdlqczomp0l9oykv",
       "xtd_per_game": 0.1572,
       "anytime_td_prob": 0.1455,
       "trend": {
@@ -10685,6 +10852,56 @@
       "flags": []
     },
     {
+      "rank": 217,
+      "player_id": "00-0035228",
+      "player_name": "K.Murray",
+      "player_full_name": "Kyler Murray",
+      "team": "ARI",
+      "position": "QB",
+      "opponent": "@ LAC",
+      "kickoff": "Sunday 16:25 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/btfruyf33adgnjzpcuen",
+      "xtd_per_game": 0.1572,
+      "anytime_td_prob": 0.1455,
+      "trend": {
+        "direction": "down",
+        "recent_games": 3,
+        "earlier_games": 2,
+        "games_in_window": 5,
+        "recent_chances_per_game": 0.0,
+        "earlier_chances_per_game": 1.0,
+        "recent_tds": 1
+      },
+      "games_scored_last_10": 1,
+      "display": {
+        "player_name": "K. MURRAY",
+        "hero": "15%",
+        "hero_label": "CHANCE TO SCORE",
+        "stat_1": "1 OF 5",
+        "stat_1_label": "GAMES W/ A TD",
+        "stat_2": "COOLING OFF",
+        "stat_2_label": "LAST 3 GAMES"
+      },
+      "inside_10_opportunities": 2,
+      "end_zone_targets": 0,
+      "tds_last_10": 1,
+      "window_games": 10,
+      "inside_10_targets": 0,
+      "inside_10_carries": 0,
+      "goal_line_carries": 0,
+      "games_played": 5,
+      "end_zone_targets_pg": 0.0948,
+      "inside_10_carries_pg": 0.3385,
+      "inside_10_targets_pg": 0.0926,
+      "xtd_contribution": {
+        "end_zone_targets": 0.0384,
+        "inside_10_carries": 0.0933,
+        "inside_10_targets": 0.0255
+      },
+      "injury_flag": "",
+      "flags": []
+    },
+    {
       "rank": 218,
       "player_id": "00-0035359",
       "player_name": "D.Sills",
@@ -10693,6 +10910,7 @@
       "position": "WR",
       "opponent": "@ PIT",
       "kickoff": "Sunday 13:00 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/g0jd9yaq2yhw05ktamlh",
       "xtd_per_game": 0.1564,
       "anytime_td_prob": 0.1448,
       "trend": {
@@ -10742,6 +10960,7 @@
       "position": "QB",
       "opponent": "@ PHI",
       "kickoff": "Sunday 16:25 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/gfz8k5onuqjrche9ogqc",
       "xtd_per_game": 0.1537,
       "anytime_td_prob": 0.1425,
       "trend": {
@@ -10784,55 +11003,6 @@
     },
     {
       "rank": 220,
-      "player_id": "00-0039923",
-      "player_name": "J.McCarthy",
-      "player_full_name": "J.J. McCarthy",
-      "team": "MIN",
-      "position": "QB",
-      "opponent": "vs GB",
-      "kickoff": "Sunday 16:25 ET",
-      "xtd_per_game": 0.1512,
-      "anytime_td_prob": 0.1403,
-      "trend": {
-        "direction": "up",
-        "recent_games": 3,
-        "earlier_games": 6,
-        "games_in_window": 9,
-        "recent_chances_per_game": 0.667,
-        "earlier_chances_per_game": 0.333,
-        "recent_tds": 2
-      },
-      "games_scored_last_10": 4,
-      "display": {
-        "player_name": "J. MCCARTHY",
-        "hero": "14%",
-        "hero_label": "CHANCE TO SCORE",
-        "stat_1": "4 OF 9",
-        "stat_1_label": "GAMES W/ A TD",
-        "stat_2": "HEATING UP",
-        "stat_2_label": "LAST 3 GAMES"
-      },
-      "inside_10_opportunities": 4,
-      "end_zone_targets": 0,
-      "tds_last_10": 4,
-      "window_games": 10,
-      "inside_10_targets": 0,
-      "inside_10_carries": 0,
-      "goal_line_carries": 0,
-      "games_played": 9,
-      "end_zone_targets_pg": 0.0656,
-      "inside_10_carries_pg": 0.3882,
-      "inside_10_targets_pg": 0.0641,
-      "xtd_contribution": {
-        "end_zone_targets": 0.0266,
-        "inside_10_carries": 0.107,
-        "inside_10_targets": 0.0177
-      },
-      "injury_flag": "",
-      "flags": []
-    },
-    {
-      "rank": 221,
       "player_id": "00-0037563",
       "player_name": "M.Davis",
       "player_full_name": "Malik Davis",
@@ -10840,6 +11010,7 @@
       "position": "RB",
       "opponent": "@ NYG",
       "kickoff": "Sunday 20:20 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/zvranxxyt8qeihn8c2q9",
       "xtd_per_game": 0.1512,
       "anytime_td_prob": 0.1403,
       "trend": {
@@ -10881,56 +11052,57 @@
       "flags": []
     },
     {
-      "rank": 222,
-      "player_id": "00-0040187",
-      "player_name": "M.Evans",
-      "player_full_name": "Mitchell Evans",
-      "team": "CAR",
-      "position": "TE",
-      "opponent": "vs CHI",
-      "kickoff": "Sunday 13:00 ET",
-      "xtd_per_game": 0.1472,
-      "anytime_td_prob": 0.1369,
+      "rank": 221,
+      "player_id": "00-0039923",
+      "player_name": "J.McCarthy",
+      "player_full_name": "J.J. McCarthy",
+      "team": "MIN",
+      "position": "QB",
+      "opponent": "vs GB",
+      "kickoff": "Sunday 16:25 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/omybnfokapjw6jwb5dd3",
+      "xtd_per_game": 0.1512,
+      "anytime_td_prob": 0.1403,
       "trend": {
-        "direction": "down",
+        "direction": "up",
         "recent_games": 3,
-        "earlier_games": 7,
-        "games_in_window": 10,
-        "recent_chances_per_game": 0.0,
-        "earlier_chances_per_game": 0.286,
-        "recent_tds": 0
+        "earlier_games": 6,
+        "games_in_window": 9,
+        "recent_chances_per_game": 0.667,
+        "earlier_chances_per_game": 0.333,
+        "recent_tds": 2
       },
-      "games_scored_last_10": 1,
+      "games_scored_last_10": 4,
       "display": {
-        "player_name": "M. EVANS",
+        "player_name": "J. MCCARTHY",
         "hero": "14%",
         "hero_label": "CHANCE TO SCORE",
-        "stat_1": "1 OF 10",
+        "stat_1": "4 OF 9",
         "stat_1_label": "GAMES W/ A TD",
-        "stat_2": "COOLING OFF",
+        "stat_2": "HEATING UP",
         "stat_2_label": "LAST 3 GAMES"
       },
-      "inside_10_opportunities": 2,
-      "end_zone_targets": 1,
-      "tds_last_10": 1,
+      "inside_10_opportunities": 4,
+      "end_zone_targets": 0,
+      "tds_last_10": 4,
       "window_games": 10,
       "inside_10_targets": 0,
       "inside_10_carries": 0,
       "goal_line_carries": 0,
-      "games_played": 13,
-      "end_zone_targets_pg": 0.1678,
-      "inside_10_carries_pg": 0.0616,
-      "inside_10_targets_pg": 0.2255,
+      "games_played": 9,
+      "end_zone_targets_pg": 0.0656,
+      "inside_10_carries_pg": 0.3882,
+      "inside_10_targets_pg": 0.0641,
       "xtd_contribution": {
-        "end_zone_targets": 0.068,
-        "inside_10_carries": 0.017,
-        "inside_10_targets": 0.0622
+        "end_zone_targets": 0.0266,
+        "inside_10_carries": 0.107,
+        "inside_10_targets": 0.0177
       },
       "injury_flag": "",
       "flags": []
     },
     {
-      "rank": 223,
+      "rank": 222,
       "player_id": "00-0032392",
       "player_name": "A.Hooper",
       "player_full_name": "Austin Hooper",
@@ -10938,6 +11110,7 @@
       "position": "TE",
       "opponent": "@ SEA",
       "kickoff": "Wednesday 20:20 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/dd0j9ccd8fxokl48alzg",
       "xtd_per_game": 0.1472,
       "anytime_td_prob": 0.1369,
       "trend": {
@@ -10979,6 +11152,56 @@
       "flags": []
     },
     {
+      "rank": 223,
+      "player_id": "00-0040187",
+      "player_name": "M.Evans",
+      "player_full_name": "Mitchell Evans",
+      "team": "CAR",
+      "position": "TE",
+      "opponent": "vs CHI",
+      "kickoff": "Sunday 13:00 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/yruhsxdnyfaa7iswn1dp",
+      "xtd_per_game": 0.1472,
+      "anytime_td_prob": 0.1369,
+      "trend": {
+        "direction": "down",
+        "recent_games": 3,
+        "earlier_games": 7,
+        "games_in_window": 10,
+        "recent_chances_per_game": 0.0,
+        "earlier_chances_per_game": 0.286,
+        "recent_tds": 0
+      },
+      "games_scored_last_10": 1,
+      "display": {
+        "player_name": "M. EVANS",
+        "hero": "14%",
+        "hero_label": "CHANCE TO SCORE",
+        "stat_1": "1 OF 10",
+        "stat_1_label": "GAMES W/ A TD",
+        "stat_2": "COOLING OFF",
+        "stat_2_label": "LAST 3 GAMES"
+      },
+      "inside_10_opportunities": 2,
+      "end_zone_targets": 1,
+      "tds_last_10": 1,
+      "window_games": 10,
+      "inside_10_targets": 0,
+      "inside_10_carries": 0,
+      "goal_line_carries": 0,
+      "games_played": 13,
+      "end_zone_targets_pg": 0.1678,
+      "inside_10_carries_pg": 0.0616,
+      "inside_10_targets_pg": 0.2255,
+      "xtd_contribution": {
+        "end_zone_targets": 0.068,
+        "inside_10_carries": 0.017,
+        "inside_10_targets": 0.0622
+      },
+      "injury_flag": "",
+      "flags": []
+    },
+    {
       "rank": 224,
       "player_id": "00-0032775",
       "player_name": "D.Robinson",
@@ -10987,6 +11210,7 @@
       "position": "WR",
       "opponent": "@ LA",
       "kickoff": "Thursday 20:35 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/cokassoz2z7hb4wk2krh",
       "xtd_per_game": 0.1462,
       "anytime_td_prob": 0.136,
       "trend": {
@@ -11036,6 +11260,7 @@
       "position": "RB",
       "opponent": "@ LA",
       "kickoff": "Thursday 20:35 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/tsejiiddtouukwyyqr9q",
       "xtd_per_game": 0.1462,
       "anytime_td_prob": 0.136,
       "trend": {
@@ -11085,6 +11310,7 @@
       "position": "WR",
       "opponent": "@ HOU",
       "kickoff": "Sunday 13:00 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/syvp3hficobwcsim3i9v",
       "xtd_per_game": 0.1462,
       "anytime_td_prob": 0.136,
       "trend": {
@@ -11134,6 +11360,7 @@
       "position": "QB",
       "opponent": "vs BUF",
       "kickoff": "Sunday 13:00 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/jh9e97vjzmeafx8jz0sn",
       "xtd_per_game": 0.1415,
       "anytime_td_prob": 0.1319,
       "trend": {
@@ -11183,6 +11410,7 @@
       "position": "RB",
       "opponent": "@ KC",
       "kickoff": "Monday 20:15 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/xuvyqidnso9ga1dfefoy",
       "xtd_per_game": 0.1409,
       "anytime_td_prob": 0.1314,
       "trend": {
@@ -11232,6 +11460,7 @@
       "position": "TE",
       "opponent": "@ PHI",
       "kickoff": "Sunday 16:25 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/sqaiwpind6kk4ns4acql",
       "xtd_per_game": 0.1401,
       "anytime_td_prob": 0.1307,
       "trend": {
@@ -11281,6 +11510,7 @@
       "position": "QB",
       "opponent": "@ LAC",
       "kickoff": "Sunday 16:25 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/qjswiunczrn5xmdiqhlz",
       "xtd_per_game": 0.1401,
       "anytime_td_prob": 0.1307,
       "trend": {
@@ -11330,6 +11560,7 @@
       "position": "TE",
       "opponent": "@ LA",
       "kickoff": "Thursday 20:35 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/kdq2zratulrdsv4ykugy",
       "xtd_per_game": 0.14,
       "anytime_td_prob": 0.1306,
       "trend": {
@@ -11379,6 +11610,7 @@
       "position": "QB",
       "opponent": "vs ARI",
       "kickoff": "Sunday 16:25 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/jnkspnntgebegzp4ghve",
       "xtd_per_game": 0.1396,
       "anytime_td_prob": 0.1303,
       "trend": {
@@ -11428,6 +11660,7 @@
       "position": "WR",
       "opponent": "@ NYG",
       "kickoff": "Sunday 20:20 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/tayjlp1hgmm6rewgl1k4",
       "xtd_per_game": 0.1385,
       "anytime_td_prob": 0.1293,
       "trend": {
@@ -11477,6 +11710,7 @@
       "position": "WR",
       "opponent": "vs NE",
       "kickoff": "Wednesday 20:20 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ku2naisfbxmzgagxojnm",
       "xtd_per_game": 0.138,
       "anytime_td_prob": 0.1289,
       "trend": {
@@ -11526,6 +11760,7 @@
       "position": "TE",
       "opponent": "vs ATL",
       "kickoff": "Sunday 13:00 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/egd6llghj3n5wfdrqacw",
       "xtd_per_game": 0.1323,
       "anytime_td_prob": 0.1239,
       "trend": {
@@ -11575,6 +11810,7 @@
       "position": "QB",
       "opponent": "@ IND",
       "kickoff": "Sunday 13:00 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/eno6s5qzl9grbfbfwhoa",
       "xtd_per_game": 0.1318,
       "anytime_td_prob": 0.1235,
       "trend": {
@@ -11624,6 +11860,7 @@
       "position": "TE",
       "opponent": "@ CIN",
       "kickoff": "Sunday 13:00 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/yanr6h9aplae3jyzimf7",
       "xtd_per_game": 0.1317,
       "anytime_td_prob": 0.1234,
       "trend": {
@@ -11673,6 +11910,7 @@
       "position": "TE",
       "opponent": "vs MIA",
       "kickoff": "Sunday 16:25 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/twnkr9uq1phvukxb5jmh",
       "xtd_per_game": 0.131,
       "anytime_td_prob": 0.1228,
       "trend": {
@@ -11715,55 +11953,6 @@
     },
     {
       "rank": 239,
-      "player_id": "00-0037805",
-      "player_name": "J.Ruckert",
-      "player_full_name": "Jeremy Ruckert",
-      "team": "NYJ",
-      "position": "TE",
-      "opponent": "@ TEN",
-      "kickoff": "Sunday 13:00 ET",
-      "xtd_per_game": 0.1309,
-      "anytime_td_prob": 0.1227,
-      "trend": {
-        "direction": "up",
-        "recent_games": 3,
-        "earlier_games": 7,
-        "games_in_window": 10,
-        "recent_chances_per_game": 0.333,
-        "earlier_chances_per_game": 0.0,
-        "recent_tds": 0
-      },
-      "games_scored_last_10": 0,
-      "display": {
-        "player_name": "J. RUCKERT",
-        "hero": "12%",
-        "hero_label": "CHANCE TO SCORE",
-        "stat_1": "0 OF 10",
-        "stat_1_label": "GAMES W/ A TD",
-        "stat_2": "HEATING UP",
-        "stat_2_label": "LAST 3 GAMES"
-      },
-      "inside_10_opportunities": 1,
-      "end_zone_targets": 1,
-      "tds_last_10": 0,
-      "window_games": 10,
-      "inside_10_targets": 0,
-      "inside_10_carries": 0,
-      "goal_line_carries": 0,
-      "games_played": 13,
-      "end_zone_targets_pg": 0.1678,
-      "inside_10_carries_pg": 0.0616,
-      "inside_10_targets_pg": 0.1667,
-      "xtd_contribution": {
-        "end_zone_targets": 0.068,
-        "inside_10_carries": 0.017,
-        "inside_10_targets": 0.046
-      },
-      "injury_flag": "",
-      "flags": []
-    },
-    {
-      "rank": 240,
       "player_id": "00-0040194",
       "player_name": "J.Hawes",
       "player_full_name": "Jackson Hawes",
@@ -11771,6 +11960,7 @@
       "position": "TE",
       "opponent": "@ HOU",
       "kickoff": "Sunday 13:00 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/gl3easmpg7rn6e5siya2",
       "xtd_per_game": 0.1309,
       "anytime_td_prob": 0.1227,
       "trend": {
@@ -11812,6 +12002,56 @@
       "flags": []
     },
     {
+      "rank": 240,
+      "player_id": "00-0037805",
+      "player_name": "J.Ruckert",
+      "player_full_name": "Jeremy Ruckert",
+      "team": "NYJ",
+      "position": "TE",
+      "opponent": "@ TEN",
+      "kickoff": "Sunday 13:00 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/bcqcta7r1uee3rqhejdh",
+      "xtd_per_game": 0.1309,
+      "anytime_td_prob": 0.1227,
+      "trend": {
+        "direction": "up",
+        "recent_games": 3,
+        "earlier_games": 7,
+        "games_in_window": 10,
+        "recent_chances_per_game": 0.333,
+        "earlier_chances_per_game": 0.0,
+        "recent_tds": 0
+      },
+      "games_scored_last_10": 0,
+      "display": {
+        "player_name": "J. RUCKERT",
+        "hero": "12%",
+        "hero_label": "CHANCE TO SCORE",
+        "stat_1": "0 OF 10",
+        "stat_1_label": "GAMES W/ A TD",
+        "stat_2": "HEATING UP",
+        "stat_2_label": "LAST 3 GAMES"
+      },
+      "inside_10_opportunities": 1,
+      "end_zone_targets": 1,
+      "tds_last_10": 0,
+      "window_games": 10,
+      "inside_10_targets": 0,
+      "inside_10_carries": 0,
+      "goal_line_carries": 0,
+      "games_played": 13,
+      "end_zone_targets_pg": 0.1678,
+      "inside_10_carries_pg": 0.0616,
+      "inside_10_targets_pg": 0.1667,
+      "xtd_contribution": {
+        "end_zone_targets": 0.068,
+        "inside_10_carries": 0.017,
+        "inside_10_targets": 0.046
+      },
+      "injury_flag": "",
+      "flags": []
+    },
+    {
       "rank": 241,
       "player_id": "00-0039530",
       "player_name": "B.Spann-Ford",
@@ -11820,6 +12060,7 @@
       "position": "TE",
       "opponent": "@ NYG",
       "kickoff": "Sunday 20:20 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/sko2pmuqociwa92ep1ad",
       "xtd_per_game": 0.1301,
       "anytime_td_prob": 0.122,
       "trend": {
@@ -11862,55 +12103,6 @@
     },
     {
       "rank": 242,
-      "player_id": "00-0037834",
-      "player_name": "B.Purdy",
-      "player_full_name": "Brock Purdy",
-      "team": "SF",
-      "position": "QB",
-      "opponent": "@ LA",
-      "kickoff": "Thursday 20:35 ET",
-      "xtd_per_game": 0.13,
-      "anytime_td_prob": 0.1219,
-      "trend": {
-        "direction": "up",
-        "recent_games": 3,
-        "earlier_games": 7,
-        "games_in_window": 10,
-        "recent_chances_per_game": 0.667,
-        "earlier_chances_per_game": 0.143,
-        "recent_tds": 2
-      },
-      "games_scored_last_10": 2,
-      "display": {
-        "player_name": "B. PURDY",
-        "hero": "12%",
-        "hero_label": "CHANCE TO SCORE",
-        "stat_1": "2 OF 10",
-        "stat_1_label": "GAMES W/ A TD",
-        "stat_2": "HEATING UP",
-        "stat_2_label": "LAST 3 GAMES"
-      },
-      "inside_10_opportunities": 3,
-      "end_zone_targets": 0,
-      "tds_last_10": 3,
-      "window_games": 10,
-      "inside_10_targets": 0,
-      "inside_10_carries": 0,
-      "goal_line_carries": 0,
-      "games_played": 9,
-      "end_zone_targets_pg": 0.0656,
-      "inside_10_carries_pg": 0.3113,
-      "inside_10_targets_pg": 0.0641,
-      "xtd_contribution": {
-        "end_zone_targets": 0.0266,
-        "inside_10_carries": 0.0858,
-        "inside_10_targets": 0.0177
-      },
-      "injury_flag": "",
-      "flags": []
-    },
-    {
-      "rank": 243,
       "player_id": "00-0039917",
       "player_name": "M.Penix",
       "player_full_name": "Michael Penix Jr.",
@@ -11918,6 +12110,7 @@
       "position": "QB",
       "opponent": "@ PIT",
       "kickoff": "Sunday 13:00 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/mip4kogkqxwkkya6mvmh",
       "xtd_per_game": 0.13,
       "anytime_td_prob": 0.1219,
       "trend": {
@@ -11959,56 +12152,57 @@
       "flags": []
     },
     {
-      "rank": 244,
-      "player_id": "00-0037594",
-      "player_name": "J.Chestnut",
-      "player_full_name": "Julius Chestnut",
-      "team": "TEN",
-      "position": "RB",
-      "opponent": "vs NYJ",
-      "kickoff": "Sunday 13:00 ET",
-      "xtd_per_game": 0.1286,
-      "anytime_td_prob": 0.1207,
+      "rank": 243,
+      "player_id": "00-0037834",
+      "player_name": "B.Purdy",
+      "player_full_name": "Brock Purdy",
+      "team": "SF",
+      "position": "QB",
+      "opponent": "@ LA",
+      "kickoff": "Thursday 20:35 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/xs2fyj1sqdgwvt9ihbri",
+      "xtd_per_game": 0.13,
+      "anytime_td_prob": 0.1219,
       "trend": {
-        "direction": "down",
+        "direction": "up",
         "recent_games": 3,
-        "earlier_games": 4,
-        "games_in_window": 7,
-        "recent_chances_per_game": 0.0,
-        "earlier_chances_per_game": 0.5,
-        "recent_tds": 0
+        "earlier_games": 7,
+        "games_in_window": 10,
+        "recent_chances_per_game": 0.667,
+        "earlier_chances_per_game": 0.143,
+        "recent_tds": 2
       },
-      "games_scored_last_10": 0,
+      "games_scored_last_10": 2,
       "display": {
-        "player_name": "J. CHESTNUT",
+        "player_name": "B. PURDY",
         "hero": "12%",
         "hero_label": "CHANCE TO SCORE",
-        "stat_1": "0 OF 7",
+        "stat_1": "2 OF 10",
         "stat_1_label": "GAMES W/ A TD",
-        "stat_2": "COOLING OFF",
+        "stat_2": "HEATING UP",
         "stat_2_label": "LAST 3 GAMES"
       },
-      "inside_10_opportunities": 2,
+      "inside_10_opportunities": 3,
       "end_zone_targets": 0,
-      "tds_last_10": 0,
+      "tds_last_10": 3,
       "window_games": 10,
       "inside_10_targets": 0,
       "inside_10_carries": 0,
       "goal_line_carries": 0,
-      "games_played": 7,
-      "end_zone_targets_pg": 0.0775,
-      "inside_10_carries_pg": 0.277,
-      "inside_10_targets_pg": 0.0758,
+      "games_played": 9,
+      "end_zone_targets_pg": 0.0656,
+      "inside_10_carries_pg": 0.3113,
+      "inside_10_targets_pg": 0.0641,
       "xtd_contribution": {
-        "end_zone_targets": 0.0314,
-        "inside_10_carries": 0.0763,
-        "inside_10_targets": 0.0209
+        "end_zone_targets": 0.0266,
+        "inside_10_carries": 0.0858,
+        "inside_10_targets": 0.0177
       },
       "injury_flag": "",
       "flags": []
     },
     {
-      "rank": 245,
+      "rank": 244,
       "player_id": "00-0038551",
       "player_name": "K.Miller",
       "player_full_name": "Kendre Miller",
@@ -12016,6 +12210,7 @@
       "position": "RB",
       "opponent": "@ DET",
       "kickoff": "Sunday 13:00 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/vclaomtslw55smksopku",
       "xtd_per_game": 0.1286,
       "anytime_td_prob": 0.1207,
       "trend": {
@@ -12057,6 +12252,56 @@
       "flags": []
     },
     {
+      "rank": 245,
+      "player_id": "00-0037594",
+      "player_name": "J.Chestnut",
+      "player_full_name": "Julius Chestnut",
+      "team": "TEN",
+      "position": "RB",
+      "opponent": "vs NYJ",
+      "kickoff": "Sunday 13:00 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/bkhv6hpjogvs5b31wwrs",
+      "xtd_per_game": 0.1286,
+      "anytime_td_prob": 0.1207,
+      "trend": {
+        "direction": "down",
+        "recent_games": 3,
+        "earlier_games": 4,
+        "games_in_window": 7,
+        "recent_chances_per_game": 0.0,
+        "earlier_chances_per_game": 0.5,
+        "recent_tds": 0
+      },
+      "games_scored_last_10": 0,
+      "display": {
+        "player_name": "J. CHESTNUT",
+        "hero": "12%",
+        "hero_label": "CHANCE TO SCORE",
+        "stat_1": "0 OF 7",
+        "stat_1_label": "GAMES W/ A TD",
+        "stat_2": "COOLING OFF",
+        "stat_2_label": "LAST 3 GAMES"
+      },
+      "inside_10_opportunities": 2,
+      "end_zone_targets": 0,
+      "tds_last_10": 0,
+      "window_games": 10,
+      "inside_10_targets": 0,
+      "inside_10_carries": 0,
+      "goal_line_carries": 0,
+      "games_played": 7,
+      "end_zone_targets_pg": 0.0775,
+      "inside_10_carries_pg": 0.277,
+      "inside_10_targets_pg": 0.0758,
+      "xtd_contribution": {
+        "end_zone_targets": 0.0314,
+        "inside_10_carries": 0.0763,
+        "inside_10_targets": 0.0209
+      },
+      "injury_flag": "",
+      "flags": []
+    },
+    {
       "rank": 246,
       "player_id": "00-0033873",
       "player_name": "P.Mahomes",
@@ -12065,6 +12310,7 @@
       "position": "QB",
       "opponent": "vs DEN",
       "kickoff": "Monday 20:15 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/wdckwtob1lybvkmxnf7p",
       "xtd_per_game": 0.1245,
       "anytime_td_prob": 0.1171,
       "trend": {
@@ -12114,6 +12360,7 @@
       "position": "TE",
       "opponent": "vs NE",
       "kickoff": "Wednesday 20:20 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/m5rdyemjoxl4cuz9yun8",
       "xtd_per_game": 0.1233,
       "anytime_td_prob": 0.116,
       "trend": {
@@ -12163,6 +12410,7 @@
       "position": "QB",
       "opponent": "vs SF",
       "kickoff": "Thursday 20:35 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/jwpkjfrkzufdyh8u1mg7",
       "xtd_per_game": 0.1229,
       "anytime_td_prob": 0.1156,
       "trend": {
@@ -12212,6 +12460,7 @@
       "position": "QB",
       "opponent": "vs NE",
       "kickoff": "Wednesday 20:20 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/fyay8vruj0cqmhopufzk",
       "xtd_per_game": 0.1229,
       "anytime_td_prob": 0.1156,
       "trend": {
@@ -12261,6 +12510,7 @@
       "position": "TE",
       "opponent": "vs BAL",
       "kickoff": "Sunday 13:00 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ivdxijcqlhfwsydxh6ox",
       "xtd_per_game": 0.1214,
       "anytime_td_prob": 0.1143,
       "trend": {
@@ -12310,6 +12560,7 @@
       "position": "TE",
       "opponent": "@ IND",
       "kickoff": "Sunday 13:00 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/g75ws8vkqz9cqwifhcy7",
       "xtd_per_game": 0.1214,
       "anytime_td_prob": 0.1143,
       "trend": {
@@ -12359,6 +12610,7 @@
       "position": "QB",
       "opponent": "@ PHI",
       "kickoff": "Sunday 16:25 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/grx6m1fmu1odltjo3y31",
       "xtd_per_game": 0.1207,
       "anytime_td_prob": 0.1137,
       "trend": {
@@ -12408,6 +12660,7 @@
       "position": "QB",
       "opponent": "@ KC",
       "kickoff": "Monday 20:15 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/zvo9xatffmqn9lnukpgk",
       "xtd_per_game": 0.1199,
       "anytime_td_prob": 0.113,
       "trend": {
@@ -12457,6 +12710,7 @@
       "position": "RB",
       "opponent": "@ LA",
       "kickoff": "Thursday 20:35 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/n1xhex1ytisxcbcggqu7",
       "xtd_per_game": 0.118,
       "anytime_td_prob": 0.1113,
       "trend": {
@@ -12506,6 +12760,7 @@
       "position": "RB",
       "opponent": "@ PHI",
       "kickoff": "Sunday 16:25 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/xcrgrtlk6ukrshtlnr5e",
       "xtd_per_game": 0.118,
       "anytime_td_prob": 0.1113,
       "trend": {
@@ -12548,62 +12803,14 @@
     },
     {
       "rank": 256,
-      "player_id": "00-0039376",
-      "player_name": "S.Rattler",
-      "player_full_name": "Spencer Rattler",
-      "team": "NO",
+      "player_id": "00-0040668",
+      "player_name": "S.Sanders",
+      "player_full_name": "Shedeur Sanders",
+      "team": "CLE",
       "position": "QB",
-      "opponent": "@ DET",
+      "opponent": "@ JAX",
       "kickoff": "Sunday 13:00 ET",
-      "xtd_per_game": 0.1179,
-      "anytime_td_prob": 0.1112,
-      "trend": {
-        "direction": "down",
-        "recent_games": 3,
-        "earlier_games": 5,
-        "games_in_window": 8,
-        "recent_chances_per_game": 0.0,
-        "earlier_chances_per_game": 0.4,
-        "recent_tds": 0
-      },
-      "games_scored_last_10": 0,
-      "display": {
-        "player_name": "S. RATTLER",
-        "hero": "11%",
-        "hero_label": "CHANCE TO SCORE",
-        "stat_1": "0 OF 8",
-        "stat_1_label": "GAMES W/ A TD",
-        "stat_2": "COOLING OFF",
-        "stat_2_label": "LAST 3 GAMES"
-      },
-      "inside_10_opportunities": 2,
-      "end_zone_targets": 0,
-      "tds_last_10": 0,
-      "window_games": 10,
-      "inside_10_targets": 0,
-      "inside_10_carries": 0,
-      "goal_line_carries": 0,
-      "games_played": 8,
-      "end_zone_targets_pg": 0.0711,
-      "inside_10_carries_pg": 0.1706,
-      "inside_10_targets_pg": 0.1528,
-      "xtd_contribution": {
-        "end_zone_targets": 0.0288,
-        "inside_10_carries": 0.047,
-        "inside_10_targets": 0.0421
-      },
-      "injury_flag": "",
-      "flags": []
-    },
-    {
-      "rank": 257,
-      "player_id": "00-0038794",
-      "player_name": "J.McLaughlin",
-      "player_full_name": "Jaleel McLaughlin",
-      "team": "DEN",
-      "position": "RB",
-      "opponent": "@ KC",
-      "kickoff": "Monday 20:15 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/joe08hz6to2madpko8zl",
       "xtd_per_game": 0.1179,
       "anytime_td_prob": 0.1112,
       "trend": {
@@ -12617,7 +12824,7 @@
       },
       "games_scored_last_10": 1,
       "display": {
-        "player_name": "J. MCLAUGHLIN",
+        "player_name": "S. SANDERS",
         "hero": "11%",
         "hero_label": "CHANCE TO SCORE",
         "stat_1": "1 OF 8",
@@ -12645,6 +12852,56 @@
       "flags": []
     },
     {
+      "rank": 257,
+      "player_id": "00-0040202",
+      "player_name": "D.Neal",
+      "player_full_name": "Devin Neal",
+      "team": "NO",
+      "position": "RB",
+      "opponent": "@ DET",
+      "kickoff": "Sunday 13:00 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/e0pzghslevb27ssozx4s",
+      "xtd_per_game": 0.1179,
+      "anytime_td_prob": 0.1112,
+      "trend": {
+        "direction": "up",
+        "recent_games": 3,
+        "earlier_games": 6,
+        "games_in_window": 9,
+        "recent_chances_per_game": 0.667,
+        "earlier_chances_per_game": 0.0,
+        "recent_tds": 2
+      },
+      "games_scored_last_10": 2,
+      "display": {
+        "player_name": "D. NEAL",
+        "hero": "11%",
+        "hero_label": "CHANCE TO SCORE",
+        "stat_1": "2 OF 9",
+        "stat_1_label": "GAMES W/ A TD",
+        "stat_2": "HEATING UP",
+        "stat_2_label": "LAST 3 GAMES"
+      },
+      "inside_10_opportunities": 2,
+      "end_zone_targets": 0,
+      "tds_last_10": 2,
+      "window_games": 10,
+      "inside_10_targets": 0,
+      "inside_10_carries": 0,
+      "goal_line_carries": 0,
+      "games_played": 8,
+      "end_zone_targets_pg": 0.0711,
+      "inside_10_carries_pg": 0.2539,
+      "inside_10_targets_pg": 0.0695,
+      "xtd_contribution": {
+        "end_zone_targets": 0.0288,
+        "inside_10_carries": 0.0699,
+        "inside_10_targets": 0.0192
+      },
+      "injury_flag": "",
+      "flags": []
+    },
+    {
       "rank": 258,
       "player_id": "00-0039920",
       "player_name": "M.Corley",
@@ -12653,6 +12910,7 @@
       "position": "WR",
       "opponent": "@ JAX",
       "kickoff": "Sunday 13:00 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/lay1p8pvwrglmqorc6ev",
       "xtd_per_game": 0.1179,
       "anytime_td_prob": 0.1112,
       "trend": {
@@ -12695,13 +12953,64 @@
     },
     {
       "rank": 259,
-      "player_id": "00-0040668",
-      "player_name": "S.Sanders",
-      "player_full_name": "Shedeur Sanders",
-      "team": "CLE",
+      "player_id": "00-0039376",
+      "player_name": "S.Rattler",
+      "player_full_name": "Spencer Rattler",
+      "team": "NO",
       "position": "QB",
-      "opponent": "@ JAX",
+      "opponent": "@ DET",
       "kickoff": "Sunday 13:00 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/gcgmcf4kex3jsl4rlrng",
+      "xtd_per_game": 0.1179,
+      "anytime_td_prob": 0.1112,
+      "trend": {
+        "direction": "down",
+        "recent_games": 3,
+        "earlier_games": 5,
+        "games_in_window": 8,
+        "recent_chances_per_game": 0.0,
+        "earlier_chances_per_game": 0.4,
+        "recent_tds": 0
+      },
+      "games_scored_last_10": 0,
+      "display": {
+        "player_name": "S. RATTLER",
+        "hero": "11%",
+        "hero_label": "CHANCE TO SCORE",
+        "stat_1": "0 OF 8",
+        "stat_1_label": "GAMES W/ A TD",
+        "stat_2": "COOLING OFF",
+        "stat_2_label": "LAST 3 GAMES"
+      },
+      "inside_10_opportunities": 2,
+      "end_zone_targets": 0,
+      "tds_last_10": 0,
+      "window_games": 10,
+      "inside_10_targets": 0,
+      "inside_10_carries": 0,
+      "goal_line_carries": 0,
+      "games_played": 8,
+      "end_zone_targets_pg": 0.0711,
+      "inside_10_carries_pg": 0.1706,
+      "inside_10_targets_pg": 0.1528,
+      "xtd_contribution": {
+        "end_zone_targets": 0.0288,
+        "inside_10_carries": 0.047,
+        "inside_10_targets": 0.0421
+      },
+      "injury_flag": "",
+      "flags": []
+    },
+    {
+      "rank": 260,
+      "player_id": "00-0038794",
+      "player_name": "J.McLaughlin",
+      "player_full_name": "Jaleel McLaughlin",
+      "team": "DEN",
+      "position": "RB",
+      "opponent": "@ KC",
+      "kickoff": "Monday 20:15 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/jlzkji7mfkcmkyz2tygj",
       "xtd_per_game": 0.1179,
       "anytime_td_prob": 0.1112,
       "trend": {
@@ -12715,7 +13024,7 @@
       },
       "games_scored_last_10": 1,
       "display": {
-        "player_name": "S. SANDERS",
+        "player_name": "J. MCLAUGHLIN",
         "hero": "11%",
         "hero_label": "CHANCE TO SCORE",
         "stat_1": "1 OF 8",
@@ -12743,55 +13052,6 @@
       "flags": []
     },
     {
-      "rank": 260,
-      "player_id": "00-0040202",
-      "player_name": "D.Neal",
-      "player_full_name": "Devin Neal",
-      "team": "NO",
-      "position": "RB",
-      "opponent": "@ DET",
-      "kickoff": "Sunday 13:00 ET",
-      "xtd_per_game": 0.1179,
-      "anytime_td_prob": 0.1112,
-      "trend": {
-        "direction": "up",
-        "recent_games": 3,
-        "earlier_games": 6,
-        "games_in_window": 9,
-        "recent_chances_per_game": 0.667,
-        "earlier_chances_per_game": 0.0,
-        "recent_tds": 2
-      },
-      "games_scored_last_10": 2,
-      "display": {
-        "player_name": "D. NEAL",
-        "hero": "11%",
-        "hero_label": "CHANCE TO SCORE",
-        "stat_1": "2 OF 9",
-        "stat_1_label": "GAMES W/ A TD",
-        "stat_2": "HEATING UP",
-        "stat_2_label": "LAST 3 GAMES"
-      },
-      "inside_10_opportunities": 2,
-      "end_zone_targets": 0,
-      "tds_last_10": 2,
-      "window_games": 10,
-      "inside_10_targets": 0,
-      "inside_10_carries": 0,
-      "goal_line_carries": 0,
-      "games_played": 8,
-      "end_zone_targets_pg": 0.0711,
-      "inside_10_carries_pg": 0.2539,
-      "inside_10_targets_pg": 0.0695,
-      "xtd_contribution": {
-        "end_zone_targets": 0.0288,
-        "inside_10_carries": 0.0699,
-        "inside_10_targets": 0.0192
-      },
-      "injury_flag": "",
-      "flags": []
-    },
-    {
       "rank": 261,
       "player_id": "00-0037614",
       "player_name": "J.Metchie",
@@ -12800,6 +13060,7 @@
       "position": "WR",
       "opponent": "@ TEN",
       "kickoff": "Sunday 13:00 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/nsjpnskeldxzbzckpfgg",
       "xtd_per_game": 0.1138,
       "anytime_td_prob": 0.1076,
       "trend": {
@@ -12849,6 +13110,7 @@
       "position": "QB",
       "opponent": "vs CHI",
       "kickoff": "Sunday 13:00 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/vcvhmxvxw2a3armle0af",
       "xtd_per_game": 0.1121,
       "anytime_td_prob": 0.106,
       "trend": {
@@ -12891,13 +13153,14 @@
     },
     {
       "rank": 263,
-      "player_id": "00-0040162",
-      "player_name": "D.Sampson",
-      "player_full_name": "Dylan Sampson",
-      "team": "CLE",
-      "position": "RB",
-      "opponent": "@ JAX",
-      "kickoff": "Sunday 13:00 ET",
+      "player_id": "00-0039041",
+      "player_name": "E.Higgins",
+      "player_full_name": "Elijah Higgins",
+      "team": "ARI",
+      "position": "TE",
+      "opponent": "@ LAC",
+      "kickoff": "Sunday 16:25 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/qgvtaa0gekopg4ad6vqe",
       "xtd_per_game": 0.1103,
       "anytime_td_prob": 0.1044,
       "trend": {
@@ -12906,34 +13169,34 @@
         "earlier_games": 7,
         "games_in_window": 10,
         "recent_chances_per_game": 0.333,
-        "earlier_chances_per_game": 0.0,
+        "earlier_chances_per_game": 0.143,
         "recent_tds": 0
       },
-      "games_scored_last_10": 1,
+      "games_scored_last_10": 0,
       "display": {
-        "player_name": "D. SAMPSON",
+        "player_name": "E. HIGGINS",
         "hero": "10%",
         "hero_label": "CHANCE TO SCORE",
-        "stat_1": "1 OF 10",
+        "stat_1": "0 OF 10",
         "stat_1_label": "GAMES W/ A TD",
         "stat_2": "HEATING UP",
         "stat_2_label": "LAST 3 GAMES"
       },
-      "inside_10_opportunities": 1,
+      "inside_10_opportunities": 2,
       "end_zone_targets": 0,
-      "tds_last_10": 1,
+      "tds_last_10": 0,
       "window_games": 10,
       "inside_10_targets": 0,
       "inside_10_carries": 0,
       "goal_line_carries": 0,
       "games_played": 15,
       "end_zone_targets_pg": 0.0975,
-      "inside_10_carries_pg": 0.1077,
-      "inside_10_targets_pg": 0.1491,
+      "inside_10_carries_pg": 0.0551,
+      "inside_10_targets_pg": 0.2018,
       "xtd_contribution": {
         "end_zone_targets": 0.0395,
-        "inside_10_carries": 0.0297,
-        "inside_10_targets": 0.0411
+        "inside_10_carries": 0.0152,
+        "inside_10_targets": 0.0556
       },
       "injury_flag": "",
       "flags": []
@@ -12947,6 +13210,7 @@
       "position": "TE",
       "opponent": "vs CHI",
       "kickoff": "Sunday 13:00 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/t7wjikfv09d3o1q7wjdx",
       "xtd_per_game": 0.1103,
       "anytime_td_prob": 0.1044,
       "trend": {
@@ -12989,13 +13253,14 @@
     },
     {
       "rank": 265,
-      "player_id": "00-0039041",
-      "player_name": "E.Higgins",
-      "player_full_name": "Elijah Higgins",
-      "team": "ARI",
-      "position": "TE",
-      "opponent": "@ LAC",
-      "kickoff": "Sunday 16:25 ET",
+      "player_id": "00-0040162",
+      "player_name": "D.Sampson",
+      "player_full_name": "Dylan Sampson",
+      "team": "CLE",
+      "position": "RB",
+      "opponent": "@ JAX",
+      "kickoff": "Sunday 13:00 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/den1hzzomdxfcsgk88o5",
       "xtd_per_game": 0.1103,
       "anytime_td_prob": 0.1044,
       "trend": {
@@ -13004,89 +13269,40 @@
         "earlier_games": 7,
         "games_in_window": 10,
         "recent_chances_per_game": 0.333,
-        "earlier_chances_per_game": 0.143,
+        "earlier_chances_per_game": 0.0,
         "recent_tds": 0
       },
-      "games_scored_last_10": 0,
+      "games_scored_last_10": 1,
       "display": {
-        "player_name": "E. HIGGINS",
+        "player_name": "D. SAMPSON",
         "hero": "10%",
         "hero_label": "CHANCE TO SCORE",
-        "stat_1": "0 OF 10",
+        "stat_1": "1 OF 10",
         "stat_1_label": "GAMES W/ A TD",
         "stat_2": "HEATING UP",
         "stat_2_label": "LAST 3 GAMES"
       },
-      "inside_10_opportunities": 2,
+      "inside_10_opportunities": 1,
       "end_zone_targets": 0,
-      "tds_last_10": 0,
+      "tds_last_10": 1,
       "window_games": 10,
       "inside_10_targets": 0,
       "inside_10_carries": 0,
       "goal_line_carries": 0,
       "games_played": 15,
       "end_zone_targets_pg": 0.0975,
-      "inside_10_carries_pg": 0.0551,
-      "inside_10_targets_pg": 0.2018,
+      "inside_10_carries_pg": 0.1077,
+      "inside_10_targets_pg": 0.1491,
       "xtd_contribution": {
         "end_zone_targets": 0.0395,
-        "inside_10_carries": 0.0152,
-        "inside_10_targets": 0.0556
+        "inside_10_carries": 0.0297,
+        "inside_10_targets": 0.0411
       },
       "injury_flag": "",
       "flags": []
     },
     {
       "rank": 266,
-      "player_id": "00-0036637",
-      "player_name": "N.Gray",
-      "player_full_name": "Noah Gray",
-      "team": "KC",
-      "position": "TE",
-      "opponent": "vs DEN",
-      "kickoff": "Monday 20:15 ET",
-      "xtd_per_game": 0.1071,
-      "anytime_td_prob": 0.1016,
-      "trend": {
-        "direction": "down",
-        "recent_games": 3,
-        "earlier_games": 7,
-        "games_in_window": 10,
-        "recent_chances_per_game": 0.0,
-        "earlier_chances_per_game": 0.143,
-        "recent_tds": 0
-      },
-      "games_scored_last_10": 0,
-      "display": {
-        "player_name": "N. GRAY",
-        "hero": "10%",
-        "hero_label": "CHANCE TO SCORE",
-        "stat_1": "0 OF 10",
-        "stat_1_label": "GAMES W/ A TD",
-        "stat_2": "COOLING OFF",
-        "stat_2_label": "LAST 3 GAMES"
-      },
-      "inside_10_opportunities": 1,
-      "end_zone_targets": 1,
-      "tds_last_10": 0,
-      "window_games": 10,
-      "inside_10_targets": 0,
-      "inside_10_carries": 0,
-      "goal_line_carries": 0,
-      "games_played": 13,
-      "end_zone_targets_pg": 0.109,
-      "inside_10_carries_pg": 0.0616,
-      "inside_10_targets_pg": 0.1667,
-      "xtd_contribution": {
-        "end_zone_targets": 0.0442,
-        "inside_10_carries": 0.017,
-        "inside_10_targets": 0.046
-      },
-      "injury_flag": "",
-      "flags": []
-    },
-    {
-      "rank": 267,
       "player_id": "00-0037085",
       "player_name": "T.Badie",
       "player_full_name": "Tyler Badie",
@@ -13094,6 +13310,7 @@
       "position": "RB",
       "opponent": "@ KC",
       "kickoff": "Monday 20:15 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ghhul5piv9vzeih6atsj",
       "xtd_per_game": 0.1071,
       "anytime_td_prob": 0.1016,
       "trend": {
@@ -13135,6 +13352,56 @@
       "flags": []
     },
     {
+      "rank": 267,
+      "player_id": "00-0036637",
+      "player_name": "N.Gray",
+      "player_full_name": "Noah Gray",
+      "team": "KC",
+      "position": "TE",
+      "opponent": "vs DEN",
+      "kickoff": "Monday 20:15 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/bpmlguml8jth2rbdfyp5",
+      "xtd_per_game": 0.1071,
+      "anytime_td_prob": 0.1016,
+      "trend": {
+        "direction": "down",
+        "recent_games": 3,
+        "earlier_games": 7,
+        "games_in_window": 10,
+        "recent_chances_per_game": 0.0,
+        "earlier_chances_per_game": 0.143,
+        "recent_tds": 0
+      },
+      "games_scored_last_10": 0,
+      "display": {
+        "player_name": "N. GRAY",
+        "hero": "10%",
+        "hero_label": "CHANCE TO SCORE",
+        "stat_1": "0 OF 10",
+        "stat_1_label": "GAMES W/ A TD",
+        "stat_2": "COOLING OFF",
+        "stat_2_label": "LAST 3 GAMES"
+      },
+      "inside_10_opportunities": 1,
+      "end_zone_targets": 1,
+      "tds_last_10": 0,
+      "window_games": 10,
+      "inside_10_targets": 0,
+      "inside_10_carries": 0,
+      "goal_line_carries": 0,
+      "games_played": 13,
+      "end_zone_targets_pg": 0.109,
+      "inside_10_carries_pg": 0.0616,
+      "inside_10_targets_pg": 0.1667,
+      "xtd_contribution": {
+        "end_zone_targets": 0.0442,
+        "inside_10_carries": 0.017,
+        "inside_10_targets": 0.046
+      },
+      "injury_flag": "",
+      "flags": []
+    },
+    {
       "rank": 268,
       "player_id": "00-0035249",
       "player_name": "J.Oliver",
@@ -13143,6 +13410,7 @@
       "position": "TE",
       "opponent": "vs GB",
       "kickoff": "Sunday 16:25 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/awdb5xedlbq0ebpptgzb",
       "xtd_per_game": 0.1057,
       "anytime_td_prob": 0.1003,
       "trend": {
@@ -13192,6 +13460,7 @@
       "position": "WR",
       "opponent": "vs ATL",
       "kickoff": "Sunday 13:00 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/pv6gajxtt6zhum2unnsl",
       "xtd_per_game": 0.1012,
       "anytime_td_prob": 0.0962,
       "trend": {
@@ -13241,6 +13510,7 @@
       "position": "RB",
       "opponent": "@ NYG",
       "kickoff": "Sunday 20:20 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/m28qafff4o5vb3aaumiv",
       "xtd_per_game": 0.1011,
       "anytime_td_prob": 0.0962,
       "trend": {
@@ -13290,6 +13560,7 @@
       "position": "TE",
       "opponent": "vs NYJ",
       "kickoff": "Sunday 13:00 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/pzcez6pi9tpdqkmjjnzk",
       "xtd_per_game": 0.0998,
       "anytime_td_prob": 0.095,
       "trend": {
@@ -13339,6 +13610,7 @@
       "position": "WR",
       "opponent": "vs BUF",
       "kickoff": "Sunday 13:00 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ehlm8w4afdqoisx1e6as",
       "xtd_per_game": 0.0995,
       "anytime_td_prob": 0.0947,
       "trend": {
@@ -13388,6 +13660,7 @@
       "position": "QB",
       "opponent": "vs NO",
       "kickoff": "Sunday 13:00 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/kaicbot8qhzrvddilbtp",
       "xtd_per_game": 0.0943,
       "anytime_td_prob": 0.09,
       "trend": {
@@ -13437,6 +13710,7 @@
       "position": "RB",
       "opponent": "vs BAL",
       "kickoff": "Sunday 13:00 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/k8teyeiqchljlm0h5te4",
       "xtd_per_game": 0.0943,
       "anytime_td_prob": 0.09,
       "trend": {
@@ -13486,6 +13760,7 @@
       "position": "QB",
       "opponent": "vs BUF",
       "kickoff": "Sunday 13:00 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/tt4zrtxlhifaljhj0rn7",
       "xtd_per_game": 0.0939,
       "anytime_td_prob": 0.0896,
       "trend": {
@@ -13535,6 +13810,7 @@
       "position": "QB",
       "opponent": "@ MIN",
       "kickoff": "Sunday 16:25 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/thz8stjkbjwddxqnozi5",
       "xtd_per_game": 0.089,
       "anytime_td_prob": 0.0852,
       "trend": {
@@ -13584,6 +13860,7 @@
       "position": "RB",
       "opponent": "@ IND",
       "kickoff": "Sunday 13:00 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ztciwwpbyaffmckwrzdk",
       "xtd_per_game": 0.0884,
       "anytime_td_prob": 0.0846,
       "trend": {
@@ -13633,6 +13910,7 @@
       "position": "RB",
       "opponent": "@ TEN",
       "kickoff": "Sunday 13:00 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/x6r9a5xhtaklbvnqmtw7",
       "xtd_per_game": 0.0832,
       "anytime_td_prob": 0.0798,
       "trend": {
@@ -13682,6 +13960,7 @@
       "position": "QB",
       "opponent": "vs ATL",
       "kickoff": "Sunday 13:00 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/dypvakakxhccxs67tb0y",
       "xtd_per_game": 0.0832,
       "anytime_td_prob": 0.0798,
       "trend": {
@@ -13731,6 +14010,7 @@
       "position": "QB",
       "opponent": "vs MIA",
       "kickoff": "Sunday 16:25 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/zppfqqcyjfma14jjif3a",
       "xtd_per_game": 0.0786,
       "anytime_td_prob": 0.0756,
       "trend": {

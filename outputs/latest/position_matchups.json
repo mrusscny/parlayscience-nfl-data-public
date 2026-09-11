@@ -15,7 +15,7 @@
     "completed_weeks": 0,
     "first_kickoff": "2026-09-09",
     "last_game": "2026-09-14",
-    "generated_at_et": "2026-09-10T18:18:20-04:00",
+    "generated_at_et": "2026-09-11T11:05:21-04:00",
     "label": "2026-week-01"
   },
   "method": {
@@ -438,7 +438,7 @@
       "flags": [],
       "receptions_allowed": 10.922,
       "receptions_allowed_unadjusted": 11.882,
-      "rec_yards_allowed": 138.146,
+      "rec_yards_allowed": 138.145,
       "rec_yards_allowed_unadjusted": 150.294,
       "rec_tds_allowed": 0.865,
       "rec_tds_allowed_unadjusted": 0.941
@@ -1048,7 +1048,7 @@
       "games_played": 17,
       "matchup_signal_rho": 0.083,
       "flags": [],
-      "receptions_allowed": 5.259,
+      "receptions_allowed": 5.258,
       "receptions_allowed_unadjusted": 5.412,
       "rec_yards_allowed": 44.297,
       "rec_yards_allowed_unadjusted": 45.588,
@@ -1716,7 +1716,7 @@
       "flags": [],
       "rush_yards_allowed": 92.156,
       "rush_yards_allowed_unadjusted": 88.529,
-      "receptions_allowed": 4.108,
+      "receptions_allowed": 4.109,
       "receptions_allowed_unadjusted": 4.882,
       "tds_allowed": 0.526,
       "tds_allowed_unadjusted": 0.529
@@ -1989,7 +1989,7 @@
       "pass_tds_allowed": 1.653,
       "pass_tds_allowed_unadjusted": 1.706,
       "qb_rush_yards_allowed": 14.882,
-      "qb_rush_yards_allowed_unadjusted": 13.176
+      "qb_rush_yards_allowed_unadjusted": 13.177
     },
     {
       "position": "QB",

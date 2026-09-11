@@ -9,7 +9,7 @@
     "completed_weeks": 0,
     "first_kickoff": "2026-09-09",
     "last_game": "2026-09-14",
-    "generated_at_et": "2026-09-10T18:18:20-04:00",
+    "generated_at_et": "2026-09-11T11:05:21-04:00",
     "label": "2026-week-01"
   },
   "method": {
@@ -66,7 +66,7 @@
       "inside_10_carries": 0,
       "goal_line_carries": 0,
       "games_played": 14,
-      "end_zone_targets_pg": 1.603,
+      "end_zone_targets_pg": 1.6029,
       "inside_10_carries_pg": 0.0582,
       "inside_10_targets_pg": 1.3241,
       "xtd_contribution": {
@@ -87,17 +87,17 @@
       "opponent": "@ LA",
       "kickoff": "Thursday 20:35 ET",
       "xtd_per_game": 0.7938,
-      "inside_10_opportunities": 28,
+      "inside_10_opportunities": 29,
       "end_zone_targets": 2,
       "tds_last_10": 11,
       "window_games": 10,
       "inside_10_targets": 0,
-      "inside_10_carries": 0,
+      "inside_10_carries": 1,
       "goal_line_carries": 0,
       "games_played": 17,
       "end_zone_targets_pg": 0.2787,
       "inside_10_carries_pg": 1.8118,
-      "inside_10_targets_pg": 0.6588,
+      "inside_10_targets_pg": 0.6587,
       "xtd_contribution": {
         "end_zone_targets": 0.1129,
         "inside_10_carries": 0.4991,
@@ -124,8 +124,8 @@
       "inside_10_carries": 0,
       "goal_line_carries": 0,
       "games_played": 8,
-      "end_zone_targets_pg": 0.4878,
-      "inside_10_carries_pg": 0.3373,
+      "end_zone_targets_pg": 0.4877,
+      "inside_10_carries_pg": 0.3372,
       "inside_10_targets_pg": 1.3195,
       "xtd_contribution": {
         "end_zone_targets": 0.1976,
@@ -155,7 +155,7 @@
       "games_played": 17,
       "end_zone_targets_pg": 0.0406,
       "inside_10_carries_pg": 1.9546,
-      "inside_10_targets_pg": 0.135,
+      "inside_10_targets_pg": 0.1349,
       "xtd_contribution": {
         "end_zone_targets": 0.0165,
         "inside_10_carries": 0.5385,
@@ -188,7 +188,7 @@
       "xtd_contribution": {
         "end_zone_targets": 0.0165,
         "inside_10_carries": 0.5385,
-        "inside_10_targets": 0.011
+        "inside_10_targets": 0.0109
       },
       "injury_flag": "",
       "flags": []
@@ -212,12 +212,12 @@
       "goal_line_carries": 0,
       "games_played": 12,
       "end_zone_targets_pg": 0.8658,
-      "inside_10_carries_pg": 0.0655,
+      "inside_10_carries_pg": 0.0654,
       "inside_10_targets_pg": 0.6771,
       "xtd_contribution": {
         "end_zone_targets": 0.3508,
         "inside_10_carries": 0.018,
-        "inside_10_targets": 0.1868
+        "inside_10_targets": 0.1867
       },
       "injury_flag": "",
       "flags": []
@@ -241,12 +241,12 @@
       "goal_line_carries": 0,
       "games_played": 17,
       "end_zone_targets_pg": 0.8978,
-      "inside_10_carries_pg": 0.0499,
-      "inside_10_targets_pg": 0.6112,
+      "inside_10_carries_pg": 0.0498,
+      "inside_10_targets_pg": 0.6111,
       "xtd_contribution": {
         "end_zone_targets": 0.3638,
         "inside_10_carries": 0.0137,
-        "inside_10_targets": 0.1686
+        "inside_10_targets": 0.1685
       },
       "injury_flag": "",
       "flags": []
@@ -270,7 +270,7 @@
       "goal_line_carries": 0,
       "games_played": 17,
       "end_zone_targets_pg": 0.8978,
-      "inside_10_carries_pg": 0.0499,
+      "inside_10_carries_pg": 0.0498,
       "inside_10_targets_pg": 0.5635,
       "xtd_contribution": {
         "end_zone_targets": 0.3638,
@@ -289,7 +289,7 @@
       "position": "RB",
       "opponent": "@ MIN",
       "kickoff": "Sunday 16:25 ET",
-      "xtd_per_game": 0.5309,
+      "xtd_per_game": 0.5308,
       "inside_10_opportunities": 18,
       "end_zone_targets": 1,
       "tds_last_10": 8,
@@ -299,8 +299,8 @@
       "goal_line_carries": 0,
       "games_played": 15,
       "end_zone_targets_pg": 0.0975,
-      "inside_10_carries_pg": 1.6341,
-      "inside_10_targets_pg": 0.1492,
+      "inside_10_carries_pg": 1.634,
+      "inside_10_targets_pg": 0.1491,
       "xtd_contribution": {
         "end_zone_targets": 0.0395,
         "inside_10_carries": 0.4502,
@@ -328,12 +328,12 @@
       "goal_line_carries": 0,
       "games_played": 17,
       "end_zone_targets_pg": 0.5644,
-      "inside_10_carries_pg": 0.0499,
+      "inside_10_carries_pg": 0.0498,
       "inside_10_targets_pg": 1.0397,
       "xtd_contribution": {
         "end_zone_targets": 0.2287,
         "inside_10_carries": 0.0137,
-        "inside_10_targets": 0.2868
+        "inside_10_targets": 0.2867
       },
       "injury_flag": "",
       "flags": []
@@ -356,13 +356,13 @@
       "inside_10_carries": 0,
       "goal_line_carries": 0,
       "games_played": 16,
-      "end_zone_targets_pg": 0.0927,
-      "inside_10_carries_pg": 1.4524,
+      "end_zone_targets_pg": 0.0926,
+      "inside_10_carries_pg": 1.4523,
       "inside_10_targets_pg": 0.2917,
       "xtd_contribution": {
         "end_zone_targets": 0.0375,
         "inside_10_carries": 0.4001,
-        "inside_10_targets": 0.0805
+        "inside_10_targets": 0.0804
       },
       "injury_flag": "",
       "flags": []
@@ -376,7 +376,7 @@
       "position": "WR",
       "opponent": "vs DAL",
       "kickoff": "Sunday 20:20 ET",
-      "xtd_per_game": 0.5154,
+      "xtd_per_game": 0.5153,
       "inside_10_opportunities": 3,
       "end_zone_targets": 6,
       "tds_last_10": 2,
@@ -385,12 +385,12 @@
       "inside_10_carries": 0,
       "goal_line_carries": 0,
       "games_played": 4,
-      "end_zone_targets_pg": 0.8567,
-      "inside_10_carries_pg": 0.1309,
-      "inside_10_targets_pg": 0.4793,
+      "end_zone_targets_pg": 0.8566,
+      "inside_10_carries_pg": 0.1308,
+      "inside_10_targets_pg": 0.4792,
       "xtd_contribution": {
         "end_zone_targets": 0.3471,
-        "inside_10_carries": 0.0361,
+        "inside_10_carries": 0.036,
         "inside_10_targets": 0.1322
       },
       "injury_flag": "",
@@ -414,8 +414,8 @@
       "inside_10_carries": 0,
       "goal_line_carries": 0,
       "games_played": 15,
-      "end_zone_targets_pg": 0.7818,
-      "inside_10_carries_pg": 0.1078,
+      "end_zone_targets_pg": 0.7817,
+      "inside_10_carries_pg": 0.1077,
       "inside_10_targets_pg": 0.5702,
       "xtd_contribution": {
         "end_zone_targets": 0.3168,
@@ -443,8 +443,8 @@
       "inside_10_carries": 0,
       "goal_line_carries": 0,
       "games_played": 16,
-      "end_zone_targets_pg": 0.0427,
-      "inside_10_carries_pg": 1.6524,
+      "end_zone_targets_pg": 0.0426,
+      "inside_10_carries_pg": 1.6523,
       "inside_10_targets_pg": 0.0917,
       "xtd_contribution": {
         "end_zone_targets": 0.0173,
@@ -463,7 +463,7 @@
       "position": "WR",
       "opponent": "vs GB",
       "kickoff": "Sunday 16:25 ET",
-      "xtd_per_game": 0.4944,
+      "xtd_per_game": 0.4943,
       "inside_10_opportunities": 9,
       "end_zone_targets": 12,
       "tds_last_10": 1,
@@ -473,7 +473,7 @@
       "goal_line_carries": 0,
       "games_played": 17,
       "end_zone_targets_pg": 0.8025,
-      "inside_10_carries_pg": 0.0499,
+      "inside_10_carries_pg": 0.0498,
       "inside_10_targets_pg": 0.5635,
       "xtd_contribution": {
         "end_zone_targets": 0.3252,
@@ -492,7 +492,7 @@
       "position": "WR",
       "opponent": "@ LAC",
       "kickoff": "Sunday 16:25 ET",
-      "xtd_per_game": 0.4867,
+      "xtd_per_game": 0.4866,
       "inside_10_opportunities": 4,
       "end_zone_targets": 11,
       "tds_last_10": 3,
@@ -502,7 +502,7 @@
       "goal_line_carries": 0,
       "games_played": 12,
       "end_zone_targets_pg": 0.8658,
-      "inside_10_carries_pg": 0.0655,
+      "inside_10_carries_pg": 0.0654,
       "inside_10_targets_pg": 0.4271,
       "xtd_contribution": {
         "end_zone_targets": 0.3508,
@@ -521,7 +521,7 @@
       "position": "RB",
       "opponent": "vs CLE",
       "kickoff": "Sunday 13:00 ET",
-      "xtd_per_game": 0.4804,
+      "xtd_per_game": 0.4803,
       "inside_10_opportunities": 26,
       "end_zone_targets": 1,
       "tds_last_10": 10,
@@ -530,13 +530,13 @@
       "inside_10_carries": 0,
       "goal_line_carries": 0,
       "games_played": 17,
-      "end_zone_targets_pg": 0.0883,
-      "inside_10_carries_pg": 1.288,
+      "end_zone_targets_pg": 0.0882,
+      "inside_10_carries_pg": 1.2879,
       "inside_10_targets_pg": 0.3254,
       "xtd_contribution": {
         "end_zone_targets": 0.0358,
         "inside_10_carries": 0.3548,
-        "inside_10_targets": 0.0898
+        "inside_10_targets": 0.0897
       },
       "injury_flag": "",
       "flags": []
@@ -551,13 +551,13 @@
       "opponent": "vs SF",
       "kickoff": "Thursday 20:35 ET",
       "xtd_per_game": 0.4741,
-      "inside_10_opportunities": 20,
+      "inside_10_opportunities": 19,
       "end_zone_targets": 0,
       "tds_last_10": 8,
       "window_games": 10,
       "inside_10_targets": 0,
-      "inside_10_carries": 0,
-      "goal_line_carries": 0,
+      "inside_10_carries": 3,
+      "goal_line_carries": 2,
       "games_played": 17,
       "end_zone_targets_pg": 0.0406,
       "inside_10_carries_pg": 1.4784,
@@ -588,8 +588,8 @@
       "inside_10_carries": 0,
       "goal_line_carries": 0,
       "games_played": 16,
-      "end_zone_targets_pg": 0.0927,
-      "inside_10_carries_pg": 1.3024,
+      "end_zone_targets_pg": 0.0926,
+      "inside_10_carries_pg": 1.3023,
       "inside_10_targets_pg": 0.2417,
       "xtd_contribution": {
         "end_zone_targets": 0.0375,
@@ -646,8 +646,8 @@
       "inside_10_carries": 0,
       "goal_line_carries": 0,
       "games_played": 8,
-      "end_zone_targets_pg": 0.6545,
-      "inside_10_carries_pg": 0.0873,
+      "end_zone_targets_pg": 0.6544,
+      "inside_10_carries_pg": 0.0872,
       "inside_10_targets_pg": 0.5695,
       "xtd_contribution": {
         "end_zone_targets": 0.2652,
@@ -677,9 +677,9 @@
       "games_played": 17,
       "end_zone_targets_pg": 0.1835,
       "inside_10_carries_pg": 0.9546,
-      "inside_10_targets_pg": 0.3731,
+      "inside_10_targets_pg": 0.373,
       "xtd_contribution": {
-        "end_zone_targets": 0.0744,
+        "end_zone_targets": 0.0743,
         "inside_10_carries": 0.263,
         "inside_10_targets": 0.1029
       },
@@ -705,7 +705,7 @@
       "goal_line_carries": 0,
       "games_played": 17,
       "end_zone_targets_pg": 0.5644,
-      "inside_10_carries_pg": 0.0499,
+      "inside_10_carries_pg": 0.0498,
       "inside_10_targets_pg": 0.7064,
       "xtd_contribution": {
         "end_zone_targets": 0.2287,
@@ -734,7 +734,7 @@
       "goal_line_carries": 0,
       "games_played": 12,
       "end_zone_targets_pg": 0.6158,
-      "inside_10_carries_pg": 0.0655,
+      "inside_10_carries_pg": 0.0654,
       "inside_10_targets_pg": 0.6146,
       "xtd_contribution": {
         "end_zone_targets": 0.2495,
@@ -763,7 +763,7 @@
       "goal_line_carries": 0,
       "games_played": 12,
       "end_zone_targets_pg": 0.7408,
-      "inside_10_carries_pg": 0.0655,
+      "inside_10_carries_pg": 0.0654,
       "inside_10_targets_pg": 0.4271,
       "xtd_contribution": {
         "end_zone_targets": 0.3002,
@@ -792,7 +792,7 @@
       "goal_line_carries": 0,
       "games_played": 12,
       "end_zone_targets_pg": 0.0533,
-      "inside_10_carries_pg": 1.4405,
+      "inside_10_carries_pg": 1.4404,
       "inside_10_targets_pg": 0.0521,
       "xtd_contribution": {
         "end_zone_targets": 0.0216,
@@ -807,22 +807,22 @@
       "player_id": "00-0031408",
       "player_name": "M.Evans",
       "player_full_name": "Mike Evans",
-      "team": "TB",
+      "team": "SF",
       "position": "WR",
-      "opponent": "@ CIN",
-      "kickoff": "Sunday 13:00 ET",
+      "opponent": "@ LA",
+      "kickoff": "Thursday 20:35 ET",
       "xtd_per_game": 0.4233,
-      "inside_10_opportunities": 5,
-      "end_zone_targets": 7,
-      "tds_last_10": 3,
+      "inside_10_opportunities": 6,
+      "end_zone_targets": 8,
+      "tds_last_10": 4,
       "window_games": 10,
-      "inside_10_targets": 0,
+      "inside_10_targets": 1,
       "inside_10_carries": 0,
       "goal_line_carries": 0,
       "games_played": 8,
-      "end_zone_targets_pg": 0.6545,
-      "inside_10_carries_pg": 0.0873,
-      "inside_10_targets_pg": 0.4862,
+      "end_zone_targets_pg": 0.6544,
+      "inside_10_carries_pg": 0.0872,
+      "inside_10_targets_pg": 0.4861,
       "xtd_contribution": {
         "end_zone_targets": 0.2652,
         "inside_10_carries": 0.024,
@@ -840,7 +840,7 @@
       "position": "WR",
       "opponent": "@ KC",
       "kickoff": "Monday 20:15 ET",
-      "xtd_per_game": 0.4164,
+      "xtd_per_game": 0.4163,
       "inside_10_opportunities": 4,
       "end_zone_targets": 9,
       "tds_last_10": 4,
@@ -850,7 +850,7 @@
       "goal_line_carries": 0,
       "games_played": 17,
       "end_zone_targets_pg": 0.7073,
-      "inside_10_carries_pg": 0.0499,
+      "inside_10_carries_pg": 0.0498,
       "inside_10_targets_pg": 0.4207,
       "xtd_contribution": {
         "end_zone_targets": 0.2866,
@@ -907,8 +907,8 @@
       "inside_10_carries": 0,
       "goal_line_carries": 0,
       "games_played": 16,
-      "end_zone_targets_pg": 0.0427,
-      "inside_10_carries_pg": 1.1524,
+      "end_zone_targets_pg": 0.0426,
+      "inside_10_carries_pg": 1.1523,
       "inside_10_targets_pg": 0.2417,
       "xtd_contribution": {
         "end_zone_targets": 0.0173,
@@ -937,7 +937,7 @@
       "goal_line_carries": 0,
       "games_played": 17,
       "end_zone_targets_pg": 0.5644,
-      "inside_10_carries_pg": 0.0499,
+      "inside_10_carries_pg": 0.0498,
       "inside_10_targets_pg": 0.5635,
       "xtd_contribution": {
         "end_zone_targets": 0.2287,
@@ -967,7 +967,7 @@
       "games_played": 15,
       "end_zone_targets_pg": 0.5186,
       "inside_10_carries_pg": 0.0551,
-      "inside_10_targets_pg": 0.6229,
+      "inside_10_targets_pg": 0.6228,
       "xtd_contribution": {
         "end_zone_targets": 0.2101,
         "inside_10_carries": 0.0152,
@@ -994,9 +994,9 @@
       "inside_10_carries": 0,
       "goal_line_carries": 0,
       "games_played": 15,
-      "end_zone_targets_pg": 0.6239,
+      "end_zone_targets_pg": 0.6238,
       "inside_10_carries_pg": 0.0551,
-      "inside_10_targets_pg": 0.465,
+      "inside_10_targets_pg": 0.4649,
       "xtd_contribution": {
         "end_zone_targets": 0.2528,
         "inside_10_carries": 0.0152,
@@ -1024,7 +1024,7 @@
       "goal_line_carries": 0,
       "games_played": 17,
       "end_zone_targets_pg": 0.0406,
-      "inside_10_carries_pg": 1.288,
+      "inside_10_carries_pg": 1.2879,
       "inside_10_targets_pg": 0.0873,
       "xtd_contribution": {
         "end_zone_targets": 0.0165,
@@ -1043,7 +1043,7 @@
       "position": "RB",
       "opponent": "vs DAL",
       "kickoff": "Sunday 20:20 ET",
-      "xtd_per_game": 0.3935,
+      "xtd_per_game": 0.3934,
       "inside_10_opportunities": 14,
       "end_zone_targets": 0,
       "tds_last_10": 7,
@@ -1058,7 +1058,7 @@
       "xtd_contribution": {
         "end_zone_targets": 0.0288,
         "inside_10_carries": 0.3225,
-        "inside_10_targets": 0.0422
+        "inside_10_targets": 0.0421
       },
       "injury_flag": "",
       "flags": []
@@ -1072,7 +1072,7 @@
       "position": "TE",
       "opponent": "@ IND",
       "kickoff": "Sunday 13:00 ET",
-      "xtd_per_game": 0.3917,
+      "xtd_per_game": 0.3916,
       "inside_10_opportunities": 8,
       "end_zone_targets": 7,
       "tds_last_10": 4,
@@ -1087,7 +1087,7 @@
       "xtd_contribution": {
         "end_zone_targets": 0.2094,
         "inside_10_carries": 0.0531,
-        "inside_10_targets": 0.1292
+        "inside_10_targets": 0.1291
       },
       "injury_flag": "",
       "flags": []
@@ -1145,7 +1145,7 @@
       "xtd_contribution": {
         "end_zone_targets": 0.2673,
         "inside_10_carries": 0.0269,
-        "inside_10_targets": 0.0898
+        "inside_10_targets": 0.0897
       },
       "injury_flag": "",
       "flags": []
@@ -1197,8 +1197,8 @@
       "inside_10_carries": 0,
       "goal_line_carries": 0,
       "games_played": 16,
-      "end_zone_targets_pg": 0.7427,
-      "inside_10_carries_pg": 0.0524,
+      "end_zone_targets_pg": 0.7426,
+      "inside_10_carries_pg": 0.0523,
       "inside_10_targets_pg": 0.2417,
       "xtd_contribution": {
         "end_zone_targets": 0.3009,
@@ -1217,7 +1217,7 @@
       "position": "WR",
       "opponent": "vs ATL",
       "kickoff": "Sunday 13:00 ET",
-      "xtd_per_game": 0.3749,
+      "xtd_per_game": 0.3748,
       "inside_10_opportunities": 7,
       "end_zone_targets": 7,
       "tds_last_10": 3,
@@ -1227,7 +1227,7 @@
       "goal_line_carries": 0,
       "games_played": 15,
       "end_zone_targets_pg": 0.5712,
-      "inside_10_carries_pg": 0.1078,
+      "inside_10_carries_pg": 0.1077,
       "inside_10_targets_pg": 0.4123,
       "xtd_contribution": {
         "end_zone_targets": 0.2315,
@@ -1255,8 +1255,8 @@
       "inside_10_carries": 0,
       "goal_line_carries": 0,
       "games_played": 16,
-      "end_zone_targets_pg": 0.0427,
-      "inside_10_carries_pg": 1.2524,
+      "end_zone_targets_pg": 0.0426,
+      "inside_10_carries_pg": 1.2523,
       "inside_10_targets_pg": 0.0417,
       "xtd_contribution": {
         "end_zone_targets": 0.0173,
@@ -1284,8 +1284,8 @@
       "inside_10_carries": 0,
       "goal_line_carries": 0,
       "games_played": 16,
-      "end_zone_targets_pg": 0.5427,
-      "inside_10_carries_pg": 0.0524,
+      "end_zone_targets_pg": 0.5426,
+      "inside_10_carries_pg": 0.0523,
       "inside_10_targets_pg": 0.4917,
       "xtd_contribution": {
         "end_zone_targets": 0.2199,
@@ -1313,8 +1313,8 @@
       "inside_10_carries": 0,
       "goal_line_carries": 0,
       "games_played": 16,
-      "end_zone_targets_pg": 0.6427,
-      "inside_10_carries_pg": 0.0524,
+      "end_zone_targets_pg": 0.6426,
+      "inside_10_carries_pg": 0.0523,
       "inside_10_targets_pg": 0.3417,
       "xtd_contribution": {
         "end_zone_targets": 0.2604,
@@ -1348,7 +1348,7 @@
       "xtd_contribution": {
         "end_zone_targets": 0.0165,
         "inside_10_carries": 0.3417,
-        "inside_10_targets": 0.011
+        "inside_10_targets": 0.0109
       },
       "injury_flag": "",
       "flags": []
@@ -1362,7 +1362,7 @@
       "position": "RB",
       "opponent": "@ SEA",
       "kickoff": "Wednesday 20:20 ET",
-      "xtd_per_game": 0.3686,
+      "xtd_per_game": 0.3685,
       "inside_10_opportunities": 10,
       "end_zone_targets": 2,
       "tds_last_10": 7,
@@ -1371,9 +1371,9 @@
       "inside_10_carries": 0,
       "goal_line_carries": 0,
       "games_played": 14,
-      "end_zone_targets_pg": 0.1586,
+      "end_zone_targets_pg": 0.1585,
       "inside_10_carries_pg": 1.0026,
-      "inside_10_targets_pg": 0.1019,
+      "inside_10_targets_pg": 0.1018,
       "xtd_contribution": {
         "end_zone_targets": 0.0642,
         "inside_10_carries": 0.2762,
@@ -1391,7 +1391,7 @@
       "position": "RB",
       "opponent": "vs ATL",
       "kickoff": "Sunday 13:00 ET",
-      "xtd_per_game": 0.3685,
+      "xtd_per_game": 0.3684,
       "inside_10_opportunities": 15,
       "end_zone_targets": 2,
       "tds_last_10": 5,
@@ -1401,12 +1401,12 @@
       "goal_line_carries": 0,
       "games_played": 17,
       "end_zone_targets_pg": 0.1359,
-      "inside_10_carries_pg": 0.8118,
+      "inside_10_carries_pg": 0.8117,
       "inside_10_targets_pg": 0.3254,
       "xtd_contribution": {
-        "end_zone_targets": 0.0551,
+        "end_zone_targets": 0.055,
         "inside_10_carries": 0.2236,
-        "inside_10_targets": 0.0898
+        "inside_10_targets": 0.0897
       },
       "injury_flag": "",
       "flags": []
@@ -1429,8 +1429,8 @@
       "inside_10_carries": 0,
       "goal_line_carries": 0,
       "games_played": 16,
-      "end_zone_targets_pg": 0.5927,
-      "inside_10_carries_pg": 0.1024,
+      "end_zone_targets_pg": 0.5926,
+      "inside_10_carries_pg": 0.1023,
       "inside_10_targets_pg": 0.3417,
       "xtd_contribution": {
         "end_zone_targets": 0.2401,
@@ -1459,10 +1459,10 @@
       "goal_line_carries": 0,
       "games_played": 12,
       "end_zone_targets_pg": 0.4283,
-      "inside_10_carries_pg": 0.0655,
+      "inside_10_carries_pg": 0.0654,
       "inside_10_targets_pg": 0.6146,
       "xtd_contribution": {
-        "end_zone_targets": 0.1736,
+        "end_zone_targets": 0.1735,
         "inside_10_carries": 0.018,
         "inside_10_targets": 0.1695
       },
@@ -1489,7 +1489,7 @@
       "games_played": 17,
       "end_zone_targets_pg": 0.2787,
       "inside_10_carries_pg": 0.2403,
-      "inside_10_targets_pg": 0.6588,
+      "inside_10_targets_pg": 0.6587,
       "xtd_contribution": {
         "end_zone_targets": 0.1129,
         "inside_10_carries": 0.0662,
@@ -1512,7 +1512,7 @@
       "end_zone_targets": 6,
       "tds_last_10": 8,
       "window_games": 10,
-      "inside_10_targets": 0,
+      "inside_10_targets": 1,
       "inside_10_carries": 0,
       "goal_line_carries": 0,
       "games_played": 14,
@@ -1545,8 +1545,8 @@
       "inside_10_carries": 0,
       "goal_line_carries": 0,
       "games_played": 16,
-      "end_zone_targets_pg": 0.5427,
-      "inside_10_carries_pg": 0.0524,
+      "end_zone_targets_pg": 0.5426,
+      "inside_10_carries_pg": 0.0523,
       "inside_10_targets_pg": 0.4417,
       "xtd_contribution": {
         "end_zone_targets": 0.2199,
@@ -1603,7 +1603,7 @@
       "inside_10_carries": 0,
       "goal_line_carries": 0,
       "games_played": 14,
-      "end_zone_targets_pg": 0.603,
+      "end_zone_targets_pg": 0.6029,
       "inside_10_carries_pg": 0.0582,
       "inside_10_targets_pg": 0.3241,
       "xtd_contribution": {
@@ -1632,7 +1632,7 @@
       "inside_10_carries": 0,
       "goal_line_carries": 0,
       "games_played": 17,
-      "end_zone_targets_pg": 0.0883,
+      "end_zone_targets_pg": 0.0882,
       "inside_10_carries_pg": 0.907,
       "inside_10_targets_pg": 0.2302,
       "xtd_contribution": {
@@ -1645,35 +1645,6 @@
     },
     {
       "rank": 56,
-      "player_id": "00-0034857",
-      "player_name": "J.Allen",
-      "player_full_name": "Josh Allen",
-      "team": "BUF",
-      "position": "QB",
-      "opponent": "@ HOU",
-      "kickoff": "Sunday 13:00 ET",
-      "xtd_per_game": 0.3463,
-      "inside_10_opportunities": 13,
-      "end_zone_targets": 0,
-      "tds_last_10": 11,
-      "window_games": 10,
-      "inside_10_targets": 0,
-      "inside_10_carries": 0,
-      "goal_line_carries": 0,
-      "games_played": 16,
-      "end_zone_targets_pg": 0.0427,
-      "inside_10_carries_pg": 1.1524,
-      "inside_10_targets_pg": 0.0417,
-      "xtd_contribution": {
-        "end_zone_targets": 0.0173,
-        "inside_10_carries": 0.3175,
-        "inside_10_targets": 0.0115
-      },
-      "injury_flag": "",
-      "flags": []
-    },
-    {
-      "rank": 57,
       "player_id": "00-0040236",
       "player_name": "K.Monangai",
       "player_full_name": "Kyle Monangai",
@@ -1690,13 +1661,42 @@
       "inside_10_carries": 0,
       "goal_line_carries": 0,
       "games_played": 16,
-      "end_zone_targets_pg": 0.0427,
-      "inside_10_carries_pg": 1.1024,
+      "end_zone_targets_pg": 0.0426,
+      "inside_10_carries_pg": 1.1023,
       "inside_10_targets_pg": 0.0917,
       "xtd_contribution": {
         "end_zone_targets": 0.0173,
         "inside_10_carries": 0.3037,
         "inside_10_targets": 0.0253
+      },
+      "injury_flag": "",
+      "flags": []
+    },
+    {
+      "rank": 57,
+      "player_id": "00-0034857",
+      "player_name": "J.Allen",
+      "player_full_name": "Josh Allen",
+      "team": "BUF",
+      "position": "QB",
+      "opponent": "@ HOU",
+      "kickoff": "Sunday 13:00 ET",
+      "xtd_per_game": 0.3462,
+      "inside_10_opportunities": 13,
+      "end_zone_targets": 0,
+      "tds_last_10": 11,
+      "window_games": 10,
+      "inside_10_targets": 0,
+      "inside_10_carries": 0,
+      "goal_line_carries": 0,
+      "games_played": 16,
+      "end_zone_targets_pg": 0.0426,
+      "inside_10_carries_pg": 1.1523,
+      "inside_10_targets_pg": 0.0417,
+      "xtd_contribution": {
+        "end_zone_targets": 0.0173,
+        "inside_10_carries": 0.3175,
+        "inside_10_targets": 0.0115
       },
       "injury_flag": "",
       "flags": []
@@ -1720,8 +1720,8 @@
       "goal_line_carries": 0,
       "games_played": 17,
       "end_zone_targets_pg": 0.5644,
-      "inside_10_carries_pg": 0.0499,
-      "inside_10_targets_pg": 0.3731,
+      "inside_10_carries_pg": 0.0498,
+      "inside_10_targets_pg": 0.373,
       "xtd_contribution": {
         "end_zone_targets": 0.2287,
         "inside_10_carries": 0.0137,
@@ -1797,7 +1797,7 @@
       "position": "WR",
       "opponent": "vs NE",
       "kickoff": "Wednesday 20:20 ET",
-      "xtd_per_game": 0.338,
+      "xtd_per_game": 0.3379,
       "inside_10_opportunities": 3,
       "end_zone_targets": 5,
       "tds_last_10": 6,
@@ -1808,7 +1808,7 @@
       "games_played": 7,
       "end_zone_targets_pg": 0.5321,
       "inside_10_carries_pg": 0.0952,
-      "inside_10_targets_pg": 0.3486,
+      "inside_10_targets_pg": 0.3485,
       "xtd_contribution": {
         "end_zone_targets": 0.2156,
         "inside_10_carries": 0.0262,
@@ -1835,13 +1835,13 @@
       "inside_10_carries": 0,
       "goal_line_carries": 0,
       "games_played": 17,
-      "end_zone_targets_pg": 0.0883,
-      "inside_10_carries_pg": 0.7642,
+      "end_zone_targets_pg": 0.0882,
+      "inside_10_carries_pg": 0.7641,
       "inside_10_targets_pg": 0.3254,
       "xtd_contribution": {
         "end_zone_targets": 0.0358,
         "inside_10_carries": 0.2105,
-        "inside_10_targets": 0.0898
+        "inside_10_targets": 0.0897
       },
       "injury_flag": "",
       "flags": []
@@ -1894,12 +1894,12 @@
       "goal_line_carries": 0,
       "games_played": 17,
       "end_zone_targets_pg": 0.5644,
-      "inside_10_carries_pg": 0.0499,
+      "inside_10_carries_pg": 0.0498,
       "inside_10_targets_pg": 0.3254,
       "xtd_contribution": {
         "end_zone_targets": 0.2287,
         "inside_10_carries": 0.0137,
-        "inside_10_targets": 0.0898
+        "inside_10_targets": 0.0897
       },
       "injury_flag": "",
       "flags": []
@@ -1922,12 +1922,12 @@
       "inside_10_carries": 0,
       "goal_line_carries": 0,
       "games_played": 16,
-      "end_zone_targets_pg": 0.1427,
-      "inside_10_carries_pg": 0.8024,
+      "end_zone_targets_pg": 0.1426,
+      "inside_10_carries_pg": 0.8023,
       "inside_10_targets_pg": 0.1917,
       "xtd_contribution": {
         "end_zone_targets": 0.0578,
-        "inside_10_carries": 0.2211,
+        "inside_10_carries": 0.221,
         "inside_10_targets": 0.0529
       },
       "injury_flag": "",
@@ -1942,7 +1942,7 @@
       "position": "WR",
       "opponent": "vs DAL",
       "kickoff": "Sunday 20:20 ET",
-      "xtd_per_game": 0.3286,
+      "xtd_per_game": 0.3285,
       "inside_10_opportunities": 4,
       "end_zone_targets": 7,
       "tds_last_10": 2,
@@ -1951,8 +1951,8 @@
       "inside_10_carries": 0,
       "goal_line_carries": 0,
       "games_played": 16,
-      "end_zone_targets_pg": 0.5427,
-      "inside_10_carries_pg": 0.0524,
+      "end_zone_targets_pg": 0.5426,
+      "inside_10_carries_pg": 0.0523,
       "inside_10_targets_pg": 0.3417,
       "xtd_contribution": {
         "end_zone_targets": 0.2199,
@@ -1980,9 +1980,9 @@
       "inside_10_carries": 0,
       "goal_line_carries": 0,
       "games_played": 9,
-      "end_zone_targets_pg": 0.4503,
-      "inside_10_carries_pg": 0.0806,
-      "inside_10_targets_pg": 0.4488,
+      "end_zone_targets_pg": 0.4502,
+      "inside_10_carries_pg": 0.0805,
+      "inside_10_targets_pg": 0.4487,
       "xtd_contribution": {
         "end_zone_targets": 0.1824,
         "inside_10_carries": 0.0222,
@@ -2000,7 +2000,7 @@
       "position": "TE",
       "opponent": "@ SEA",
       "kickoff": "Wednesday 20:20 ET",
-      "xtd_per_game": 0.3269,
+      "xtd_per_game": 0.3268,
       "inside_10_opportunities": 4,
       "end_zone_targets": 4,
       "tds_last_10": 3,
@@ -2010,7 +2010,7 @@
       "goal_line_carries": 0,
       "games_played": 17,
       "end_zone_targets_pg": 0.4216,
-      "inside_10_carries_pg": 0.0499,
+      "inside_10_carries_pg": 0.0498,
       "inside_10_targets_pg": 0.5159,
       "xtd_contribution": {
         "end_zone_targets": 0.1708,
@@ -2039,7 +2039,7 @@
       "goal_line_carries": 0,
       "games_played": 17,
       "end_zone_targets_pg": 0.5168,
-      "inside_10_carries_pg": 0.0499,
+      "inside_10_carries_pg": 0.0498,
       "inside_10_targets_pg": 0.3731,
       "xtd_contribution": {
         "end_zone_targets": 0.2094,
@@ -2058,7 +2058,7 @@
       "position": "WR",
       "opponent": "@ CIN",
       "kickoff": "Sunday 13:00 ET",
-      "xtd_per_game": 0.3185,
+      "xtd_per_game": 0.3184,
       "inside_10_opportunities": 6,
       "end_zone_targets": 4,
       "tds_last_10": 2,
@@ -2068,7 +2068,7 @@
       "goal_line_carries": 0,
       "games_played": 9,
       "end_zone_targets_pg": 0.3733,
-      "inside_10_carries_pg": 0.0806,
+      "inside_10_carries_pg": 0.0805,
       "inside_10_targets_pg": 0.5257,
       "xtd_contribution": {
         "end_zone_targets": 0.1513,
@@ -2096,8 +2096,8 @@
       "inside_10_carries": 0,
       "goal_line_carries": 0,
       "games_played": 15,
-      "end_zone_targets_pg": 0.466,
-      "inside_10_carries_pg": 0.1078,
+      "end_zone_targets_pg": 0.4659,
+      "inside_10_carries_pg": 0.1077,
       "inside_10_targets_pg": 0.3597,
       "xtd_contribution": {
         "end_zone_targets": 0.1888,
@@ -2145,7 +2145,7 @@
       "position": "RB",
       "opponent": "@ PHI",
       "kickoff": "Sunday 16:25 ET",
-      "xtd_per_game": 0.3167,
+      "xtd_per_game": 0.3166,
       "inside_10_opportunities": 15,
       "end_zone_targets": 0,
       "tds_last_10": 4,
@@ -2155,12 +2155,12 @@
       "goal_line_carries": 0,
       "games_played": 17,
       "end_zone_targets_pg": 0.0406,
-      "inside_10_carries_pg": 1.0499,
+      "inside_10_carries_pg": 1.0498,
       "inside_10_targets_pg": 0.0397,
       "xtd_contribution": {
         "end_zone_targets": 0.0165,
         "inside_10_carries": 0.2892,
-        "inside_10_targets": 0.011
+        "inside_10_targets": 0.0109
       },
       "injury_flag": "",
       "flags": []
@@ -2174,17 +2174,17 @@
       "position": "WR",
       "opponent": "vs SF",
       "kickoff": "Thursday 20:35 ET",
-      "xtd_per_game": 0.3165,
-      "inside_10_opportunities": 8,
+      "xtd_per_game": 0.3164,
+      "inside_10_opportunities": 7,
       "end_zone_targets": 4,
-      "tds_last_10": 8,
+      "tds_last_10": 7,
       "window_games": 10,
-      "inside_10_targets": 0,
+      "inside_10_targets": 1,
       "inside_10_carries": 0,
       "goal_line_carries": 0,
       "games_played": 16,
-      "end_zone_targets_pg": 0.3427,
-      "inside_10_carries_pg": 0.1024,
+      "end_zone_targets_pg": 0.3426,
+      "inside_10_carries_pg": 0.1023,
       "inside_10_targets_pg": 0.5417,
       "xtd_contribution": {
         "end_zone_targets": 0.1388,
@@ -2203,7 +2203,7 @@
       "position": "RB",
       "opponent": "@ TEN",
       "kickoff": "Sunday 13:00 ET",
-      "xtd_per_game": 0.3148,
+      "xtd_per_game": 0.3147,
       "inside_10_opportunities": 6,
       "end_zone_targets": 0,
       "tds_last_10": 1,
@@ -2212,9 +2212,9 @@
       "inside_10_carries": 0,
       "goal_line_carries": 0,
       "games_played": 4,
-      "end_zone_targets_pg": 0.1067,
-      "inside_10_carries_pg": 0.6309,
-      "inside_10_targets_pg": 0.3543,
+      "end_zone_targets_pg": 0.1066,
+      "inside_10_carries_pg": 0.6308,
+      "inside_10_targets_pg": 0.3542,
       "xtd_contribution": {
         "end_zone_targets": 0.0432,
         "inside_10_carries": 0.1738,
@@ -2232,7 +2232,7 @@
       "position": "WR",
       "opponent": "vs DAL",
       "kickoff": "Sunday 20:20 ET",
-      "xtd_per_game": 0.3129,
+      "xtd_per_game": 0.3128,
       "inside_10_opportunities": 5,
       "end_zone_targets": 6,
       "tds_last_10": 1,
@@ -2274,7 +2274,7 @@
       "inside_10_carries_pg": 0.0698,
       "inside_10_targets_pg": 0.1889,
       "xtd_contribution": {
-        "end_zone_targets": 0.2392,
+        "end_zone_targets": 0.2391,
         "inside_10_carries": 0.0192,
         "inside_10_targets": 0.0521
       },
@@ -2290,7 +2290,7 @@
       "position": "WR",
       "opponent": "vs BAL",
       "kickoff": "Sunday 13:00 ET",
-      "xtd_per_game": 0.3076,
+      "xtd_per_game": 0.3075,
       "inside_10_opportunities": 4,
       "end_zone_targets": 5,
       "tds_last_10": 2,
@@ -2299,8 +2299,8 @@
       "inside_10_carries": 0,
       "goal_line_carries": 0,
       "games_played": 17,
-      "end_zone_targets_pg": 0.374,
-      "inside_10_carries_pg": 0.0499,
+      "end_zone_targets_pg": 0.3739,
+      "inside_10_carries_pg": 0.0498,
       "inside_10_targets_pg": 0.5159,
       "xtd_contribution": {
         "end_zone_targets": 0.1515,
@@ -2328,13 +2328,13 @@
       "inside_10_carries": 0,
       "goal_line_carries": 0,
       "games_played": 16,
-      "end_zone_targets_pg": 0.1427,
-      "inside_10_carries_pg": 0.6024,
+      "end_zone_targets_pg": 0.1426,
+      "inside_10_carries_pg": 0.6023,
       "inside_10_targets_pg": 0.2917,
       "xtd_contribution": {
         "end_zone_targets": 0.0578,
-        "inside_10_carries": 0.166,
-        "inside_10_targets": 0.0805
+        "inside_10_carries": 0.1659,
+        "inside_10_targets": 0.0804
       },
       "injury_flag": "",
       "flags": []
@@ -2363,7 +2363,7 @@
       "xtd_contribution": {
         "end_zone_targets": 0.0165,
         "inside_10_carries": 0.2368,
-        "inside_10_targets": 0.0504
+        "inside_10_targets": 0.0503
       },
       "injury_flag": "",
       "flags": []
@@ -2386,7 +2386,7 @@
       "inside_10_carries": 0,
       "goal_line_carries": 0,
       "games_played": 15,
-      "end_zone_targets_pg": 0.466,
+      "end_zone_targets_pg": 0.4659,
       "inside_10_carries_pg": 0.0551,
       "inside_10_targets_pg": 0.3597,
       "xtd_contribution": {
@@ -2421,7 +2421,7 @@
       "xtd_contribution": {
         "end_zone_targets": 0.2315,
         "inside_10_carries": 0.0152,
-        "inside_10_targets": 0.0557
+        "inside_10_targets": 0.0556
       },
       "injury_flag": "",
       "flags": []
@@ -2445,7 +2445,7 @@
       "goal_line_carries": 0,
       "games_played": 17,
       "end_zone_targets_pg": 0.5168,
-      "inside_10_carries_pg": 0.0499,
+      "inside_10_carries_pg": 0.0498,
       "inside_10_targets_pg": 0.2778,
       "xtd_contribution": {
         "end_zone_targets": 0.2094,
@@ -2473,8 +2473,8 @@
       "inside_10_carries": 0,
       "goal_line_carries": 0,
       "games_played": 8,
-      "end_zone_targets_pg": 0.4045,
-      "inside_10_carries_pg": 0.0873,
+      "end_zone_targets_pg": 0.4044,
+      "inside_10_carries_pg": 0.0872,
       "inside_10_targets_pg": 0.4028,
       "xtd_contribution": {
         "end_zone_targets": 0.1639,
@@ -2532,7 +2532,7 @@
       "goal_line_carries": 0,
       "games_played": 12,
       "end_zone_targets_pg": 0.0533,
-      "inside_10_carries_pg": 0.753,
+      "inside_10_carries_pg": 0.7529,
       "inside_10_targets_pg": 0.2396,
       "xtd_contribution": {
         "end_zone_targets": 0.0216,
@@ -2544,35 +2544,6 @@
     },
     {
       "rank": 87,
-      "player_id": "00-0040737",
-      "player_name": "T.Ferguson",
-      "player_full_name": "Terrance Ferguson",
-      "team": "LA",
-      "position": "TE",
-      "opponent": "vs SF",
-      "kickoff": "Thursday 20:35 ET",
-      "xtd_per_game": 0.2945,
-      "inside_10_opportunities": 3,
-      "end_zone_targets": 6,
-      "tds_last_10": 3,
-      "window_games": 10,
-      "inside_10_targets": 0,
-      "inside_10_carries": 0,
-      "goal_line_carries": 0,
-      "games_played": 10,
-      "end_zone_targets_pg": 0.4895,
-      "inside_10_carries_pg": 0.1462,
-      "inside_10_targets_pg": 0.2024,
-      "xtd_contribution": {
-        "end_zone_targets": 0.1984,
-        "inside_10_carries": 0.0403,
-        "inside_10_targets": 0.0558
-      },
-      "injury_flag": "",
-      "flags": []
-    },
-    {
-      "rank": 88,
       "player_id": "00-0035659",
       "player_name": "T.McLaurin",
       "player_full_name": "Terry McLaurin",
@@ -2591,11 +2562,40 @@
       "games_played": 10,
       "end_zone_targets_pg": 0.4895,
       "inside_10_carries_pg": 0.0748,
-      "inside_10_targets_pg": 0.2739,
+      "inside_10_targets_pg": 0.2738,
       "xtd_contribution": {
-        "end_zone_targets": 0.1984,
+        "end_zone_targets": 0.1983,
         "inside_10_carries": 0.0206,
         "inside_10_targets": 0.0755
+      },
+      "injury_flag": "",
+      "flags": []
+    },
+    {
+      "rank": 88,
+      "player_id": "00-0040737",
+      "player_name": "T.Ferguson",
+      "player_full_name": "Terrance Ferguson",
+      "team": "LA",
+      "position": "TE",
+      "opponent": "vs SF",
+      "kickoff": "Thursday 20:35 ET",
+      "xtd_per_game": 0.2944,
+      "inside_10_opportunities": 2,
+      "end_zone_targets": 6,
+      "tds_last_10": 3,
+      "window_games": 10,
+      "inside_10_targets": 0,
+      "inside_10_carries": 0,
+      "goal_line_carries": 0,
+      "games_played": 10,
+      "end_zone_targets_pg": 0.4895,
+      "inside_10_carries_pg": 0.1462,
+      "inside_10_targets_pg": 0.2024,
+      "xtd_contribution": {
+        "end_zone_targets": 0.1983,
+        "inside_10_carries": 0.0403,
+        "inside_10_targets": 0.0558
       },
       "injury_flag": "",
       "flags": []
@@ -2624,7 +2624,7 @@
       "xtd_contribution": {
         "end_zone_targets": 0.0165,
         "inside_10_carries": 0.263,
-        "inside_10_targets": 0.011
+        "inside_10_targets": 0.0109
       },
       "injury_flag": "",
       "flags": []
@@ -2648,7 +2648,7 @@
       "goal_line_carries": 0,
       "games_played": 17,
       "end_zone_targets_pg": 0.5168,
-      "inside_10_carries_pg": 0.0499,
+      "inside_10_carries_pg": 0.0498,
       "inside_10_targets_pg": 0.2302,
       "xtd_contribution": {
         "end_zone_targets": 0.2094,
@@ -2667,7 +2667,7 @@
       "position": "WR",
       "opponent": "@ MIN",
       "kickoff": "Sunday 16:25 ET",
-      "xtd_per_game": 0.2853,
+      "xtd_per_game": 0.2852,
       "inside_10_opportunities": 4,
       "end_zone_targets": 5,
       "tds_last_10": 6,
@@ -2697,11 +2697,11 @@
       "opponent": "@ LA",
       "kickoff": "Thursday 20:35 ET",
       "xtd_per_game": 0.2846,
-      "inside_10_opportunities": 4,
+      "inside_10_opportunities": 5,
       "end_zone_targets": 5,
       "tds_last_10": 6,
       "window_games": 10,
-      "inside_10_targets": 0,
+      "inside_10_targets": 1,
       "inside_10_carries": 0,
       "goal_line_carries": 0,
       "games_played": 11,
@@ -2725,7 +2725,7 @@
       "position": "TE",
       "opponent": "vs WAS",
       "kickoff": "Sunday 16:25 ET",
-      "xtd_per_game": 0.2828,
+      "xtd_per_game": 0.2827,
       "inside_10_opportunities": 5,
       "end_zone_targets": 4,
       "tds_last_10": 6,
@@ -2734,13 +2734,13 @@
       "inside_10_carries": 0,
       "goal_line_carries": 0,
       "games_played": 15,
-      "end_zone_targets_pg": 0.3081,
+      "end_zone_targets_pg": 0.308,
       "inside_10_carries_pg": 0.0551,
       "inside_10_targets_pg": 0.5176,
       "xtd_contribution": {
         "end_zone_targets": 0.1248,
         "inside_10_carries": 0.0152,
-        "inside_10_targets": 0.1428
+        "inside_10_targets": 0.1427
       },
       "injury_flag": "",
       "flags": []
@@ -2763,13 +2763,13 @@
       "inside_10_carries": 0,
       "goal_line_carries": 0,
       "games_played": 4,
-      "end_zone_targets_pg": 0.1067,
-      "inside_10_carries_pg": 0.7559,
-      "inside_10_targets_pg": 0.1043,
+      "end_zone_targets_pg": 0.1066,
+      "inside_10_carries_pg": 0.7558,
+      "inside_10_targets_pg": 0.1042,
       "xtd_contribution": {
         "end_zone_targets": 0.0432,
-        "inside_10_carries": 0.2083,
-        "inside_10_targets": 0.0288
+        "inside_10_carries": 0.2082,
+        "inside_10_targets": 0.0287
       },
       "injury_flag": "",
       "flags": []
@@ -2792,9 +2792,9 @@
       "inside_10_carries": 0,
       "goal_line_carries": 0,
       "games_played": 10,
-      "end_zone_targets_pg": 0.061,
+      "end_zone_targets_pg": 0.0609,
       "inside_10_carries_pg": 0.8605,
-      "inside_10_targets_pg": 0.0596,
+      "inside_10_targets_pg": 0.0595,
       "xtd_contribution": {
         "end_zone_targets": 0.0247,
         "inside_10_carries": 0.2371,
@@ -2821,9 +2821,9 @@
       "inside_10_carries": 0,
       "goal_line_carries": 0,
       "games_played": 10,
-      "end_zone_targets_pg": 0.061,
+      "end_zone_targets_pg": 0.0609,
       "inside_10_carries_pg": 0.8605,
-      "inside_10_targets_pg": 0.0596,
+      "inside_10_targets_pg": 0.0595,
       "xtd_contribution": {
         "end_zone_targets": 0.0247,
         "inside_10_carries": 0.2371,
@@ -2851,7 +2851,7 @@
       "goal_line_carries": 0,
       "games_played": 14,
       "end_zone_targets_pg": 0.0474,
-      "inside_10_carries_pg": 0.836,
+      "inside_10_carries_pg": 0.8359,
       "inside_10_targets_pg": 0.1019,
       "xtd_contribution": {
         "end_zone_targets": 0.0192,
@@ -2909,12 +2909,12 @@
       "goal_line_carries": 0,
       "games_played": 9,
       "end_zone_targets_pg": 0.3733,
-      "inside_10_carries_pg": 0.0806,
-      "inside_10_targets_pg": 0.3719,
+      "inside_10_carries_pg": 0.0805,
+      "inside_10_targets_pg": 0.3718,
       "xtd_contribution": {
         "end_zone_targets": 0.1513,
         "inside_10_carries": 0.0222,
-        "inside_10_targets": 0.1026
+        "inside_10_targets": 0.1025
       },
       "injury_flag": "",
       "flags": []
@@ -2937,8 +2937,8 @@
       "inside_10_carries": 0,
       "goal_line_carries": 0,
       "games_played": 16,
-      "end_zone_targets_pg": 0.3427,
-      "inside_10_carries_pg": 0.0524,
+      "end_zone_targets_pg": 0.3426,
+      "inside_10_carries_pg": 0.0523,
       "inside_10_targets_pg": 0.4417,
       "xtd_contribution": {
         "end_zone_targets": 0.1388,
@@ -2966,8 +2966,8 @@
       "inside_10_carries": 0,
       "goal_line_carries": 0,
       "games_played": 16,
-      "end_zone_targets_pg": 0.3427,
-      "inside_10_carries_pg": 0.1024,
+      "end_zone_targets_pg": 0.3426,
+      "inside_10_carries_pg": 0.1023,
       "inside_10_targets_pg": 0.3917,
       "xtd_contribution": {
         "end_zone_targets": 0.1388,
@@ -2995,8 +2995,8 @@
       "inside_10_carries": 0,
       "goal_line_carries": 0,
       "games_played": 16,
-      "end_zone_targets_pg": 0.3427,
-      "inside_10_carries_pg": 0.0524,
+      "end_zone_targets_pg": 0.3426,
+      "inside_10_carries_pg": 0.0523,
       "inside_10_targets_pg": 0.4417,
       "xtd_contribution": {
         "end_zone_targets": 0.1388,
@@ -3015,7 +3015,7 @@
       "position": "WR",
       "opponent": "@ LV",
       "kickoff": "Sunday 16:25 ET",
-      "xtd_per_game": 0.2743,
+      "xtd_per_game": 0.2742,
       "inside_10_opportunities": 2,
       "end_zone_targets": 5,
       "tds_last_10": 3,
@@ -3024,13 +3024,13 @@
       "inside_10_carries": 0,
       "goal_line_carries": 0,
       "games_played": 16,
-      "end_zone_targets_pg": 0.4427,
-      "inside_10_carries_pg": 0.0524,
+      "end_zone_targets_pg": 0.4426,
+      "inside_10_carries_pg": 0.0523,
       "inside_10_targets_pg": 0.2917,
       "xtd_contribution": {
         "end_zone_targets": 0.1794,
         "inside_10_carries": 0.0144,
-        "inside_10_targets": 0.0805
+        "inside_10_targets": 0.0804
       },
       "injury_flag": "",
       "flags": []
@@ -3054,7 +3054,7 @@
       "goal_line_carries": 0,
       "games_played": 12,
       "end_zone_targets_pg": 0.3658,
-      "inside_10_carries_pg": 0.0655,
+      "inside_10_carries_pg": 0.0654,
       "inside_10_targets_pg": 0.3646,
       "xtd_contribution": {
         "end_zone_targets": 0.1482,
@@ -3084,7 +3084,7 @@
       "games_played": 7,
       "end_zone_targets_pg": 0.3503,
       "inside_10_carries_pg": 0.0952,
-      "inside_10_targets_pg": 0.3486,
+      "inside_10_targets_pg": 0.3485,
       "xtd_contribution": {
         "end_zone_targets": 0.1419,
         "inside_10_carries": 0.0262,
@@ -3102,7 +3102,7 @@
       "position": "RB",
       "opponent": "@ TEN",
       "kickoff": "Sunday 13:00 ET",
-      "xtd_per_game": 0.2629,
+      "xtd_per_game": 0.2628,
       "inside_10_opportunities": 8,
       "end_zone_targets": 1,
       "tds_last_10": 5,
@@ -3111,8 +3111,8 @@
       "inside_10_carries": 0,
       "goal_line_carries": 0,
       "games_played": 16,
-      "end_zone_targets_pg": 0.1427,
-      "inside_10_carries_pg": 0.5524,
+      "end_zone_targets_pg": 0.1426,
+      "inside_10_carries_pg": 0.5523,
       "inside_10_targets_pg": 0.1917,
       "xtd_contribution": {
         "end_zone_targets": 0.0578,
@@ -3127,21 +3127,21 @@
       "player_id": "00-0035719",
       "player_name": "D.Samuel",
       "player_full_name": "Deebo Samuel Sr.",
-      "team": "WAS",
+      "team": "SF",
       "position": "WR",
-      "opponent": "@ PHI",
-      "kickoff": "Sunday 16:25 ET",
+      "opponent": "@ LA",
+      "kickoff": "Thursday 20:35 ET",
       "xtd_per_game": 0.2621,
-      "inside_10_opportunities": 7,
-      "end_zone_targets": 2,
-      "tds_last_10": 2,
+      "inside_10_opportunities": 9,
+      "end_zone_targets": 3,
+      "tds_last_10": 3,
       "window_games": 10,
-      "inside_10_targets": 0,
+      "inside_10_targets": 2,
       "inside_10_carries": 0,
       "goal_line_carries": 0,
       "games_played": 16,
-      "end_zone_targets_pg": 0.2427,
-      "inside_10_carries_pg": 0.1524,
+      "end_zone_targets_pg": 0.2426,
+      "inside_10_carries_pg": 0.1523,
       "inside_10_targets_pg": 0.4417,
       "xtd_contribution": {
         "end_zone_targets": 0.0983,
@@ -3160,7 +3160,7 @@
       "position": "WR",
       "opponent": "@ SEA",
       "kickoff": "Wednesday 20:20 ET",
-      "xtd_per_game": 0.2588,
+      "xtd_per_game": 0.2587,
       "inside_10_opportunities": 1,
       "end_zone_targets": 5,
       "tds_last_10": 5,
@@ -3169,9 +3169,9 @@
       "inside_10_carries": 0,
       "goal_line_carries": 0,
       "games_played": 14,
-      "end_zone_targets_pg": 0.4919,
+      "end_zone_targets_pg": 0.4918,
       "inside_10_carries_pg": 0.0582,
-      "inside_10_targets_pg": 0.1575,
+      "inside_10_targets_pg": 0.1574,
       "xtd_contribution": {
         "end_zone_targets": 0.1993,
         "inside_10_carries": 0.016,
@@ -3189,7 +3189,7 @@
       "position": "RB",
       "opponent": "vs CHI",
       "kickoff": "Sunday 13:00 ET",
-      "xtd_per_game": 0.2573,
+      "xtd_per_game": 0.2572,
       "inside_10_opportunities": 6,
       "end_zone_targets": 1,
       "tds_last_10": 4,
@@ -3198,7 +3198,7 @@
       "inside_10_carries": 0,
       "goal_line_carries": 0,
       "games_played": 17,
-      "end_zone_targets_pg": 0.0883,
+      "end_zone_targets_pg": 0.0882,
       "inside_10_carries_pg": 0.7165,
       "inside_10_targets_pg": 0.0873,
       "xtd_contribution": {
@@ -3227,9 +3227,9 @@
       "inside_10_carries": 0,
       "goal_line_carries": 0,
       "games_played": 10,
-      "end_zone_targets_pg": 0.3467,
+      "end_zone_targets_pg": 0.3466,
       "inside_10_carries_pg": 0.1462,
-      "inside_10_targets_pg": 0.2739,
+      "inside_10_targets_pg": 0.2738,
       "xtd_contribution": {
         "end_zone_targets": 0.1405,
         "inside_10_carries": 0.0403,
@@ -3256,8 +3256,8 @@
       "inside_10_carries": 0,
       "goal_line_carries": 0,
       "games_played": 16,
-      "end_zone_targets_pg": 0.2927,
-      "inside_10_carries_pg": 0.1524,
+      "end_zone_targets_pg": 0.2926,
+      "inside_10_carries_pg": 0.1523,
       "inside_10_targets_pg": 0.3417,
       "xtd_contribution": {
         "end_zone_targets": 0.1186,
@@ -3276,7 +3276,7 @@
       "position": "RB",
       "opponent": "vs ATL",
       "kickoff": "Sunday 13:00 ET",
-      "xtd_per_game": 0.2544,
+      "xtd_per_game": 0.2543,
       "inside_10_opportunities": 5,
       "end_zone_targets": 2,
       "tds_last_10": 3,
@@ -3285,13 +3285,13 @@
       "inside_10_carries": 0,
       "goal_line_carries": 0,
       "games_played": 8,
-      "end_zone_targets_pg": 0.2378,
+      "end_zone_targets_pg": 0.2377,
       "inside_10_carries_pg": 0.4206,
       "inside_10_targets_pg": 0.1528,
       "xtd_contribution": {
         "end_zone_targets": 0.0963,
         "inside_10_carries": 0.1159,
-        "inside_10_targets": 0.0422
+        "inside_10_targets": 0.0421
       },
       "injury_flag": "",
       "flags": []
@@ -3320,7 +3320,7 @@
       "xtd_contribution": {
         "end_zone_targets": 0.1395,
         "inside_10_carries": 0.017,
-        "inside_10_targets": 0.0947
+        "inside_10_targets": 0.0946
       },
       "injury_flag": "",
       "flags": []
@@ -3334,7 +3334,7 @@
       "position": "RB",
       "opponent": "vs SF",
       "kickoff": "Thursday 20:35 ET",
-      "xtd_per_game": 0.2511,
+      "xtd_per_game": 0.251,
       "inside_10_opportunities": 11,
       "end_zone_targets": 0,
       "tds_last_10": 5,
@@ -3349,7 +3349,7 @@
       "xtd_contribution": {
         "end_zone_targets": 0.0165,
         "inside_10_carries": 0.2236,
-        "inside_10_targets": 0.011
+        "inside_10_targets": 0.0109
       },
       "injury_flag": "",
       "flags": []
@@ -3372,12 +3372,12 @@
       "inside_10_carries": 0,
       "goal_line_carries": 0,
       "games_played": 16,
-      "end_zone_targets_pg": 0.0427,
-      "inside_10_carries_pg": 0.8024,
+      "end_zone_targets_pg": 0.0426,
+      "inside_10_carries_pg": 0.8023,
       "inside_10_targets_pg": 0.0417,
       "xtd_contribution": {
         "end_zone_targets": 0.0173,
-        "inside_10_carries": 0.2211,
+        "inside_10_carries": 0.221,
         "inside_10_targets": 0.0115
       },
       "injury_flag": "",
@@ -3392,7 +3392,7 @@
       "position": "RB",
       "opponent": "@ DET",
       "kickoff": "Sunday 13:00 ET",
-      "xtd_per_game": 0.2491,
+      "xtd_per_game": 0.249,
       "inside_10_opportunities": 5,
       "end_zone_targets": 0,
       "tds_last_10": 1,
@@ -3403,11 +3403,11 @@
       "games_played": 5,
       "end_zone_targets_pg": 0.0948,
       "inside_10_carries_pg": 0.6719,
-      "inside_10_targets_pg": 0.0927,
+      "inside_10_targets_pg": 0.0926,
       "xtd_contribution": {
         "end_zone_targets": 0.0384,
         "inside_10_carries": 0.1851,
-        "inside_10_targets": 0.0256
+        "inside_10_targets": 0.0255
       },
       "injury_flag": "",
       "flags": []
@@ -3421,7 +3421,7 @@
       "position": "WR",
       "opponent": "vs GB",
       "kickoff": "Sunday 16:25 ET",
-      "xtd_per_game": 0.2489,
+      "xtd_per_game": 0.2488,
       "inside_10_opportunities": 2,
       "end_zone_targets": 3,
       "tds_last_10": 3,
@@ -3430,9 +3430,9 @@
       "inside_10_carries": 0,
       "goal_line_carries": 0,
       "games_played": 17,
-      "end_zone_targets_pg": 0.3264,
-      "inside_10_carries_pg": 0.0499,
-      "inside_10_targets_pg": 0.3731,
+      "end_zone_targets_pg": 0.3263,
+      "inside_10_carries_pg": 0.0498,
+      "inside_10_targets_pg": 0.373,
       "xtd_contribution": {
         "end_zone_targets": 0.1322,
         "inside_10_carries": 0.0137,
@@ -3450,7 +3450,7 @@
       "position": "WR",
       "opponent": "vs WAS",
       "kickoff": "Sunday 16:25 ET",
-      "xtd_per_game": 0.2481,
+      "xtd_per_game": 0.248,
       "inside_10_opportunities": 2,
       "end_zone_targets": 6,
       "tds_last_10": 2,
@@ -3460,7 +3460,7 @@
       "goal_line_carries": 0,
       "games_played": 17,
       "end_zone_targets_pg": 0.4216,
-      "inside_10_carries_pg": 0.0499,
+      "inside_10_carries_pg": 0.0498,
       "inside_10_targets_pg": 0.2302,
       "xtd_contribution": {
         "end_zone_targets": 0.1708,
@@ -3488,8 +3488,8 @@
       "inside_10_carries": 0,
       "goal_line_carries": 0,
       "games_played": 16,
-      "end_zone_targets_pg": 0.3427,
-      "inside_10_carries_pg": 0.0524,
+      "end_zone_targets_pg": 0.3426,
+      "inside_10_carries_pg": 0.0523,
       "inside_10_targets_pg": 0.3417,
       "xtd_contribution": {
         "end_zone_targets": 0.1388,
@@ -3519,9 +3519,9 @@
       "games_played": 15,
       "end_zone_targets_pg": 0.3607,
       "inside_10_carries_pg": 0.0551,
-      "inside_10_targets_pg": 0.3071,
+      "inside_10_targets_pg": 0.307,
       "xtd_contribution": {
-        "end_zone_targets": 0.1462,
+        "end_zone_targets": 0.1461,
         "inside_10_carries": 0.0152,
         "inside_10_targets": 0.0847
       },
@@ -3546,8 +3546,8 @@
       "inside_10_carries": 0,
       "goal_line_carries": 0,
       "games_played": 17,
-      "end_zone_targets_pg": 0.374,
-      "inside_10_carries_pg": 0.0499,
+      "end_zone_targets_pg": 0.3739,
+      "inside_10_carries_pg": 0.0498,
       "inside_10_targets_pg": 0.2778,
       "xtd_contribution": {
         "end_zone_targets": 0.1515,
@@ -3576,7 +3576,7 @@
       "goal_line_carries": 0,
       "games_played": 12,
       "end_zone_targets_pg": 0.3033,
-      "inside_10_carries_pg": 0.0655,
+      "inside_10_carries_pg": 0.0654,
       "inside_10_targets_pg": 0.3646,
       "xtd_contribution": {
         "end_zone_targets": 0.1229,
@@ -3606,11 +3606,11 @@
       "games_played": 7,
       "end_zone_targets_pg": 0.3503,
       "inside_10_carries_pg": 0.0952,
-      "inside_10_targets_pg": 0.2577,
+      "inside_10_targets_pg": 0.2576,
       "xtd_contribution": {
         "end_zone_targets": 0.1419,
         "inside_10_carries": 0.0262,
-        "inside_10_targets": 0.0711
+        "inside_10_targets": 0.071
       },
       "injury_flag": "",
       "flags": []
@@ -3624,7 +3624,7 @@
       "position": "QB",
       "opponent": "@ SEA",
       "kickoff": "Wednesday 20:20 ET",
-      "xtd_per_game": 0.238,
+      "xtd_per_game": 0.2379,
       "inside_10_opportunities": 9,
       "end_zone_targets": 0,
       "tds_last_10": 2,
@@ -3639,7 +3639,7 @@
       "xtd_contribution": {
         "end_zone_targets": 0.0165,
         "inside_10_carries": 0.2105,
-        "inside_10_targets": 0.011
+        "inside_10_targets": 0.0109
       },
       "injury_flag": "",
       "flags": []
@@ -3663,12 +3663,12 @@
       "goal_line_carries": 0,
       "games_played": 17,
       "end_zone_targets_pg": 0.0406,
-      "inside_10_carries_pg": 0.7642,
+      "inside_10_carries_pg": 0.7641,
       "inside_10_targets_pg": 0.0397,
       "xtd_contribution": {
         "end_zone_targets": 0.0165,
         "inside_10_carries": 0.2105,
-        "inside_10_targets": 0.011
+        "inside_10_targets": 0.0109
       },
       "injury_flag": "",
       "flags": []
@@ -3722,7 +3722,7 @@
       "games_played": 13,
       "end_zone_targets_pg": 0.3443,
       "inside_10_carries_pg": 0.0616,
-      "inside_10_targets_pg": 0.2844,
+      "inside_10_targets_pg": 0.2843,
       "xtd_contribution": {
         "end_zone_targets": 0.1395,
         "inside_10_carries": 0.017,
@@ -3750,7 +3750,7 @@
       "goal_line_carries": 0,
       "games_played": 9,
       "end_zone_targets_pg": 0.3733,
-      "inside_10_carries_pg": 0.0806,
+      "inside_10_carries_pg": 0.0805,
       "inside_10_targets_pg": 0.218,
       "xtd_contribution": {
         "end_zone_targets": 0.1513,
@@ -3779,7 +3779,7 @@
       "goal_line_carries": 0,
       "games_played": 14,
       "end_zone_targets_pg": 0.0474,
-      "inside_10_carries_pg": 0.7249,
+      "inside_10_carries_pg": 0.7248,
       "inside_10_targets_pg": 0.0463,
       "xtd_contribution": {
         "end_zone_targets": 0.0192,
@@ -3827,7 +3827,7 @@
       "position": "TE",
       "opponent": "vs BUF",
       "kickoff": "Sunday 13:00 ET",
-      "xtd_per_game": 0.2296,
+      "xtd_per_game": 0.2295,
       "inside_10_opportunities": 5,
       "end_zone_targets": 4,
       "tds_last_10": 3,
@@ -3837,8 +3837,8 @@
       "goal_line_carries": 0,
       "games_played": 17,
       "end_zone_targets_pg": 0.2787,
-      "inside_10_carries_pg": 0.0499,
-      "inside_10_targets_pg": 0.3731,
+      "inside_10_carries_pg": 0.0498,
+      "inside_10_targets_pg": 0.373,
       "xtd_contribution": {
         "end_zone_targets": 0.1129,
         "inside_10_carries": 0.0137,
@@ -3856,7 +3856,7 @@
       "position": "WR",
       "opponent": "@ NYG",
       "kickoff": "Sunday 20:20 ET",
-      "xtd_per_game": 0.2295,
+      "xtd_per_game": 0.2294,
       "inside_10_opportunities": 2,
       "end_zone_targets": 4,
       "tds_last_10": 1,
@@ -3885,7 +3885,7 @@
       "position": "WR",
       "opponent": "@ SEA",
       "kickoff": "Wednesday 20:20 ET",
-      "xtd_per_game": 0.2291,
+      "xtd_per_game": 0.229,
       "inside_10_opportunities": 1,
       "end_zone_targets": 5,
       "tds_last_10": 0,
@@ -3894,13 +3894,13 @@
       "inside_10_carries": 0,
       "goal_line_carries": 0,
       "games_played": 14,
-      "end_zone_targets_pg": 0.3808,
+      "end_zone_targets_pg": 0.3807,
       "inside_10_carries_pg": 0.0582,
       "inside_10_targets_pg": 0.213,
       "xtd_contribution": {
         "end_zone_targets": 0.1543,
         "inside_10_carries": 0.016,
-        "inside_10_targets": 0.0588
+        "inside_10_targets": 0.0587
       },
       "injury_flag": "",
       "flags": []
@@ -3914,7 +3914,7 @@
       "position": "WR",
       "opponent": "@ PIT",
       "kickoff": "Sunday 13:00 ET",
-      "xtd_per_game": 0.2277,
+      "xtd_per_game": 0.2276,
       "inside_10_opportunities": 2,
       "end_zone_targets": 1,
       "tds_last_10": 0,
@@ -3923,12 +3923,12 @@
       "inside_10_carries": 0,
       "goal_line_carries": 0,
       "games_played": 4,
-      "end_zone_targets_pg": 0.2317,
-      "inside_10_carries_pg": 0.1309,
-      "inside_10_targets_pg": 0.3543,
+      "end_zone_targets_pg": 0.2316,
+      "inside_10_carries_pg": 0.1308,
+      "inside_10_targets_pg": 0.3542,
       "xtd_contribution": {
-        "end_zone_targets": 0.0939,
-        "inside_10_carries": 0.0361,
+        "end_zone_targets": 0.0938,
+        "inside_10_carries": 0.036,
         "inside_10_targets": 0.0977
       },
       "injury_flag": "",
@@ -3936,35 +3936,6 @@
     },
     {
       "rank": 135,
-      "player_id": "00-0037004",
-      "player_name": "H.Long",
-      "player_full_name": "Hunter Long",
-      "team": "JAX",
-      "position": "TE",
-      "opponent": "vs CLE",
-      "kickoff": "Sunday 13:00 ET",
-      "xtd_per_game": 0.2275,
-      "inside_10_opportunities": 3,
-      "end_zone_targets": 2,
-      "tds_last_10": 2,
-      "window_games": 10,
-      "inside_10_targets": 0,
-      "inside_10_carries": 0,
-      "goal_line_carries": 0,
-      "games_played": 7,
-      "end_zone_targets_pg": 0.2594,
-      "inside_10_carries_pg": 0.0952,
-      "inside_10_targets_pg": 0.3486,
-      "xtd_contribution": {
-        "end_zone_targets": 0.1051,
-        "inside_10_carries": 0.0262,
-        "inside_10_targets": 0.0961
-      },
-      "injury_flag": "",
-      "flags": []
-    },
-    {
-      "rank": 136,
       "player_id": "00-0034959",
       "player_name": "A.Beck",
       "player_full_name": "Andrew Beck",
@@ -3983,11 +3954,40 @@
       "games_played": 7,
       "end_zone_targets_pg": 0.2594,
       "inside_10_carries_pg": 0.1861,
-      "inside_10_targets_pg": 0.2577,
+      "inside_10_targets_pg": 0.2576,
       "xtd_contribution": {
         "end_zone_targets": 0.1051,
         "inside_10_carries": 0.0513,
-        "inside_10_targets": 0.0711
+        "inside_10_targets": 0.071
+      },
+      "injury_flag": "",
+      "flags": []
+    },
+    {
+      "rank": 136,
+      "player_id": "00-0037004",
+      "player_name": "H.Long",
+      "player_full_name": "Hunter Long",
+      "team": "JAX",
+      "position": "TE",
+      "opponent": "vs CLE",
+      "kickoff": "Sunday 13:00 ET",
+      "xtd_per_game": 0.2274,
+      "inside_10_opportunities": 3,
+      "end_zone_targets": 2,
+      "tds_last_10": 2,
+      "window_games": 10,
+      "inside_10_targets": 0,
+      "inside_10_carries": 0,
+      "goal_line_carries": 0,
+      "games_played": 7,
+      "end_zone_targets_pg": 0.2594,
+      "inside_10_carries_pg": 0.0952,
+      "inside_10_targets_pg": 0.3485,
+      "xtd_contribution": {
+        "end_zone_targets": 0.1051,
+        "inside_10_carries": 0.0262,
+        "inside_10_targets": 0.0961
       },
       "injury_flag": "",
       "flags": []
@@ -4001,7 +4001,7 @@
       "position": "TE",
       "opponent": "vs TB",
       "kickoff": "Sunday 13:00 ET",
-      "xtd_per_game": 0.2274,
+      "xtd_per_game": 0.2273,
       "inside_10_opportunities": 4,
       "end_zone_targets": 3,
       "tds_last_10": 2,
@@ -4072,7 +4072,7 @@
       "inside_10_carries_pg": 0.6698,
       "inside_10_targets_pg": 0.0556,
       "xtd_contribution": {
-        "end_zone_targets": 0.0231,
+        "end_zone_targets": 0.023,
         "inside_10_carries": 0.1845,
         "inside_10_targets": 0.0153
       },
@@ -4081,35 +4081,6 @@
     },
     {
       "rank": 140,
-      "player_id": "00-0040705",
-      "player_name": "C.Dike",
-      "player_full_name": "Chimere Dike",
-      "team": "TEN",
-      "position": "WR",
-      "opponent": "vs NYJ",
-      "kickoff": "Sunday 13:00 ET",
-      "xtd_per_game": 0.2208,
-      "inside_10_opportunities": 6,
-      "end_zone_targets": 3,
-      "tds_last_10": 5,
-      "window_games": 10,
-      "inside_10_targets": 0,
-      "inside_10_carries": 0,
-      "goal_line_carries": 0,
-      "games_played": 16,
-      "end_zone_targets_pg": 0.2427,
-      "inside_10_carries_pg": 0.1524,
-      "inside_10_targets_pg": 0.2917,
-      "xtd_contribution": {
-        "end_zone_targets": 0.0983,
-        "inside_10_carries": 0.042,
-        "inside_10_targets": 0.0805
-      },
-      "injury_flag": "",
-      "flags": []
-    },
-    {
-      "rank": 141,
       "player_id": "00-0033885",
       "player_name": "D.Njoku",
       "player_full_name": "David Njoku",
@@ -4126,13 +4097,42 @@
       "inside_10_carries": 0,
       "goal_line_carries": 0,
       "games_played": 11,
-      "end_zone_targets_pg": 0.3236,
+      "end_zone_targets_pg": 0.3235,
       "inside_10_carries_pg": 0.0698,
       "inside_10_targets_pg": 0.2556,
       "xtd_contribution": {
         "end_zone_targets": 0.1311,
         "inside_10_carries": 0.0192,
         "inside_10_targets": 0.0705
+      },
+      "injury_flag": "",
+      "flags": []
+    },
+    {
+      "rank": 141,
+      "player_id": "00-0040705",
+      "player_name": "C.Dike",
+      "player_full_name": "Chimere Dike",
+      "team": "TEN",
+      "position": "WR",
+      "opponent": "vs NYJ",
+      "kickoff": "Sunday 13:00 ET",
+      "xtd_per_game": 0.2207,
+      "inside_10_opportunities": 6,
+      "end_zone_targets": 3,
+      "tds_last_10": 5,
+      "window_games": 10,
+      "inside_10_targets": 0,
+      "inside_10_carries": 0,
+      "goal_line_carries": 0,
+      "games_played": 16,
+      "end_zone_targets_pg": 0.2426,
+      "inside_10_carries_pg": 0.1523,
+      "inside_10_targets_pg": 0.2917,
+      "xtd_contribution": {
+        "end_zone_targets": 0.0983,
+        "inside_10_carries": 0.042,
+        "inside_10_targets": 0.0804
       },
       "injury_flag": "",
       "flags": []
@@ -4146,7 +4146,7 @@
       "position": "RB",
       "opponent": "vs CHI",
       "kickoff": "Sunday 13:00 ET",
-      "xtd_per_game": 0.2196,
+      "xtd_per_game": 0.2195,
       "inside_10_opportunities": 6,
       "end_zone_targets": 0,
       "tds_last_10": 2,
@@ -4156,7 +4156,7 @@
       "goal_line_carries": 0,
       "games_played": 15,
       "end_zone_targets_pg": 0.0449,
-      "inside_10_carries_pg": 0.4762,
+      "inside_10_carries_pg": 0.4761,
       "inside_10_targets_pg": 0.2544,
       "xtd_contribution": {
         "end_zone_targets": 0.0182,
@@ -4185,12 +4185,12 @@
       "goal_line_carries": 0,
       "games_played": 17,
       "end_zone_targets_pg": 0.2787,
-      "inside_10_carries_pg": 0.0499,
+      "inside_10_carries_pg": 0.0498,
       "inside_10_targets_pg": 0.3254,
       "xtd_contribution": {
         "end_zone_targets": 0.1129,
         "inside_10_carries": 0.0137,
-        "inside_10_targets": 0.0898
+        "inside_10_targets": 0.0897
       },
       "injury_flag": "",
       "flags": []
@@ -4215,7 +4215,7 @@
       "games_played": 9,
       "end_zone_targets_pg": 0.0656,
       "inside_10_carries_pg": 0.619,
-      "inside_10_targets_pg": 0.0642,
+      "inside_10_targets_pg": 0.0641,
       "xtd_contribution": {
         "end_zone_targets": 0.0266,
         "inside_10_carries": 0.1705,
@@ -4233,7 +4233,7 @@
       "position": "TE",
       "opponent": "@ LV",
       "kickoff": "Sunday 16:25 ET",
-      "xtd_per_game": 0.2137,
+      "xtd_per_game": 0.2136,
       "inside_10_opportunities": 4,
       "end_zone_targets": 2,
       "tds_last_10": 1,
@@ -4243,7 +4243,7 @@
       "goal_line_carries": 0,
       "games_played": 9,
       "end_zone_targets_pg": 0.2195,
-      "inside_10_carries_pg": 0.1575,
+      "inside_10_carries_pg": 0.1574,
       "inside_10_targets_pg": 0.2949,
       "xtd_contribution": {
         "end_zone_targets": 0.0889,
@@ -4262,7 +4262,7 @@
       "position": "TE",
       "opponent": "vs SF",
       "kickoff": "Thursday 20:35 ET",
-      "xtd_per_game": 0.2137,
+      "xtd_per_game": 0.2136,
       "inside_10_opportunities": 4,
       "end_zone_targets": 2,
       "tds_last_10": 3,
@@ -4271,13 +4271,13 @@
       "inside_10_carries": 0,
       "goal_line_carries": 0,
       "games_played": 9,
-      "end_zone_targets_pg": 0.2195,
-      "inside_10_carries_pg": 0.0806,
-      "inside_10_targets_pg": 0.3719,
+      "end_zone_targets_pg": 0.2194,
+      "inside_10_carries_pg": 0.0805,
+      "inside_10_targets_pg": 0.3718,
       "xtd_contribution": {
         "end_zone_targets": 0.0889,
         "inside_10_carries": 0.0222,
-        "inside_10_targets": 0.1026
+        "inside_10_targets": 0.1025
       },
       "injury_flag": "",
       "flags": []
@@ -4291,7 +4291,7 @@
       "position": "WR",
       "opponent": "vs NE",
       "kickoff": "Wednesday 20:20 ET",
-      "xtd_per_game": 0.2135,
+      "xtd_per_game": 0.2134,
       "inside_10_opportunities": 5,
       "end_zone_targets": 4,
       "tds_last_10": 1,
@@ -4300,13 +4300,13 @@
       "inside_10_carries": 0,
       "goal_line_carries": 0,
       "games_played": 16,
-      "end_zone_targets_pg": 0.2927,
-      "inside_10_carries_pg": 0.0524,
+      "end_zone_targets_pg": 0.2926,
+      "inside_10_carries_pg": 0.0523,
       "inside_10_targets_pg": 0.2917,
       "xtd_contribution": {
         "end_zone_targets": 0.1186,
         "inside_10_carries": 0.0144,
-        "inside_10_targets": 0.0805
+        "inside_10_targets": 0.0804
       },
       "injury_flag": "",
       "flags": []
@@ -4331,7 +4331,7 @@
       "games_played": 13,
       "end_zone_targets_pg": 0.0502,
       "inside_10_carries_pg": 0.6498,
-      "inside_10_targets_pg": 0.0491,
+      "inside_10_targets_pg": 0.049,
       "xtd_contribution": {
         "end_zone_targets": 0.0203,
         "inside_10_carries": 0.179,
@@ -4360,7 +4360,7 @@
       "games_played": 11,
       "end_zone_targets_pg": 0.2569,
       "inside_10_carries_pg": 0.0698,
-      "inside_10_targets_pg": 0.3223,
+      "inside_10_targets_pg": 0.3222,
       "xtd_contribution": {
         "end_zone_targets": 0.1041,
         "inside_10_carries": 0.0192,
@@ -4378,7 +4378,7 @@
       "position": "QB",
       "opponent": "@ MIN",
       "kickoff": "Sunday 16:25 ET",
-      "xtd_per_game": 0.2114,
+      "xtd_per_game": 0.2113,
       "inside_10_opportunities": 3,
       "end_zone_targets": 0,
       "tds_last_10": 2,
@@ -4387,13 +4387,13 @@
       "inside_10_carries": 0,
       "goal_line_carries": 0,
       "games_played": 4,
-      "end_zone_targets_pg": 0.1067,
-      "inside_10_carries_pg": 0.5059,
-      "inside_10_targets_pg": 0.1043,
+      "end_zone_targets_pg": 0.1066,
+      "inside_10_carries_pg": 0.5058,
+      "inside_10_targets_pg": 0.1042,
       "xtd_contribution": {
         "end_zone_targets": 0.0432,
         "inside_10_carries": 0.1394,
-        "inside_10_targets": 0.0288
+        "inside_10_targets": 0.0287
       },
       "injury_flag": "",
       "flags": []
@@ -4418,7 +4418,7 @@
       "games_played": 13,
       "end_zone_targets_pg": 0.2855,
       "inside_10_carries_pg": 0.0616,
-      "inside_10_targets_pg": 0.2844,
+      "inside_10_targets_pg": 0.2843,
       "xtd_contribution": {
         "end_zone_targets": 0.1157,
         "inside_10_carries": 0.017,
@@ -4475,8 +4475,8 @@
       "goal_line_carries": 0,
       "games_played": 17,
       "end_zone_targets_pg": 0.2311,
-      "inside_10_carries_pg": 0.0499,
-      "inside_10_targets_pg": 0.3731,
+      "inside_10_carries_pg": 0.0498,
+      "inside_10_targets_pg": 0.373,
       "xtd_contribution": {
         "end_zone_targets": 0.0936,
         "inside_10_carries": 0.0137,
@@ -4503,8 +4503,8 @@
       "inside_10_carries": 0,
       "goal_line_carries": 0,
       "games_played": 8,
-      "end_zone_targets_pg": 0.2378,
-      "inside_10_carries_pg": 0.0873,
+      "end_zone_targets_pg": 0.2377,
+      "inside_10_carries_pg": 0.0872,
       "inside_10_targets_pg": 0.3195,
       "xtd_contribution": {
         "end_zone_targets": 0.0963,
@@ -4532,8 +4532,8 @@
       "inside_10_carries": 0,
       "goal_line_carries": 0,
       "games_played": 16,
-      "end_zone_targets_pg": 0.0427,
-      "inside_10_carries_pg": 0.6524,
+      "end_zone_targets_pg": 0.0426,
+      "inside_10_carries_pg": 0.6523,
       "inside_10_targets_pg": 0.0417,
       "xtd_contribution": {
         "end_zone_targets": 0.0173,
@@ -4561,8 +4561,8 @@
       "inside_10_carries": 0,
       "goal_line_carries": 0,
       "games_played": 17,
-      "end_zone_targets_pg": 0.0883,
-      "inside_10_carries_pg": 0.5261,
+      "end_zone_targets_pg": 0.0882,
+      "inside_10_carries_pg": 0.526,
       "inside_10_targets_pg": 0.0873,
       "xtd_contribution": {
         "end_zone_targets": 0.0358,
@@ -4594,7 +4594,7 @@
       "inside_10_carries_pg": 0.4698,
       "inside_10_targets_pg": 0.1889,
       "xtd_contribution": {
-        "end_zone_targets": 0.0231,
+        "end_zone_targets": 0.023,
         "inside_10_carries": 0.1294,
         "inside_10_targets": 0.0521
       },
@@ -4621,11 +4621,11 @@
       "games_played": 7,
       "end_zone_targets_pg": 0.2594,
       "inside_10_carries_pg": 0.0952,
-      "inside_10_targets_pg": 0.2577,
+      "inside_10_targets_pg": 0.2576,
       "xtd_contribution": {
         "end_zone_targets": 0.1051,
         "inside_10_carries": 0.0262,
-        "inside_10_targets": 0.0711
+        "inside_10_targets": 0.071
       },
       "injury_flag": "",
       "flags": []
@@ -4650,11 +4650,11 @@
       "games_played": 7,
       "end_zone_targets_pg": 0.2594,
       "inside_10_carries_pg": 0.0952,
-      "inside_10_targets_pg": 0.2577,
+      "inside_10_targets_pg": 0.2576,
       "xtd_contribution": {
         "end_zone_targets": 0.1051,
         "inside_10_carries": 0.0262,
-        "inside_10_targets": 0.0711
+        "inside_10_targets": 0.071
       },
       "injury_flag": "",
       "flags": []
@@ -4677,8 +4677,8 @@
       "inside_10_carries": 0,
       "goal_line_carries": 0,
       "games_played": 10,
-      "end_zone_targets_pg": 0.061,
-      "inside_10_carries_pg": 0.5034,
+      "end_zone_targets_pg": 0.0609,
+      "inside_10_carries_pg": 0.5033,
       "inside_10_targets_pg": 0.131,
       "xtd_contribution": {
         "end_zone_targets": 0.0247,
@@ -4697,7 +4697,7 @@
       "position": "WR",
       "opponent": "@ CAR",
       "kickoff": "Sunday 13:00 ET",
-      "xtd_per_game": 0.1994,
+      "xtd_per_game": 0.1993,
       "inside_10_opportunities": 4,
       "end_zone_targets": 4,
       "tds_last_10": 2,
@@ -4708,9 +4708,9 @@
       "games_played": 14,
       "end_zone_targets_pg": 0.2696,
       "inside_10_carries_pg": 0.0582,
-      "inside_10_targets_pg": 0.2686,
+      "inside_10_targets_pg": 0.2685,
       "xtd_contribution": {
-        "end_zone_targets": 0.1093,
+        "end_zone_targets": 0.1092,
         "inside_10_carries": 0.016,
         "inside_10_targets": 0.0741
       },
@@ -4741,7 +4741,7 @@
       "xtd_contribution": {
         "end_zone_targets": 0.0165,
         "inside_10_carries": 0.1712,
-        "inside_10_targets": 0.011
+        "inside_10_targets": 0.0109
       },
       "injury_flag": "",
       "flags": []
@@ -4794,7 +4794,7 @@
       "goal_line_carries": 0,
       "games_played": 13,
       "end_zone_targets_pg": 0.0502,
-      "inside_10_carries_pg": 0.4734,
+      "inside_10_carries_pg": 0.4733,
       "inside_10_targets_pg": 0.1667,
       "xtd_contribution": {
         "end_zone_targets": 0.0203,
@@ -4822,13 +4822,13 @@
       "inside_10_carries": 0,
       "goal_line_carries": 0,
       "games_played": 17,
-      "end_zone_targets_pg": 0.3264,
-      "inside_10_carries_pg": 0.0499,
+      "end_zone_targets_pg": 0.3263,
+      "inside_10_carries_pg": 0.0498,
       "inside_10_targets_pg": 0.1826,
       "xtd_contribution": {
         "end_zone_targets": 0.1322,
         "inside_10_carries": 0.0137,
-        "inside_10_targets": 0.0504
+        "inside_10_targets": 0.0503
       },
       "injury_flag": "",
       "flags": []
@@ -4842,7 +4842,7 @@
       "position": "WR",
       "opponent": "@ PIT",
       "kickoff": "Sunday 13:00 ET",
-      "xtd_per_game": 0.1957,
+      "xtd_per_game": 0.1956,
       "inside_10_opportunities": 2,
       "end_zone_targets": 3,
       "tds_last_10": 1,
@@ -4851,13 +4851,13 @@
       "inside_10_carries": 0,
       "goal_line_carries": 0,
       "games_played": 15,
-      "end_zone_targets_pg": 0.3081,
+      "end_zone_targets_pg": 0.308,
       "inside_10_carries_pg": 0.0551,
       "inside_10_targets_pg": 0.2018,
       "xtd_contribution": {
         "end_zone_targets": 0.1248,
         "inside_10_carries": 0.0152,
-        "inside_10_targets": 0.0557
+        "inside_10_targets": 0.0556
       },
       "injury_flag": "",
       "flags": []
@@ -4882,7 +4882,7 @@
       "games_played": 9,
       "end_zone_targets_pg": 0.0656,
       "inside_10_carries_pg": 0.5421,
-      "inside_10_targets_pg": 0.0642,
+      "inside_10_targets_pg": 0.0641,
       "xtd_contribution": {
         "end_zone_targets": 0.0266,
         "inside_10_carries": 0.1493,
@@ -4910,7 +4910,7 @@
       "goal_line_carries": 0,
       "games_played": 12,
       "end_zone_targets_pg": 0.0533,
-      "inside_10_carries_pg": 0.378,
+      "inside_10_carries_pg": 0.3779,
       "inside_10_targets_pg": 0.2396,
       "xtd_contribution": {
         "end_zone_targets": 0.0216,
@@ -4940,7 +4940,7 @@
       "games_played": 14,
       "end_zone_targets_pg": 0.3252,
       "inside_10_carries_pg": 0.0582,
-      "inside_10_targets_pg": 0.1575,
+      "inside_10_targets_pg": 0.1574,
       "xtd_contribution": {
         "end_zone_targets": 0.1318,
         "inside_10_carries": 0.016,
@@ -4968,10 +4968,10 @@
       "goal_line_carries": 0,
       "games_played": 17,
       "end_zone_targets_pg": 0.1835,
-      "inside_10_carries_pg": 0.0499,
-      "inside_10_targets_pg": 0.3731,
+      "inside_10_carries_pg": 0.0498,
+      "inside_10_targets_pg": 0.373,
       "xtd_contribution": {
-        "end_zone_targets": 0.0744,
+        "end_zone_targets": 0.0743,
         "inside_10_carries": 0.0137,
         "inside_10_targets": 0.1029
       },
@@ -5026,12 +5026,12 @@
       "goal_line_carries": 0,
       "games_played": 12,
       "end_zone_targets_pg": 0.3033,
-      "inside_10_carries_pg": 0.0655,
+      "inside_10_carries_pg": 0.0654,
       "inside_10_targets_pg": 0.1771,
       "xtd_contribution": {
         "end_zone_targets": 0.1229,
         "inside_10_carries": 0.018,
-        "inside_10_targets": 0.0489
+        "inside_10_targets": 0.0488
       },
       "injury_flag": "",
       "flags": []
@@ -5045,7 +5045,7 @@
       "position": "WR",
       "opponent": "vs BUF",
       "kickoff": "Sunday 13:00 ET",
-      "xtd_per_game": 0.1889,
+      "xtd_per_game": 0.1888,
       "inside_10_opportunities": 1,
       "end_zone_targets": 1,
       "tds_last_10": 1,
@@ -5074,7 +5074,7 @@
       "position": "WR",
       "opponent": "vs TB",
       "kickoff": "Sunday 13:00 ET",
-      "xtd_per_game": 0.1889,
+      "xtd_per_game": 0.1888,
       "inside_10_opportunities": 3,
       "end_zone_targets": 3,
       "tds_last_10": 2,
@@ -5103,7 +5103,7 @@
       "position": "TE",
       "opponent": "vs ATL",
       "kickoff": "Sunday 13:00 ET",
-      "xtd_per_game": 0.1889,
+      "xtd_per_game": 0.1888,
       "inside_10_opportunities": 3,
       "end_zone_targets": 2,
       "tds_last_10": 2,
@@ -5132,7 +5132,7 @@
       "position": "RB",
       "opponent": "vs BUF",
       "kickoff": "Sunday 13:00 ET",
-      "xtd_per_game": 0.1869,
+      "xtd_per_game": 0.1868,
       "inside_10_opportunities": 5,
       "end_zone_targets": 0,
       "tds_last_10": 1,
@@ -5147,7 +5147,7 @@
       "xtd_contribution": {
         "end_zone_targets": 0.0288,
         "inside_10_carries": 0.1159,
-        "inside_10_targets": 0.0422
+        "inside_10_targets": 0.0421
       },
       "injury_flag": "",
       "flags": []
@@ -5161,7 +5161,7 @@
       "position": "RB",
       "opponent": "@ LAC",
       "kickoff": "Sunday 16:25 ET",
-      "xtd_per_game": 0.1863,
+      "xtd_per_game": 0.1862,
       "inside_10_opportunities": 6,
       "end_zone_targets": 0,
       "tds_last_10": 1,
@@ -5171,10 +5171,10 @@
       "goal_line_carries": 0,
       "games_played": 11,
       "end_zone_targets_pg": 0.0569,
-      "inside_10_carries_pg": 0.3365,
+      "inside_10_carries_pg": 0.3364,
       "inside_10_targets_pg": 0.2556,
       "xtd_contribution": {
-        "end_zone_targets": 0.0231,
+        "end_zone_targets": 0.023,
         "inside_10_carries": 0.0927,
         "inside_10_targets": 0.0705
       },
@@ -5200,7 +5200,7 @@
       "goal_line_carries": 0,
       "games_played": 17,
       "end_zone_targets_pg": 0.0406,
-      "inside_10_carries_pg": 0.5261,
+      "inside_10_carries_pg": 0.526,
       "inside_10_targets_pg": 0.0873,
       "xtd_contribution": {
         "end_zone_targets": 0.0165,
@@ -5230,9 +5230,9 @@
       "games_played": 17,
       "end_zone_targets_pg": 0.1359,
       "inside_10_carries_pg": 0.0975,
-      "inside_10_targets_pg": 0.3731,
+      "inside_10_targets_pg": 0.373,
       "xtd_contribution": {
-        "end_zone_targets": 0.0551,
+        "end_zone_targets": 0.055,
         "inside_10_carries": 0.0269,
         "inside_10_targets": 0.1029
       },
@@ -5261,7 +5261,7 @@
       "inside_10_carries_pg": 0.0582,
       "inside_10_targets_pg": 0.213,
       "xtd_contribution": {
-        "end_zone_targets": 0.1093,
+        "end_zone_targets": 0.1092,
         "inside_10_carries": 0.016,
         "inside_10_targets": 0.0587
       },
@@ -5316,7 +5316,7 @@
       "goal_line_carries": 0,
       "games_played": 12,
       "end_zone_targets_pg": 0.2408,
-      "inside_10_carries_pg": 0.0655,
+      "inside_10_carries_pg": 0.0654,
       "inside_10_targets_pg": 0.2396,
       "xtd_contribution": {
         "end_zone_targets": 0.0976,
@@ -5344,8 +5344,8 @@
       "inside_10_carries": 0,
       "goal_line_carries": 0,
       "games_played": 16,
-      "end_zone_targets_pg": 0.0427,
-      "inside_10_carries_pg": 0.4524,
+      "end_zone_targets_pg": 0.0426,
+      "inside_10_carries_pg": 0.4523,
       "inside_10_targets_pg": 0.1417,
       "xtd_contribution": {
         "end_zone_targets": 0.0173,
@@ -5364,7 +5364,7 @@
       "position": "QB",
       "opponent": "@ NYG",
       "kickoff": "Sunday 20:20 ET",
-      "xtd_per_game": 0.181,
+      "xtd_per_game": 0.1809,
       "inside_10_opportunities": 8,
       "end_zone_targets": 0,
       "tds_last_10": 1,
@@ -5373,8 +5373,8 @@
       "inside_10_carries": 0,
       "goal_line_carries": 0,
       "games_played": 16,
-      "end_zone_targets_pg": 0.0427,
-      "inside_10_carries_pg": 0.5524,
+      "end_zone_targets_pg": 0.0426,
+      "inside_10_carries_pg": 0.5523,
       "inside_10_targets_pg": 0.0417,
       "xtd_contribution": {
         "end_zone_targets": 0.0173,
@@ -5433,7 +5433,7 @@
       "games_played": 13,
       "end_zone_targets_pg": 0.0502,
       "inside_10_carries_pg": 0.5322,
-      "inside_10_targets_pg": 0.0491,
+      "inside_10_targets_pg": 0.049,
       "xtd_contribution": {
         "end_zone_targets": 0.0203,
         "inside_10_carries": 0.1466,
@@ -5451,7 +5451,7 @@
       "position": "RB",
       "opponent": "@ HOU",
       "kickoff": "Sunday 13:00 ET",
-      "xtd_per_game": 0.1799,
+      "xtd_per_game": 0.1798,
       "inside_10_opportunities": 6,
       "end_zone_targets": 0,
       "tds_last_10": 2,
@@ -5460,9 +5460,9 @@
       "inside_10_carries": 0,
       "goal_line_carries": 0,
       "games_played": 10,
-      "end_zone_targets_pg": 0.061,
+      "end_zone_targets_pg": 0.0609,
       "inside_10_carries_pg": 0.2891,
-      "inside_10_targets_pg": 0.2739,
+      "inside_10_targets_pg": 0.2738,
       "xtd_contribution": {
         "end_zone_targets": 0.0247,
         "inside_10_carries": 0.0796,
@@ -5489,9 +5489,9 @@
       "inside_10_carries": 0,
       "goal_line_carries": 0,
       "games_played": 10,
-      "end_zone_targets_pg": 0.061,
-      "inside_10_carries_pg": 0.5034,
-      "inside_10_targets_pg": 0.0596,
+      "end_zone_targets_pg": 0.0609,
+      "inside_10_carries_pg": 0.5033,
+      "inside_10_targets_pg": 0.0595,
       "xtd_contribution": {
         "end_zone_targets": 0.0247,
         "inside_10_carries": 0.1387,
@@ -5524,71 +5524,13 @@
       "xtd_contribution": {
         "end_zone_targets": 0.068,
         "inside_10_carries": 0.017,
-        "inside_10_targets": 0.0947
+        "inside_10_targets": 0.0946
       },
       "injury_flag": "",
       "flags": []
     },
     {
       "rank": 190,
-      "player_id": "00-0040179",
-      "player_name": "D.Giddens",
-      "player_full_name": "DJ Giddens",
-      "team": "IND",
-      "position": "RB",
-      "opponent": "vs BAL",
-      "kickoff": "Sunday 13:00 ET",
-      "xtd_per_game": 0.177,
-      "inside_10_opportunities": 2,
-      "end_zone_targets": 0,
-      "tds_last_10": 0,
-      "window_games": 10,
-      "inside_10_targets": 0,
-      "inside_10_carries": 0,
-      "goal_line_carries": 0,
-      "games_played": 4,
-      "end_zone_targets_pg": 0.1067,
-      "inside_10_carries_pg": 0.2559,
-      "inside_10_targets_pg": 0.2293,
-      "xtd_contribution": {
-        "end_zone_targets": 0.0432,
-        "inside_10_carries": 0.0705,
-        "inside_10_targets": 0.0632
-      },
-      "injury_flag": "",
-      "flags": []
-    },
-    {
-      "rank": 191,
-      "player_id": "00-0039405",
-      "player_name": "J.Jordan",
-      "player_full_name": "Jawhar Jordan",
-      "team": "HOU",
-      "position": "RB",
-      "opponent": "vs BUF",
-      "kickoff": "Sunday 13:00 ET",
-      "xtd_per_game": 0.1769,
-      "inside_10_opportunities": 2,
-      "end_zone_targets": 0,
-      "tds_last_10": 0,
-      "window_games": 10,
-      "inside_10_targets": 0,
-      "inside_10_carries": 0,
-      "goal_line_carries": 0,
-      "games_played": 4,
-      "end_zone_targets_pg": 0.1067,
-      "inside_10_carries_pg": 0.3809,
-      "inside_10_targets_pg": 0.1043,
-      "xtd_contribution": {
-        "end_zone_targets": 0.0432,
-        "inside_10_carries": 0.1049,
-        "inside_10_targets": 0.0288
-      },
-      "injury_flag": "",
-      "flags": []
-    },
-    {
-      "rank": 192,
       "player_id": "00-0039921",
       "player_name": "T.Benson",
       "player_full_name": "Trey Benson",
@@ -5605,13 +5547,71 @@
       "inside_10_carries": 0,
       "goal_line_carries": 0,
       "games_played": 4,
-      "end_zone_targets_pg": 0.1067,
-      "inside_10_carries_pg": 0.3809,
-      "inside_10_targets_pg": 0.1043,
+      "end_zone_targets_pg": 0.1066,
+      "inside_10_carries_pg": 0.3808,
+      "inside_10_targets_pg": 0.1042,
       "xtd_contribution": {
         "end_zone_targets": 0.0432,
         "inside_10_carries": 0.1049,
-        "inside_10_targets": 0.0288
+        "inside_10_targets": 0.0287
+      },
+      "injury_flag": "",
+      "flags": []
+    },
+    {
+      "rank": 191,
+      "player_id": "00-0040179",
+      "player_name": "D.Giddens",
+      "player_full_name": "DJ Giddens",
+      "team": "IND",
+      "position": "RB",
+      "opponent": "vs BAL",
+      "kickoff": "Sunday 13:00 ET",
+      "xtd_per_game": 0.1769,
+      "inside_10_opportunities": 2,
+      "end_zone_targets": 0,
+      "tds_last_10": 0,
+      "window_games": 10,
+      "inside_10_targets": 0,
+      "inside_10_carries": 0,
+      "goal_line_carries": 0,
+      "games_played": 4,
+      "end_zone_targets_pg": 0.1066,
+      "inside_10_carries_pg": 0.2558,
+      "inside_10_targets_pg": 0.2292,
+      "xtd_contribution": {
+        "end_zone_targets": 0.0432,
+        "inside_10_carries": 0.0705,
+        "inside_10_targets": 0.0632
+      },
+      "injury_flag": "",
+      "flags": []
+    },
+    {
+      "rank": 192,
+      "player_id": "00-0039405",
+      "player_name": "J.Jordan",
+      "player_full_name": "Jawhar Jordan",
+      "team": "HOU",
+      "position": "RB",
+      "opponent": "vs BUF",
+      "kickoff": "Sunday 13:00 ET",
+      "xtd_per_game": 0.1769,
+      "inside_10_opportunities": 2,
+      "end_zone_targets": 0,
+      "tds_last_10": 0,
+      "window_games": 10,
+      "inside_10_targets": 0,
+      "inside_10_carries": 0,
+      "goal_line_carries": 0,
+      "games_played": 4,
+      "end_zone_targets_pg": 0.1066,
+      "inside_10_carries_pg": 0.3808,
+      "inside_10_targets_pg": 0.1042,
+      "xtd_contribution": {
+        "end_zone_targets": 0.0432,
+        "inside_10_carries": 0.1049,
+        "inside_10_targets": 0.0287
       },
       "injury_flag": "",
       "flags": []
@@ -5698,7 +5698,7 @@
       "xtd_contribution": {
         "end_zone_targets": 0.1035,
         "inside_10_carries": 0.0152,
-        "inside_10_targets": 0.0557
+        "inside_10_targets": 0.0556
       },
       "injury_flag": "",
       "flags": []
@@ -5722,10 +5722,10 @@
       "goal_line_carries": 0,
       "games_played": 12,
       "end_zone_targets_pg": 0.1783,
-      "inside_10_carries_pg": 0.0655,
+      "inside_10_carries_pg": 0.0654,
       "inside_10_targets_pg": 0.3021,
       "xtd_contribution": {
-        "end_zone_targets": 0.0723,
+        "end_zone_targets": 0.0722,
         "inside_10_carries": 0.018,
         "inside_10_targets": 0.0833
       },
@@ -5734,35 +5734,6 @@
     },
     {
       "rank": 197,
-      "player_id": "00-0038997",
-      "player_name": "J.Downs",
-      "player_full_name": "Josh Downs",
-      "team": "IND",
-      "position": "WR",
-      "opponent": "vs BAL",
-      "kickoff": "Sunday 13:00 ET",
-      "xtd_per_game": 0.173,
-      "inside_10_opportunities": 4,
-      "end_zone_targets": 1,
-      "tds_last_10": 3,
-      "window_games": 10,
-      "inside_10_targets": 0,
-      "inside_10_carries": 0,
-      "goal_line_carries": 0,
-      "games_played": 16,
-      "end_zone_targets_pg": 0.1927,
-      "inside_10_carries_pg": 0.0524,
-      "inside_10_targets_pg": 0.2917,
-      "xtd_contribution": {
-        "end_zone_targets": 0.0781,
-        "inside_10_carries": 0.0144,
-        "inside_10_targets": 0.0805
-      },
-      "injury_flag": "",
-      "flags": []
-    },
-    {
-      "rank": 198,
       "player_id": "00-0040663",
       "player_name": "H.Fannin",
       "player_full_name": "Harold Fannin Jr.",
@@ -5779,13 +5750,42 @@
       "inside_10_carries": 0,
       "goal_line_carries": 0,
       "games_played": 16,
-      "end_zone_targets_pg": 0.1927,
-      "inside_10_carries_pg": 0.1024,
+      "end_zone_targets_pg": 0.1926,
+      "inside_10_carries_pg": 0.1023,
       "inside_10_targets_pg": 0.2417,
       "xtd_contribution": {
         "end_zone_targets": 0.0781,
         "inside_10_carries": 0.0282,
         "inside_10_targets": 0.0667
+      },
+      "injury_flag": "",
+      "flags": []
+    },
+    {
+      "rank": 198,
+      "player_id": "00-0038997",
+      "player_name": "J.Downs",
+      "player_full_name": "Josh Downs",
+      "team": "IND",
+      "position": "WR",
+      "opponent": "vs BAL",
+      "kickoff": "Sunday 13:00 ET",
+      "xtd_per_game": 0.1729,
+      "inside_10_opportunities": 4,
+      "end_zone_targets": 1,
+      "tds_last_10": 3,
+      "window_games": 10,
+      "inside_10_targets": 0,
+      "inside_10_carries": 0,
+      "goal_line_carries": 0,
+      "games_played": 16,
+      "end_zone_targets_pg": 0.1926,
+      "inside_10_carries_pg": 0.0523,
+      "inside_10_targets_pg": 0.2917,
+      "xtd_contribution": {
+        "end_zone_targets": 0.0781,
+        "inside_10_carries": 0.0144,
+        "inside_10_targets": 0.0804
       },
       "injury_flag": "",
       "flags": []
@@ -5808,8 +5808,8 @@
       "inside_10_carries": 0,
       "goal_line_carries": 0,
       "games_played": 16,
-      "end_zone_targets_pg": 0.2927,
-      "inside_10_carries_pg": 0.0524,
+      "end_zone_targets_pg": 0.2926,
+      "inside_10_carries_pg": 0.0523,
       "inside_10_targets_pg": 0.1417,
       "xtd_contribution": {
         "end_zone_targets": 0.1186,
@@ -5837,7 +5837,7 @@
       "inside_10_carries": 0,
       "goal_line_carries": 0,
       "games_played": 13,
-      "end_zone_targets_pg": 0.2267,
+      "end_zone_targets_pg": 0.2266,
       "inside_10_carries_pg": 0.0616,
       "inside_10_targets_pg": 0.2255,
       "xtd_contribution": {
@@ -5857,7 +5857,7 @@
       "position": "QB",
       "opponent": "vs NYJ",
       "kickoff": "Sunday 13:00 ET",
-      "xtd_per_game": 0.1705,
+      "xtd_per_game": 0.1704,
       "inside_10_opportunities": 4,
       "end_zone_targets": 0,
       "tds_last_10": 2,
@@ -5886,7 +5886,7 @@
       "position": "TE",
       "opponent": "vs BUF",
       "kickoff": "Sunday 13:00 ET",
-      "xtd_per_game": 0.1692,
+      "xtd_per_game": 0.1691,
       "inside_10_opportunities": 3,
       "end_zone_targets": 0,
       "tds_last_10": 0,
@@ -5915,7 +5915,7 @@
       "position": "RB",
       "opponent": "vs CHI",
       "kickoff": "Sunday 13:00 ET",
-      "xtd_per_game": 0.1691,
+      "xtd_per_game": 0.169,
       "inside_10_opportunities": 3,
       "end_zone_targets": 0,
       "tds_last_10": 0,
@@ -5984,7 +5984,7 @@
       "games_played": 15,
       "end_zone_targets_pg": 0.2028,
       "inside_10_carries_pg": 0.0551,
-      "inside_10_targets_pg": 0.2545,
+      "inside_10_targets_pg": 0.2544,
       "xtd_contribution": {
         "end_zone_targets": 0.0822,
         "inside_10_carries": 0.0152,
@@ -6011,8 +6011,8 @@
       "inside_10_carries": 0,
       "goal_line_carries": 0,
       "games_played": 16,
-      "end_zone_targets_pg": 0.0427,
-      "inside_10_carries_pg": 0.5024,
+      "end_zone_targets_pg": 0.0426,
+      "inside_10_carries_pg": 0.5023,
       "inside_10_targets_pg": 0.0417,
       "xtd_contribution": {
         "end_zone_targets": 0.0173,
@@ -6024,64 +6024,6 @@
     },
     {
       "rank": 207,
-      "player_id": "00-0036290",
-      "player_name": "C.Kmet",
-      "player_full_name": "Cole Kmet",
-      "team": "CHI",
-      "position": "TE",
-      "opponent": "@ CAR",
-      "kickoff": "Sunday 13:00 ET",
-      "xtd_per_game": 0.1656,
-      "inside_10_opportunities": 2,
-      "end_zone_targets": 2,
-      "tds_last_10": 1,
-      "window_games": 10,
-      "inside_10_targets": 0,
-      "inside_10_carries": 0,
-      "goal_line_carries": 0,
-      "games_played": 16,
-      "end_zone_targets_pg": 0.2427,
-      "inside_10_carries_pg": 0.0524,
-      "inside_10_targets_pg": 0.1917,
-      "xtd_contribution": {
-        "end_zone_targets": 0.0983,
-        "inside_10_carries": 0.0144,
-        "inside_10_targets": 0.0529
-      },
-      "injury_flag": "",
-      "flags": []
-    },
-    {
-      "rank": 208,
-      "player_id": "00-0036754",
-      "player_name": "B.Wright",
-      "player_full_name": "Brock Wright",
-      "team": "DET",
-      "position": "TE",
-      "opponent": "vs NO",
-      "kickoff": "Sunday 13:00 ET",
-      "xtd_per_game": 0.1656,
-      "inside_10_opportunities": 2,
-      "end_zone_targets": 1,
-      "tds_last_10": 2,
-      "window_games": 10,
-      "inside_10_targets": 0,
-      "inside_10_carries": 0,
-      "goal_line_carries": 0,
-      "games_played": 7,
-      "end_zone_targets_pg": 0.1685,
-      "inside_10_carries_pg": 0.0952,
-      "inside_10_targets_pg": 0.2577,
-      "xtd_contribution": {
-        "end_zone_targets": 0.0683,
-        "inside_10_carries": 0.0262,
-        "inside_10_targets": 0.0711
-      },
-      "injury_flag": "",
-      "flags": []
-    },
-    {
-      "rank": 209,
       "player_id": "00-0040584",
       "player_name": "G.Helm",
       "player_full_name": "Gunnar Helm",
@@ -6098,13 +6040,71 @@
       "inside_10_carries": 0,
       "goal_line_carries": 0,
       "games_played": 16,
-      "end_zone_targets_pg": 0.2427,
-      "inside_10_carries_pg": 0.0524,
+      "end_zone_targets_pg": 0.2426,
+      "inside_10_carries_pg": 0.0523,
       "inside_10_targets_pg": 0.1917,
       "xtd_contribution": {
         "end_zone_targets": 0.0983,
         "inside_10_carries": 0.0144,
         "inside_10_targets": 0.0529
+      },
+      "injury_flag": "",
+      "flags": []
+    },
+    {
+      "rank": 208,
+      "player_id": "00-0036290",
+      "player_name": "C.Kmet",
+      "player_full_name": "Cole Kmet",
+      "team": "CHI",
+      "position": "TE",
+      "opponent": "@ CAR",
+      "kickoff": "Sunday 13:00 ET",
+      "xtd_per_game": 0.1656,
+      "inside_10_opportunities": 2,
+      "end_zone_targets": 2,
+      "tds_last_10": 1,
+      "window_games": 10,
+      "inside_10_targets": 0,
+      "inside_10_carries": 0,
+      "goal_line_carries": 0,
+      "games_played": 16,
+      "end_zone_targets_pg": 0.2426,
+      "inside_10_carries_pg": 0.0523,
+      "inside_10_targets_pg": 0.1917,
+      "xtd_contribution": {
+        "end_zone_targets": 0.0983,
+        "inside_10_carries": 0.0144,
+        "inside_10_targets": 0.0529
+      },
+      "injury_flag": "",
+      "flags": []
+    },
+    {
+      "rank": 209,
+      "player_id": "00-0036754",
+      "player_name": "B.Wright",
+      "player_full_name": "Brock Wright",
+      "team": "DET",
+      "position": "TE",
+      "opponent": "vs NO",
+      "kickoff": "Sunday 13:00 ET",
+      "xtd_per_game": 0.1655,
+      "inside_10_opportunities": 2,
+      "end_zone_targets": 1,
+      "tds_last_10": 2,
+      "window_games": 10,
+      "inside_10_targets": 0,
+      "inside_10_carries": 0,
+      "goal_line_carries": 0,
+      "games_played": 7,
+      "end_zone_targets_pg": 0.1684,
+      "inside_10_carries_pg": 0.0952,
+      "inside_10_targets_pg": 0.2576,
+      "xtd_contribution": {
+        "end_zone_targets": 0.0683,
+        "inside_10_carries": 0.0262,
+        "inside_10_targets": 0.071
       },
       "injury_flag": "",
       "flags": []
@@ -6127,7 +6127,7 @@
       "inside_10_carries": 0,
       "goal_line_carries": 0,
       "games_played": 17,
-      "end_zone_targets_pg": 0.0883,
+      "end_zone_targets_pg": 0.0882,
       "inside_10_carries_pg": 0.3832,
       "inside_10_targets_pg": 0.0873,
       "xtd_contribution": {
@@ -6147,7 +6147,7 @@
       "position": "WR",
       "opponent": "@ HOU",
       "kickoff": "Sunday 13:00 ET",
-      "xtd_per_game": 0.1645,
+      "xtd_per_game": 0.1644,
       "inside_10_opportunities": 2,
       "end_zone_targets": 2,
       "tds_last_10": 0,
@@ -6157,12 +6157,12 @@
       "goal_line_carries": 0,
       "games_played": 12,
       "end_zone_targets_pg": 0.2408,
-      "inside_10_carries_pg": 0.0655,
+      "inside_10_carries_pg": 0.0654,
       "inside_10_targets_pg": 0.1771,
       "xtd_contribution": {
         "end_zone_targets": 0.0976,
         "inside_10_carries": 0.018,
-        "inside_10_targets": 0.0489
+        "inside_10_targets": 0.0488
       },
       "injury_flag": "",
       "flags": []
@@ -6216,7 +6216,7 @@
       "games_played": 13,
       "end_zone_targets_pg": 0.1678,
       "inside_10_carries_pg": 0.0616,
-      "inside_10_targets_pg": 0.2844,
+      "inside_10_targets_pg": 0.2843,
       "xtd_contribution": {
         "end_zone_targets": 0.068,
         "inside_10_carries": 0.017,
@@ -6243,8 +6243,8 @@
       "inside_10_carries": 0,
       "goal_line_carries": 0,
       "games_played": 9,
-      "end_zone_targets_pg": 0.1426,
-      "inside_10_carries_pg": 0.0806,
+      "end_zone_targets_pg": 0.1425,
+      "inside_10_carries_pg": 0.0805,
       "inside_10_targets_pg": 0.2949,
       "xtd_contribution": {
         "end_zone_targets": 0.0578,
@@ -6273,7 +6273,7 @@
       "goal_line_carries": 0,
       "games_played": 12,
       "end_zone_targets_pg": 0.0533,
-      "inside_10_carries_pg": 0.4405,
+      "inside_10_carries_pg": 0.4404,
       "inside_10_targets_pg": 0.0521,
       "xtd_contribution": {
         "end_zone_targets": 0.0216,
@@ -6292,7 +6292,7 @@
       "position": "QB",
       "opponent": "@ LAC",
       "kickoff": "Sunday 16:25 ET",
-      "xtd_per_game": 0.1573,
+      "xtd_per_game": 0.1572,
       "inside_10_opportunities": 2,
       "end_zone_targets": 0,
       "tds_last_10": 1,
@@ -6302,12 +6302,12 @@
       "goal_line_carries": 0,
       "games_played": 5,
       "end_zone_targets_pg": 0.0948,
-      "inside_10_carries_pg": 0.3386,
-      "inside_10_targets_pg": 0.0927,
+      "inside_10_carries_pg": 0.3385,
+      "inside_10_targets_pg": 0.0926,
       "xtd_contribution": {
         "end_zone_targets": 0.0384,
         "inside_10_carries": 0.0933,
-        "inside_10_targets": 0.0256
+        "inside_10_targets": 0.0255
       },
       "injury_flag": "",
       "flags": []
@@ -6321,7 +6321,7 @@
       "position": "RB",
       "opponent": "@ NYG",
       "kickoff": "Sunday 20:20 ET",
-      "xtd_per_game": 0.1573,
+      "xtd_per_game": 0.1572,
       "inside_10_opportunities": 2,
       "end_zone_targets": 0,
       "tds_last_10": 1,
@@ -6331,12 +6331,12 @@
       "goal_line_carries": 0,
       "games_played": 5,
       "end_zone_targets_pg": 0.0948,
-      "inside_10_carries_pg": 0.3386,
-      "inside_10_targets_pg": 0.0927,
+      "inside_10_carries_pg": 0.3385,
+      "inside_10_targets_pg": 0.0926,
       "xtd_contribution": {
         "end_zone_targets": 0.0384,
         "inside_10_carries": 0.0933,
-        "inside_10_targets": 0.0256
+        "inside_10_targets": 0.0255
       },
       "injury_flag": "",
       "flags": []
@@ -6360,10 +6360,10 @@
       "goal_line_carries": 0,
       "games_played": 12,
       "end_zone_targets_pg": 0.1783,
-      "inside_10_carries_pg": 0.0655,
+      "inside_10_carries_pg": 0.0654,
       "inside_10_targets_pg": 0.2396,
       "xtd_contribution": {
-        "end_zone_targets": 0.0723,
+        "end_zone_targets": 0.0722,
         "inside_10_carries": 0.018,
         "inside_10_targets": 0.0661
       },
@@ -6388,7 +6388,7 @@
       "inside_10_carries": 0,
       "goal_line_carries": 0,
       "games_played": 7,
-      "end_zone_targets_pg": 0.0776,
+      "end_zone_targets_pg": 0.0775,
       "inside_10_carries_pg": 0.3679,
       "inside_10_targets_pg": 0.0758,
       "xtd_contribution": {
@@ -6408,7 +6408,7 @@
       "position": "QB",
       "opponent": "vs GB",
       "kickoff": "Sunday 16:25 ET",
-      "xtd_per_game": 0.1513,
+      "xtd_per_game": 0.1512,
       "inside_10_opportunities": 4,
       "end_zone_targets": 0,
       "tds_last_10": 4,
@@ -6418,8 +6418,8 @@
       "goal_line_carries": 0,
       "games_played": 9,
       "end_zone_targets_pg": 0.0656,
-      "inside_10_carries_pg": 0.3883,
-      "inside_10_targets_pg": 0.0642,
+      "inside_10_carries_pg": 0.3882,
+      "inside_10_targets_pg": 0.0641,
       "xtd_contribution": {
         "end_zone_targets": 0.0266,
         "inside_10_carries": 0.107,
@@ -6437,7 +6437,7 @@
       "position": "RB",
       "opponent": "@ NYG",
       "kickoff": "Sunday 20:20 ET",
-      "xtd_per_game": 0.1513,
+      "xtd_per_game": 0.1512,
       "inside_10_opportunities": 4,
       "end_zone_targets": 0,
       "tds_last_10": 2,
@@ -6447,8 +6447,8 @@
       "goal_line_carries": 0,
       "games_played": 9,
       "end_zone_targets_pg": 0.0656,
-      "inside_10_carries_pg": 0.3883,
-      "inside_10_targets_pg": 0.0642,
+      "inside_10_carries_pg": 0.3882,
+      "inside_10_targets_pg": 0.0641,
       "xtd_contribution": {
         "end_zone_targets": 0.0266,
         "inside_10_carries": 0.107,
@@ -6526,10 +6526,10 @@
       "kickoff": "Thursday 20:35 ET",
       "xtd_per_game": 0.1462,
       "inside_10_opportunities": 1,
-      "end_zone_targets": 1,
-      "tds_last_10": 1,
+      "end_zone_targets": 3,
+      "tds_last_10": 2,
       "window_games": 10,
-      "inside_10_targets": 0,
+      "inside_10_targets": 1,
       "inside_10_carries": 0,
       "goal_line_carries": 0,
       "games_played": 14,
@@ -6563,12 +6563,12 @@
       "goal_line_carries": 0,
       "games_played": 15,
       "end_zone_targets_pg": 0.1502,
-      "inside_10_carries_pg": 0.1078,
+      "inside_10_carries_pg": 0.1077,
       "inside_10_targets_pg": 0.2018,
       "xtd_contribution": {
-        "end_zone_targets": 0.0609,
+        "end_zone_targets": 0.0608,
         "inside_10_carries": 0.0297,
-        "inside_10_targets": 0.0557
+        "inside_10_targets": 0.0556
       },
       "injury_flag": "",
       "flags": []
@@ -6591,8 +6591,8 @@
       "inside_10_carries": 0,
       "goal_line_carries": 0,
       "games_played": 16,
-      "end_zone_targets_pg": 0.0927,
-      "inside_10_carries_pg": 0.0524,
+      "end_zone_targets_pg": 0.0926,
+      "inside_10_carries_pg": 0.0523,
       "inside_10_targets_pg": 0.3417,
       "xtd_contribution": {
         "end_zone_targets": 0.0375,
@@ -6625,7 +6625,7 @@
       "inside_10_targets_pg": 0.0834,
       "xtd_contribution": {
         "end_zone_targets": 0.0346,
-        "inside_10_carries": 0.084,
+        "inside_10_carries": 0.0839,
         "inside_10_targets": 0.023
       },
       "injury_flag": "",
@@ -6640,7 +6640,7 @@
       "position": "RB",
       "opponent": "@ KC",
       "kickoff": "Monday 20:15 ET",
-      "xtd_per_game": 0.141,
+      "xtd_per_game": 0.1409,
       "inside_10_opportunities": 3,
       "end_zone_targets": 0,
       "tds_last_10": 0,
@@ -6651,7 +6651,7 @@
       "games_played": 8,
       "end_zone_targets_pg": 0.0711,
       "inside_10_carries_pg": 0.1706,
-      "inside_10_targets_pg": 0.2362,
+      "inside_10_targets_pg": 0.2361,
       "xtd_contribution": {
         "end_zone_targets": 0.0288,
         "inside_10_carries": 0.047,
@@ -6662,24 +6662,24 @@
     },
     {
       "rank": 229,
-      "player_id": "00-0036887",
-      "player_name": "L.Farrell",
-      "player_full_name": "Luke Farrell",
-      "team": "SF",
+      "player_id": "00-0036628",
+      "player_name": "J.Bates",
+      "player_full_name": "John Bates",
+      "team": "WAS",
       "position": "TE",
-      "opponent": "@ LA",
-      "kickoff": "Thursday 20:35 ET",
+      "opponent": "@ PHI",
+      "kickoff": "Sunday 16:25 ET",
       "xtd_per_game": 0.1401,
       "inside_10_opportunities": 2,
       "end_zone_targets": 1,
-      "tds_last_10": 2,
+      "tds_last_10": 1,
       "window_games": 10,
       "inside_10_targets": 0,
       "inside_10_carries": 0,
       "goal_line_carries": 0,
       "games_played": 9,
-      "end_zone_targets_pg": 0.1426,
-      "inside_10_carries_pg": 0.0806,
+      "end_zone_targets_pg": 0.1425,
+      "inside_10_carries_pg": 0.0805,
       "inside_10_targets_pg": 0.218,
       "xtd_contribution": {
         "end_zone_targets": 0.0578,
@@ -6708,7 +6708,7 @@
       "goal_line_carries": 0,
       "games_played": 12,
       "end_zone_targets_pg": 0.0533,
-      "inside_10_carries_pg": 0.378,
+      "inside_10_carries_pg": 0.3779,
       "inside_10_targets_pg": 0.0521,
       "xtd_contribution": {
         "end_zone_targets": 0.0216,
@@ -6720,24 +6720,24 @@
     },
     {
       "rank": 231,
-      "player_id": "00-0036628",
-      "player_name": "J.Bates",
-      "player_full_name": "John Bates",
-      "team": "WAS",
+      "player_id": "00-0036887",
+      "player_name": "L.Farrell",
+      "player_full_name": "Luke Farrell",
+      "team": "SF",
       "position": "TE",
-      "opponent": "@ PHI",
-      "kickoff": "Sunday 16:25 ET",
-      "xtd_per_game": 0.1401,
+      "opponent": "@ LA",
+      "kickoff": "Thursday 20:35 ET",
+      "xtd_per_game": 0.14,
       "inside_10_opportunities": 2,
       "end_zone_targets": 1,
-      "tds_last_10": 1,
+      "tds_last_10": 2,
       "window_games": 10,
       "inside_10_targets": 0,
       "inside_10_carries": 0,
       "goal_line_carries": 0,
       "games_played": 9,
-      "end_zone_targets_pg": 0.1426,
-      "inside_10_carries_pg": 0.0806,
+      "end_zone_targets_pg": 0.1425,
+      "inside_10_carries_pg": 0.0805,
       "inside_10_targets_pg": 0.218,
       "xtd_contribution": {
         "end_zone_targets": 0.0578,
@@ -6765,12 +6765,12 @@
       "inside_10_carries": 0,
       "goal_line_carries": 0,
       "games_played": 16,
-      "end_zone_targets_pg": 0.0427,
-      "inside_10_carries_pg": 0.4024,
+      "end_zone_targets_pg": 0.0426,
+      "inside_10_carries_pg": 0.4023,
       "inside_10_targets_pg": 0.0417,
       "xtd_contribution": {
         "end_zone_targets": 0.0173,
-        "inside_10_carries": 0.1109,
+        "inside_10_carries": 0.1108,
         "inside_10_targets": 0.0115
       },
       "injury_flag": "",
@@ -6796,7 +6796,7 @@
       "games_played": 15,
       "end_zone_targets_pg": 0.2028,
       "inside_10_carries_pg": 0.0551,
-      "inside_10_targets_pg": 0.1492,
+      "inside_10_targets_pg": 0.1491,
       "xtd_contribution": {
         "end_zone_targets": 0.0822,
         "inside_10_carries": 0.0152,
@@ -6853,10 +6853,10 @@
       "goal_line_carries": 0,
       "games_played": 17,
       "end_zone_targets_pg": 0.1359,
-      "inside_10_carries_pg": 0.0499,
+      "inside_10_carries_pg": 0.0498,
       "inside_10_targets_pg": 0.2302,
       "xtd_contribution": {
-        "end_zone_targets": 0.0551,
+        "end_zone_targets": 0.055,
         "inside_10_carries": 0.0137,
         "inside_10_targets": 0.0635
       },
@@ -6872,7 +6872,7 @@
       "position": "QB",
       "opponent": "@ IND",
       "kickoff": "Sunday 13:00 ET",
-      "xtd_per_game": 0.1319,
+      "xtd_per_game": 0.1318,
       "inside_10_opportunities": 3,
       "end_zone_targets": 0,
       "tds_last_10": 1,
@@ -6883,7 +6883,7 @@
       "games_played": 13,
       "end_zone_targets_pg": 0.0502,
       "inside_10_carries_pg": 0.3557,
-      "inside_10_targets_pg": 0.0491,
+      "inside_10_targets_pg": 0.049,
       "xtd_contribution": {
         "end_zone_targets": 0.0203,
         "inside_10_carries": 0.098,
@@ -6914,9 +6914,9 @@
       "inside_10_carries_pg": 0.0551,
       "inside_10_targets_pg": 0.2018,
       "xtd_contribution": {
-        "end_zone_targets": 0.0609,
+        "end_zone_targets": 0.0608,
         "inside_10_carries": 0.0152,
-        "inside_10_targets": 0.0557
+        "inside_10_targets": 0.0556
       },
       "injury_flag": "",
       "flags": []
@@ -6930,7 +6930,7 @@
       "position": "TE",
       "opponent": "vs MIA",
       "kickoff": "Sunday 16:25 ET",
-      "xtd_per_game": 0.1311,
+      "xtd_per_game": 0.131,
       "inside_10_opportunities": 2,
       "end_zone_targets": 1,
       "tds_last_10": 1,
@@ -6940,7 +6940,7 @@
       "goal_line_carries": 0,
       "games_played": 12,
       "end_zone_targets_pg": 0.1158,
-      "inside_10_carries_pg": 0.0655,
+      "inside_10_carries_pg": 0.0654,
       "inside_10_targets_pg": 0.2396,
       "xtd_contribution": {
         "end_zone_targets": 0.0469,
@@ -6959,7 +6959,7 @@
       "position": "TE",
       "opponent": "@ TEN",
       "kickoff": "Sunday 13:00 ET",
-      "xtd_per_game": 0.131,
+      "xtd_per_game": 0.1309,
       "inside_10_opportunities": 1,
       "end_zone_targets": 1,
       "tds_last_10": 0,
@@ -6988,7 +6988,7 @@
       "position": "TE",
       "opponent": "@ HOU",
       "kickoff": "Sunday 13:00 ET",
-      "xtd_per_game": 0.131,
+      "xtd_per_game": 0.1309,
       "inside_10_opportunities": 1,
       "end_zone_targets": 1,
       "tds_last_10": 2,
@@ -7046,7 +7046,7 @@
       "position": "QB",
       "opponent": "@ LA",
       "kickoff": "Thursday 20:35 ET",
-      "xtd_per_game": 0.1301,
+      "xtd_per_game": 0.13,
       "inside_10_opportunities": 3,
       "end_zone_targets": 0,
       "tds_last_10": 3,
@@ -7057,7 +7057,7 @@
       "games_played": 9,
       "end_zone_targets_pg": 0.0656,
       "inside_10_carries_pg": 0.3113,
-      "inside_10_targets_pg": 0.0642,
+      "inside_10_targets_pg": 0.0641,
       "xtd_contribution": {
         "end_zone_targets": 0.0266,
         "inside_10_carries": 0.0858,
@@ -7075,7 +7075,7 @@
       "position": "QB",
       "opponent": "@ PIT",
       "kickoff": "Sunday 13:00 ET",
-      "xtd_per_game": 0.1301,
+      "xtd_per_game": 0.13,
       "inside_10_opportunities": 3,
       "end_zone_targets": 0,
       "tds_last_10": 1,
@@ -7086,7 +7086,7 @@
       "games_played": 9,
       "end_zone_targets_pg": 0.0656,
       "inside_10_carries_pg": 0.3113,
-      "inside_10_targets_pg": 0.0642,
+      "inside_10_targets_pg": 0.0641,
       "xtd_contribution": {
         "end_zone_targets": 0.0266,
         "inside_10_carries": 0.0858,
@@ -7104,7 +7104,7 @@
       "position": "RB",
       "opponent": "vs NYJ",
       "kickoff": "Sunday 13:00 ET",
-      "xtd_per_game": 0.1287,
+      "xtd_per_game": 0.1286,
       "inside_10_opportunities": 2,
       "end_zone_targets": 0,
       "tds_last_10": 0,
@@ -7113,7 +7113,7 @@
       "inside_10_carries": 0,
       "goal_line_carries": 0,
       "games_played": 7,
-      "end_zone_targets_pg": 0.0776,
+      "end_zone_targets_pg": 0.0775,
       "inside_10_carries_pg": 0.277,
       "inside_10_targets_pg": 0.0758,
       "xtd_contribution": {
@@ -7133,7 +7133,7 @@
       "position": "RB",
       "opponent": "@ DET",
       "kickoff": "Sunday 13:00 ET",
-      "xtd_per_game": 0.1287,
+      "xtd_per_game": 0.1286,
       "inside_10_opportunities": 2,
       "end_zone_targets": 0,
       "tds_last_10": 1,
@@ -7142,7 +7142,7 @@
       "inside_10_carries": 0,
       "goal_line_carries": 0,
       "games_played": 7,
-      "end_zone_targets_pg": 0.0776,
+      "end_zone_targets_pg": 0.0775,
       "inside_10_carries_pg": 0.277,
       "inside_10_targets_pg": 0.0758,
       "xtd_contribution": {
@@ -7162,7 +7162,7 @@
       "position": "QB",
       "opponent": "vs DEN",
       "kickoff": "Monday 20:15 ET",
-      "xtd_per_game": 0.1246,
+      "xtd_per_game": 0.1245,
       "inside_10_opportunities": 4,
       "end_zone_targets": 0,
       "tds_last_10": 3,
@@ -7172,11 +7172,11 @@
       "goal_line_carries": 0,
       "games_played": 14,
       "end_zone_targets_pg": 0.0474,
-      "inside_10_carries_pg": 0.336,
+      "inside_10_carries_pg": 0.3359,
       "inside_10_targets_pg": 0.0463,
       "xtd_contribution": {
         "end_zone_targets": 0.0192,
-        "inside_10_carries": 0.0926,
+        "inside_10_carries": 0.0925,
         "inside_10_targets": 0.0128
       },
       "injury_flag": "",
@@ -7191,7 +7191,7 @@
       "position": "TE",
       "opponent": "vs NE",
       "kickoff": "Wednesday 20:20 ET",
-      "xtd_per_game": 0.1234,
+      "xtd_per_game": 0.1233,
       "inside_10_opportunities": 3,
       "end_zone_targets": 1,
       "tds_last_10": 1,
@@ -7221,16 +7221,16 @@
       "opponent": "vs SF",
       "kickoff": "Thursday 20:35 ET",
       "xtd_per_game": 0.1229,
-      "inside_10_opportunities": 1,
+      "inside_10_opportunities": 2,
       "end_zone_targets": 0,
       "tds_last_10": 0,
       "window_games": 10,
       "inside_10_targets": 0,
-      "inside_10_carries": 0,
-      "goal_line_carries": 0,
+      "inside_10_carries": 1,
+      "goal_line_carries": 1,
       "games_played": 12,
       "end_zone_targets_pg": 0.0533,
-      "inside_10_carries_pg": 0.3155,
+      "inside_10_carries_pg": 0.3154,
       "inside_10_targets_pg": 0.0521,
       "xtd_contribution": {
         "end_zone_targets": 0.0216,
@@ -7259,7 +7259,7 @@
       "goal_line_carries": 0,
       "games_played": 12,
       "end_zone_targets_pg": 0.0533,
-      "inside_10_carries_pg": 0.3155,
+      "inside_10_carries_pg": 0.3154,
       "inside_10_targets_pg": 0.0521,
       "xtd_contribution": {
         "end_zone_targets": 0.0216,
@@ -7287,7 +7287,7 @@
       "inside_10_carries": 0,
       "goal_line_carries": 0,
       "games_played": 11,
-      "end_zone_targets_pg": 0.1236,
+      "end_zone_targets_pg": 0.1235,
       "inside_10_carries_pg": 0.0698,
       "inside_10_targets_pg": 0.1889,
       "xtd_contribution": {
@@ -7316,7 +7316,7 @@
       "inside_10_carries": 0,
       "goal_line_carries": 0,
       "games_played": 11,
-      "end_zone_targets_pg": 0.1236,
+      "end_zone_targets_pg": 0.1235,
       "inside_10_carries_pg": 0.0698,
       "inside_10_targets_pg": 0.1889,
       "xtd_contribution": {
@@ -7336,7 +7336,7 @@
       "position": "QB",
       "opponent": "@ PHI",
       "kickoff": "Sunday 16:25 ET",
-      "xtd_per_game": 0.1208,
+      "xtd_per_game": 0.1207,
       "inside_10_opportunities": 3,
       "end_zone_targets": 0,
       "tds_last_10": 1,
@@ -7345,9 +7345,9 @@
       "inside_10_carries": 0,
       "goal_line_carries": 0,
       "games_played": 10,
-      "end_zone_targets_pg": 0.061,
+      "end_zone_targets_pg": 0.0609,
       "inside_10_carries_pg": 0.2891,
-      "inside_10_targets_pg": 0.0596,
+      "inside_10_targets_pg": 0.0595,
       "xtd_contribution": {
         "end_zone_targets": 0.0247,
         "inside_10_carries": 0.0796,
@@ -7379,130 +7379,14 @@
       "inside_10_targets_pg": 0.0397,
       "xtd_contribution": {
         "end_zone_targets": 0.0165,
-        "inside_10_carries": 0.0925,
-        "inside_10_targets": 0.011
+        "inside_10_carries": 0.0924,
+        "inside_10_targets": 0.0109
       },
       "injury_flag": "",
       "flags": []
     },
     {
       "rank": 254,
-      "player_id": "00-0039376",
-      "player_name": "S.Rattler",
-      "player_full_name": "Spencer Rattler",
-      "team": "NO",
-      "position": "QB",
-      "opponent": "@ DET",
-      "kickoff": "Sunday 13:00 ET",
-      "xtd_per_game": 0.118,
-      "inside_10_opportunities": 2,
-      "end_zone_targets": 0,
-      "tds_last_10": 0,
-      "window_games": 10,
-      "inside_10_targets": 0,
-      "inside_10_carries": 0,
-      "goal_line_carries": 0,
-      "games_played": 8,
-      "end_zone_targets_pg": 0.0711,
-      "inside_10_carries_pg": 0.1706,
-      "inside_10_targets_pg": 0.1528,
-      "xtd_contribution": {
-        "end_zone_targets": 0.0288,
-        "inside_10_carries": 0.047,
-        "inside_10_targets": 0.0422
-      },
-      "injury_flag": "",
-      "flags": []
-    },
-    {
-      "rank": 255,
-      "player_id": "00-0038794",
-      "player_name": "J.McLaughlin",
-      "player_full_name": "Jaleel McLaughlin",
-      "team": "DEN",
-      "position": "RB",
-      "opponent": "@ KC",
-      "kickoff": "Monday 20:15 ET",
-      "xtd_per_game": 0.118,
-      "inside_10_opportunities": 2,
-      "end_zone_targets": 0,
-      "tds_last_10": 1,
-      "window_games": 10,
-      "inside_10_targets": 0,
-      "inside_10_carries": 0,
-      "goal_line_carries": 0,
-      "games_played": 8,
-      "end_zone_targets_pg": 0.0711,
-      "inside_10_carries_pg": 0.2539,
-      "inside_10_targets_pg": 0.0695,
-      "xtd_contribution": {
-        "end_zone_targets": 0.0288,
-        "inside_10_carries": 0.07,
-        "inside_10_targets": 0.0192
-      },
-      "injury_flag": "",
-      "flags": []
-    },
-    {
-      "rank": 256,
-      "player_id": "00-0039920",
-      "player_name": "M.Corley",
-      "player_full_name": "Malachi Corley",
-      "team": "CLE",
-      "position": "WR",
-      "opponent": "@ JAX",
-      "kickoff": "Sunday 13:00 ET",
-      "xtd_per_game": 0.118,
-      "inside_10_opportunities": 2,
-      "end_zone_targets": 0,
-      "tds_last_10": 0,
-      "window_games": 10,
-      "inside_10_targets": 0,
-      "inside_10_carries": 0,
-      "goal_line_carries": 0,
-      "games_played": 8,
-      "end_zone_targets_pg": 0.0711,
-      "inside_10_carries_pg": 0.1706,
-      "inside_10_targets_pg": 0.1528,
-      "xtd_contribution": {
-        "end_zone_targets": 0.0288,
-        "inside_10_carries": 0.047,
-        "inside_10_targets": 0.0422
-      },
-      "injury_flag": "",
-      "flags": []
-    },
-    {
-      "rank": 257,
-      "player_id": "00-0040668",
-      "player_name": "S.Sanders",
-      "player_full_name": "Shedeur Sanders",
-      "team": "CLE",
-      "position": "QB",
-      "opponent": "@ JAX",
-      "kickoff": "Sunday 13:00 ET",
-      "xtd_per_game": 0.118,
-      "inside_10_opportunities": 2,
-      "end_zone_targets": 0,
-      "tds_last_10": 1,
-      "window_games": 10,
-      "inside_10_targets": 0,
-      "inside_10_carries": 0,
-      "goal_line_carries": 0,
-      "games_played": 8,
-      "end_zone_targets_pg": 0.0711,
-      "inside_10_carries_pg": 0.2539,
-      "inside_10_targets_pg": 0.0695,
-      "xtd_contribution": {
-        "end_zone_targets": 0.0288,
-        "inside_10_carries": 0.07,
-        "inside_10_targets": 0.0192
-      },
-      "injury_flag": "",
-      "flags": []
-    },
-    {
-      "rank": 258,
       "player_id": "00-0037746",
       "player_name": "B.Robinson",
       "player_full_name": "Brian Robinson",
@@ -7531,7 +7415,7 @@
       "flags": []
     },
     {
-      "rank": 259,
+      "rank": 255,
       "player_id": "00-0033955",
       "player_name": "J.McNichols",
       "player_full_name": "Jeremy McNichols",
@@ -7560,6 +7444,122 @@
       "flags": []
     },
     {
+      "rank": 256,
+      "player_id": "00-0039376",
+      "player_name": "S.Rattler",
+      "player_full_name": "Spencer Rattler",
+      "team": "NO",
+      "position": "QB",
+      "opponent": "@ DET",
+      "kickoff": "Sunday 13:00 ET",
+      "xtd_per_game": 0.1179,
+      "inside_10_opportunities": 2,
+      "end_zone_targets": 0,
+      "tds_last_10": 0,
+      "window_games": 10,
+      "inside_10_targets": 0,
+      "inside_10_carries": 0,
+      "goal_line_carries": 0,
+      "games_played": 8,
+      "end_zone_targets_pg": 0.0711,
+      "inside_10_carries_pg": 0.1706,
+      "inside_10_targets_pg": 0.1528,
+      "xtd_contribution": {
+        "end_zone_targets": 0.0288,
+        "inside_10_carries": 0.047,
+        "inside_10_targets": 0.0421
+      },
+      "injury_flag": "",
+      "flags": []
+    },
+    {
+      "rank": 257,
+      "player_id": "00-0038794",
+      "player_name": "J.McLaughlin",
+      "player_full_name": "Jaleel McLaughlin",
+      "team": "DEN",
+      "position": "RB",
+      "opponent": "@ KC",
+      "kickoff": "Monday 20:15 ET",
+      "xtd_per_game": 0.1179,
+      "inside_10_opportunities": 2,
+      "end_zone_targets": 0,
+      "tds_last_10": 1,
+      "window_games": 10,
+      "inside_10_targets": 0,
+      "inside_10_carries": 0,
+      "goal_line_carries": 0,
+      "games_played": 8,
+      "end_zone_targets_pg": 0.0711,
+      "inside_10_carries_pg": 0.2539,
+      "inside_10_targets_pg": 0.0695,
+      "xtd_contribution": {
+        "end_zone_targets": 0.0288,
+        "inside_10_carries": 0.0699,
+        "inside_10_targets": 0.0192
+      },
+      "injury_flag": "",
+      "flags": []
+    },
+    {
+      "rank": 258,
+      "player_id": "00-0039920",
+      "player_name": "M.Corley",
+      "player_full_name": "Malachi Corley",
+      "team": "CLE",
+      "position": "WR",
+      "opponent": "@ JAX",
+      "kickoff": "Sunday 13:00 ET",
+      "xtd_per_game": 0.1179,
+      "inside_10_opportunities": 2,
+      "end_zone_targets": 0,
+      "tds_last_10": 0,
+      "window_games": 10,
+      "inside_10_targets": 0,
+      "inside_10_carries": 0,
+      "goal_line_carries": 0,
+      "games_played": 8,
+      "end_zone_targets_pg": 0.0711,
+      "inside_10_carries_pg": 0.1706,
+      "inside_10_targets_pg": 0.1528,
+      "xtd_contribution": {
+        "end_zone_targets": 0.0288,
+        "inside_10_carries": 0.047,
+        "inside_10_targets": 0.0421
+      },
+      "injury_flag": "",
+      "flags": []
+    },
+    {
+      "rank": 259,
+      "player_id": "00-0040668",
+      "player_name": "S.Sanders",
+      "player_full_name": "Shedeur Sanders",
+      "team": "CLE",
+      "position": "QB",
+      "opponent": "@ JAX",
+      "kickoff": "Sunday 13:00 ET",
+      "xtd_per_game": 0.1179,
+      "inside_10_opportunities": 2,
+      "end_zone_targets": 0,
+      "tds_last_10": 1,
+      "window_games": 10,
+      "inside_10_targets": 0,
+      "inside_10_carries": 0,
+      "goal_line_carries": 0,
+      "games_played": 8,
+      "end_zone_targets_pg": 0.0711,
+      "inside_10_carries_pg": 0.2539,
+      "inside_10_targets_pg": 0.0695,
+      "xtd_contribution": {
+        "end_zone_targets": 0.0288,
+        "inside_10_carries": 0.0699,
+        "inside_10_targets": 0.0192
+      },
+      "injury_flag": "",
+      "flags": []
+    },
+    {
       "rank": 260,
       "player_id": "00-0040202",
       "player_name": "D.Neal",
@@ -7568,7 +7568,7 @@
       "position": "RB",
       "opponent": "@ DET",
       "kickoff": "Sunday 13:00 ET",
-      "xtd_per_game": 0.118,
+      "xtd_per_game": 0.1179,
       "inside_10_opportunities": 2,
       "end_zone_targets": 0,
       "tds_last_10": 2,
@@ -7582,7 +7582,7 @@
       "inside_10_targets_pg": 0.0695,
       "xtd_contribution": {
         "end_zone_targets": 0.0288,
-        "inside_10_carries": 0.07,
+        "inside_10_carries": 0.0699,
         "inside_10_targets": 0.0192
       },
       "injury_flag": "",
@@ -7607,12 +7607,12 @@
       "goal_line_carries": 0,
       "games_played": 12,
       "end_zone_targets_pg": 0.1158,
-      "inside_10_carries_pg": 0.0655,
+      "inside_10_carries_pg": 0.0654,
       "inside_10_targets_pg": 0.1771,
       "xtd_contribution": {
         "end_zone_targets": 0.0469,
         "inside_10_carries": 0.018,
-        "inside_10_targets": 0.0489
+        "inside_10_targets": 0.0488
       },
       "injury_flag": "",
       "flags": []
@@ -7635,8 +7635,8 @@
       "inside_10_carries": 0,
       "goal_line_carries": 0,
       "games_played": 16,
-      "end_zone_targets_pg": 0.0427,
-      "inside_10_carries_pg": 0.3024,
+      "end_zone_targets_pg": 0.0426,
+      "inside_10_carries_pg": 0.3023,
       "inside_10_targets_pg": 0.0417,
       "xtd_contribution": {
         "end_zone_targets": 0.0173,
@@ -7655,7 +7655,7 @@
       "position": "RB",
       "opponent": "@ JAX",
       "kickoff": "Sunday 13:00 ET",
-      "xtd_per_game": 0.1104,
+      "xtd_per_game": 0.1103,
       "inside_10_opportunities": 1,
       "end_zone_targets": 0,
       "tds_last_10": 1,
@@ -7665,8 +7665,8 @@
       "goal_line_carries": 0,
       "games_played": 15,
       "end_zone_targets_pg": 0.0975,
-      "inside_10_carries_pg": 0.1078,
-      "inside_10_targets_pg": 0.1492,
+      "inside_10_carries_pg": 0.1077,
+      "inside_10_targets_pg": 0.1491,
       "xtd_contribution": {
         "end_zone_targets": 0.0395,
         "inside_10_carries": 0.0297,
@@ -7684,7 +7684,7 @@
       "position": "TE",
       "opponent": "vs CHI",
       "kickoff": "Sunday 13:00 ET",
-      "xtd_per_game": 0.1104,
+      "xtd_per_game": 0.1103,
       "inside_10_opportunities": 1,
       "end_zone_targets": 0,
       "tds_last_10": 1,
@@ -7699,7 +7699,7 @@
       "xtd_contribution": {
         "end_zone_targets": 0.0395,
         "inside_10_carries": 0.0152,
-        "inside_10_targets": 0.0557
+        "inside_10_targets": 0.0556
       },
       "injury_flag": "",
       "flags": []
@@ -7713,7 +7713,7 @@
       "position": "TE",
       "opponent": "@ LAC",
       "kickoff": "Sunday 16:25 ET",
-      "xtd_per_game": 0.1104,
+      "xtd_per_game": 0.1103,
       "inside_10_opportunities": 2,
       "end_zone_targets": 0,
       "tds_last_10": 0,
@@ -7728,7 +7728,7 @@
       "xtd_contribution": {
         "end_zone_targets": 0.0395,
         "inside_10_carries": 0.0152,
-        "inside_10_targets": 0.0557
+        "inside_10_targets": 0.0556
       },
       "injury_flag": "",
       "flags": []
@@ -7786,7 +7786,7 @@
       "xtd_contribution": {
         "end_zone_targets": 0.0442,
         "inside_10_carries": 0.0332,
-        "inside_10_targets": 0.0298
+        "inside_10_targets": 0.0297
       },
       "injury_flag": "",
       "flags": []
@@ -7810,7 +7810,7 @@
       "goal_line_carries": 0,
       "games_played": 12,
       "end_zone_targets_pg": 0.0533,
-      "inside_10_carries_pg": 0.0655,
+      "inside_10_carries_pg": 0.0654,
       "inside_10_targets_pg": 0.2396,
       "xtd_contribution": {
         "end_zone_targets": 0.0216,
@@ -7838,9 +7838,9 @@
       "inside_10_carries": 0,
       "goal_line_carries": 0,
       "games_played": 14,
-      "end_zone_targets_pg": 0.103,
+      "end_zone_targets_pg": 0.1029,
       "inside_10_carries_pg": 0.0582,
-      "inside_10_targets_pg": 0.1575,
+      "inside_10_targets_pg": 0.1574,
       "xtd_contribution": {
         "end_zone_targets": 0.0417,
         "inside_10_carries": 0.016,
@@ -7867,7 +7867,7 @@
       "inside_10_carries": 0,
       "goal_line_carries": 0,
       "games_played": 10,
-      "end_zone_targets_pg": 0.061,
+      "end_zone_targets_pg": 0.0609,
       "inside_10_carries_pg": 0.0748,
       "inside_10_targets_pg": 0.2024,
       "xtd_contribution": {
@@ -7887,7 +7887,7 @@
       "position": "TE",
       "opponent": "vs NYJ",
       "kickoff": "Sunday 13:00 ET",
-      "xtd_per_game": 0.0999,
+      "xtd_per_game": 0.0998,
       "inside_10_opportunities": 2,
       "end_zone_targets": 1,
       "tds_last_10": 2,
@@ -7896,13 +7896,13 @@
       "inside_10_carries": 0,
       "goal_line_carries": 0,
       "games_played": 17,
-      "end_zone_targets_pg": 0.0883,
-      "inside_10_carries_pg": 0.0499,
+      "end_zone_targets_pg": 0.0882,
+      "inside_10_carries_pg": 0.0498,
       "inside_10_targets_pg": 0.1826,
       "xtd_contribution": {
         "end_zone_targets": 0.0358,
         "inside_10_carries": 0.0137,
-        "inside_10_targets": 0.0504
+        "inside_10_targets": 0.0503
       },
       "injury_flag": "",
       "flags": []
@@ -7945,7 +7945,7 @@
       "position": "QB",
       "opponent": "vs NO",
       "kickoff": "Sunday 13:00 ET",
-      "xtd_per_game": 0.0944,
+      "xtd_per_game": 0.0943,
       "inside_10_opportunities": 2,
       "end_zone_targets": 0,
       "tds_last_10": 0,
@@ -7955,10 +7955,10 @@
       "goal_line_carries": 0,
       "games_played": 11,
       "end_zone_targets_pg": 0.0569,
-      "inside_10_carries_pg": 0.2032,
+      "inside_10_carries_pg": 0.2031,
       "inside_10_targets_pg": 0.0556,
       "xtd_contribution": {
-        "end_zone_targets": 0.0231,
+        "end_zone_targets": 0.023,
         "inside_10_carries": 0.056,
         "inside_10_targets": 0.0153
       },
@@ -7974,7 +7974,7 @@
       "position": "RB",
       "opponent": "vs BAL",
       "kickoff": "Sunday 13:00 ET",
-      "xtd_per_game": 0.0944,
+      "xtd_per_game": 0.0943,
       "inside_10_opportunities": 0,
       "end_zone_targets": 0,
       "tds_last_10": 0,
@@ -7984,10 +7984,10 @@
       "goal_line_carries": 0,
       "games_played": 11,
       "end_zone_targets_pg": 0.0569,
-      "inside_10_carries_pg": 0.2032,
+      "inside_10_carries_pg": 0.2031,
       "inside_10_targets_pg": 0.0556,
       "xtd_contribution": {
-        "end_zone_targets": 0.0231,
+        "end_zone_targets": 0.023,
         "inside_10_carries": 0.056,
         "inside_10_targets": 0.0153
       },
@@ -8013,7 +8013,7 @@
       "goal_line_carries": 0,
       "games_played": 14,
       "end_zone_targets_pg": 0.0474,
-      "inside_10_carries_pg": 0.2249,
+      "inside_10_carries_pg": 0.2248,
       "inside_10_targets_pg": 0.0463,
       "xtd_contribution": {
         "end_zone_targets": 0.0192,
@@ -8061,7 +8061,7 @@
       "position": "RB",
       "opponent": "@ IND",
       "kickoff": "Sunday 13:00 ET",
-      "xtd_per_game": 0.0885,
+      "xtd_per_game": 0.0884,
       "inside_10_opportunities": 2,
       "end_zone_targets": 0,
       "tds_last_10": 1,
@@ -8071,7 +8071,7 @@
       "goal_line_carries": 0,
       "games_played": 12,
       "end_zone_targets_pg": 0.0533,
-      "inside_10_carries_pg": 0.1905,
+      "inside_10_carries_pg": 0.1904,
       "inside_10_targets_pg": 0.0521,
       "xtd_contribution": {
         "end_zone_targets": 0.0216,
@@ -8090,7 +8090,7 @@
       "position": "RB",
       "opponent": "@ TEN",
       "kickoff": "Sunday 13:00 ET",
-      "xtd_per_game": 0.0833,
+      "xtd_per_game": 0.0832,
       "inside_10_opportunities": 2,
       "end_zone_targets": 0,
       "tds_last_10": 1,
@@ -8105,7 +8105,7 @@
       "xtd_contribution": {
         "end_zone_targets": 0.0203,
         "inside_10_carries": 0.0332,
-        "inside_10_targets": 0.0298
+        "inside_10_targets": 0.0297
       },
       "injury_flag": "",
       "flags": []
@@ -8119,7 +8119,7 @@
       "position": "QB",
       "opponent": "vs ATL",
       "kickoff": "Sunday 13:00 ET",
-      "xtd_per_game": 0.0833,
+      "xtd_per_game": 0.0832,
       "inside_10_opportunities": 2,
       "end_zone_targets": 0,
       "tds_last_10": 1,
@@ -8129,8 +8129,8 @@
       "goal_line_carries": 0,
       "games_played": 13,
       "end_zone_targets_pg": 0.0502,
-      "inside_10_carries_pg": 0.1793,
-      "inside_10_targets_pg": 0.0491,
+      "inside_10_carries_pg": 0.1792,
+      "inside_10_targets_pg": 0.049,
       "xtd_contribution": {
         "end_zone_targets": 0.0203,
         "inside_10_carries": 0.0494,

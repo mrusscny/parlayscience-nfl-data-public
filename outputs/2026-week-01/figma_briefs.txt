@@ -1,4 +1,4 @@
-Generated at 2026-09-10 18:18:34 EDT
+Generated at 2026-09-11 11:05:36 EDT
 
 Copy any block below into a Figma template — text only, full data in JSON
 
@@ -25,7 +25,7 @@ HERO: 0.79 Expected TD/Game
 PLAYER: Christian McCaffrey (SF)
 MATCHUP: @ LA (Thursday 20:35 ET)
 Support Stats:
-  Inside 10 Opportunities: 28
+  Inside 10 Opportunities: 29
   End Zone Targets: 2
   TDs (Last 10 Games): 11
 
@@ -169,7 +169,7 @@ HERO: 0.47 Expected TD/Game
 PLAYER: Kyren Williams (LA)
 MATCHUP: vs SF (Thursday 20:35 ET)
 Support Stats:
-  Inside 10 Opportunities: 20
+  Inside 10 Opportunities: 19
   End Zone Targets: 0
   TDs (Last 10 Games): 8
 
@@ -297,15 +297,6 @@ Support Stats:
   Snap Share: 59.8%
 
 CARD 12 (alternate)
-HERO: 17.3 Touches/Game
-PLAYER: Omarion Hampton (LAC)
-MATCHUP: vs ARI (Sunday 16:25 ET)
-Support Stats:
-  Carries/Game: 13.8
-  Targets/Game: 3.9
-  Snap Share: 57.4%
-
-CARD 13 (alternate)
 HERO: 17.4 Touches/Game
 PLAYER: Kyren Williams (LA)
 MATCHUP: vs SF (Thursday 20:35 ET)
@@ -313,6 +304,15 @@ Support Stats:
   Carries/Game: 15.2
   Targets/Game: 2.9
   Snap Share: 66.9%
+
+CARD 13 (alternate)
+HERO: 17.3 Touches/Game
+PLAYER: Omarion Hampton (LAC)
+MATCHUP: vs ARI (Sunday 16:25 ET)
+Support Stats:
+  Carries/Game: 13.8
+  Targets/Game: 3.9
+  Snap Share: 57.4%
 
 CARD 14 (alternate)
 HERO: 17.4 Touches/Game
@@ -416,7 +416,7 @@ PLAYER: Puka Nacua (LA)
 MATCHUP: vs SF (Thursday 20:35 ET)
 Support Stats:
   Target Share: 28.2%
-  Red Zone Targets: 0
+  Red Zone Targets: 1
   Receptions/Game: 8.1
 
 CARD 5 (alternate)
@@ -529,11 +529,11 @@ Support Stats:
 
 CARD 17 (alternate)
 HERO: 7.8 Targets/Game
-PLAYER: Mike Evans (TB)
-MATCHUP: @ CIN (Sunday 13:00 ET)
+PLAYER: Mike Evans (SF)
+MATCHUP: @ LA (Thursday 20:35 ET)
 Support Stats:
   Target Share: 20.7%
-  Red Zone Targets: 0
+  Red Zone Targets: 2
   Receptions/Game: 3.8
 
 CARD 18 (alternate)

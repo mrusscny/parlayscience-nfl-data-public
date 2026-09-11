@@ -14,7 +14,7 @@
     "completed_weeks": 0,
     "first_kickoff": "2026-09-09",
     "last_game": "2026-09-14",
-    "generated_at_et": "2026-09-10T18:18:20-04:00",
+    "generated_at_et": "2026-09-11T11:05:21-04:00",
     "label": "2026-week-01"
   },
   "method": {
@@ -320,7 +320,7 @@
       "punts_per_game": 3.7647,
       "defensive_stop_score": 34.22,
       "games_played": 17,
-      "first_drive_punt_probability": 0.3387,
+      "first_drive_punt_probability": 0.3388,
       "first_drive_punt_rank": 22,
       "open_drive_punt_rate_observed": 0.4706,
       "open_drive_three_and_out_rate_observed": 0.1176,
@@ -472,7 +472,7 @@
       "three_and_out_rate": 0.1488,
       "points_per_drive": 1.8036,
       "punts_per_game": 3.2353,
-      "defensive_stop_score": 31.56,
+      "defensive_stop_score": 31.25,
       "games_played": 17,
       "first_drive_punt_probability": 0.3178,
       "first_drive_punt_rank": 25,
@@ -694,11 +694,11 @@
       "punts_per_game": 2.8824,
       "defensive_stop_score": 75.0,
       "games_played": 17,
-      "first_drive_punt_probability": 0.3106,
+      "first_drive_punt_probability": 0.3105,
       "first_drive_punt_rank": 26,
       "open_drive_punt_rate_observed": 0.1765,
       "open_drive_three_and_out_rate_observed": 0.0588,
-      "open_drives_observed": 17,
+      "open_drives_observed": 18,
       "flags": []
     },
     {
@@ -714,13 +714,13 @@
       "three_and_out_rate": 0.1395,
       "points_per_drive": 2.5291,
       "punts_per_game": 2.5294,
-      "defensive_stop_score": 52.19,
+      "defensive_stop_score": 52.5,
       "games_played": 17,
       "first_drive_punt_probability": 0.3015,
       "first_drive_punt_rank": 28,
       "open_drive_punt_rate_observed": 0.4118,
       "open_drive_three_and_out_rate_observed": 0.2353,
-      "open_drives_observed": 17,
+      "open_drives_observed": 18,
       "flags": []
     },
     {

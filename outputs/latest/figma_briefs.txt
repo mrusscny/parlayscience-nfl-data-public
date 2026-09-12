@@ -1,4 +1,4 @@
-Generated at 2026-09-11 16:25:07 EDT
+Generated at 2026-09-12 11:36:27 EDT
 
 Copy any block below into a Figma template — text only, full data in JSON
 
@@ -57,15 +57,6 @@ Support Stats:
   TDs (Last 10 Games): 10
 
 CARD 6 (alternate)
-HERO: 0.56 Expected TD/Game
-PLAYER: Brock Bowers (LV)
-MATCHUP: vs MIA (Sunday 16:25 ET)
-Support Stats:
-  Inside 10 Opportunities: 10
-  End Zone Targets: 12
-  TDs (Last 10 Games): 7
-
-CARD 7 (alternate)
 HERO: 0.55 Expected TD/Game
 PLAYER: Trey McBride (ARI)
 MATCHUP: @ LAC (Sunday 16:25 ET)
@@ -74,7 +65,7 @@ Support Stats:
   End Zone Targets: 11
   TDs (Last 10 Games): 7
 
-CARD 8 (alternate)
+CARD 7 (alternate)
 HERO: 0.53 Expected TD/Game
 PLAYER: George Pickens (DAL)
 MATCHUP: @ NYG (Sunday 20:20 ET)
@@ -83,7 +74,7 @@ Support Stats:
   End Zone Targets: 5
   TDs (Last 10 Games): 3
 
-CARD 9 (alternate)
+CARD 8 (alternate)
 HERO: 0.53 Expected TD/Game
 PLAYER: Josh Jacobs (GB)
 MATCHUP: @ MIN (Sunday 16:25 ET)
@@ -92,7 +83,7 @@ Support Stats:
   End Zone Targets: 1
   TDs (Last 10 Games): 8
 
-CARD 10 (alternate)
+CARD 9 (alternate)
 HERO: 0.53 Expected TD/Game
 PLAYER: Amon-Ra St. Brown (DET)
 MATCHUP: vs NO (Sunday 13:00 ET)
@@ -101,7 +92,7 @@ Support Stats:
   End Zone Targets: 7
   TDs (Last 10 Games): 4
 
-CARD 11 (alternate)
+CARD 10 (alternate)
 HERO: 0.52 Expected TD/Game
 PLAYER: Javonte Williams (DAL)
 MATCHUP: @ NYG (Sunday 20:20 ET)
@@ -110,16 +101,16 @@ Support Stats:
   End Zone Targets: 1
   TDs (Last 10 Games): 7
 
-CARD 12 (alternate)
+CARD 11 (alternate)
 HERO: 0.52 Expected TD/Game
-PLAYER: Malik Nabers (NYG)
+PLAYER: Malik Nabers (NYG) [Questionable]
 MATCHUP: vs DAL (Sunday 20:20 ET)
 Support Stats:
   Inside 10 Opportunities: 3
   End Zone Targets: 6
   TDs (Last 10 Games): 2
 
-CARD 13 (alternate)
+CARD 12 (alternate)
 HERO: 0.50 Expected TD/Game
 PLAYER: Nico Collins (HOU)
 MATCHUP: vs BUF (Sunday 13:00 ET)
@@ -128,7 +119,7 @@ Support Stats:
   End Zone Targets: 10
   TDs (Last 10 Games): 4
 
-CARD 14 (alternate)
+CARD 13 (alternate)
 HERO: 0.50 Expected TD/Game
 PLAYER: Zach Charbonnet (SEA)
 MATCHUP: vs NE (Wednesday 20:20 ET)
@@ -137,7 +128,7 @@ Support Stats:
   End Zone Targets: 0
   TDs (Last 10 Games): 7
 
-CARD 15 (alternate)
+CARD 14 (alternate)
 HERO: 0.49 Expected TD/Game
 PLAYER: Justin Jefferson (MIN)
 MATCHUP: vs GB (Sunday 16:25 ET)
@@ -146,7 +137,7 @@ Support Stats:
   End Zone Targets: 12
   TDs (Last 10 Games): 1
 
-CARD 16 (alternate)
+CARD 15 (alternate)
 HERO: 0.49 Expected TD/Game
 PLAYER: Marvin Harrison Jr. (ARI)
 MATCHUP: @ LAC (Sunday 16:25 ET)
@@ -155,7 +146,7 @@ Support Stats:
   End Zone Targets: 11
   TDs (Last 10 Games): 3
 
-CARD 17 (alternate)
+CARD 16 (alternate)
 HERO: 0.48 Expected TD/Game
 PLAYER: Travis Etienne (JAX)
 MATCHUP: vs CLE (Sunday 13:00 ET)
@@ -164,7 +155,7 @@ Support Stats:
   End Zone Targets: 1
   TDs (Last 10 Games): 10
 
-CARD 18 (alternate)
+CARD 17 (alternate)
 HERO: 0.47 Expected TD/Game
 PLAYER: Kyren Williams (LA)
 MATCHUP: vs SF (Thursday 20:35 ET)
@@ -173,7 +164,7 @@ Support Stats:
   End Zone Targets: 0
   TDs (Last 10 Games): 8
 
-CARD 19 (alternate)
+CARD 18 (alternate)
 HERO: 0.46 Expected TD/Game
 PLAYER: Saquon Barkley (PHI)
 MATCHUP: vs WAS (Sunday 16:25 ET)
@@ -182,7 +173,7 @@ Support Stats:
   End Zone Targets: 0
   TDs (Last 10 Games): 5
 
-CARD 20 (alternate)
+CARD 19 (alternate)
 HERO: 0.45 Expected TD/Game
 PLAYER: CeeDee Lamb (DAL)
 MATCHUP: @ NYG (Sunday 20:20 ET)
@@ -190,6 +181,15 @@ Support Stats:
   Inside 10 Opportunities: 7
   End Zone Targets: 12
   TDs (Last 10 Games): 2
+
+CARD 20 (alternate)
+HERO: 0.45 Expected TD/Game
+PLAYER: Darren Waller (MIA)
+MATCHUP: @ LV (Sunday 16:25 ET)
+Support Stats:
+  Inside 10 Opportunities: 6
+  End Zone Targets: 7
+  TDs (Last 10 Games): 6
 
 
 ═══════════════════════════════════════
@@ -343,7 +343,7 @@ Support Stats:
 
 CARD 17 (alternate)
 HERO: 14.9 Touches/Game
-PLAYER: Alvin Kamara (NO)
+PLAYER: Alvin Kamara (NO) [Questionable]
 MATCHUP: @ DET (Sunday 13:00 ET)
 Support Stats:
   Carries/Game: 11.9
@@ -360,15 +360,6 @@ Support Stats:
   Snap Share: 52.2%
 
 CARD 19 (alternate)
-HERO: 16.1 Touches/Game
-PLAYER: D'Andre Swift (CHI)
-MATCHUP: @ CAR (Sunday 13:00 ET)
-Support Stats:
-  Carries/Game: 13.9
-  Targets/Game: 3.0
-  Snap Share: 57.7%
-
-CARD 20 (alternate)
 HERO: 18.4 Touches/Game
 PLAYER: Quinshon Judkins (CLE)
 MATCHUP: @ JAX (Sunday 13:00 ET)
@@ -376,6 +367,15 @@ Support Stats:
   Carries/Game: 16.5
   Targets/Game: 2.6
   Snap Share: 50.5%
+
+CARD 20 (alternate)
+HERO: 16.1 Touches/Game
+PLAYER: D'Andre Swift (CHI)
+MATCHUP: @ CAR (Sunday 13:00 ET)
+Support Stats:
+  Carries/Game: 13.9
+  Targets/Game: 3.0
+  Snap Share: 57.7%
 
 
 ═══════════════════════════════════════
@@ -466,7 +466,7 @@ Support Stats:
 
 CARD 10 (alternate)
 HERO: 8.8 Targets/Game
-PLAYER: Malik Nabers (NYG)
+PLAYER: Malik Nabers (NYG) [Questionable]
 MATCHUP: vs DAL (Sunday 20:20 ET)
 Support Stats:
   Target Share: 24.3%
@@ -538,7 +538,7 @@ Support Stats:
 
 CARD 18 (alternate)
 HERO: 7.6 Targets/Game
-PLAYER: Rome Odunze (CHI)
+PLAYER: Rome Odunze (CHI) [Questionable]
 MATCHUP: @ CAR (Sunday 13:00 ET)
 Support Stats:
   Target Share: 21.5%

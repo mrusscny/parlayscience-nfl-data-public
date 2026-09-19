@@ -1,4 +1,4 @@
-Generated at 2026-09-18 12:30:25 EDT
+Generated at 2026-09-19 11:56:25 EDT
 
 Copy any block below into a Figma template — text only, full data in JSON
 
@@ -67,15 +67,6 @@ Support Stats:
 
 CARD 7 (alternate)
 HERO: 0.55 Expected TD/Game
-PLAYER: Brock Bowers (LV)
-MATCHUP: @ LAC (Sunday 16:05 ET)
-Support Stats:
-  Inside 10 Opportunities: 10
-  End Zone Targets: 12
-  TDs (Last 10 Games): 7
-
-CARD 8 (alternate)
-HERO: 0.55 Expected TD/Game
 PLAYER: Javonte Williams (DAL)
 MATCHUP: vs WAS (Sunday 16:25 ET)
 Support Stats:
@@ -83,7 +74,7 @@ Support Stats:
   End Zone Targets: 1
   TDs (Last 10 Games): 8
 
-CARD 9 (alternate)
+CARD 8 (alternate)
 HERO: 0.54 Expected TD/Game
 PLAYER: Justin Jefferson (MIN)
 MATCHUP: @ CHI (Sunday 13:00 ET)
@@ -92,7 +83,7 @@ Support Stats:
   End Zone Targets: 11
   TDs (Last 10 Games): 2
 
-CARD 10 (alternate)
+CARD 9 (alternate)
 HERO: 0.53 Expected TD/Game
 PLAYER: Amon-Ra St. Brown (DET)
 MATCHUP: @ BUF (Thursday 20:15 ET)
@@ -101,7 +92,7 @@ Support Stats:
   End Zone Targets: 6
   TDs (Last 10 Games): 7
 
-CARD 11 (alternate)
+CARD 10 (alternate)
 HERO: 0.53 Expected TD/Game
 PLAYER: Josh Jacobs (GB)
 MATCHUP: @ NYJ (Sunday 13:00 ET)
@@ -110,7 +101,7 @@ Support Stats:
   End Zone Targets: 1
   TDs (Last 10 Games): 8
 
-CARD 12 (alternate)
+CARD 11 (alternate)
 HERO: 0.51 Expected TD/Game
 PLAYER: Kyren Williams (LA)
 MATCHUP: vs NYG (Monday 20:15 ET)
@@ -119,7 +110,7 @@ Support Stats:
   End Zone Targets: 0
   TDs (Last 10 Games): 8
 
-CARD 13 (alternate)
+CARD 12 (alternate)
 HERO: 0.50 Expected TD/Game
 PLAYER: Zach Charbonnet (SEA)
 MATCHUP: @ ARI (Sunday 16:25 ET)
@@ -128,7 +119,7 @@ Support Stats:
   End Zone Targets: 0
   TDs (Last 10 Games): 7
 
-CARD 14 (alternate)
+CARD 13 (alternate)
 HERO: 0.49 Expected TD/Game
 PLAYER: David Montgomery (HOU)
 MATCHUP: vs CIN (Sunday 13:00 ET)
@@ -137,16 +128,7 @@ Support Stats:
   End Zone Targets: 0
   TDs (Last 10 Games): 6
 
-CARD 15 (alternate)
-HERO: 0.48 Expected TD/Game
-PLAYER: Nico Collins (HOU)
-MATCHUP: vs CIN (Sunday 13:00 ET)
-Support Stats:
-  Inside 10 Opportunities: 7
-  End Zone Targets: 11
-  TDs (Last 10 Games): 5
-
-CARD 16 (alternate)
+CARD 14 (alternate)
 HERO: 0.48 Expected TD/Game
 PLAYER: Chase Brown (CIN)
 MATCHUP: @ HOU (Sunday 13:00 ET)
@@ -155,7 +137,7 @@ Support Stats:
   End Zone Targets: 3
   TDs (Last 10 Games): 9
 
-CARD 17 (alternate)
+CARD 15 (alternate)
 HERO: 0.47 Expected TD/Game
 PLAYER: CeeDee Lamb (DAL)
 MATCHUP: vs WAS (Sunday 16:25 ET)
@@ -164,7 +146,7 @@ Support Stats:
   End Zone Targets: 11
   TDs (Last 10 Games): 3
 
-CARD 18 (alternate)
+CARD 16 (alternate)
 HERO: 0.46 Expected TD/Game
 PLAYER: George Pickens (DAL)
 MATCHUP: vs WAS (Sunday 16:25 ET)
@@ -173,7 +155,7 @@ Support Stats:
   End Zone Targets: 4
   TDs (Last 10 Games): 3
 
-CARD 19 (alternate)
+CARD 17 (alternate)
 HERO: 0.46 Expected TD/Game
 PLAYER: D'Andre Swift (CHI)
 MATCHUP: vs MIN (Sunday 13:00 ET)
@@ -182,7 +164,7 @@ Support Stats:
   End Zone Targets: 0
   TDs (Last 10 Games): 8
 
-CARD 20 (alternate)
+CARD 18 (alternate)
 HERO: 0.46 Expected TD/Game
 PLAYER: Jahmyr Gibbs (DET)
 MATCHUP: @ BUF (Thursday 20:15 ET)
@@ -190,6 +172,24 @@ Support Stats:
   Inside 10 Opportunities: 18
   End Zone Targets: 1
   TDs (Last 10 Games): 11
+
+CARD 19 (alternate)
+HERO: 0.45 Expected TD/Game
+PLAYER: Malik Nabers (NYG)
+MATCHUP: @ LA (Monday 20:15 ET)
+Support Stats:
+  Inside 10 Opportunities: 3
+  End Zone Targets: 6
+  TDs (Last 10 Games): 2
+
+CARD 20 (alternate)
+HERO: 0.44 Expected TD/Game
+PLAYER: Mike Evans (SF)
+MATCHUP: vs MIA (Sunday 16:25 ET)
+Support Stats:
+  Inside 10 Opportunities: 6
+  End Zone Targets: 8
+  TDs (Last 10 Games): 4
 
 
 ═══════════════════════════════════════
@@ -412,7 +412,7 @@ Support Stats:
 
 [FEATURED] CARD 4
 HERO: 10.2 Targets/Game
-PLAYER: Chris Olave (NO)
+PLAYER: Chris Olave (NO) [Questionable]
 MATCHUP: @ BAL (Sunday 13:00 ET)
 Support Stats:
   Target Share: 25.2%
@@ -475,15 +475,6 @@ Support Stats:
 
 CARD 11 (alternate)
 HERO: 8.4 Targets/Game
-PLAYER: Nico Collins (HOU)
-MATCHUP: vs CIN (Sunday 13:00 ET)
-Support Stats:
-  Target Share: 22.5%
-  Red Zone Targets: 2
-  Receptions/Game: 5.1
-
-CARD 12 (alternate)
-HERO: 8.4 Targets/Game
 PLAYER: Wan'Dale Robinson (TEN)
 MATCHUP: vs PHI (Sunday 13:00 ET)
 Support Stats:
@@ -491,7 +482,7 @@ Support Stats:
   Red Zone Targets: 0
   Receptions/Game: 5.6
 
-CARD 13 (alternate)
+CARD 12 (alternate)
 HERO: 7.8 Targets/Game
 PLAYER: Davante Adams (LA)
 MATCHUP: vs NYG (Monday 20:15 ET)
@@ -500,7 +491,7 @@ Support Stats:
   Red Zone Targets: 0
   Receptions/Game: 4.1
 
-CARD 14 (alternate)
+CARD 13 (alternate)
 HERO: 8.3 Targets/Game
 PLAYER: Garrett Wilson (NYJ)
 MATCHUP: vs GB (Sunday 13:00 ET)
@@ -509,7 +500,7 @@ Support Stats:
   Red Zone Targets: 0
   Receptions/Game: 5.3
 
-CARD 15 (alternate)
+CARD 14 (alternate)
 HERO: 7.8 Targets/Game
 PLAYER: George Pickens (DAL)
 MATCHUP: vs WAS (Sunday 16:25 ET)
@@ -518,7 +509,7 @@ Support Stats:
   Red Zone Targets: 0
   Receptions/Game: 5.1
 
-CARD 16 (alternate)
+CARD 15 (alternate)
 HERO: 7.6 Targets/Game
 PLAYER: Mike Evans (SF)
 MATCHUP: vs MIA (Sunday 16:25 ET)
@@ -527,7 +518,7 @@ Support Stats:
   Red Zone Targets: 2
   Receptions/Game: 4.1
 
-CARD 17 (alternate)
+CARD 16 (alternate)
 HERO: 7.5 Targets/Game
 PLAYER: A.J. Brown (NE)
 MATCHUP: vs PIT (Sunday 13:00 ET)
@@ -536,7 +527,7 @@ Support Stats:
   Red Zone Targets: 0
   Receptions/Game: 4.9
 
-CARD 18 (alternate)
+CARD 17 (alternate)
 HERO: 7.4 Targets/Game
 PLAYER: Michael Wilson (ARI)
 MATCHUP: vs SEA (Sunday 16:25 ET)
@@ -545,7 +536,7 @@ Support Stats:
   Red Zone Targets: 0
   Receptions/Game: 4.7
 
-CARD 19 (alternate)
+CARD 18 (alternate)
 HERO: 7.3 Targets/Game
 PLAYER: Tetairoa McMillan (CAR)
 MATCHUP: @ ATL (Sunday 13:00 ET)
@@ -554,7 +545,7 @@ Support Stats:
   Red Zone Targets: 1
   Receptions/Game: 4.2
 
-CARD 20 (alternate)
+CARD 19 (alternate)
 HERO: 7.3 Targets/Game
 PLAYER: Emeka Egbuka (TB)
 MATCHUP: vs CLE (Sunday 13:00 ET)
@@ -562,6 +553,15 @@ Support Stats:
   Target Share: 20.9%
   Red Zone Targets: 0
   Receptions/Game: 3.9
+
+CARD 20 (alternate)
+HERO: 7.0 Targets/Game
+PLAYER: Courtland Sutton (DEN)
+MATCHUP: vs JAX (Sunday 16:05 ET)
+Support Stats:
+  Target Share: 18.9%
+  Red Zone Targets: 1
+  Receptions/Game: 4.0
 
 
 ═══════════════════════════════════════

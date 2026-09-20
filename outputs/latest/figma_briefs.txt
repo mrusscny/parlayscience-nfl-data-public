@@ -1,4 +1,4 @@
-Generated at 2026-09-19 11:56:25 EDT
+Generated at 2026-09-20 12:13:22 EDT
 
 Copy any block below into a Figma template — text only, full data in JSON
 
@@ -403,7 +403,7 @@ Support Stats:
 
 [FEATURED] CARD 3
 HERO: 10.2 Targets/Game
-PLAYER: Puka Nacua (LA)
+PLAYER: Puka Nacua (LA) [Questionable]
 MATCHUP: vs NYG (Monday 20:15 ET)
 Support Stats:
   Target Share: 28.8%

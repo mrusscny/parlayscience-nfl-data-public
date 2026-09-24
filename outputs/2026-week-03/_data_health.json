@@ -11,7 +11,7 @@
     {
       "source": "snaps_2025",
       "ok": true,
-      "rows": 26612,
+      "rows": 26613,
       "missing_cols": [],
       "error": null
     },
@@ -39,7 +39,7 @@
     {
       "source": "injuries_2026",
       "ok": true,
-      "rows": 455,
+      "rows": 692,
       "missing_cols": [],
       "error": null,
       "note": "published"

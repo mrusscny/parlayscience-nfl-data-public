@@ -1,4 +1,4 @@
-Generated at 2026-09-24 13:17:14 EDT
+Generated at 2026-09-25 13:17:35 EDT
 
 Copy any block below into a Figma template — text only, full data in JSON
 
@@ -198,13 +198,13 @@ Visual layout: TODO - not yet designed
 ═══════════════════════════════════════
 
 [FEATURED] CARD 1
-HERO: 22.3 Touches/Game
+HERO: 23.0 Touches/Game
 PLAYER: Bijan Robinson (ATL)
 MATCHUP: @ GB (Thursday 20:15 ET)
 Support Stats:
-  Carries/Game: 17.4
-  Targets/Game: 6.3
-  Snap Share: 73.9%
+  Carries/Game: 18.5
+  Targets/Game: 5.8
+  Snap Share: 74.7%
 
 [FEATURED] CARD 2
 HERO: 21.4 Touches/Game
@@ -288,15 +288,6 @@ Support Stats:
   Snap Share: 63.5%
 
 CARD 11 (alternate)
-HERO: 19.8 Touches/Game
-PLAYER: James Cook (BUF)
-MATCHUP: vs LAC (Sunday 13:00 ET)
-Support Stats:
-  Carries/Game: 17.8
-  Targets/Game: 2.7
-  Snap Share: 62.3%
-
-CARD 12 (alternate)
 HERO: 17.4 Touches/Game
 PLAYER: Javonte Williams (DAL)
 MATCHUP: vs BAL (Sunday 16:25 ET)
@@ -304,6 +295,15 @@ Support Stats:
   Carries/Game: 14.6
   Targets/Game: 3.6
   Snap Share: 71.0%
+
+CARD 12 (alternate)
+HERO: 19.8 Touches/Game
+PLAYER: James Cook (BUF)
+MATCHUP: vs LAC (Sunday 13:00 ET)
+Support Stats:
+  Carries/Game: 17.8
+  Targets/Game: 2.7
+  Snap Share: 62.3%
 
 CARD 13 (alternate)
 HERO: 18.0 Touches/Game
@@ -456,6 +456,15 @@ Support Stats:
   Receptions/Game: 5.5
 
 CARD 9 (alternate)
+HERO: 8.5 Targets/Game
+PLAYER: Drake London (ATL)
+MATCHUP: @ GB (Thursday 20:15 ET)
+Support Stats:
+  Target Share: 26.2%
+  Red Zone Targets: 0
+  Receptions/Game: 5.5
+
+CARD 10 (alternate)
 HERO: 8.2 Targets/Game
 PLAYER: Justin Jefferson (MIN)
 MATCHUP: @ TB (Sunday 16:05 ET)
@@ -464,7 +473,7 @@ Support Stats:
   Red Zone Targets: 4
   Receptions/Game: 5.1
 
-CARD 10 (alternate)
+CARD 11 (alternate)
 HERO: 8.1 Targets/Game
 PLAYER: Davante Adams (LA)
 MATCHUP: @ DEN (Sunday 20:20 ET)
@@ -473,7 +482,7 @@ Support Stats:
   Red Zone Targets: 1
   Receptions/Game: 4.7
 
-CARD 11 (alternate)
+CARD 12 (alternate)
 HERO: 8.1 Targets/Game
 PLAYER: Malik Nabers (NYG)
 MATCHUP: vs TEN (Sunday 13:00 ET)
@@ -482,7 +491,7 @@ Support Stats:
   Red Zone Targets: 2
   Receptions/Game: 4.2
 
-CARD 12 (alternate)
+CARD 13 (alternate)
 HERO: 8.1 Targets/Game
 PLAYER: Garrett Wilson (NYJ)
 MATCHUP: @ DET (Sunday 13:00 ET)
@@ -490,15 +499,6 @@ Support Stats:
   Target Share: 25.9%
   Red Zone Targets: 1
   Receptions/Game: 5.2
-
-CARD 13 (alternate)
-HERO: 7.9 Targets/Game
-PLAYER: Drake London (ATL)
-MATCHUP: @ GB (Thursday 20:15 ET)
-Support Stats:
-  Target Share: 24.1%
-  Red Zone Targets: 0
-  Receptions/Game: 4.9
 
 CARD 14 (alternate)
 HERO: 7.8 Targets/Game
@@ -571,9 +571,9 @@ Visual layout: TODO - not yet designed
 
 --- WR — most vulnerable defences (matchup signal: very weak, rho 0.034) ---
 1. TEN (@ NYG)  score 93.8
-2. WAS (vs SEA)  score 89.5
-3. IND (vs HOU)  score 86.4
-4. DAL (vs BAL)  score 85.5
+2. WAS (vs SEA)  score 90.2
+3. DAL (vs BAL)  score 85.5
+4. IND (vs HOU)  score 85.0
 5. MIA (vs KC)  score 79.1
 
 
@@ -619,16 +619,16 @@ Support Stats:
   Punts/Game: 4.4
 
 CARD 5 (alternate)
-HERO: 84.1 Punt Radar Score
+HERO: 84.7 Punt Radar Score
 TEAM: PIT
 MATCHUP: vs CIN (Sunday 13:00 ET)
 Support Stats:
   Offensive Punt Rank: 5 of 32
-  Defensive Stop Rank: 21 of 32
+  Defensive Stop Rank: 20 of 32
   Punts/Game: 4.4
 
 CARD 6 (alternate)
-HERO: 83.4 Punt Radar Score
+HERO: 84.1 Punt Radar Score
 TEAM: NYJ
 MATCHUP: @ DET (Sunday 13:00 ET)
 Support Stats:
@@ -637,7 +637,7 @@ Support Stats:
   Punts/Game: 4.4
 
 CARD 7 (alternate)
-HERO: 82.2 Punt Radar Score
+HERO: 82.8 Punt Radar Score
 TEAM: LV
 MATCHUP: @ NO (Sunday 16:25 ET)
 Support Stats:
@@ -651,7 +651,7 @@ TEAM: MIN
 MATCHUP: @ TB (Sunday 16:05 ET)
 Support Stats:
   Offensive Punt Rank: 8 of 32
-  Defensive Stop Rank: 12 of 32
+  Defensive Stop Rank: 11 of 32
   Punts/Game: 4.2
 
 CARD 9 (alternate)
@@ -682,7 +682,7 @@ Support Stats:
   Punts/Game: 3.9
 
 CARD 12 (alternate)
-HERO: 60.0 Punt Radar Score
+HERO: 59.4 Punt Radar Score
 TEAM: CIN
 MATCHUP: @ PIT (Sunday 13:00 ET)
 Support Stats:
@@ -692,48 +692,48 @@ Support Stats:
 
 CARD 13 (alternate)
 HERO: 55.3 Punt Radar Score
-TEAM: WAS
-MATCHUP: vs SEA (Sunday 13:00 ET)
-Support Stats:
-  Offensive Punt Rank: 13 of 32
-  Defensive Stop Rank: 25 of 32
-  Punts/Game: 3.4
-
-CARD 14 (alternate)
-HERO: 54.1 Punt Radar Score
-TEAM: ATL
-MATCHUP: @ GB (Thursday 20:15 ET)
-Support Stats:
-  Offensive Punt Rank: 14 of 32
-  Defensive Stop Rank: 20 of 32
-  Punts/Game: 4.0
-
-CARD 15 (alternate)
-HERO: 53.8 Punt Radar Score
 TEAM: LAC
 MATCHUP: @ BUF (Sunday 13:00 ET)
 Support Stats:
-  Offensive Punt Rank: 15 of 32
-  Defensive Stop Rank: 11 of 32
+  Offensive Punt Rank: 13 of 32
+  Defensive Stop Rank: 13 of 32
   Punts/Game: 3.6
 
-CARD 16 (alternate)
-HERO: 50.3 Punt Radar Score
-TEAM: NO
-MATCHUP: vs LV (Sunday 16:25 ET)
+CARD 14 (alternate)
+HERO: 54.4 Punt Radar Score
+TEAM: WAS
+MATCHUP: vs SEA (Sunday 13:00 ET)
 Support Stats:
-  Offensive Punt Rank: 16 of 32
-  Defensive Stop Rank: 15 of 32
-  Punts/Game: 3.5
+  Offensive Punt Rank: 14 of 32
+  Defensive Stop Rank: 25 of 32
+  Punts/Game: 3.4
 
-CARD 17 (alternate)
-HERO: 50.0 Punt Radar Score
+CARD 15 (alternate)
+HERO: 51.2 Punt Radar Score
+TEAM: GB
+MATCHUP: vs ATL (Thursday 20:15 ET)
+Support Stats:
+  Offensive Punt Rank: 15 of 32
+  Defensive Stop Rank: 20 of 32
+  Punts/Game: 3.4
+
+CARD 16 (alternate)
+HERO: 50.6 Punt Radar Score
 TEAM: DET
 MATCHUP: vs NYJ (Sunday 13:00 ET)
 Support Stats:
-  Offensive Punt Rank: 17 of 32
+  Offensive Punt Rank: 16 of 32
   Defensive Stop Rank: 22 of 32
   Punts/Game: 4.0
+
+CARD 17 (alternate)
+HERO: 48.8 Punt Radar Score
+TEAM: NO
+MATCHUP: vs LV (Sunday 16:25 ET)
+Support Stats:
+  Offensive Punt Rank: 17 of 32
+  Defensive Stop Rank: 14 of 32
+  Punts/Game: 3.5
 
 CARD 18 (alternate)
 HERO: 48.4 Punt Radar Score
@@ -745,19 +745,19 @@ Support Stats:
   Punts/Game: 3.4
 
 CARD 19 (alternate)
+HERO: 48.1 Punt Radar Score
+TEAM: ATL
+MATCHUP: @ GB (Thursday 20:15 ET)
+Support Stats:
+  Offensive Punt Rank: 19 of 32
+  Defensive Stop Rank: 16 of 32
+  Punts/Game: 3.7
+
+CARD 20 (alternate)
 HERO: 45.0 Punt Radar Score
 TEAM: CAR
 MATCHUP: @ CLE (Sunday 13:00 ET)
 Support Stats:
-  Offensive Punt Rank: 19 of 32
+  Offensive Punt Rank: 20 of 32
   Defensive Stop Rank: 29 of 32
   Punts/Game: 3.3
-
-CARD 20 (alternate)
-HERO: 44.7 Punt Radar Score
-TEAM: GB
-MATCHUP: vs ATL (Thursday 20:15 ET)
-Support Stats:
-  Offensive Punt Rank: 20 of 32
-  Defensive Stop Rank: 14 of 32
-  Punts/Game: 3.4

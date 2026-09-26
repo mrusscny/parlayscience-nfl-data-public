@@ -15,7 +15,7 @@
     "completed_weeks": 2,
     "first_kickoff": "2026-09-24",
     "last_game": "2026-09-28",
-    "generated_at_et": "2026-09-25T13:17:16-04:00",
+    "generated_at_et": "2026-09-26T12:28:56-04:00",
     "label": "2026-week-03"
   },
   "method": {
@@ -32,15 +32,15 @@
         "rec_yards": "KXNFLRECYDS"
       },
       "coverage": {
-        "pass_yards": "29 players, 236 rungs, 236 priced (books open)",
-        "rush_yards": "58 players, 494 rungs, 494 priced (books open)",
-        "rec_yards": "136 players, 1072 rungs, 1072 priced (books open)"
+        "pass_yards": "30 players, 242 rungs, 242 priced (books open)",
+        "rush_yards": "77 players, 658 rungs, 658 priced (books open)",
+        "rec_yards": "154 players, 1163 rungs, 1163 priced (books open)"
       },
       "note": "Coverage is partial and deepens as kickoff approaches. A player the exchange does not list falls back to the synthetic grid rather than being dropped."
     },
     "started_games_excluded": true,
     "started_games_note": "Week 1 opens on a Wednesday, so by the Sunday run the Wed/Thu/Sat props are already settled. Players whose kickoff has passed are excluded outright.",
-    "generated_at_et": "2026-09-25T13:17:35-04:00",
+    "generated_at_et": "2026-09-26T12:29:20-04:00",
     "p_target": {
       "pass_yards": 0.7,
       "rush_yards": 0.7,
@@ -113,7 +113,7 @@
       "picks_shown": 4,
       "figma_row": "touchdowns",
       "source_concept": "touchdown_radar",
-      "total_eligible": 289,
+      "total_eligible": 278,
       "picks": [
         {
           "player_id": "00-0031381",
@@ -285,7 +285,7 @@
           "book_ticker": null,
           "book_verified": false,
           "market_implied_probability": null,
-          "injury_flag": "",
+          "injury_flag": "Questionable",
           "flags": [
             "no_current_data"
           ],
@@ -417,7 +417,7 @@
       "picks_shown": 4,
       "figma_row": "passing_yards",
       "source_concept": "_passer_metrics",
-      "total_eligible": 40,
+      "total_eligible": 39,
       "picks": [
         {
           "player_id": "00-0033106",
@@ -532,7 +532,7 @@
           "book_line": 199.5,
           "book_ticker": "KXNFLPASSYDS-26SEP27LARDEN-LARMSTAFFORD9-200",
           "book_verified": true,
-          "market_implied_probability": 0.73,
+          "market_implied_probability": 0.735,
           "injury_flag": "",
           "flags": [],
           "on_graphic": true
@@ -561,7 +561,7 @@
           "book_line": 199.5,
           "book_ticker": "KXNFLPASSYDS-26SEP27BALDAL-DALDPRESCOTT4-200",
           "book_verified": true,
-          "market_implied_probability": 0.825,
+          "market_implied_probability": 0.83,
           "injury_flag": "",
           "flags": [],
           "on_graphic": false
@@ -619,7 +619,7 @@
           "book_line": 199.5,
           "book_ticker": "KXNFLPASSYDS-26SEP27NEJAC-NEDMAYE10-200",
           "book_verified": true,
-          "market_implied_probability": 0.615,
+          "market_implied_probability": 0.65,
           "injury_flag": "",
           "flags": [],
           "on_graphic": false
@@ -677,7 +677,7 @@
           "book_line": 199.5,
           "book_ticker": "KXNFLPASSYDS-26SEP27ARISF-SFBPURDY13-200",
           "book_verified": true,
-          "market_implied_probability": 0.725,
+          "market_implied_probability": 0.715,
           "injury_flag": "",
           "flags": [],
           "on_graphic": false
@@ -706,7 +706,7 @@
           "book_line": 174.5,
           "book_ticker": "KXNFLPASSYDS-26SEP27NEJAC-JACTLAWRENCE16-175",
           "book_verified": true,
-          "market_implied_probability": 0.775,
+          "market_implied_probability": 0.765,
           "injury_flag": "",
           "flags": [],
           "on_graphic": false
@@ -721,7 +721,7 @@
       "picks_shown": 4,
       "figma_row": "rushing_yards",
       "source_concept": "rb_spotlight",
-      "total_eligible": 49,
+      "total_eligible": 51,
       "picks": [
         {
           "player_id": "00-0037248",
@@ -747,7 +747,7 @@
           "book_line": 59.5,
           "book_ticker": "KXNFLRSHYDS-26SEP27LACBUF-BUFJCOOK4-60",
           "book_verified": true,
-          "market_implied_probability": 0.695,
+          "market_implied_probability": 0.69,
           "injury_flag": "",
           "flags": [],
           "on_graphic": true
@@ -776,7 +776,7 @@
           "book_line": 59.5,
           "book_ticker": "KXNFLRSHYDS-26SEP27HOUIND-INDJTAYLOR28-60",
           "book_verified": true,
-          "market_implied_probability": 0.695,
+          "market_implied_probability": 0.71,
           "injury_flag": "",
           "flags": [],
           "on_graphic": true
@@ -834,7 +834,7 @@
           "book_line": 49.5,
           "book_ticker": "KXNFLRSHYDS-26SEP27LARDEN-LARKWILLIAMS23-50",
           "book_verified": true,
-          "market_implied_probability": 0.56,
+          "market_implied_probability": 0.575,
           "injury_flag": "",
           "flags": [],
           "on_graphic": true
@@ -863,7 +863,7 @@
           "book_line": 49.5,
           "book_ticker": "KXNFLRSHYDS-26SEP28PHICHI-CHIDSWIFT4-50",
           "book_verified": true,
-          "market_implied_probability": 0.655,
+          "market_implied_probability": 0.605,
           "injury_flag": "",
           "flags": [],
           "on_graphic": false
@@ -950,7 +950,7 @@
           "book_line": 39.5,
           "book_ticker": "KXNFLRSHYDS-26SEP27MINTB-TBBIRVING7-40",
           "book_verified": true,
-          "market_implied_probability": 0.72,
+          "market_implied_probability": 0.73,
           "injury_flag": "",
           "flags": [],
           "on_graphic": false
@@ -979,7 +979,7 @@
           "book_line": 39.5,
           "book_ticker": "KXNFLRSHYDS-26SEP27LARDEN-DENJDOBBINS27-40",
           "book_verified": true,
-          "market_implied_probability": 0.64,
+          "market_implied_probability": 0.65,
           "injury_flag": "",
           "flags": [],
           "on_graphic": false
@@ -1008,7 +1008,7 @@
           "book_line": 39.5,
           "book_ticker": "KXNFLRSHYDS-26SEP27NYJDET-NYJBHALL20-40",
           "book_verified": true,
-          "market_implied_probability": 0.715,
+          "market_implied_probability": 0.705,
           "injury_flag": "",
           "flags": [],
           "on_graphic": false
@@ -1023,7 +1023,7 @@
       "picks_shown": 4,
       "figma_row": "receiving_yards",
       "source_concept": "wr_spotlight",
-      "total_eligible": 53,
+      "total_eligible": 51,
       "picks": [
         {
           "player_id": "00-0038543",
@@ -1049,7 +1049,7 @@
           "book_line": 79.5,
           "book_ticker": "KXNFLRECYDS-26SEP27SEAWAS-SEAJSMITHNJIGBA11-80",
           "book_verified": true,
-          "market_implied_probability": 0.6,
+          "market_implied_probability": 0.605,
           "injury_flag": "",
           "flags": [],
           "on_graphic": true
@@ -1079,7 +1079,7 @@
           "book_ticker": null,
           "book_verified": false,
           "market_implied_probability": null,
-          "injury_flag": "",
+          "injury_flag": "Questionable",
           "flags": [],
           "on_graphic": true
         },
@@ -1107,36 +1107,7 @@
           "book_line": 59.5,
           "book_ticker": "KXNFLRECYDS-26SEP27LVNO-NOCOLAVE12-60",
           "book_verified": true,
-          "market_implied_probability": 0.655,
-          "injury_flag": "",
-          "flags": [],
-          "on_graphic": true
-        },
-        {
-          "player_id": "00-0039075",
-          "player_name": "P.Nacua",
-          "player_full_name": "Puka Nacua",
-          "first_name": "Puka",
-          "last_name": "Nacua",
-          "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ipy6qw7hdygdfc8k86ba",
-          "team_variant": "Rams",
-          "team": "LA",
-          "position": "WR",
-          "opponent": "@ DEN",
-          "kickoff": "Sunday 20:20 ET",
-          "line": 59.5,
-          "line_display": "59.5",
-          "side": "over",
-          "projection": 97.23,
-          "hit_probability": 0.7182,
-          "cushion_sigmas": 0.627,
-          "cushion_yards": 37.7,
-          "sigma": 60.2,
-          "ladder_source": "synthetic_grid",
-          "book_line": null,
-          "book_ticker": null,
-          "book_verified": false,
-          "market_implied_probability": null,
+          "market_implied_probability": 0.66,
           "injury_flag": "",
           "flags": [],
           "on_graphic": true
@@ -1168,7 +1139,7 @@
           "market_implied_probability": 0.66,
           "injury_flag": "",
           "flags": [],
-          "on_graphic": false
+          "on_graphic": true
         },
         {
           "player_id": "00-0036358",
@@ -1200,35 +1171,6 @@
           "on_graphic": false
         },
         {
-          "player_id": "00-0036554",
-          "player_name": "N.Collins",
-          "player_full_name": "Nico Collins",
-          "first_name": "Nico",
-          "last_name": "Collins",
-          "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/fguybjrn1kwflxm5szwq",
-          "team_variant": "Texans",
-          "team": "HOU",
-          "position": "WR",
-          "opponent": "@ IND",
-          "kickoff": "Sunday 13:00 ET",
-          "line": 49.5,
-          "line_display": "49.5",
-          "side": "over",
-          "projection": 74.63,
-          "hit_probability": 0.7252,
-          "cushion_sigmas": 0.65,
-          "cushion_yards": 25.1,
-          "sigma": 38.65,
-          "ladder_source": "synthetic_grid",
-          "book_line": null,
-          "book_ticker": null,
-          "book_verified": false,
-          "market_implied_probability": null,
-          "injury_flag": "",
-          "flags": [],
-          "on_graphic": false
-        },
-        {
           "player_id": "00-0040124",
           "player_name": "T.McMillan",
           "player_full_name": "Tetairoa McMillan",
@@ -1252,7 +1194,7 @@
           "book_line": 39.5,
           "book_ticker": "KXNFLRECYDS-26SEP27CARCLE-CARTMCMILLAN4-40",
           "book_verified": true,
-          "market_implied_probability": 0.725,
+          "market_implied_probability": 0.715,
           "injury_flag": "",
           "flags": [],
           "on_graphic": false
@@ -1281,7 +1223,7 @@
           "book_line": 39.5,
           "book_ticker": "KXNFLRECYDS-26SEP27CINPIT-CINJCHASE1-40",
           "book_verified": true,
-          "market_implied_probability": 0.83,
+          "market_implied_probability": 0.84,
           "injury_flag": "",
           "flags": [],
           "on_graphic": false
@@ -1310,7 +1252,65 @@
           "book_line": 39.5,
           "book_ticker": "KXNFLRECYDS-26SEP27CINPIT-CINTHIGGINS5-40",
           "book_verified": true,
-          "market_implied_probability": 0.655,
+          "market_implied_probability": 0.66,
+          "injury_flag": "",
+          "flags": [],
+          "on_graphic": false
+        },
+        {
+          "player_id": "00-0036322",
+          "player_name": "J.Jefferson",
+          "player_full_name": "Justin Jefferson",
+          "first_name": "Justin",
+          "last_name": "Jefferson",
+          "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/htjevkugzk6ietrjysny",
+          "team_variant": "Vikings",
+          "team": "MIN",
+          "position": "WR",
+          "opponent": "@ TB",
+          "kickoff": "Sunday 16:05 ET",
+          "line": 39.5,
+          "line_display": "39.5",
+          "side": "over",
+          "projection": 65.2,
+          "hit_probability": 0.7441,
+          "cushion_sigmas": 0.676,
+          "cushion_yards": 25.7,
+          "sigma": 38.02,
+          "ladder_source": "kalshi",
+          "book_line": 39.5,
+          "book_ticker": "KXNFLRECYDS-26SEP27MINTB-MINJJEFFERSON18-40",
+          "book_verified": true,
+          "market_implied_probability": 0.805,
+          "injury_flag": "",
+          "flags": [],
+          "on_graphic": false
+        },
+        {
+          "player_id": "00-0038606",
+          "player_name": "P.Washington",
+          "player_full_name": "Parker Washington",
+          "first_name": "Parker",
+          "last_name": "Washington",
+          "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/yn0hc5xrz5nqeccg8two",
+          "team_variant": "Jaguars",
+          "team": "JAX",
+          "position": "WR",
+          "opponent": "vs NE",
+          "kickoff": "Sunday 13:00 ET",
+          "line": 39.5,
+          "line_display": "39.5",
+          "side": "over",
+          "projection": 66.68,
+          "hit_probability": 0.7356,
+          "cushion_sigmas": 0.656,
+          "cushion_yards": 27.2,
+          "sigma": 41.46,
+          "ladder_source": "kalshi",
+          "book_line": 39.5,
+          "book_ticker": "KXNFLRECYDS-26SEP27NEJAC-JACPWASHINGTON11-40",
+          "book_verified": true,
+          "market_implied_probability": 0.75,
           "injury_flag": "",
           "flags": [],
           "on_graphic": false

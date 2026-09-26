@@ -9,7 +9,7 @@
     "completed_weeks": 2,
     "first_kickoff": "2026-09-24",
     "last_game": "2026-09-28",
-    "generated_at_et": "2026-09-25T13:17:16-04:00",
+    "generated_at_et": "2026-09-26T12:28:56-04:00",
     "label": "2026-week-03"
   },
   "method": {
@@ -49,7 +49,7 @@
     }
   },
   "board_size": 20,
-  "total_eligible": 289,
+  "total_eligible": 278,
   "items": [
     {
       "rank": 1,
@@ -348,7 +348,7 @@
         "inside_10_carries": 0.0177,
         "inside_10_targets": 0.1861
       },
-      "injury_flag": "",
+      "injury_flag": "Questionable",
       "flags": [
         "no_current_data"
       ]
@@ -959,56 +959,6 @@
     },
     {
       "rank": 19,
-      "player_id": "00-0036554",
-      "player_name": "N.Collins",
-      "player_full_name": "Nico Collins",
-      "team": "HOU",
-      "position": "WR",
-      "opponent": "@ IND",
-      "kickoff": "Sunday 13:00 ET",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/fguybjrn1kwflxm5szwq",
-      "xtd_per_game": 0.4604,
-      "anytime_td_prob": 0.369,
-      "trend": {
-        "direction": "down",
-        "recent_games": 3,
-        "earlier_games": 7,
-        "games_in_window": 10,
-        "recent_chances_per_game": 0.0,
-        "earlier_chances_per_game": 1.0,
-        "recent_tds": 1
-      },
-      "games_scored_last_10": 4,
-      "display": {
-        "player_name": "N. COLLINS",
-        "hero": "37%",
-        "hero_label": "CHANCE TO SCORE",
-        "stat_1": "4 OF 10",
-        "stat_1_label": "GAMES W/ A TD",
-        "stat_2": "COOLING OFF",
-        "stat_2_label": "LAST 3 GAMES"
-      },
-      "inside_10_opportunities": 7,
-      "end_zone_targets": 11,
-      "tds_last_10": 5,
-      "window_games": 10,
-      "inside_10_targets": 0,
-      "inside_10_carries": 0,
-      "goal_line_carries": 0,
-      "games_played": 15,
-      "end_zone_targets_pg": 0.795,
-      "inside_10_carries_pg": 0.0911,
-      "inside_10_targets_pg": 0.4103,
-      "xtd_contribution": {
-        "end_zone_targets": 0.3221,
-        "inside_10_carries": 0.0251,
-        "inside_10_targets": 0.1132
-      },
-      "injury_flag": "",
-      "flags": []
-    },
-    {
-      "rank": 20,
       "player_id": "00-0040124",
       "player_name": "T.McMillan",
       "player_full_name": "Tetairoa McMillan",
@@ -1058,7 +1008,7 @@
       "flags": []
     },
     {
-      "rank": 21,
+      "rank": 20,
       "player_id": "00-0036555",
       "player_name": "C.Hubbard",
       "player_full_name": "Chuba Hubbard",
@@ -1108,7 +1058,7 @@
       "flags": []
     },
     {
-      "rank": 22,
+      "rank": 21,
       "player_id": "00-0031610",
       "player_name": "D.Waller",
       "player_full_name": "Darren Waller",
@@ -1158,7 +1108,7 @@
       "flags": []
     },
     {
-      "rank": 23,
+      "rank": 22,
       "player_id": "00-0035685",
       "player_name": "D.Montgomery",
       "player_full_name": "David Montgomery",
@@ -1208,7 +1158,7 @@
       "flags": []
     },
     {
-      "rank": 24,
+      "rank": 23,
       "player_id": "00-0037248",
       "player_name": "J.Cook",
       "player_full_name": "James Cook",
@@ -1253,6 +1203,56 @@
         "end_zone_targets": 0.0156,
         "inside_10_carries": 0.3526,
         "inside_10_targets": 0.0531
+      },
+      "injury_flag": "",
+      "flags": []
+    },
+    {
+      "rank": 24,
+      "player_id": "00-0038597",
+      "player_name": "C.Brown",
+      "player_full_name": "Chase Brown",
+      "team": "CIN",
+      "position": "RB",
+      "opponent": "@ PIT",
+      "kickoff": "Sunday 13:00 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/tch3y6jlj7khvyi9jg0c",
+      "xtd_per_game": 0.4192,
+      "anytime_td_prob": 0.3424,
+      "trend": {
+        "direction": "steady",
+        "recent_games": 3,
+        "earlier_games": 7,
+        "games_in_window": 10,
+        "recent_chances_per_game": 1.333,
+        "earlier_chances_per_game": 1.429,
+        "recent_tds": 2
+      },
+      "games_scored_last_10": 5,
+      "display": {
+        "player_name": "C. BROWN",
+        "hero": "34%",
+        "hero_label": "CHANCE TO SCORE",
+        "stat_1": "5 OF 10",
+        "stat_1_label": "GAMES W/ A TD",
+        "stat_2": "STEADY",
+        "stat_2_label": "LAST 3 GAMES"
+      },
+      "inside_10_opportunities": 14,
+      "end_zone_targets": 3,
+      "tds_last_10": 9,
+      "window_games": 10,
+      "inside_10_targets": 0,
+      "inside_10_carries": 3,
+      "goal_line_carries": 3,
+      "games_played": 17,
+      "end_zone_targets_pg": 0.1384,
+      "inside_10_carries_pg": 1.0467,
+      "inside_10_targets_pg": 0.2711,
+      "xtd_contribution": {
+        "end_zone_targets": 0.0561,
+        "inside_10_carries": 0.2884,
+        "inside_10_targets": 0.0748
       },
       "injury_flag": "",
       "flags": []
@@ -1309,56 +1309,6 @@
     },
     {
       "rank": 26,
-      "player_id": "00-0038597",
-      "player_name": "C.Brown",
-      "player_full_name": "Chase Brown",
-      "team": "CIN",
-      "position": "RB",
-      "opponent": "@ PIT",
-      "kickoff": "Sunday 13:00 ET",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/tch3y6jlj7khvyi9jg0c",
-      "xtd_per_game": 0.4192,
-      "anytime_td_prob": 0.3424,
-      "trend": {
-        "direction": "steady",
-        "recent_games": 3,
-        "earlier_games": 7,
-        "games_in_window": 10,
-        "recent_chances_per_game": 1.333,
-        "earlier_chances_per_game": 1.429,
-        "recent_tds": 2
-      },
-      "games_scored_last_10": 5,
-      "display": {
-        "player_name": "C. BROWN",
-        "hero": "34%",
-        "hero_label": "CHANCE TO SCORE",
-        "stat_1": "5 OF 10",
-        "stat_1_label": "GAMES W/ A TD",
-        "stat_2": "STEADY",
-        "stat_2_label": "LAST 3 GAMES"
-      },
-      "inside_10_opportunities": 14,
-      "end_zone_targets": 3,
-      "tds_last_10": 9,
-      "window_games": 10,
-      "inside_10_targets": 0,
-      "inside_10_carries": 3,
-      "goal_line_carries": 3,
-      "games_played": 17,
-      "end_zone_targets_pg": 0.1384,
-      "inside_10_carries_pg": 1.0467,
-      "inside_10_targets_pg": 0.2711,
-      "xtd_contribution": {
-        "end_zone_targets": 0.0561,
-        "inside_10_carries": 0.2884,
-        "inside_10_targets": 0.0748
-      },
-      "injury_flag": "",
-      "flags": []
-    },
-    {
-      "rank": 27,
       "player_id": "00-0037247",
       "player_name": "G.Pickens",
       "player_full_name": "George Pickens",
@@ -1408,7 +1358,7 @@
       "flags": []
     },
     {
-      "rank": 28,
+      "rank": 27,
       "player_id": "00-0034829",
       "player_name": "M.Gesicki",
       "player_full_name": "Mike Gesicki",
@@ -1458,7 +1408,7 @@
       "flags": []
     },
     {
-      "rank": 29,
+      "rank": 28,
       "player_id": "00-0035659",
       "player_name": "T.McLaurin",
       "player_full_name": "Terry McLaurin",
@@ -1508,7 +1458,7 @@
       "flags": []
     },
     {
-      "rank": 30,
+      "rank": 29,
       "player_id": "00-0038542",
       "player_name": "Bi.Robinson",
       "player_full_name": "Bijan Robinson",
@@ -1558,7 +1508,7 @@
       "flags": []
     },
     {
-      "rank": 31,
+      "rank": 30,
       "player_id": "00-0038124",
       "player_name": "C.Watson",
       "player_full_name": "Christian Watson",
@@ -1608,7 +1558,7 @@
       "flags": []
     },
     {
-      "rank": 32,
+      "rank": 31,
       "player_id": "00-0038134",
       "player_name": "K.Walker",
       "player_full_name": "Kenneth Walker III",
@@ -1658,7 +1608,7 @@
       "flags": []
     },
     {
-      "rank": 33,
+      "rank": 32,
       "player_id": "00-0034348",
       "player_name": "C.Sutton",
       "player_full_name": "Courtland Sutton",
@@ -1708,7 +1658,7 @@
       "flags": []
     },
     {
-      "rank": 34,
+      "rank": 33,
       "player_id": "00-0039915",
       "player_name": "L.McConkey",
       "player_full_name": "Ladd McConkey",
@@ -1758,7 +1708,7 @@
       "flags": []
     },
     {
-      "rank": 35,
+      "rank": 34,
       "player_id": "00-0031408",
       "player_name": "M.Evans",
       "player_full_name": "Mike Evans",
@@ -1804,11 +1754,11 @@
         "inside_10_carries": 0.0236,
         "inside_10_targets": 0.1263
       },
-      "injury_flag": "",
+      "injury_flag": "Questionable",
       "flags": []
     },
     {
-      "rank": 36,
+      "rank": 35,
       "player_id": "00-0036973",
       "player_name": "T.Etienne",
       "player_full_name": "Travis Etienne",
@@ -1858,7 +1808,7 @@
       "flags": []
     },
     {
-      "rank": 37,
+      "rank": 36,
       "player_id": "00-0040128",
       "player_name": "T.Warren",
       "player_full_name": "Tyler Warren",
@@ -1908,7 +1858,7 @@
       "flags": []
     },
     {
-      "rank": 38,
+      "rank": 37,
       "player_id": "00-0038611",
       "player_name": "C.Rodriguez",
       "player_full_name": "Chris Rodriguez Jr.",
@@ -1958,7 +1908,7 @@
       "flags": []
     },
     {
-      "rank": 39,
+      "rank": 38,
       "player_id": "00-0040715",
       "player_name": "C.Skattebo",
       "player_full_name": "Cam Skattebo",
@@ -2008,7 +1958,7 @@
       "flags": []
     },
     {
-      "rank": 40,
+      "rank": 39,
       "player_id": "00-0040129",
       "player_name": "E.Egbuka",
       "player_full_name": "Emeka Egbuka",
@@ -2058,7 +2008,7 @@
       "flags": []
     },
     {
-      "rank": 41,
+      "rank": 40,
       "player_id": "00-0039868",
       "player_name": "T.Franklin",
       "player_full_name": "Troy Franklin",
@@ -2108,7 +2058,7 @@
       "flags": []
     },
     {
-      "rank": 42,
+      "rank": 41,
       "player_id": "00-0036912",
       "player_name": "D.Smith",
       "player_full_name": "DeVonta Smith",
@@ -2158,7 +2108,7 @@
       "flags": []
     },
     {
-      "rank": 43,
+      "rank": 42,
       "player_id": "00-0040666",
       "player_name": "O.Hampton",
       "player_full_name": "Omarion Hampton",
@@ -2208,7 +2158,7 @@
       "flags": []
     },
     {
-      "rank": 44,
+      "rank": 43,
       "player_id": "00-0036900",
       "player_name": "J.Chase",
       "player_full_name": "Ja'Marr Chase",
@@ -2258,7 +2208,7 @@
       "flags": []
     },
     {
-      "rank": 45,
+      "rank": 44,
       "player_id": "00-0040122",
       "player_name": "A.Jeanty",
       "player_full_name": "Ashton Jeanty",
@@ -2308,7 +2258,7 @@
       "flags": []
     },
     {
-      "rank": 46,
+      "rank": 45,
       "player_id": "00-0039849",
       "player_name": "M.Harrison",
       "player_full_name": "Marvin Harrison Jr.",
@@ -2353,6 +2303,56 @@
         "end_zone_targets": 0.2509,
         "inside_10_carries": 0.0177,
         "inside_10_targets": 0.0861
+      },
+      "injury_flag": "",
+      "flags": []
+    },
+    {
+      "rank": 46,
+      "player_id": "00-0040236",
+      "player_name": "K.Monangai",
+      "player_full_name": "Kyle Monangai",
+      "team": "CHI",
+      "position": "RB",
+      "opponent": "vs PHI",
+      "kickoff": "Monday 20:15 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/bkkk3uuouhcobydqawro",
+      "xtd_per_game": 0.3528,
+      "anytime_td_prob": 0.2973,
+      "trend": {
+        "direction": "down",
+        "recent_games": 3,
+        "earlier_games": 7,
+        "games_in_window": 10,
+        "recent_chances_per_game": 1.333,
+        "earlier_chances_per_game": 1.714,
+        "recent_tds": 1
+      },
+      "games_scored_last_10": 4,
+      "display": {
+        "player_name": "K. MONANGAI",
+        "hero": "30%",
+        "hero_label": "CHANCE TO SCORE",
+        "stat_1": "4 OF 10",
+        "stat_1_label": "GAMES W/ A TD",
+        "stat_2": "COOLING OFF",
+        "stat_2_label": "LAST 3 GAMES"
+      },
+      "inside_10_opportunities": 16,
+      "end_zone_targets": 0,
+      "tds_last_10": 4,
+      "window_games": 10,
+      "inside_10_targets": 0,
+      "inside_10_carries": 3,
+      "goal_line_carries": 0,
+      "games_played": 16,
+      "end_zone_targets_pg": 0.0403,
+      "inside_10_carries_pg": 1.1464,
+      "inside_10_targets_pg": 0.0747,
+      "xtd_contribution": {
+        "end_zone_targets": 0.0163,
+        "inside_10_carries": 0.3158,
+        "inside_10_targets": 0.0206
       },
       "injury_flag": "",
       "flags": []
@@ -2409,56 +2409,6 @@
     },
     {
       "rank": 48,
-      "player_id": "00-0040236",
-      "player_name": "K.Monangai",
-      "player_full_name": "Kyle Monangai",
-      "team": "CHI",
-      "position": "RB",
-      "opponent": "vs PHI",
-      "kickoff": "Monday 20:15 ET",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/bkkk3uuouhcobydqawro",
-      "xtd_per_game": 0.3528,
-      "anytime_td_prob": 0.2973,
-      "trend": {
-        "direction": "down",
-        "recent_games": 3,
-        "earlier_games": 7,
-        "games_in_window": 10,
-        "recent_chances_per_game": 1.333,
-        "earlier_chances_per_game": 1.714,
-        "recent_tds": 1
-      },
-      "games_scored_last_10": 4,
-      "display": {
-        "player_name": "K. MONANGAI",
-        "hero": "30%",
-        "hero_label": "CHANCE TO SCORE",
-        "stat_1": "4 OF 10",
-        "stat_1_label": "GAMES W/ A TD",
-        "stat_2": "COOLING OFF",
-        "stat_2_label": "LAST 3 GAMES"
-      },
-      "inside_10_opportunities": 16,
-      "end_zone_targets": 0,
-      "tds_last_10": 4,
-      "window_games": 10,
-      "inside_10_targets": 0,
-      "inside_10_carries": 3,
-      "goal_line_carries": 0,
-      "games_played": 16,
-      "end_zone_targets_pg": 0.0403,
-      "inside_10_carries_pg": 1.1464,
-      "inside_10_targets_pg": 0.0747,
-      "xtd_contribution": {
-        "end_zone_targets": 0.0163,
-        "inside_10_carries": 0.3158,
-        "inside_10_targets": 0.0206
-      },
-      "injury_flag": "",
-      "flags": []
-    },
-    {
-      "rank": 49,
       "player_id": "00-0039424",
       "player_name": "D.Vele",
       "player_full_name": "Devaughn Vele",
@@ -2508,7 +2458,7 @@
       "flags": []
     },
     {
-      "rank": 50,
+      "rank": 49,
       "player_id": "00-0034844",
       "player_name": "S.Barkley",
       "player_full_name": "Saquon Barkley",
@@ -2558,7 +2508,7 @@
       "flags": []
     },
     {
-      "rank": 51,
+      "rank": 50,
       "player_id": "00-0040648",
       "player_name": "T.Horton",
       "player_full_name": "Tory Horton",
@@ -2610,7 +2560,7 @@
       ]
     },
     {
-      "rank": 52,
+      "rank": 51,
       "player_id": "00-0039491",
       "player_name": "J.Coker",
       "player_full_name": "Jalen Coker",
@@ -2656,11 +2606,11 @@
         "inside_10_carries": 0.0189,
         "inside_10_targets": 0.1874
       },
-      "injury_flag": "",
+      "injury_flag": "Questionable",
       "flags": []
     },
     {
-      "rank": 53,
+      "rank": 52,
       "player_id": "00-0037239",
       "player_name": "C.Olave",
       "player_full_name": "Chris Olave",
@@ -2710,7 +2660,7 @@
       "flags": []
     },
     {
-      "rank": 54,
+      "rank": 53,
       "player_id": "00-0037112",
       "player_name": "J.Tonges",
       "player_full_name": "Jake Tonges",
@@ -2762,7 +2712,7 @@
       ]
     },
     {
-      "rank": 55,
+      "rank": 54,
       "player_id": "00-0037228",
       "player_name": "J.Warren",
       "player_full_name": "Jaylen Warren",
@@ -2808,11 +2758,11 @@
         "inside_10_carries": 0.2263,
         "inside_10_targets": 0.0827
       },
-      "injury_flag": "",
+      "injury_flag": "Questionable",
       "flags": []
     },
     {
-      "rank": 56,
+      "rank": 55,
       "player_id": "00-0039040",
       "player_name": "D.Achane",
       "player_full_name": "De'Von Achane",
@@ -2862,7 +2812,7 @@
       "flags": []
     },
     {
-      "rank": 57,
+      "rank": 56,
       "player_id": "00-0035640",
       "player_name": "D.Metcalf",
       "player_full_name": "DK Metcalf",
@@ -2912,7 +2862,7 @@
       "flags": []
     },
     {
-      "rank": 58,
+      "rank": 57,
       "player_id": "00-0037238",
       "player_name": "D.London",
       "player_full_name": "Drake London",
@@ -2962,7 +2912,7 @@
       "flags": []
     },
     {
-      "rank": 59,
+      "rank": 58,
       "player_id": "00-0033288",
       "player_name": "G.Kittle",
       "player_full_name": "George Kittle",
@@ -3012,7 +2962,7 @@
       "flags": []
     },
     {
-      "rank": 60,
+      "rank": 59,
       "player_id": "00-0039919",
       "player_name": "R.Odunze",
       "player_full_name": "Rome Odunze",
@@ -3062,7 +3012,7 @@
       "flags": []
     },
     {
-      "rank": 61,
+      "rank": 60,
       "player_id": "00-0040170",
       "player_name": "E.Ayomanor",
       "player_full_name": "Elic Ayomanor",
@@ -3112,7 +3062,7 @@
       "flags": []
     },
     {
-      "rank": 62,
+      "rank": 61,
       "player_id": "00-0034960",
       "player_name": "J.Meyers",
       "player_full_name": "Jakobi Meyers",
@@ -3162,7 +3112,7 @@
       "flags": []
     },
     {
-      "rank": 63,
+      "rank": 62,
       "player_id": "00-0036626",
       "player_name": "D.Brown",
       "player_full_name": "Dyami Brown",
@@ -3212,7 +3162,7 @@
       "flags": []
     },
     {
-      "rank": 64,
+      "rank": 63,
       "player_id": "00-0035535",
       "player_name": "D.Slayton",
       "player_full_name": "Darius Slayton",
@@ -3264,7 +3214,7 @@
       ]
     },
     {
-      "rank": 65,
+      "rank": 64,
       "player_id": "00-0031588",
       "player_name": "S.Diggs",
       "player_full_name": "Stefon Diggs",
@@ -3314,7 +3264,7 @@
       "flags": []
     },
     {
-      "rank": 66,
+      "rank": 65,
       "player_id": "00-0035719",
       "player_name": "D.Samuel",
       "player_full_name": "Deebo Samuel Sr.",
@@ -3364,7 +3314,7 @@
       "flags": []
     },
     {
-      "rank": 67,
+      "rank": 66,
       "player_id": "00-0037742",
       "player_name": "T.Burks",
       "player_full_name": "Treylon Burks",
@@ -3414,7 +3364,7 @@
       "flags": []
     },
     {
-      "rank": 68,
+      "rank": 67,
       "player_id": "00-0038797",
       "player_name": "E.Wilson",
       "player_full_name": "Emanuel Wilson",
@@ -3464,7 +3414,7 @@
       "flags": []
     },
     {
-      "rank": 69,
+      "rank": 68,
       "player_id": "00-0036040",
       "player_name": "J.Johnson",
       "player_full_name": "Juwan Johnson",
@@ -3514,7 +3464,7 @@
       "flags": []
     },
     {
-      "rank": 70,
+      "rank": 69,
       "player_id": "00-0040126",
       "player_name": "C.Loveland",
       "player_full_name": "Colston Loveland",
@@ -3564,7 +3514,7 @@
       "flags": []
     },
     {
-      "rank": 71,
+      "rank": 70,
       "player_id": "00-0039065",
       "player_name": "S.LaPorta",
       "player_full_name": "Sam LaPorta",
@@ -3614,7 +3564,7 @@
       "flags": []
     },
     {
-      "rank": 72,
+      "rank": 71,
       "player_id": "00-0036158",
       "player_name": "J.Dobbins",
       "player_full_name": "J.K. Dobbins",
@@ -3664,57 +3614,7 @@
       "flags": []
     },
     {
-      "rank": 73,
-      "player_id": "00-0039075",
-      "player_name": "P.Nacua",
-      "player_full_name": "Puka Nacua",
-      "team": "LA",
-      "position": "WR",
-      "opponent": "@ DEN",
-      "kickoff": "Sunday 20:20 ET",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ipy6qw7hdygdfc8k86ba",
-      "xtd_per_game": 0.2989,
-      "anytime_td_prob": 0.2584,
-      "trend": {
-        "direction": "up",
-        "recent_games": 3,
-        "earlier_games": 7,
-        "games_in_window": 10,
-        "recent_chances_per_game": 1.0,
-        "earlier_chances_per_game": 0.571,
-        "recent_tds": 2
-      },
-      "games_scored_last_10": 5,
-      "display": {
-        "player_name": "P. NACUA",
-        "hero": "26%",
-        "hero_label": "CHANCE TO SCORE",
-        "stat_1": "5 OF 10",
-        "stat_1_label": "GAMES W/ A TD",
-        "stat_2": "HEATING UP",
-        "stat_2_label": "LAST 3 GAMES"
-      },
-      "inside_10_opportunities": 7,
-      "end_zone_targets": 4,
-      "tds_last_10": 7,
-      "window_games": 10,
-      "inside_10_targets": 1,
-      "inside_10_carries": 0,
-      "goal_line_carries": 0,
-      "games_played": 16,
-      "end_zone_targets_pg": 0.2503,
-      "inside_10_carries_pg": 0.0864,
-      "inside_10_targets_pg": 0.6297,
-      "xtd_contribution": {
-        "end_zone_targets": 0.1014,
-        "inside_10_carries": 0.0238,
-        "inside_10_targets": 0.1737
-      },
-      "injury_flag": "",
-      "flags": []
-    },
-    {
-      "rank": 74,
+      "rank": 72,
       "player_id": "00-0040669",
       "player_name": "I.TeSlaa",
       "player_full_name": "Isaac TeSlaa",
@@ -3764,7 +3664,7 @@
       "flags": []
     },
     {
-      "rank": 75,
+      "rank": 73,
       "player_id": "00-0039901",
       "player_name": "K.Coleman",
       "player_full_name": "Keon Coleman",
@@ -3810,11 +3710,11 @@
         "inside_10_carries": 0.0177,
         "inside_10_targets": 0.1533
       },
-      "injury_flag": "",
+      "injury_flag": "Questionable",
       "flags": []
     },
     {
-      "rank": 76,
+      "rank": 74,
       "player_id": "00-0036244",
       "player_name": "C.Parkinson",
       "player_full_name": "Colby Parkinson",
@@ -3860,11 +3760,11 @@
         "inside_10_carries": 0.0158,
         "inside_10_targets": 0.1516
       },
-      "injury_flag": "",
+      "injury_flag": "Questionable",
       "flags": []
     },
     {
-      "rank": 77,
+      "rank": 75,
       "player_id": "00-0040737",
       "player_name": "T.Ferguson",
       "player_full_name": "Terrance Ferguson",
@@ -3914,7 +3814,7 @@
       "flags": []
     },
     {
-      "rank": 78,
+      "rank": 76,
       "player_id": "00-0039391",
       "player_name": "K.Vidal",
       "player_full_name": "Kimani Vidal",
@@ -3966,7 +3866,7 @@
       ]
     },
     {
-      "rank": 79,
+      "rank": 77,
       "player_id": "00-0036259",
       "player_name": "J.Jennings",
       "player_full_name": "Jauan Jennings",
@@ -4016,57 +3916,7 @@
       "flags": []
     },
     {
-      "rank": 80,
-      "player_id": "00-0035644",
-      "player_name": "N.Fant",
-      "player_full_name": "Noah Fant",
-      "team": "NO",
-      "position": "TE",
-      "opponent": "vs LV",
-      "kickoff": "Sunday 16:25 ET",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/lijnonbrcmplvkcb5kqv",
-      "xtd_per_game": 0.2891,
-      "anytime_td_prob": 0.2511,
-      "trend": {
-        "direction": "up",
-        "recent_games": 3,
-        "earlier_games": 7,
-        "games_in_window": 10,
-        "recent_chances_per_game": 0.667,
-        "earlier_chances_per_game": 0.143,
-        "recent_tds": 1
-      },
-      "games_scored_last_10": 3,
-      "display": {
-        "player_name": "N. FANT",
-        "hero": "25%",
-        "hero_label": "CHANCE TO SCORE",
-        "stat_1": "3 OF 10",
-        "stat_1_label": "GAMES W/ A TD",
-        "stat_2": "HEATING UP",
-        "stat_2_label": "LAST 3 GAMES"
-      },
-      "inside_10_opportunities": 3,
-      "end_zone_targets": 3,
-      "tds_last_10": 3,
-      "window_games": 10,
-      "inside_10_targets": 1,
-      "inside_10_carries": 0,
-      "goal_line_carries": 0,
-      "games_played": 13,
-      "end_zone_targets_pg": 0.4003,
-      "inside_10_carries_pg": 0.0606,
-      "inside_10_targets_pg": 0.3997,
-      "xtd_contribution": {
-        "end_zone_targets": 0.1622,
-        "inside_10_carries": 0.0167,
-        "inside_10_targets": 0.1102
-      },
-      "injury_flag": "",
-      "flags": []
-    },
-    {
-      "rank": 81,
+      "rank": 78,
       "player_id": "00-0036410",
       "player_name": "T.Higgins",
       "player_full_name": "Tee Higgins",
@@ -4116,7 +3966,57 @@
       "flags": []
     },
     {
-      "rank": 82,
+      "rank": 79,
+      "player_id": "00-0035644",
+      "player_name": "N.Fant",
+      "player_full_name": "Noah Fant",
+      "team": "NO",
+      "position": "TE",
+      "opponent": "vs LV",
+      "kickoff": "Sunday 16:25 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/lijnonbrcmplvkcb5kqv",
+      "xtd_per_game": 0.2891,
+      "anytime_td_prob": 0.2511,
+      "trend": {
+        "direction": "up",
+        "recent_games": 3,
+        "earlier_games": 7,
+        "games_in_window": 10,
+        "recent_chances_per_game": 0.667,
+        "earlier_chances_per_game": 0.143,
+        "recent_tds": 1
+      },
+      "games_scored_last_10": 3,
+      "display": {
+        "player_name": "N. FANT",
+        "hero": "25%",
+        "hero_label": "CHANCE TO SCORE",
+        "stat_1": "3 OF 10",
+        "stat_1_label": "GAMES W/ A TD",
+        "stat_2": "HEATING UP",
+        "stat_2_label": "LAST 3 GAMES"
+      },
+      "inside_10_opportunities": 3,
+      "end_zone_targets": 3,
+      "tds_last_10": 3,
+      "window_games": 10,
+      "inside_10_targets": 1,
+      "inside_10_carries": 0,
+      "goal_line_carries": 0,
+      "games_played": 13,
+      "end_zone_targets_pg": 0.4003,
+      "inside_10_carries_pg": 0.0606,
+      "inside_10_targets_pg": 0.3997,
+      "xtd_contribution": {
+        "end_zone_targets": 0.1622,
+        "inside_10_carries": 0.0167,
+        "inside_10_targets": 0.1102
+      },
+      "injury_flag": "",
+      "flags": []
+    },
+    {
+      "rank": 80,
       "player_id": "00-0037157",
       "player_name": "Z.Knight",
       "player_full_name": "Bam Knight",
@@ -4166,7 +4066,7 @@
       "flags": []
     },
     {
-      "rank": 83,
+      "rank": 81,
       "player_id": "00-0030279",
       "player_name": "K.Allen",
       "player_full_name": "Keenan Allen",
@@ -4216,7 +4116,7 @@
       "flags": []
     },
     {
-      "rank": 84,
+      "rank": 82,
       "player_id": "00-0035689",
       "player_name": "D.Knox",
       "player_full_name": "Dawson Knox",
@@ -4266,7 +4166,7 @@
       "flags": []
     },
     {
-      "rank": 85,
+      "rank": 83,
       "player_id": "00-0040130",
       "player_name": "J.Higgins",
       "player_full_name": "Jayden Higgins",
@@ -4318,7 +4218,7 @@
       ]
     },
     {
-      "rank": 86,
+      "rank": 84,
       "player_id": "00-0034753",
       "player_name": "M.Andrews",
       "player_full_name": "Mark Andrews",
@@ -4368,7 +4268,7 @@
       "flags": []
     },
     {
-      "rank": 87,
+      "rank": 85,
       "player_id": "00-0034272",
       "player_name": "M.Valdes-Scantling",
       "player_full_name": "Marquez Valdes-Scantling",
@@ -4420,7 +4320,7 @@
       ]
     },
     {
-      "rank": 88,
+      "rank": 86,
       "player_id": "00-0040784",
       "player_name": "Q.Judkins",
       "player_full_name": "Quinshon Judkins",
@@ -4470,7 +4370,7 @@
       "flags": []
     },
     {
-      "rank": 89,
+      "rank": 87,
       "player_id": "00-0034827",
       "player_name": "D.Moore",
       "player_full_name": "DJ Moore",
@@ -4516,11 +4416,11 @@
         "inside_10_carries": 0.0227,
         "inside_10_targets": 0.0656
       },
-      "injury_flag": "",
+      "injury_flag": "Questionable",
       "flags": []
     },
     {
-      "rank": 90,
+      "rank": 88,
       "player_id": "00-0038951",
       "player_name": "S.Tucker",
       "player_full_name": "Sean Tucker",
@@ -4572,7 +4472,7 @@
       ]
     },
     {
-      "rank": 91,
+      "rank": 89,
       "player_id": "00-0040734",
       "player_name": "T.Henderson",
       "player_full_name": "TreVeyon Henderson",
@@ -4622,7 +4522,7 @@
       "flags": []
     },
     {
-      "rank": 92,
+      "rank": 90,
       "player_id": "00-0039342",
       "player_name": "X.Legette",
       "player_full_name": "Xavier Legette",
@@ -4668,11 +4568,11 @@
         "inside_10_carries": 0.0149,
         "inside_10_targets": 0.042
       },
-      "injury_flag": "",
+      "injury_flag": "Questionable",
       "flags": []
     },
     {
-      "rank": 93,
+      "rank": 91,
       "player_id": "00-0036875",
       "player_name": "R.Stevenson",
       "player_full_name": "Rhamondre Stevenson",
@@ -4722,7 +4622,7 @@
       "flags": []
     },
     {
-      "rank": 94,
+      "rank": 92,
       "player_id": "00-0037816",
       "player_name": "R.Doubs",
       "player_full_name": "Romeo Doubs",
@@ -4772,7 +4672,7 @@
       "flags": []
     },
     {
-      "rank": 95,
+      "rank": 93,
       "player_id": "00-0040743",
       "player_name": "T.Shough",
       "player_full_name": "Tyler Shough",
@@ -4822,7 +4722,7 @@
       "flags": []
     },
     {
-      "rank": 96,
+      "rank": 94,
       "player_id": "00-0039794",
       "player_name": "B.Allen",
       "player_full_name": "Braelon Allen",
@@ -4872,7 +4772,7 @@
       "flags": []
     },
     {
-      "rank": 97,
+      "rank": 95,
       "player_id": "00-0036919",
       "player_name": "K.Gainwell",
       "player_full_name": "Kenny Gainwell",
@@ -4922,7 +4822,7 @@
       "flags": []
     },
     {
-      "rank": 98,
+      "rank": 96,
       "player_id": "00-0040242",
       "player_name": "J.Croskey-Merritt",
       "player_full_name": "Jacory Croskey-Merritt",
@@ -4972,7 +4872,7 @@
       "flags": []
     },
     {
-      "rank": 99,
+      "rank": 97,
       "player_id": "00-0030061",
       "player_name": "Z.Ertz",
       "player_full_name": "Zach Ertz",
@@ -5024,7 +4924,7 @@
       ]
     },
     {
-      "rank": 100,
+      "rank": 98,
       "player_id": "00-0040189",
       "player_name": "O.Gadsden",
       "player_full_name": "Oronde Gadsden II",
@@ -5074,7 +4974,7 @@
       "flags": []
     },
     {
-      "rank": 101,
+      "rank": 99,
       "player_id": "00-0038563",
       "player_name": "T.Tucker",
       "player_full_name": "Tre Tucker",
@@ -5124,7 +5024,7 @@
       "flags": []
     },
     {
-      "rank": 102,
+      "rank": 100,
       "player_id": "00-0038544",
       "player_name": "Q.Johnston",
       "player_full_name": "Quentin Johnston",
@@ -5174,7 +5074,7 @@
       "flags": []
     },
     {
-      "rank": 103,
+      "rank": 101,
       "player_id": "00-0038120",
       "player_name": "B.Hall",
       "player_full_name": "Breece Hall",
@@ -5224,7 +5124,7 @@
       "flags": []
     },
     {
-      "rank": 104,
+      "rank": 102,
       "player_id": "00-0037525",
       "player_name": "J.Mason",
       "player_full_name": "Jordan Mason",
@@ -5274,7 +5174,7 @@
       "flags": []
     },
     {
-      "rank": 105,
+      "rank": 103,
       "player_id": "00-0040676",
       "player_name": "C.Ward",
       "player_full_name": "Cam Ward",
@@ -5324,7 +5224,7 @@
       "flags": []
     },
     {
-      "rank": 106,
+      "rank": 104,
       "player_id": "00-0039894",
       "player_name": "X.Worthy",
       "player_full_name": "Xavier Worthy",
@@ -5374,7 +5274,7 @@
       "flags": []
     },
     {
-      "rank": 107,
+      "rank": 105,
       "player_id": "00-0034351",
       "player_name": "D.Goedert",
       "player_full_name": "Dallas Goedert",
@@ -5424,7 +5324,7 @@
       "flags": []
     },
     {
-      "rank": 108,
+      "rank": 106,
       "player_id": "00-0038994",
       "player_name": "J.Addison",
       "player_full_name": "Jordan Addison",
@@ -5474,7 +5374,7 @@
       "flags": []
     },
     {
-      "rank": 109,
+      "rank": 107,
       "player_id": "00-0035261",
       "player_name": "T.Pollard",
       "player_full_name": "Tony Pollard",
@@ -5524,7 +5424,7 @@
       "flags": []
     },
     {
-      "rank": 110,
+      "rank": 108,
       "player_id": "00-0037263",
       "player_name": "T.Allgeier",
       "player_full_name": "Tyler Allgeier",
@@ -5574,7 +5474,7 @@
       "flags": []
     },
     {
-      "rank": 111,
+      "rank": 109,
       "player_id": "00-0040730",
       "player_name": "R.Harvey",
       "player_full_name": "RJ Harvey",
@@ -5624,7 +5524,7 @@
       "flags": []
     },
     {
-      "rank": 112,
+      "rank": 110,
       "player_id": "00-0039373",
       "player_name": "A.Estime",
       "player_full_name": "Audric Estim\u00e9",
@@ -5676,7 +5576,7 @@
       ]
     },
     {
-      "rank": 113,
+      "rank": 111,
       "player_id": "00-0040583",
       "player_name": "W.Marks",
       "player_full_name": "Woody Marks",
@@ -5726,57 +5626,7 @@
       "flags": []
     },
     {
-      "rank": 114,
-      "player_id": "00-0032775",
-      "player_name": "D.Robinson",
-      "player_full_name": "Demarcus Robinson",
-      "team": "SF",
-      "position": "WR",
-      "opponent": "vs ARI",
-      "kickoff": "Sunday 16:05 ET",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/cokassoz2z7hb4wk2krh",
-      "xtd_per_game": 0.2415,
-      "anytime_td_prob": 0.2146,
-      "trend": {
-        "direction": "up",
-        "recent_games": 3,
-        "earlier_games": 7,
-        "games_in_window": 10,
-        "recent_chances_per_game": 0.333,
-        "earlier_chances_per_game": 0.0,
-        "recent_tds": 1
-      },
-      "games_scored_last_10": 2,
-      "display": {
-        "player_name": "D. ROBINSON",
-        "hero": "21%",
-        "hero_label": "CHANCE TO SCORE",
-        "stat_1": "2 OF 10",
-        "stat_1_label": "GAMES W/ A TD",
-        "stat_2": "HEATING UP",
-        "stat_2_label": "LAST 3 GAMES"
-      },
-      "inside_10_opportunities": 1,
-      "end_zone_targets": 3,
-      "tds_last_10": 2,
-      "window_games": 10,
-      "inside_10_targets": 1,
-      "inside_10_carries": 0,
-      "goal_line_carries": 0,
-      "games_played": 14,
-      "end_zone_targets_pg": 0.3948,
-      "inside_10_carries_pg": 0.0572,
-      "inside_10_targets_pg": 0.2386,
-      "xtd_contribution": {
-        "end_zone_targets": 0.16,
-        "inside_10_carries": 0.0158,
-        "inside_10_targets": 0.0658
-      },
-      "injury_flag": "",
-      "flags": []
-    },
-    {
-      "rank": 115,
+      "rank": 112,
       "player_id": "00-0038117",
       "player_name": "W.Robinson",
       "player_full_name": "Wan'Dale Robinson",
@@ -5826,7 +5676,7 @@
       "flags": []
     },
     {
-      "rank": 116,
+      "rank": 113,
       "player_id": "00-0038608",
       "player_name": "K.Boutte",
       "player_full_name": "Kayshon Boutte",
@@ -5876,7 +5726,7 @@
       "flags": []
     },
     {
-      "rank": 117,
+      "rank": 114,
       "player_id": "00-0033921",
       "player_name": "C.Godwin",
       "player_full_name": "Chris Godwin Jr.",
@@ -5926,7 +5776,7 @@
       "flags": []
     },
     {
-      "rank": 118,
+      "rank": 115,
       "player_id": "00-0038618",
       "player_name": "X.Hutchinson",
       "player_full_name": "Xavier Hutchinson",
@@ -5976,7 +5826,7 @@
       "flags": []
     },
     {
-      "rank": 119,
+      "rank": 116,
       "player_id": "00-0033090",
       "player_name": "H.Henry",
       "player_full_name": "Hunter Henry",
@@ -6026,7 +5876,7 @@
       "flags": []
     },
     {
-      "rank": 120,
+      "rank": 117,
       "player_id": "00-0035250",
       "player_name": "D.Singletary",
       "player_full_name": "Devin Singletary",
@@ -6076,7 +5926,7 @@
       "flags": []
     },
     {
-      "rank": 121,
+      "rank": 118,
       "player_id": "00-0038606",
       "player_name": "P.Washington",
       "player_full_name": "Parker Washington",
@@ -6126,7 +5976,7 @@
       "flags": []
     },
     {
-      "rank": 122,
+      "rank": 119,
       "player_id": "00-0037291",
       "player_name": "J.Nailor",
       "player_full_name": "Jalen Nailor",
@@ -6176,57 +6026,7 @@
       "flags": []
     },
     {
-      "rank": 123,
-      "player_id": "00-0037664",
-      "player_name": "A.Pierce",
-      "player_full_name": "Alec Pierce",
-      "team": "IND",
-      "position": "WR",
-      "opponent": "vs HOU",
-      "kickoff": "Sunday 13:00 ET",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/qcg9t51wgp3hicavmkmy",
-      "xtd_per_game": 0.2336,
-      "anytime_td_prob": 0.2083,
-      "trend": {
-        "direction": "up",
-        "recent_games": 3,
-        "earlier_games": 7,
-        "games_in_window": 10,
-        "recent_chances_per_game": 0.667,
-        "earlier_chances_per_game": 0.143,
-        "recent_tds": 2
-      },
-      "games_scored_last_10": 4,
-      "display": {
-        "player_name": "A. PIERCE",
-        "hero": "21%",
-        "hero_label": "CHANCE TO SCORE",
-        "stat_1": "4 OF 10",
-        "stat_1_label": "GAMES W/ A TD",
-        "stat_2": "HEATING UP",
-        "stat_2_label": "LAST 3 GAMES"
-      },
-      "inside_10_opportunities": 3,
-      "end_zone_targets": 8,
-      "tds_last_10": 6,
-      "window_games": 10,
-      "inside_10_targets": 0,
-      "inside_10_carries": 0,
-      "goal_line_carries": 0,
-      "games_played": 15,
-      "end_zone_targets_pg": 0.4109,
-      "inside_10_carries_pg": 0.0542,
-      "inside_10_targets_pg": 0.1892,
-      "xtd_contribution": {
-        "end_zone_targets": 0.1665,
-        "inside_10_carries": 0.0149,
-        "inside_10_targets": 0.0522
-      },
-      "injury_flag": "",
-      "flags": []
-    },
-    {
-      "rank": 124,
+      "rank": 120,
       "player_id": "00-0033375",
       "player_name": "T.Patrick",
       "player_full_name": "Tim Patrick",
@@ -6278,7 +6078,7 @@
       ]
     },
     {
-      "rank": 125,
+      "rank": 121,
       "player_id": "00-0038104",
       "player_name": "T.Thornton",
       "player_full_name": "Tyquan Thornton",
@@ -6328,7 +6128,7 @@
       "flags": []
     },
     {
-      "rank": 126,
+      "rank": 122,
       "player_id": "00-0039916",
       "player_name": "R.Pearsall",
       "player_full_name": "Ricky Pearsall",
@@ -6380,7 +6180,7 @@
       ]
     },
     {
-      "rank": 127,
+      "rank": 123,
       "player_id": "00-0036628",
       "player_name": "J.Bates",
       "player_full_name": "John Bates",
@@ -6430,7 +6230,7 @@
       "flags": []
     },
     {
-      "rank": 128,
+      "rank": 124,
       "player_id": "00-0038933",
       "player_name": "D.Kincaid",
       "player_full_name": "Dalton Kincaid",
@@ -6480,7 +6280,7 @@
       "flags": []
     },
     {
-      "rank": 129,
+      "rank": 125,
       "player_id": "00-0034775",
       "player_name": "C.Kirk",
       "player_full_name": "Christian Kirk",
@@ -6532,7 +6332,7 @@
       ]
     },
     {
-      "rank": 130,
+      "rank": 126,
       "player_id": "00-0037666",
       "player_name": "J.Tolbert",
       "player_full_name": "Jalen Tolbert",
@@ -6584,7 +6384,7 @@
       ]
     },
     {
-      "rank": 131,
+      "rank": 127,
       "player_id": "00-0039918",
       "player_name": "C.Williams",
       "player_full_name": "Caleb Williams",
@@ -6634,7 +6434,7 @@
       "flags": []
     },
     {
-      "rank": 132,
+      "rank": 128,
       "player_id": "00-0036252",
       "player_name": "M.Pittman",
       "player_full_name": "Michael Pittman",
@@ -6680,11 +6480,11 @@
         "inside_10_carries": 0.0135,
         "inside_10_targets": 0.1024
       },
-      "injury_flag": "",
+      "injury_flag": "Questionable",
       "flags": []
     },
     {
-      "rank": 133,
+      "rank": 129,
       "player_id": "00-0036894",
       "player_name": "P.Freiermuth",
       "player_full_name": "Pat Freiermuth",
@@ -6734,7 +6534,7 @@
       "flags": []
     },
     {
-      "rank": 134,
+      "rank": 130,
       "player_id": "00-0034959",
       "player_name": "A.Beck",
       "player_full_name": "Andrew Beck",
@@ -6786,7 +6586,7 @@
       ]
     },
     {
-      "rank": 135,
+      "rank": 131,
       "player_id": "00-0037004",
       "player_name": "H.Long",
       "player_full_name": "Hunter Long",
@@ -6838,7 +6638,7 @@
       ]
     },
     {
-      "rank": 136,
+      "rank": 132,
       "player_id": "00-0040466",
       "player_name": "R.Sanders",
       "player_full_name": "Raheim Sanders",
@@ -6888,7 +6688,7 @@
       "flags": []
     },
     {
-      "rank": 137,
+      "rank": 133,
       "player_id": "00-0039847",
       "player_name": "T.Johnson",
       "player_full_name": "Theo Johnson",
@@ -6938,7 +6738,7 @@
       "flags": []
     },
     {
-      "rank": 138,
+      "rank": 134,
       "player_id": "00-0038953",
       "player_name": "D.Drummond",
       "player_full_name": "Dylan Drummond",
@@ -6990,7 +6790,7 @@
       ]
     },
     {
-      "rank": 139,
+      "rank": 135,
       "player_id": "00-0039793",
       "player_name": "A.Barner",
       "player_full_name": "AJ Barner",
@@ -7040,7 +6840,7 @@
       "flags": []
     },
     {
-      "rank": 140,
+      "rank": 136,
       "player_id": "00-0037256",
       "player_name": "R.White",
       "player_full_name": "Rachaad White",
@@ -7090,7 +6890,7 @@
       "flags": []
     },
     {
-      "rank": 141,
+      "rank": 137,
       "player_id": "00-0039893",
       "player_name": "Bri.Thomas",
       "player_full_name": "Brian Thomas Jr.",
@@ -7140,7 +6940,7 @@
       "flags": []
     },
     {
-      "rank": 142,
+      "rank": 138,
       "player_id": "00-0038559",
       "player_name": "Mi.Wilson",
       "player_full_name": "Michael Wilson",
@@ -7190,7 +6990,7 @@
       "flags": []
     },
     {
-      "rank": 143,
+      "rank": 139,
       "player_id": "00-0033555",
       "player_name": "M.Hollins",
       "player_full_name": "Mack Hollins",
@@ -7240,7 +7040,7 @@
       "flags": []
     },
     {
-      "rank": 144,
+      "rank": 140,
       "player_id": "00-0036389",
       "player_name": "J.Hurts",
       "player_full_name": "Jalen Hurts",
@@ -7290,7 +7090,7 @@
       "flags": []
     },
     {
-      "rank": 145,
+      "rank": 141,
       "player_id": "00-0038935",
       "player_name": "B.Strange",
       "player_full_name": "Brenton Strange",
@@ -7340,7 +7140,7 @@
       "flags": []
     },
     {
-      "rank": 146,
+      "rank": 142,
       "player_id": "00-0038551",
       "player_name": "K.Miller",
       "player_full_name": "Kendre Miller",
@@ -7390,7 +7190,7 @@
       "flags": []
     },
     {
-      "rank": 147,
+      "rank": 143,
       "player_id": "00-0037838",
       "player_name": "I.Likely",
       "player_full_name": "Isaiah Likely",
@@ -7440,7 +7240,7 @@
       "flags": []
     },
     {
-      "rank": 148,
+      "rank": 144,
       "player_id": "00-0036945",
       "player_name": "J.Fields",
       "player_full_name": "Justin Fields",
@@ -7492,7 +7292,7 @@
       ]
     },
     {
-      "rank": 149,
+      "rank": 145,
       "player_id": "00-0040719",
       "player_name": "B.Tuten",
       "player_full_name": "Bhayshul Tuten",
@@ -7542,7 +7342,7 @@
       "flags": []
     },
     {
-      "rank": 150,
+      "rank": 146,
       "player_id": "00-0036355",
       "player_name": "J.Herbert",
       "player_full_name": "Justin Herbert",
@@ -7592,7 +7392,7 @@
       "flags": []
     },
     {
-      "rank": 151,
+      "rank": 147,
       "player_id": "00-0036550",
       "player_name": "R.Bateman",
       "player_full_name": "Rashod Bateman",
@@ -7642,7 +7442,7 @@
       "flags": []
     },
     {
-      "rank": 152,
+      "rank": 148,
       "player_id": "00-0035406",
       "player_name": "L.Humphrey",
       "player_full_name": "Lil'Jordan Humphrey",
@@ -7692,7 +7492,7 @@
       "flags": []
     },
     {
-      "rank": 153,
+      "rank": 149,
       "player_id": "00-0035662",
       "player_name": "M.Brown",
       "player_full_name": "Marquise Brown",
@@ -7742,7 +7542,7 @@
       "flags": []
     },
     {
-      "rank": 154,
+      "rank": 150,
       "player_id": "00-0036613",
       "player_name": "J.Waddle",
       "player_full_name": "Jaylen Waddle",
@@ -7792,7 +7592,7 @@
       "flags": []
     },
     {
-      "rank": 155,
+      "rank": 151,
       "player_id": "00-0038555",
       "player_name": "T.Bigsby",
       "player_full_name": "Tank Bigsby",
@@ -7842,7 +7642,7 @@
       "flags": []
     },
     {
-      "rank": 156,
+      "rank": 152,
       "player_id": "00-0039355",
       "player_name": "L.McCaffrey",
       "player_full_name": "Luke McCaffrey",
@@ -7894,7 +7694,7 @@
       ]
     },
     {
-      "rank": 157,
+      "rank": 153,
       "player_id": "00-0035537",
       "player_name": "Ty.Johnson",
       "player_full_name": "Ty Johnson",
@@ -7946,7 +7746,7 @@
       ]
     },
     {
-      "rank": 158,
+      "rank": 154,
       "player_id": "00-0037304",
       "player_name": "C.Heyward",
       "player_full_name": "Connor Heyward",
@@ -7996,7 +7796,7 @@
       "flags": []
     },
     {
-      "rank": 159,
+      "rank": 155,
       "player_id": "00-0037261",
       "player_name": "K.Shakir",
       "player_full_name": "Khalil Shakir",
@@ -8046,7 +7846,7 @@
       "flags": []
     },
     {
-      "rank": 160,
+      "rank": 156,
       "player_id": "00-0037197",
       "player_name": "I.Pacheco",
       "player_full_name": "Isiah Pacheco",
@@ -8098,7 +7898,7 @@
       ]
     },
     {
-      "rank": 161,
+      "rank": 157,
       "player_id": "00-0040187",
       "player_name": "M.Evans",
       "player_full_name": "Mitchell Evans",
@@ -8148,7 +7948,7 @@
       "flags": []
     },
     {
-      "rank": 162,
+      "rank": 158,
       "player_id": "00-0032392",
       "player_name": "A.Hooper",
       "player_full_name": "Austin Hooper",
@@ -8198,7 +7998,7 @@
       "flags": []
     },
     {
-      "rank": 163,
+      "rank": 159,
       "player_id": "00-0032385",
       "player_name": "S.Shepard",
       "player_full_name": "Sterling Shepard",
@@ -8250,57 +8050,7 @@
       ]
     },
     {
-      "rank": 164,
-      "player_id": "00-0036139",
-      "player_name": "R.Dowdle",
-      "player_full_name": "Rico Dowdle",
-      "team": "PIT",
-      "position": "RB",
-      "opponent": "vs CIN",
-      "kickoff": "Sunday 13:00 ET",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/mx2bxccuzmdvzbksypws",
-      "xtd_per_game": 0.1908,
-      "anytime_td_prob": 0.1737,
-      "trend": {
-        "direction": "down",
-        "recent_games": 3,
-        "earlier_games": 7,
-        "games_in_window": 10,
-        "recent_chances_per_game": 0.0,
-        "earlier_chances_per_game": 0.429,
-        "recent_tds": 0
-      },
-      "games_scored_last_10": 2,
-      "display": {
-        "player_name": "R. DOWDLE",
-        "hero": "17%",
-        "hero_label": "CHANCE TO SCORE",
-        "stat_1": "2 OF 10",
-        "stat_1_label": "GAMES W/ A TD",
-        "stat_2": "COOLING OFF",
-        "stat_2_label": "LAST 3 GAMES"
-      },
-      "inside_10_opportunities": 3,
-      "end_zone_targets": 1,
-      "tds_last_10": 2,
-      "window_games": 10,
-      "inside_10_targets": 0,
-      "inside_10_carries": 0,
-      "goal_line_carries": 0,
-      "games_played": 17,
-      "end_zone_targets_pg": 0.0717,
-      "inside_10_carries_pg": 0.5157,
-      "inside_10_targets_pg": 0.0712,
-      "xtd_contribution": {
-        "end_zone_targets": 0.0291,
-        "inside_10_carries": 0.1421,
-        "inside_10_targets": 0.0196
-      },
-      "injury_flag": "",
-      "flags": []
-    },
-    {
-      "rank": 165,
+      "rank": 160,
       "player_id": "00-0040078",
       "player_name": "B.Smith",
       "player_full_name": "Brashard Smith",
@@ -8352,7 +8102,7 @@
       ]
     },
     {
-      "rank": 166,
+      "rank": 161,
       "player_id": "00-0039410",
       "player_name": "R.Flournoy",
       "player_full_name": "Ryan Flournoy",
@@ -8402,7 +8152,7 @@
       "flags": []
     },
     {
-      "rank": 167,
+      "rank": 162,
       "player_id": "00-0037740",
       "player_name": "G.Wilson",
       "player_full_name": "Garrett Wilson",
@@ -8452,7 +8202,7 @@
       "flags": []
     },
     {
-      "rank": 168,
+      "rank": 163,
       "player_id": "00-0040718",
       "player_name": "T.Hunter",
       "player_full_name": "Travis Hunter",
@@ -8502,7 +8252,7 @@
       "flags": []
     },
     {
-      "rank": 169,
+      "rank": 164,
       "player_id": "00-0038979",
       "player_name": "C.Tillman",
       "player_full_name": "Cedric Tillman",
@@ -8554,7 +8304,7 @@
       ]
     },
     {
-      "rank": 170,
+      "rank": 165,
       "player_id": "00-0039738",
       "player_name": "B.Corum",
       "player_full_name": "Blake Corum",
@@ -8604,7 +8354,7 @@
       "flags": []
     },
     {
-      "rank": 171,
+      "rank": 166,
       "player_id": "00-0039361",
       "player_name": "B.Irving",
       "player_full_name": "Bucky Irving",
@@ -8654,7 +8404,7 @@
       "flags": []
     },
     {
-      "rank": 172,
+      "rank": 167,
       "player_id": "00-0033854",
       "player_name": "D.Ogunbowale",
       "player_full_name": "Dare Ogunbowale",
@@ -8706,7 +8456,7 @@
       ]
     },
     {
-      "rank": 173,
+      "rank": 168,
       "player_id": "00-0035229",
       "player_name": "T.Hockenson",
       "player_full_name": "T.J. Hockenson",
@@ -8756,57 +8506,7 @@
       "flags": []
     },
     {
-      "rank": 174,
-      "player_id": "00-0039874",
-      "player_name": "J.Wright",
-      "player_full_name": "Jaylen Wright",
-      "team": "MIA",
-      "position": "RB",
-      "opponent": "vs KC",
-      "kickoff": "Sunday 13:00 ET",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/feeuommtlmpvuxvtb1zt",
-      "xtd_per_game": 0.1814,
-      "anytime_td_prob": 0.1659,
-      "trend": {
-        "direction": "up",
-        "recent_games": 3,
-        "earlier_games": 7,
-        "games_in_window": 10,
-        "recent_chances_per_game": 1.333,
-        "earlier_chances_per_game": 0.429,
-        "recent_tds": 0
-      },
-      "games_scored_last_10": 2,
-      "display": {
-        "player_name": "J. WRIGHT",
-        "hero": "17%",
-        "hero_label": "CHANCE TO SCORE",
-        "stat_1": "2 OF 10",
-        "stat_1_label": "GAMES W/ A TD",
-        "stat_2": "HEATING UP",
-        "stat_2_label": "LAST 3 GAMES"
-      },
-      "inside_10_opportunities": 7,
-      "end_zone_targets": 0,
-      "tds_last_10": 2,
-      "window_games": 10,
-      "inside_10_targets": 0,
-      "inside_10_carries": 1,
-      "goal_line_carries": 0,
-      "games_played": 9,
-      "end_zone_targets_pg": 0.062,
-      "inside_10_carries_pg": 0.5061,
-      "inside_10_targets_pg": 0.0611,
-      "xtd_contribution": {
-        "end_zone_targets": 0.0251,
-        "inside_10_carries": 0.1394,
-        "inside_10_targets": 0.0169
-      },
-      "injury_flag": "",
-      "flags": []
-    },
-    {
-      "rank": 175,
+      "rank": 169,
       "player_id": "00-0029892",
       "player_name": "K.Juszczyk",
       "player_full_name": "Kyle Juszczyk",
@@ -8856,7 +8556,7 @@
       "flags": []
     },
     {
-      "rank": 176,
+      "rank": 170,
       "player_id": "00-0026158",
       "player_name": "J.Flacco",
       "player_full_name": "Joe Flacco",
@@ -8908,7 +8608,7 @@
       ]
     },
     {
-      "rank": 177,
+      "rank": 171,
       "player_id": "00-0039851",
       "player_name": "D.Maye",
       "player_full_name": "Drake Maye",
@@ -8958,7 +8658,7 @@
       "flags": []
     },
     {
-      "rank": 178,
+      "rank": 172,
       "player_id": "00-0036971",
       "player_name": "T.Lawrence",
       "player_full_name": "Trevor Lawrence",
@@ -9008,57 +8708,7 @@
       "flags": []
     },
     {
-      "rank": 179,
-      "player_id": "00-0038619",
-      "player_name": "A.Iosivas",
-      "player_full_name": "Andrei Iosivas",
-      "team": "CIN",
-      "position": "WR",
-      "opponent": "@ PIT",
-      "kickoff": "Sunday 13:00 ET",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/xhrvbt81iohroyftuyj2",
-      "xtd_per_game": 0.1767,
-      "anytime_td_prob": 0.162,
-      "trend": {
-        "direction": "up",
-        "recent_games": 3,
-        "earlier_games": 7,
-        "games_in_window": 10,
-        "recent_chances_per_game": 0.333,
-        "earlier_chances_per_game": 0.143,
-        "recent_tds": 0
-      },
-      "games_scored_last_10": 1,
-      "display": {
-        "player_name": "A. IOSIVAS",
-        "hero": "16%",
-        "hero_label": "CHANCE TO SCORE",
-        "stat_1": "1 OF 10",
-        "stat_1_label": "GAMES W/ A TD",
-        "stat_2": "HEATING UP",
-        "stat_2_label": "LAST 3 GAMES"
-      },
-      "inside_10_opportunities": 2,
-      "end_zone_targets": 1,
-      "tds_last_10": 1,
-      "window_games": 10,
-      "inside_10_targets": 1,
-      "inside_10_carries": 0,
-      "goal_line_carries": 0,
-      "games_played": 15,
-      "end_zone_targets_pg": 0.1898,
-      "inside_10_carries_pg": 0.0542,
-      "inside_10_targets_pg": 0.3076,
-      "xtd_contribution": {
-        "end_zone_targets": 0.0769,
-        "inside_10_carries": 0.0149,
-        "inside_10_targets": 0.0848
-      },
-      "injury_flag": "",
-      "flags": []
-    },
-    {
-      "rank": 180,
+      "rank": 173,
       "player_id": "00-0030506",
       "player_name": "T.Kelce",
       "player_full_name": "Travis Kelce",
@@ -9108,7 +8758,7 @@
       "flags": []
     },
     {
-      "rank": 181,
+      "rank": 174,
       "player_id": "00-0038128",
       "player_name": "M.Willis",
       "player_full_name": "Malik Willis",
@@ -9158,7 +8808,7 @@
       "flags": []
     },
     {
-      "rank": 182,
+      "rank": 175,
       "player_id": "00-0036290",
       "player_name": "C.Kmet",
       "player_full_name": "Cole Kmet",
@@ -9208,7 +8858,7 @@
       "flags": []
     },
     {
-      "rank": 183,
+      "rank": 176,
       "player_id": "00-0040584",
       "player_name": "G.Helm",
       "player_full_name": "Gunnar Helm",
@@ -9258,7 +8908,7 @@
       "flags": []
     },
     {
-      "rank": 184,
+      "rank": 177,
       "player_id": "00-0034613",
       "player_name": "T.Hudson",
       "player_full_name": "Tanner Hudson",
@@ -9308,7 +8958,7 @@
       "flags": []
     },
     {
-      "rank": 185,
+      "rank": 178,
       "player_id": "00-0036988",
       "player_name": "J.Palmer",
       "player_full_name": "Josh Palmer",
@@ -9358,7 +9008,7 @@
       "flags": []
     },
     {
-      "rank": 186,
+      "rank": 179,
       "player_id": "00-0040691",
       "player_name": "J.Dart",
       "player_full_name": "Jaxson Dart",
@@ -9408,7 +9058,7 @@
       "flags": []
     },
     {
-      "rank": 187,
+      "rank": 180,
       "player_id": "00-0039356",
       "player_name": "J.Sanders",
       "player_full_name": "Ja'Tavion Sanders",
@@ -9460,111 +9110,7 @@
       ]
     },
     {
-      "rank": 188,
-      "player_id": "00-0039921",
-      "player_name": "T.Benson",
-      "player_full_name": "Trey Benson",
-      "team": "ARI",
-      "position": "RB",
-      "opponent": "@ SF",
-      "kickoff": "Sunday 16:05 ET",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/liruc5jotnsi4ue9p9yx",
-      "xtd_per_game": 0.1726,
-      "anytime_td_prob": 0.1585,
-      "trend": {
-        "direction": "",
-        "recent_games": 3,
-        "earlier_games": 1,
-        "games_in_window": 4,
-        "recent_chances_per_game": 0.333,
-        "earlier_chances_per_game": 1.0,
-        "recent_tds": 0
-      },
-      "games_scored_last_10": 0,
-      "display": {
-        "player_name": "T. BENSON",
-        "hero": "16%",
-        "hero_label": "CHANCE TO SCORE",
-        "stat_1": "0 OF 4",
-        "stat_1_label": "GAMES W/ A TD",
-        "stat_2": "\u2014",
-        "stat_2_label": "LAST 3 GAMES"
-      },
-      "inside_10_opportunities": 2,
-      "end_zone_targets": 0,
-      "tds_last_10": 0,
-      "window_games": 10,
-      "inside_10_targets": 0,
-      "inside_10_carries": 0,
-      "goal_line_carries": 0,
-      "games_played": 4,
-      "end_zone_targets_pg": 0.1008,
-      "inside_10_carries_pg": 0.3787,
-      "inside_10_targets_pg": 0.0993,
-      "xtd_contribution": {
-        "end_zone_targets": 0.0408,
-        "inside_10_carries": 0.1043,
-        "inside_10_targets": 0.0274
-      },
-      "injury_flag": "",
-      "flags": [
-        "no_current_data"
-      ]
-    },
-    {
-      "rank": 189,
-      "player_id": "00-0040179",
-      "player_name": "D.Giddens",
-      "player_full_name": "DJ Giddens",
-      "team": "IND",
-      "position": "RB",
-      "opponent": "vs HOU",
-      "kickoff": "Sunday 13:00 ET",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/y2vrgvb9kbvfpmyb3yzu",
-      "xtd_per_game": 0.1726,
-      "anytime_td_prob": 0.1585,
-      "trend": {
-        "direction": "down",
-        "recent_games": 3,
-        "earlier_games": 2,
-        "games_in_window": 5,
-        "recent_chances_per_game": 0.0,
-        "earlier_chances_per_game": 1.0,
-        "recent_tds": 0
-      },
-      "games_scored_last_10": 0,
-      "display": {
-        "player_name": "D. GIDDENS",
-        "hero": "16%",
-        "hero_label": "CHANCE TO SCORE",
-        "stat_1": "0 OF 5",
-        "stat_1_label": "GAMES W/ A TD",
-        "stat_2": "COOLING OFF",
-        "stat_2_label": "LAST 3 GAMES"
-      },
-      "inside_10_opportunities": 2,
-      "end_zone_targets": 0,
-      "tds_last_10": 0,
-      "window_games": 10,
-      "inside_10_targets": 0,
-      "inside_10_carries": 0,
-      "goal_line_carries": 0,
-      "games_played": 4,
-      "end_zone_targets_pg": 0.1008,
-      "inside_10_carries_pg": 0.2537,
-      "inside_10_targets_pg": 0.2243,
-      "xtd_contribution": {
-        "end_zone_targets": 0.0408,
-        "inside_10_carries": 0.0699,
-        "inside_10_targets": 0.0619
-      },
-      "injury_flag": "",
-      "flags": [
-        "no_current_data"
-      ]
-    },
-    {
-      "rank": 190,
+      "rank": 181,
       "player_id": "00-0039405",
       "player_name": "J.Jordan",
       "player_full_name": "Jawhar Jordan",
@@ -9616,7 +9162,111 @@
       ]
     },
     {
-      "rank": 191,
+      "rank": 182,
+      "player_id": "00-0039921",
+      "player_name": "T.Benson",
+      "player_full_name": "Trey Benson",
+      "team": "ARI",
+      "position": "RB",
+      "opponent": "@ SF",
+      "kickoff": "Sunday 16:05 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/liruc5jotnsi4ue9p9yx",
+      "xtd_per_game": 0.1726,
+      "anytime_td_prob": 0.1585,
+      "trend": {
+        "direction": "",
+        "recent_games": 3,
+        "earlier_games": 1,
+        "games_in_window": 4,
+        "recent_chances_per_game": 0.333,
+        "earlier_chances_per_game": 1.0,
+        "recent_tds": 0
+      },
+      "games_scored_last_10": 0,
+      "display": {
+        "player_name": "T. BENSON",
+        "hero": "16%",
+        "hero_label": "CHANCE TO SCORE",
+        "stat_1": "0 OF 4",
+        "stat_1_label": "GAMES W/ A TD",
+        "stat_2": "\u2014",
+        "stat_2_label": "LAST 3 GAMES"
+      },
+      "inside_10_opportunities": 2,
+      "end_zone_targets": 0,
+      "tds_last_10": 0,
+      "window_games": 10,
+      "inside_10_targets": 0,
+      "inside_10_carries": 0,
+      "goal_line_carries": 0,
+      "games_played": 4,
+      "end_zone_targets_pg": 0.1008,
+      "inside_10_carries_pg": 0.3787,
+      "inside_10_targets_pg": 0.0993,
+      "xtd_contribution": {
+        "end_zone_targets": 0.0408,
+        "inside_10_carries": 0.1043,
+        "inside_10_targets": 0.0274
+      },
+      "injury_flag": "",
+      "flags": [
+        "no_current_data"
+      ]
+    },
+    {
+      "rank": 183,
+      "player_id": "00-0040179",
+      "player_name": "D.Giddens",
+      "player_full_name": "DJ Giddens",
+      "team": "IND",
+      "position": "RB",
+      "opponent": "vs HOU",
+      "kickoff": "Sunday 13:00 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/y2vrgvb9kbvfpmyb3yzu",
+      "xtd_per_game": 0.1726,
+      "anytime_td_prob": 0.1585,
+      "trend": {
+        "direction": "down",
+        "recent_games": 3,
+        "earlier_games": 2,
+        "games_in_window": 5,
+        "recent_chances_per_game": 0.0,
+        "earlier_chances_per_game": 1.0,
+        "recent_tds": 0
+      },
+      "games_scored_last_10": 0,
+      "display": {
+        "player_name": "D. GIDDENS",
+        "hero": "16%",
+        "hero_label": "CHANCE TO SCORE",
+        "stat_1": "0 OF 5",
+        "stat_1_label": "GAMES W/ A TD",
+        "stat_2": "COOLING OFF",
+        "stat_2_label": "LAST 3 GAMES"
+      },
+      "inside_10_opportunities": 2,
+      "end_zone_targets": 0,
+      "tds_last_10": 0,
+      "window_games": 10,
+      "inside_10_targets": 0,
+      "inside_10_carries": 0,
+      "goal_line_carries": 0,
+      "games_played": 4,
+      "end_zone_targets_pg": 0.1008,
+      "inside_10_carries_pg": 0.2537,
+      "inside_10_targets_pg": 0.2243,
+      "xtd_contribution": {
+        "end_zone_targets": 0.0408,
+        "inside_10_carries": 0.0699,
+        "inside_10_targets": 0.0619
+      },
+      "injury_flag": "",
+      "flags": [
+        "no_current_data"
+      ]
+    },
+    {
+      "rank": 184,
       "player_id": "00-0034383",
       "player_name": "D.Schultz",
       "player_full_name": "Dalton Schultz",
@@ -9666,7 +9316,7 @@
       "flags": []
     },
     {
-      "rank": 192,
+      "rank": 185,
       "player_id": "00-0033885",
       "player_name": "D.Njoku",
       "player_full_name": "David Njoku",
@@ -9716,7 +9366,7 @@
       "flags": []
     },
     {
-      "rank": 193,
+      "rank": 186,
       "player_id": "00-0035676",
       "player_name": "A.Brown",
       "player_full_name": "A.J. Brown",
@@ -9766,7 +9416,7 @@
       "flags": []
     },
     {
-      "rank": 194,
+      "rank": 187,
       "player_id": "00-0039299",
       "player_name": "G.Holani",
       "player_full_name": "George Holani",
@@ -9816,7 +9466,7 @@
       "flags": []
     },
     {
-      "rank": 195,
+      "rank": 188,
       "player_id": "00-0033110",
       "player_name": "T.Higbee",
       "player_full_name": "Tyler Higbee",
@@ -9866,7 +9516,7 @@
       "flags": []
     },
     {
-      "rank": 196,
+      "rank": 189,
       "player_id": "00-0037252",
       "player_name": "G.Dulcich",
       "player_full_name": "Greg Dulcich",
@@ -9916,7 +9566,7 @@
       "flags": []
     },
     {
-      "rank": 197,
+      "rank": 190,
       "player_id": "00-0040705",
       "player_name": "C.Dike",
       "player_full_name": "Chimere Dike",
@@ -9966,7 +9616,7 @@
       "flags": []
     },
     {
-      "rank": 198,
+      "rank": 191,
       "player_id": "00-0040644",
       "player_name": "T.Etienne",
       "player_full_name": "Trevor Etienne",
@@ -10018,7 +9668,7 @@
       ]
     },
     {
-      "rank": 199,
+      "rank": 192,
       "player_id": "00-0038996",
       "player_name": "T.Kraft",
       "player_full_name": "Tucker Kraft",
@@ -10068,7 +9718,7 @@
       "flags": []
     },
     {
-      "rank": 200,
+      "rank": 193,
       "player_id": "00-0036924",
       "player_name": "M.Carter",
       "player_full_name": "Michael Carter",
@@ -10120,7 +9770,7 @@
       ]
     },
     {
-      "rank": 201,
+      "rank": 194,
       "player_id": "00-0039064",
       "player_name": "Z.Flowers",
       "player_full_name": "Zay Flowers",
@@ -10166,11 +9816,11 @@
         "inside_10_carries": 0.0135,
         "inside_10_targets": 0.0656
       },
-      "injury_flag": "",
+      "injury_flag": "Questionable",
       "flags": []
     },
     {
-      "rank": 202,
+      "rank": 195,
       "player_id": "00-0035710",
       "player_name": "D.Jones",
       "player_full_name": "Daniel Jones",
@@ -10220,7 +9870,7 @@
       "flags": []
     },
     {
-      "rank": 203,
+      "rank": 196,
       "player_id": "00-0033908",
       "player_name": "C.Kupp",
       "player_full_name": "Cooper Kupp",
@@ -10270,7 +9920,7 @@
       "flags": []
     },
     {
-      "rank": 204,
+      "rank": 197,
       "player_id": "00-0039384",
       "player_name": "T.Tracy",
       "player_full_name": "Tyrone Tracy Jr.",
@@ -10320,7 +9970,7 @@
       "flags": []
     },
     {
-      "rank": 205,
+      "rank": 198,
       "player_id": "00-0033906",
       "player_name": "A.Kamara",
       "player_full_name": "Alvin Kamara",
@@ -10370,7 +10020,7 @@
       "flags": []
     },
     {
-      "rank": 206,
+      "rank": 199,
       "player_id": "00-0036970",
       "player_name": "K.Pitts",
       "player_full_name": "Kyle Pitts",
@@ -10420,7 +10070,7 @@
       "flags": []
     },
     {
-      "rank": 207,
+      "rank": 200,
       "player_id": "00-0040198",
       "player_name": "O.Gordon",
       "player_full_name": "Ollie Gordon II",
@@ -10470,7 +10120,7 @@
       "flags": []
     },
     {
-      "rank": 208,
+      "rank": 201,
       "player_id": "00-0033293",
       "player_name": "A.Jones",
       "player_full_name": "Aaron Jones",
@@ -10520,57 +10170,7 @@
       "flags": []
     },
     {
-      "rank": 209,
-      "player_id": "00-0039910",
-      "player_name": "J.Daniels",
-      "player_full_name": "Jayden Daniels",
-      "team": "WAS",
-      "position": "QB",
-      "opponent": "vs SEA",
-      "kickoff": "Sunday 13:00 ET",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/gfz8k5onuqjrche9ogqc",
-      "xtd_per_game": 0.1543,
-      "anytime_td_prob": 0.143,
-      "trend": {
-        "direction": "down",
-        "recent_games": 3,
-        "earlier_games": 6,
-        "games_in_window": 9,
-        "recent_chances_per_game": 0.333,
-        "earlier_chances_per_game": 0.5,
-        "recent_tds": 0
-      },
-      "games_scored_last_10": 2,
-      "display": {
-        "player_name": "J. DANIELS",
-        "hero": "14%",
-        "hero_label": "CHANCE TO SCORE",
-        "stat_1": "2 OF 9",
-        "stat_1_label": "GAMES W/ A TD",
-        "stat_2": "COOLING OFF",
-        "stat_2_label": "LAST 3 GAMES"
-      },
-      "inside_10_opportunities": 4,
-      "end_zone_targets": 0,
-      "tds_last_10": 2,
-      "window_games": 10,
-      "inside_10_targets": 0,
-      "inside_10_carries": 1,
-      "goal_line_carries": 0,
-      "games_played": 7,
-      "end_zone_targets_pg": 0.0733,
-      "inside_10_carries_pg": 0.38,
-      "inside_10_targets_pg": 0.0722,
-      "xtd_contribution": {
-        "end_zone_targets": 0.0297,
-        "inside_10_carries": 0.1047,
-        "inside_10_targets": 0.0199
-      },
-      "injury_flag": "",
-      "flags": []
-    },
-    {
-      "rank": 210,
+      "rank": 202,
       "player_id": "00-0035359",
       "player_name": "D.Sills",
       "player_full_name": "David Sills",
@@ -10622,7 +10222,7 @@
       ]
     },
     {
-      "rank": 211,
+      "rank": 203,
       "player_id": "00-0040586",
       "player_name": "J.Blue",
       "player_full_name": "Jaydon Blue",
@@ -10674,7 +10274,7 @@
       ]
     },
     {
-      "rank": 212,
+      "rank": 204,
       "player_id": "00-0035208",
       "player_name": "O.Zaccheaus",
       "player_full_name": "Olamide Zaccheaus",
@@ -10724,7 +10324,7 @@
       "flags": []
     },
     {
-      "rank": 213,
+      "rank": 205,
       "player_id": "00-0037085",
       "player_name": "T.Badie",
       "player_full_name": "Tyler Badie",
@@ -10774,7 +10374,7 @@
       "flags": []
     },
     {
-      "rank": 214,
+      "rank": 206,
       "player_id": "00-0039066",
       "player_name": "M.Mayer",
       "player_full_name": "Michael Mayer",
@@ -10824,7 +10424,7 @@
       "flags": []
     },
     {
-      "rank": 215,
+      "rank": 207,
       "player_id": "00-0036309",
       "player_name": "D.Mooney",
       "player_full_name": "Darnell Mooney",
@@ -10874,59 +10474,7 @@
       "flags": []
     },
     {
-      "rank": 216,
-      "player_id": "00-0037563",
-      "player_name": "M.Davis",
-      "player_full_name": "Malik Davis",
-      "team": "DAL",
-      "position": "RB",
-      "opponent": "vs BAL",
-      "kickoff": "Sunday 16:25 ET",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/zvranxxyt8qeihn8c2q9",
-      "xtd_per_game": 0.1486,
-      "anytime_td_prob": 0.1381,
-      "trend": {
-        "direction": "up",
-        "recent_games": 3,
-        "earlier_games": 6,
-        "games_in_window": 9,
-        "recent_chances_per_game": 1.0,
-        "earlier_chances_per_game": 0.167,
-        "recent_tds": 1
-      },
-      "games_scored_last_10": 2,
-      "display": {
-        "player_name": "M. DAVIS",
-        "hero": "14%",
-        "hero_label": "CHANCE TO SCORE",
-        "stat_1": "2 OF 9",
-        "stat_1_label": "GAMES W/ A TD",
-        "stat_2": "HEATING UP",
-        "stat_2_label": "LAST 3 GAMES"
-      },
-      "inside_10_opportunities": 4,
-      "end_zone_targets": 0,
-      "tds_last_10": 2,
-      "window_games": 10,
-      "inside_10_targets": 0,
-      "inside_10_carries": 0,
-      "goal_line_carries": 0,
-      "games_played": 9,
-      "end_zone_targets_pg": 0.062,
-      "inside_10_carries_pg": 0.3869,
-      "inside_10_targets_pg": 0.0611,
-      "xtd_contribution": {
-        "end_zone_targets": 0.0251,
-        "inside_10_carries": 0.1066,
-        "inside_10_targets": 0.0169
-      },
-      "injury_flag": "",
-      "flags": [
-        "no_current_data"
-      ]
-    },
-    {
-      "rank": 217,
+      "rank": 208,
       "player_id": "00-0039923",
       "player_name": "J.McCarthy",
       "player_full_name": "J.J. McCarthy",
@@ -10978,7 +10526,59 @@
       ]
     },
     {
-      "rank": 218,
+      "rank": 209,
+      "player_id": "00-0037563",
+      "player_name": "M.Davis",
+      "player_full_name": "Malik Davis",
+      "team": "DAL",
+      "position": "RB",
+      "opponent": "vs BAL",
+      "kickoff": "Sunday 16:25 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/zvranxxyt8qeihn8c2q9",
+      "xtd_per_game": 0.1486,
+      "anytime_td_prob": 0.1381,
+      "trend": {
+        "direction": "up",
+        "recent_games": 3,
+        "earlier_games": 6,
+        "games_in_window": 9,
+        "recent_chances_per_game": 1.0,
+        "earlier_chances_per_game": 0.167,
+        "recent_tds": 1
+      },
+      "games_scored_last_10": 2,
+      "display": {
+        "player_name": "M. DAVIS",
+        "hero": "14%",
+        "hero_label": "CHANCE TO SCORE",
+        "stat_1": "2 OF 9",
+        "stat_1_label": "GAMES W/ A TD",
+        "stat_2": "HEATING UP",
+        "stat_2_label": "LAST 3 GAMES"
+      },
+      "inside_10_opportunities": 4,
+      "end_zone_targets": 0,
+      "tds_last_10": 2,
+      "window_games": 10,
+      "inside_10_targets": 0,
+      "inside_10_carries": 0,
+      "goal_line_carries": 0,
+      "games_played": 9,
+      "end_zone_targets_pg": 0.062,
+      "inside_10_carries_pg": 0.3869,
+      "inside_10_targets_pg": 0.0611,
+      "xtd_contribution": {
+        "end_zone_targets": 0.0251,
+        "inside_10_carries": 0.1066,
+        "inside_10_targets": 0.0169
+      },
+      "injury_flag": "",
+      "flags": [
+        "no_current_data"
+      ]
+    },
+    {
+      "rank": 210,
       "player_id": "00-0036407",
       "player_name": "J.Jeudy",
       "player_full_name": "Jerry Jeudy",
@@ -11028,7 +10628,7 @@
       "flags": []
     },
     {
-      "rank": 219,
+      "rank": 211,
       "player_id": "00-0038705",
       "player_name": "E.Demercado",
       "player_full_name": "Emari Demercado",
@@ -11078,7 +10678,7 @@
       "flags": []
     },
     {
-      "rank": 220,
+      "rank": 212,
       "player_id": "00-0033119",
       "player_name": "J.Brissett",
       "player_full_name": "Jacoby Brissett",
@@ -11128,7 +10728,7 @@
       "flags": []
     },
     {
-      "rank": 221,
+      "rank": 213,
       "player_id": "00-0039875",
       "player_name": "R.Davis",
       "player_full_name": "Ray Davis",
@@ -11178,7 +10778,7 @@
       "flags": []
     },
     {
-      "rank": 222,
+      "rank": 214,
       "player_id": "00-0040782",
       "player_name": "I.Bond",
       "player_full_name": "Isaiah Bond",
@@ -11228,7 +10828,7 @@
       "flags": []
     },
     {
-      "rank": 223,
+      "rank": 215,
       "player_id": "00-0039359",
       "player_name": "C.Stover",
       "player_full_name": "Cade Stover",
@@ -11278,7 +10878,7 @@
       "flags": []
     },
     {
-      "rank": 224,
+      "rank": 216,
       "player_id": "00-0039880",
       "player_name": "M.Washington",
       "player_full_name": "Malik Washington",
@@ -11328,7 +10928,7 @@
       "flags": []
     },
     {
-      "rank": 225,
+      "rank": 217,
       "player_id": "00-0033526",
       "player_name": "S.Perine",
       "player_full_name": "Samaje Perine",
@@ -11378,7 +10978,7 @@
       "flags": []
     },
     {
-      "rank": 226,
+      "rank": 218,
       "player_id": "00-0039032",
       "player_name": "T.Spears",
       "player_full_name": "Tyjae Spears",
@@ -11424,11 +11024,11 @@
         "inside_10_carries": 0.0734,
         "inside_10_targets": 0.047
       },
-      "injury_flag": "",
+      "injury_flag": "Questionable",
       "flags": []
     },
     {
-      "rank": 227,
+      "rank": 219,
       "player_id": "00-0037240",
       "player_name": "J.Williams",
       "player_full_name": "Jameson Williams",
@@ -11478,7 +11078,7 @@
       "flags": []
     },
     {
-      "rank": 228,
+      "rank": 220,
       "player_id": "00-0038558",
       "player_name": "D.Washington",
       "player_full_name": "Darnell Washington",
@@ -11528,59 +11128,7 @@
       "flags": []
     },
     {
-      "rank": 229,
-      "player_id": "00-0036898",
-      "player_name": "D.Mills",
-      "player_full_name": "Davis Mills",
-      "team": "HOU",
-      "position": "QB",
-      "opponent": "@ IND",
-      "kickoff": "Sunday 13:00 ET",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/jh9e97vjzmeafx8jz0sn",
-      "xtd_per_game": 0.138,
-      "anytime_td_prob": 0.1289,
-      "trend": {
-        "direction": "down",
-        "recent_games": 3,
-        "earlier_games": 3,
-        "games_in_window": 6,
-        "recent_chances_per_game": 0.0,
-        "earlier_chances_per_game": 0.667,
-        "recent_tds": 0
-      },
-      "games_scored_last_10": 1,
-      "display": {
-        "player_name": "D. MILLS",
-        "hero": "13%",
-        "hero_label": "CHANCE TO SCORE",
-        "stat_1": "1 OF 6",
-        "stat_1_label": "GAMES W/ A TD",
-        "stat_2": "COOLING OFF",
-        "stat_2_label": "LAST 3 GAMES"
-      },
-      "inside_10_opportunities": 2,
-      "end_zone_targets": 0,
-      "tds_last_10": 1,
-      "window_games": 10,
-      "inside_10_targets": 0,
-      "inside_10_carries": 0,
-      "goal_line_carries": 0,
-      "games_played": 6,
-      "end_zone_targets_pg": 0.0806,
-      "inside_10_carries_pg": 0.303,
-      "inside_10_targets_pg": 0.0795,
-      "xtd_contribution": {
-        "end_zone_targets": 0.0327,
-        "inside_10_carries": 0.0835,
-        "inside_10_targets": 0.0219
-      },
-      "injury_flag": "",
-      "flags": [
-        "no_current_data"
-      ]
-    },
-    {
-      "rank": 230,
+      "rank": 221,
       "player_id": "00-0036755",
       "player_name": "J.Patterson",
       "player_full_name": "Jaret Patterson",
@@ -11632,7 +11180,59 @@
       ]
     },
     {
-      "rank": 231,
+      "rank": 222,
+      "player_id": "00-0036898",
+      "player_name": "D.Mills",
+      "player_full_name": "Davis Mills",
+      "team": "HOU",
+      "position": "QB",
+      "opponent": "@ IND",
+      "kickoff": "Sunday 13:00 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/jh9e97vjzmeafx8jz0sn",
+      "xtd_per_game": 0.138,
+      "anytime_td_prob": 0.1289,
+      "trend": {
+        "direction": "down",
+        "recent_games": 3,
+        "earlier_games": 3,
+        "games_in_window": 6,
+        "recent_chances_per_game": 0.0,
+        "earlier_chances_per_game": 0.667,
+        "recent_tds": 0
+      },
+      "games_scored_last_10": 1,
+      "display": {
+        "player_name": "D. MILLS",
+        "hero": "13%",
+        "hero_label": "CHANCE TO SCORE",
+        "stat_1": "1 OF 6",
+        "stat_1_label": "GAMES W/ A TD",
+        "stat_2": "COOLING OFF",
+        "stat_2_label": "LAST 3 GAMES"
+      },
+      "inside_10_opportunities": 2,
+      "end_zone_targets": 0,
+      "tds_last_10": 1,
+      "window_games": 10,
+      "inside_10_targets": 0,
+      "inside_10_carries": 0,
+      "goal_line_carries": 0,
+      "games_played": 6,
+      "end_zone_targets_pg": 0.0806,
+      "inside_10_carries_pg": 0.303,
+      "inside_10_targets_pg": 0.0795,
+      "xtd_contribution": {
+        "end_zone_targets": 0.0327,
+        "inside_10_carries": 0.0835,
+        "inside_10_targets": 0.0219
+      },
+      "injury_flag": "",
+      "flags": [
+        "no_current_data"
+      ]
+    },
+    {
+      "rank": 223,
       "player_id": "00-0033077",
       "player_name": "D.Prescott",
       "player_full_name": "Dak Prescott",
@@ -11682,7 +11282,7 @@
       "flags": []
     },
     {
-      "rank": 232,
+      "rank": 224,
       "player_id": "00-0034796",
       "player_name": "L.Jackson",
       "player_full_name": "Lamar Jackson",
@@ -11732,7 +11332,7 @@
       "flags": []
     },
     {
-      "rank": 233,
+      "rank": 225,
       "player_id": "00-0037834",
       "player_name": "B.Purdy",
       "player_full_name": "Brock Purdy",
@@ -11782,7 +11382,7 @@
       "flags": []
     },
     {
-      "rank": 234,
+      "rank": 226,
       "player_id": "00-0033858",
       "player_name": "J.Smith",
       "player_full_name": "Jonnu Smith",
@@ -11832,7 +11432,7 @@
       "flags": []
     },
     {
-      "rank": 235,
+      "rank": 227,
       "player_id": "00-0036754",
       "player_name": "B.Wright",
       "player_full_name": "Brock Wright",
@@ -11882,7 +11482,7 @@
       "flags": []
     },
     {
-      "rank": 236,
+      "rank": 228,
       "player_id": "00-0040134",
       "player_name": "P.Bryant",
       "player_full_name": "Pat Bryant",
@@ -11932,7 +11532,7 @@
       "flags": []
     },
     {
-      "rank": 237,
+      "rank": 229,
       "player_id": "00-0035228",
       "player_name": "K.Murray",
       "player_full_name": "Kyler Murray",
@@ -11982,7 +11582,7 @@
       "flags": []
     },
     {
-      "rank": 238,
+      "rank": 230,
       "player_id": "00-0038997",
       "player_name": "J.Downs",
       "player_full_name": "Josh Downs",
@@ -12032,7 +11632,7 @@
       "flags": []
     },
     {
-      "rank": 239,
+      "rank": 231,
       "player_id": "00-0040663",
       "player_name": "H.Fannin",
       "player_full_name": "Harold Fannin Jr.",
@@ -12082,7 +11682,7 @@
       "flags": []
     },
     {
-      "rank": 240,
+      "rank": 232,
       "player_id": "00-0033873",
       "player_name": "P.Mahomes",
       "player_full_name": "Patrick Mahomes",
@@ -12132,7 +11732,7 @@
       "flags": []
     },
     {
-      "rank": 241,
+      "rank": 233,
       "player_id": "00-0039890",
       "player_name": "A.Mitchell",
       "player_full_name": "Adonai Mitchell",
@@ -12178,11 +11778,11 @@
         "inside_10_carries": 0.0142,
         "inside_10_targets": 0.0303
       },
-      "injury_flag": "",
+      "injury_flag": "Questionable",
       "flags": []
     },
     {
-      "rank": 242,
+      "rank": 234,
       "player_id": "00-0026498",
       "player_name": "M.Stafford",
       "player_full_name": "Matthew Stafford",
@@ -12232,7 +11832,7 @@
       "flags": []
     },
     {
-      "rank": 243,
+      "rank": 235,
       "player_id": "00-0038621",
       "player_name": "D.Douglas",
       "player_full_name": "DeMario Douglas",
@@ -12282,7 +11882,7 @@
       "flags": []
     },
     {
-      "rank": 244,
+      "rank": 236,
       "player_id": "00-0039074",
       "player_name": "D.Allen",
       "player_full_name": "Davis Allen",
@@ -12332,7 +11932,7 @@
       "flags": []
     },
     {
-      "rank": 245,
+      "rank": 237,
       "player_id": "00-0040194",
       "player_name": "J.Hawes",
       "player_full_name": "Jackson Hawes",
@@ -12384,7 +11984,7 @@
       ]
     },
     {
-      "rank": 246,
+      "rank": 238,
       "player_id": "00-0037267",
       "player_name": "J.Ford",
       "player_full_name": "Jerome Ford",
@@ -12436,57 +12036,7 @@
       ]
     },
     {
-      "rank": 247,
-      "player_id": "00-0040736",
-      "player_name": "M.Taylor",
-      "player_full_name": "Mason Taylor",
-      "team": "NYJ",
-      "position": "TE",
-      "opponent": "@ DET",
-      "kickoff": "Sunday 13:00 ET",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/xittx9gih104lw1atfiv",
-      "xtd_per_game": 0.1276,
-      "anytime_td_prob": 0.1198,
-      "trend": {
-        "direction": "down",
-        "recent_games": 3,
-        "earlier_games": 7,
-        "games_in_window": 10,
-        "recent_chances_per_game": 0.0,
-        "earlier_chances_per_game": 0.571,
-        "recent_tds": 0
-      },
-      "games_scored_last_10": 1,
-      "display": {
-        "player_name": "M. TAYLOR",
-        "hero": "12%",
-        "hero_label": "CHANCE TO SCORE",
-        "stat_1": "1 OF 10",
-        "stat_1_label": "GAMES W/ A TD",
-        "stat_2": "COOLING OFF",
-        "stat_2_label": "LAST 3 GAMES"
-      },
-      "inside_10_opportunities": 4,
-      "end_zone_targets": 2,
-      "tds_last_10": 1,
-      "window_games": 10,
-      "inside_10_targets": 0,
-      "inside_10_carries": 0,
-      "goal_line_carries": 0,
-      "games_played": 13,
-      "end_zone_targets_pg": 0.1298,
-      "inside_10_carries_pg": 0.0606,
-      "inside_10_targets_pg": 0.2115,
-      "xtd_contribution": {
-        "end_zone_targets": 0.0526,
-        "inside_10_carries": 0.0167,
-        "inside_10_targets": 0.0583
-      },
-      "injury_flag": "",
-      "flags": []
-    },
-    {
-      "rank": 248,
+      "rank": 239,
       "player_id": "00-0037594",
       "player_name": "J.Chestnut",
       "player_full_name": "Julius Chestnut",
@@ -12538,7 +12088,7 @@
       ]
     },
     {
-      "rank": 249,
+      "rank": 240,
       "player_id": "00-0039150",
       "player_name": "B.Young",
       "player_full_name": "Bryce Young",
@@ -12588,7 +12138,7 @@
       "flags": []
     },
     {
-      "rank": 250,
+      "rank": 241,
       "player_id": "00-0034869",
       "player_name": "S.Darnold",
       "player_full_name": "Sam Darnold",
@@ -12640,7 +12190,7 @@
       ]
     },
     {
-      "rank": 251,
+      "rank": 242,
       "player_id": "00-0033217",
       "player_name": "M.Alie-Cox",
       "player_full_name": "Mo Alie-Cox",
@@ -12692,7 +12242,7 @@
       ]
     },
     {
-      "rank": 252,
+      "rank": 243,
       "player_id": "00-0036727",
       "player_name": "A.Prentice",
       "player_full_name": "Adam Prentice",
@@ -12742,7 +12292,7 @@
       "flags": []
     },
     {
-      "rank": 253,
+      "rank": 244,
       "player_id": "00-0037746",
       "player_name": "Br.Robinson",
       "player_full_name": "Brian Robinson",
@@ -12792,7 +12342,7 @@
       "flags": []
     },
     {
-      "rank": 254,
+      "rank": 245,
       "player_id": "00-0033955",
       "player_name": "J.McNichols",
       "player_full_name": "Jeremy McNichols",
@@ -12844,7 +12394,7 @@
       ]
     },
     {
-      "rank": 255,
+      "rank": 246,
       "player_id": "00-0036887",
       "player_name": "L.Farrell",
       "player_full_name": "Luke Farrell",
@@ -12894,7 +12444,7 @@
       "flags": []
     },
     {
-      "rank": 256,
+      "rank": 247,
       "player_id": "00-0039920",
       "player_name": "M.Corley",
       "player_full_name": "Malachi Corley",
@@ -12946,7 +12496,7 @@
       ]
     },
     {
-      "rank": 257,
+      "rank": 248,
       "player_id": "00-0039376",
       "player_name": "S.Rattler",
       "player_full_name": "Spencer Rattler",
@@ -12998,7 +12548,7 @@
       ]
     },
     {
-      "rank": 258,
+      "rank": 249,
       "player_id": "00-0040202",
       "player_name": "D.Neal",
       "player_full_name": "Devin Neal",
@@ -13050,7 +12600,7 @@
       ]
     },
     {
-      "rank": 259,
+      "rank": 250,
       "player_id": "00-0040668",
       "player_name": "S.Sanders",
       "player_full_name": "Shedeur Sanders",
@@ -13102,7 +12652,7 @@
       ]
     },
     {
-      "rank": 260,
+      "rank": 251,
       "player_id": "00-0038685",
       "player_name": "C.Brooks",
       "player_full_name": "Chris Brooks",
@@ -13152,7 +12702,7 @@
       "flags": []
     },
     {
-      "rank": 261,
+      "rank": 252,
       "player_id": "00-0037614",
       "player_name": "J.Metchie",
       "player_full_name": "John Metchie III",
@@ -13204,7 +12754,7 @@
       ]
     },
     {
-      "rank": 262,
+      "rank": 253,
       "player_id": "00-0037801",
       "player_name": "K.Turpin",
       "player_full_name": "KaVontae Turpin",
@@ -13254,7 +12804,7 @@
       "flags": []
     },
     {
-      "rank": 263,
+      "rank": 254,
       "player_id": "00-0040162",
       "player_name": "D.Sampson",
       "player_full_name": "Dylan Sampson",
@@ -13306,7 +12856,7 @@
       ]
     },
     {
-      "rank": 264,
+      "rank": 255,
       "player_id": "00-0039041",
       "player_name": "E.Higgins",
       "player_full_name": "Elijah Higgins",
@@ -13358,7 +12908,7 @@
       ]
     },
     {
-      "rank": 265,
+      "rank": 256,
       "player_id": "00-0039917",
       "player_name": "M.Penix",
       "player_full_name": "Michael Penix Jr.",
@@ -13408,7 +12958,7 @@
       "flags": []
     },
     {
-      "rank": 266,
+      "rank": 257,
       "player_id": "00-0039530",
       "player_name": "B.Spann-Ford",
       "player_full_name": "Brevyn Spann-Ford",
@@ -13458,7 +13008,7 @@
       "flags": []
     },
     {
-      "rank": 267,
+      "rank": 258,
       "player_id": "00-0038454",
       "player_name": "K.Mitchell",
       "player_full_name": "Keaton Mitchell",
@@ -13508,7 +13058,7 @@
       "flags": []
     },
     {
-      "rank": 268,
+      "rank": 259,
       "player_id": "00-0037545",
       "player_name": "R.Shaheed",
       "player_full_name": "Rashid Shaheed",
@@ -13558,7 +13108,7 @@
       "flags": []
     },
     {
-      "rank": 269,
+      "rank": 260,
       "player_id": "00-0037805",
       "player_name": "J.Ruckert",
       "player_full_name": "Jeremy Ruckert",
@@ -13608,7 +13158,7 @@
       "flags": []
     },
     {
-      "rank": 270,
+      "rank": 261,
       "player_id": "00-0038129",
       "player_name": "C.Otton",
       "player_full_name": "Cade Otton",
@@ -13658,7 +13208,7 @@
       "flags": []
     },
     {
-      "rank": 271,
+      "rank": 262,
       "player_id": "00-0038794",
       "player_name": "J.McLaughlin",
       "player_full_name": "Jaleel McLaughlin",
@@ -13708,7 +13258,7 @@
       "flags": []
     },
     {
-      "rank": 272,
+      "rank": 263,
       "player_id": "00-0032268",
       "player_name": "M.Mariota",
       "player_full_name": "Marcus Mariota",
@@ -13758,57 +13308,7 @@
       "flags": []
     },
     {
-      "rank": 273,
-      "player_id": "00-0038046",
-      "player_name": "C.Kolar",
-      "player_full_name": "Charlie Kolar",
-      "team": "LAC",
-      "position": "TE",
-      "opponent": "@ BUF",
-      "kickoff": "Sunday 13:00 ET",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/g75ws8vkqz9cqwifhcy7",
-      "xtd_per_game": 0.0999,
-      "anytime_td_prob": 0.0951,
-      "trend": {
-        "direction": "down",
-        "recent_games": 3,
-        "earlier_games": 7,
-        "games_in_window": 10,
-        "recent_chances_per_game": 0.0,
-        "earlier_chances_per_game": 0.286,
-        "recent_tds": 0
-      },
-      "games_scored_last_10": 2,
-      "display": {
-        "player_name": "C. KOLAR",
-        "hero": "10%",
-        "hero_label": "CHANCE TO SCORE",
-        "stat_1": "2 OF 10",
-        "stat_1_label": "GAMES W/ A TD",
-        "stat_2": "COOLING OFF",
-        "stat_2_label": "LAST 3 GAMES"
-      },
-      "inside_10_opportunities": 2,
-      "end_zone_targets": 1,
-      "tds_last_10": 2,
-      "window_games": 10,
-      "inside_10_targets": 0,
-      "inside_10_carries": 0,
-      "goal_line_carries": 0,
-      "games_played": 11,
-      "end_zone_targets_pg": 0.1004,
-      "inside_10_carries_pg": 0.0686,
-      "inside_10_targets_pg": 0.1463,
-      "xtd_contribution": {
-        "end_zone_targets": 0.0407,
-        "inside_10_carries": 0.0189,
-        "inside_10_targets": 0.0404
-      },
-      "injury_flag": "",
-      "flags": []
-    },
-    {
-      "rank": 274,
+      "rank": 264,
       "player_id": "00-0040739",
       "player_name": "E.Arroyo",
       "player_full_name": "Elijah Arroyo",
@@ -13858,7 +13358,7 @@
       "flags": []
     },
     {
-      "rank": 275,
+      "rank": 265,
       "player_id": "00-0030035",
       "player_name": "A.Thielen",
       "player_full_name": "Adam Thielen",
@@ -13910,7 +13410,7 @@
       ]
     },
     {
-      "rank": 276,
+      "rank": 266,
       "player_id": "00-0039732",
       "player_name": "B.Nix",
       "player_full_name": "Bo Nix",
@@ -13960,7 +13460,7 @@
       "flags": []
     },
     {
-      "rank": 277,
+      "rank": 267,
       "player_id": "00-0037005",
       "player_name": "T.Tremble",
       "player_full_name": "Tommy Tremble",
@@ -14010,7 +13510,7 @@
       "flags": []
     },
     {
-      "rank": 278,
+      "rank": 268,
       "player_id": "00-0036637",
       "player_name": "N.Gray",
       "player_full_name": "Noah Gray",
@@ -14060,7 +13560,7 @@
       "flags": []
     },
     {
-      "rank": 279,
+      "rank": 269,
       "player_id": "00-0035249",
       "player_name": "J.Oliver",
       "player_full_name": "Josh Oliver",
@@ -14110,7 +13610,7 @@
       "flags": []
     },
     {
-      "rank": 280,
+      "rank": 270,
       "player_id": "00-0038738",
       "player_name": "H.Luepke",
       "player_full_name": "Hunter Luepke",
@@ -14160,7 +13660,7 @@
       "flags": []
     },
     {
-      "rank": 281,
+      "rank": 271,
       "player_id": "00-0040138",
       "player_name": "J.Noel",
       "player_full_name": "Jaylin Noel",
@@ -14210,7 +13710,7 @@
       "flags": []
     },
     {
-      "rank": 282,
+      "rank": 272,
       "player_id": "00-0039798",
       "player_name": "I.Davis",
       "player_full_name": "Isaiah Davis",
@@ -14262,57 +13762,7 @@
       ]
     },
     {
-      "rank": 283,
-      "player_id": "00-0032104",
-      "player_name": "A.Abdullah",
-      "player_full_name": "Ameer Abdullah",
-      "team": "JAX",
-      "position": "RB",
-      "opponent": "vs NE",
-      "kickoff": "Sunday 13:00 ET",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/k8teyeiqchljlm0h5te4",
-      "xtd_per_game": 0.081,
-      "anytime_td_prob": 0.0778,
-      "trend": {
-        "direction": "",
-        "recent_games": 3,
-        "earlier_games": 7,
-        "games_in_window": 10,
-        "recent_chances_per_game": 0.0,
-        "earlier_chances_per_game": 0.0,
-        "recent_tds": 0
-      },
-      "games_scored_last_10": 0,
-      "display": {
-        "player_name": "A. ABDULLAH",
-        "hero": "8%",
-        "hero_label": "CHANCE TO SCORE",
-        "stat_1": "0 OF 10",
-        "stat_1_label": "GAMES W/ A TD",
-        "stat_2": "\u2014",
-        "stat_2_label": "LAST 3 GAMES"
-      },
-      "inside_10_opportunities": 0,
-      "end_zone_targets": 0,
-      "tds_last_10": 0,
-      "window_games": 10,
-      "inside_10_targets": 0,
-      "inside_10_carries": 0,
-      "goal_line_carries": 0,
-      "games_played": 11,
-      "end_zone_targets_pg": 0.0537,
-      "inside_10_carries_pg": 0.162,
-      "inside_10_targets_pg": 0.053,
-      "xtd_contribution": {
-        "end_zone_targets": 0.0218,
-        "inside_10_carries": 0.0446,
-        "inside_10_targets": 0.0146
-      },
-      "injury_flag": "",
-      "flags": []
-    },
-    {
-      "rank": 284,
+      "rank": 273,
       "player_id": "00-0033106",
       "player_name": "J.Goff",
       "player_full_name": "Jared Goff",
@@ -14362,57 +13812,57 @@
       "flags": []
     },
     {
-      "rank": 285,
-      "player_id": "00-0037809",
-      "player_name": "C.Okonkwo",
-      "player_full_name": "Chig Okonkwo",
-      "team": "WAS",
-      "position": "TE",
-      "opponent": "vs SEA",
+      "rank": 274,
+      "player_id": "00-0032104",
+      "player_name": "A.Abdullah",
+      "player_full_name": "Ameer Abdullah",
+      "team": "JAX",
+      "position": "RB",
+      "opponent": "vs NE",
       "kickoff": "Sunday 13:00 ET",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/pzcez6pi9tpdqkmjjnzk",
-      "xtd_per_game": 0.0806,
-      "anytime_td_prob": 0.0774,
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/k8teyeiqchljlm0h5te4",
+      "xtd_per_game": 0.081,
+      "anytime_td_prob": 0.0778,
       "trend": {
-        "direction": "down",
+        "direction": "",
         "recent_games": 3,
         "earlier_games": 7,
         "games_in_window": 10,
         "recent_chances_per_game": 0.0,
-        "earlier_chances_per_game": 0.286,
-        "recent_tds": 1
+        "earlier_chances_per_game": 0.0,
+        "recent_tds": 0
       },
-      "games_scored_last_10": 2,
+      "games_scored_last_10": 0,
       "display": {
-        "player_name": "C. OKONKWO",
+        "player_name": "A. ABDULLAH",
         "hero": "8%",
         "hero_label": "CHANCE TO SCORE",
-        "stat_1": "2 OF 10",
+        "stat_1": "0 OF 10",
         "stat_1_label": "GAMES W/ A TD",
-        "stat_2": "COOLING OFF",
+        "stat_2": "\u2014",
         "stat_2_label": "LAST 3 GAMES"
       },
-      "inside_10_opportunities": 2,
-      "end_zone_targets": 1,
-      "tds_last_10": 2,
+      "inside_10_opportunities": 0,
+      "end_zone_targets": 0,
+      "tds_last_10": 0,
       "window_games": 10,
       "inside_10_targets": 0,
       "inside_10_carries": 0,
       "goal_line_carries": 0,
-      "games_played": 17,
-      "end_zone_targets_pg": 0.0717,
-      "inside_10_carries_pg": 0.049,
-      "inside_10_targets_pg": 0.1378,
+      "games_played": 11,
+      "end_zone_targets_pg": 0.0537,
+      "inside_10_carries_pg": 0.162,
+      "inside_10_targets_pg": 0.053,
       "xtd_contribution": {
-        "end_zone_targets": 0.0291,
-        "inside_10_carries": 0.0135,
-        "inside_10_targets": 0.038
+        "end_zone_targets": 0.0218,
+        "inside_10_carries": 0.0446,
+        "inside_10_targets": 0.0146
       },
       "injury_flag": "",
       "flags": []
     },
     {
-      "rank": 286,
+      "rank": 275,
       "player_id": "00-0039163",
       "player_name": "C.Stroud",
       "player_full_name": "C.J. Stroud",
@@ -14462,7 +13912,7 @@
       "flags": []
     },
     {
-      "rank": 287,
+      "rank": 276,
       "player_id": "00-0036264",
       "player_name": "J.Love",
       "player_full_name": "Jordan Love",
@@ -14512,7 +13962,7 @@
       "flags": []
     },
     {
-      "rank": 288,
+      "rank": 277,
       "player_id": "00-0023459",
       "player_name": "A.Rodgers",
       "player_full_name": "Aaron Rodgers",
@@ -14562,7 +14012,7 @@
       "flags": []
     },
     {
-      "rank": 289,
+      "rank": 278,
       "player_id": "00-0030565",
       "player_name": "G.Smith",
       "player_full_name": "Geno Smith",

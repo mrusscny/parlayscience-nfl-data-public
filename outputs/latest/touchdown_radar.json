@@ -9,7 +9,7 @@
     "completed_weeks": 3,
     "first_kickoff": "2026-10-01",
     "last_game": "2026-10-05",
-    "generated_at_et": "2026-09-30T14:01:50-04:00",
+    "generated_at_et": "2026-10-01T14:27:36-04:00",
     "label": "2026-week-04"
   },
   "method": {
@@ -9293,58 +9293,6 @@
     },
     {
       "rank": 185,
-      "player_id": "00-0040179",
-      "player_name": "D.Giddens",
-      "player_full_name": "DJ Giddens",
-      "team": "IND",
-      "position": "RB",
-      "opponent": "@ WAS",
-      "kickoff": "Sunday 09:30 ET",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/y2vrgvb9kbvfpmyb3yzu",
-      "xtd_per_game": 0.1736,
-      "anytime_td_prob": 0.1594,
-      "trend": {
-        "direction": "down",
-        "recent_games": 3,
-        "earlier_games": 2,
-        "games_in_window": 5,
-        "recent_chances_per_game": 0.0,
-        "earlier_chances_per_game": 1.0,
-        "recent_tds": 0
-      },
-      "games_scored_last_10": 0,
-      "display": {
-        "player_name": "D. GIDDENS",
-        "hero": "16%",
-        "hero_label": "CHANCE TO SCORE",
-        "stat_1": "0 OF 5",
-        "stat_1_label": "GAMES W/ A TD",
-        "stat_2": "COOLING OFF",
-        "stat_2_label": "LAST 3 GAMES"
-      },
-      "inside_10_opportunities": 2,
-      "end_zone_targets": 0,
-      "tds_last_10": 0,
-      "window_games": 10,
-      "inside_10_targets": 0,
-      "inside_10_carries": 0,
-      "goal_line_carries": 0,
-      "games_played": 4,
-      "end_zone_targets_pg": 0.1022,
-      "inside_10_carries_pg": 0.2528,
-      "inside_10_targets_pg": 0.2267,
-      "xtd_contribution": {
-        "end_zone_targets": 0.0414,
-        "inside_10_carries": 0.0697,
-        "inside_10_targets": 0.0625
-      },
-      "injury_flag": "",
-      "flags": [
-        "no_current_data"
-      ]
-    },
-    {
-      "rank": 186,
       "player_id": "00-0039921",
       "player_name": "T.Benson",
       "player_full_name": "Trey Benson",
@@ -9396,7 +9344,7 @@
       ]
     },
     {
-      "rank": 187,
+      "rank": 186,
       "player_id": "00-0039405",
       "player_name": "J.Jordan",
       "player_full_name": "Jawhar Jordan",
@@ -9441,6 +9389,58 @@
         "end_zone_targets": 0.0414,
         "inside_10_carries": 0.1041,
         "inside_10_targets": 0.0281
+      },
+      "injury_flag": "",
+      "flags": [
+        "no_current_data"
+      ]
+    },
+    {
+      "rank": 187,
+      "player_id": "00-0040179",
+      "player_name": "D.Giddens",
+      "player_full_name": "DJ Giddens",
+      "team": "IND",
+      "position": "RB",
+      "opponent": "@ WAS",
+      "kickoff": "Sunday 09:30 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/y2vrgvb9kbvfpmyb3yzu",
+      "xtd_per_game": 0.1736,
+      "anytime_td_prob": 0.1594,
+      "trend": {
+        "direction": "down",
+        "recent_games": 3,
+        "earlier_games": 2,
+        "games_in_window": 5,
+        "recent_chances_per_game": 0.0,
+        "earlier_chances_per_game": 1.0,
+        "recent_tds": 0
+      },
+      "games_scored_last_10": 0,
+      "display": {
+        "player_name": "D. GIDDENS",
+        "hero": "16%",
+        "hero_label": "CHANCE TO SCORE",
+        "stat_1": "0 OF 5",
+        "stat_1_label": "GAMES W/ A TD",
+        "stat_2": "COOLING OFF",
+        "stat_2_label": "LAST 3 GAMES"
+      },
+      "inside_10_opportunities": 2,
+      "end_zone_targets": 0,
+      "tds_last_10": 0,
+      "window_games": 10,
+      "inside_10_targets": 0,
+      "inside_10_carries": 0,
+      "goal_line_carries": 0,
+      "games_played": 4,
+      "end_zone_targets_pg": 0.1022,
+      "inside_10_carries_pg": 0.2528,
+      "inside_10_targets_pg": 0.2267,
+      "xtd_contribution": {
+        "end_zone_targets": 0.0414,
+        "inside_10_carries": 0.0697,
+        "inside_10_targets": 0.0625
       },
       "injury_flag": "",
       "flags": [
@@ -11213,56 +11213,6 @@
     },
     {
       "rank": 223,
-      "player_id": "00-0033858",
-      "player_name": "J.Smith",
-      "player_full_name": "Jonnu Smith",
-      "team": "GB",
-      "position": "TE",
-      "opponent": "@ TB",
-      "kickoff": "Sunday 13:00 ET",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/egd6llghj3n5wfdrqacw",
-      "xtd_per_game": 0.1402,
-      "anytime_td_prob": 0.1308,
-      "trend": {
-        "direction": "up",
-        "recent_games": 3,
-        "earlier_games": 7,
-        "games_in_window": 10,
-        "recent_chances_per_game": 0.667,
-        "earlier_chances_per_game": 0.0,
-        "recent_tds": 0
-      },
-      "games_scored_last_10": 1,
-      "display": {
-        "player_name": "J. SMITH",
-        "hero": "13%",
-        "hero_label": "CHANCE TO SCORE",
-        "stat_1": "1 OF 10",
-        "stat_1_label": "GAMES W/ A TD",
-        "stat_2": "HEATING UP",
-        "stat_2_label": "LAST 3 GAMES"
-      },
-      "inside_10_opportunities": 2,
-      "end_zone_targets": 1,
-      "tds_last_10": 1,
-      "window_games": 10,
-      "inside_10_targets": 1,
-      "inside_10_carries": 0,
-      "goal_line_carries": 0,
-      "games_played": 17,
-      "end_zone_targets_pg": 0.0913,
-      "inside_10_carries_pg": 0.0487,
-      "inside_10_targets_pg": 0.3257,
-      "xtd_contribution": {
-        "end_zone_targets": 0.037,
-        "inside_10_carries": 0.0134,
-        "inside_10_targets": 0.0898
-      },
-      "injury_flag": "",
-      "flags": []
-    },
-    {
-      "rank": 224,
       "player_id": "00-0033293",
       "player_name": "A.Jones",
       "player_full_name": "Aaron Jones",
@@ -11307,6 +11257,56 @@
         "end_zone_targets": 0.0207,
         "inside_10_carries": 0.1054,
         "inside_10_targets": 0.014
+      },
+      "injury_flag": "",
+      "flags": []
+    },
+    {
+      "rank": 224,
+      "player_id": "00-0033858",
+      "player_name": "J.Smith",
+      "player_full_name": "Jonnu Smith",
+      "team": "GB",
+      "position": "TE",
+      "opponent": "@ TB",
+      "kickoff": "Sunday 13:00 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/egd6llghj3n5wfdrqacw",
+      "xtd_per_game": 0.1402,
+      "anytime_td_prob": 0.1308,
+      "trend": {
+        "direction": "up",
+        "recent_games": 3,
+        "earlier_games": 7,
+        "games_in_window": 10,
+        "recent_chances_per_game": 0.667,
+        "earlier_chances_per_game": 0.0,
+        "recent_tds": 0
+      },
+      "games_scored_last_10": 1,
+      "display": {
+        "player_name": "J. SMITH",
+        "hero": "13%",
+        "hero_label": "CHANCE TO SCORE",
+        "stat_1": "1 OF 10",
+        "stat_1_label": "GAMES W/ A TD",
+        "stat_2": "HEATING UP",
+        "stat_2_label": "LAST 3 GAMES"
+      },
+      "inside_10_opportunities": 2,
+      "end_zone_targets": 1,
+      "tds_last_10": 1,
+      "window_games": 10,
+      "inside_10_targets": 1,
+      "inside_10_carries": 0,
+      "goal_line_carries": 0,
+      "games_played": 17,
+      "end_zone_targets_pg": 0.0913,
+      "inside_10_carries_pg": 0.0487,
+      "inside_10_targets_pg": 0.3257,
+      "xtd_contribution": {
+        "end_zone_targets": 0.037,
+        "inside_10_carries": 0.0134,
+        "inside_10_targets": 0.0898
       },
       "injury_flag": "",
       "flags": []
@@ -12119,56 +12119,6 @@
     },
     {
       "rank": 241,
-      "player_id": "00-0035228",
-      "player_name": "K.Murray",
-      "player_full_name": "Kyler Murray",
-      "team": "MIN",
-      "position": "QB",
-      "opponent": "vs MIA",
-      "kickoff": "Sunday 16:05 ET",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/btfruyf33adgnjzpcuen",
-      "xtd_per_game": 0.1267,
-      "anytime_td_prob": 0.119,
-      "trend": {
-        "direction": "down",
-        "recent_games": 3,
-        "earlier_games": 4,
-        "games_in_window": 7,
-        "recent_chances_per_game": 0.0,
-        "earlier_chances_per_game": 0.5,
-        "recent_tds": 1
-      },
-      "games_scored_last_10": 1,
-      "display": {
-        "player_name": "K. MURRAY",
-        "hero": "12%",
-        "hero_label": "CHANCE TO SCORE",
-        "stat_1": "1 OF 7",
-        "stat_1_label": "GAMES W/ A TD",
-        "stat_2": "COOLING OFF",
-        "stat_2_label": "LAST 3 GAMES"
-      },
-      "inside_10_opportunities": 2,
-      "end_zone_targets": 0,
-      "tds_last_10": 1,
-      "window_games": 10,
-      "inside_10_targets": 0,
-      "inside_10_carries": 0,
-      "goal_line_carries": 0,
-      "games_played": 5,
-      "end_zone_targets_pg": 0.0909,
-      "inside_10_carries_pg": 0.2359,
-      "inside_10_targets_pg": 0.0904,
-      "xtd_contribution": {
-        "end_zone_targets": 0.0368,
-        "inside_10_carries": 0.065,
-        "inside_10_targets": 0.0249
-      },
-      "injury_flag": "",
-      "flags": []
-    },
-    {
-      "rank": 242,
       "player_id": "00-0036309",
       "player_name": "D.Mooney",
       "player_full_name": "Darnell Mooney",
@@ -12213,6 +12163,56 @@
         "end_zone_targets": 0.0761,
         "inside_10_carries": 0.0148,
         "inside_10_targets": 0.0358
+      },
+      "injury_flag": "",
+      "flags": []
+    },
+    {
+      "rank": 242,
+      "player_id": "00-0035228",
+      "player_name": "K.Murray",
+      "player_full_name": "Kyler Murray",
+      "team": "MIN",
+      "position": "QB",
+      "opponent": "vs MIA",
+      "kickoff": "Sunday 16:05 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/btfruyf33adgnjzpcuen",
+      "xtd_per_game": 0.1267,
+      "anytime_td_prob": 0.119,
+      "trend": {
+        "direction": "down",
+        "recent_games": 3,
+        "earlier_games": 4,
+        "games_in_window": 7,
+        "recent_chances_per_game": 0.0,
+        "earlier_chances_per_game": 0.5,
+        "recent_tds": 1
+      },
+      "games_scored_last_10": 1,
+      "display": {
+        "player_name": "K. MURRAY",
+        "hero": "12%",
+        "hero_label": "CHANCE TO SCORE",
+        "stat_1": "1 OF 7",
+        "stat_1_label": "GAMES W/ A TD",
+        "stat_2": "COOLING OFF",
+        "stat_2_label": "LAST 3 GAMES"
+      },
+      "inside_10_opportunities": 2,
+      "end_zone_targets": 0,
+      "tds_last_10": 1,
+      "window_games": 10,
+      "inside_10_targets": 0,
+      "inside_10_carries": 0,
+      "goal_line_carries": 0,
+      "games_played": 5,
+      "end_zone_targets_pg": 0.0909,
+      "inside_10_carries_pg": 0.2359,
+      "inside_10_targets_pg": 0.0904,
+      "xtd_contribution": {
+        "end_zone_targets": 0.0368,
+        "inside_10_carries": 0.065,
+        "inside_10_targets": 0.0249
       },
       "injury_flag": "",
       "flags": []
@@ -12975,6 +12975,58 @@
     },
     {
       "rank": 258,
+      "player_id": "00-0039376",
+      "player_name": "S.Rattler",
+      "player_full_name": "Spencer Rattler",
+      "team": "NO",
+      "position": "QB",
+      "opponent": "vs ATL",
+      "kickoff": "Monday 20:15 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/gcgmcf4kex3jsl4rlrng",
+      "xtd_per_game": 0.1157,
+      "anytime_td_prob": 0.1093,
+      "trend": {
+        "direction": "down",
+        "recent_games": 3,
+        "earlier_games": 5,
+        "games_in_window": 8,
+        "recent_chances_per_game": 0.0,
+        "earlier_chances_per_game": 0.4,
+        "recent_tds": 0
+      },
+      "games_scored_last_10": 0,
+      "display": {
+        "player_name": "S. RATTLER",
+        "hero": "11%",
+        "hero_label": "CHANCE TO SCORE",
+        "stat_1": "0 OF 8",
+        "stat_1_label": "GAMES W/ A TD",
+        "stat_2": "COOLING OFF",
+        "stat_2_label": "LAST 3 GAMES"
+      },
+      "inside_10_opportunities": 2,
+      "end_zone_targets": 0,
+      "tds_last_10": 0,
+      "window_games": 10,
+      "inside_10_targets": 0,
+      "inside_10_carries": 0,
+      "goal_line_carries": 0,
+      "games_played": 8,
+      "end_zone_targets_pg": 0.0681,
+      "inside_10_carries_pg": 0.1686,
+      "inside_10_targets_pg": 0.1512,
+      "xtd_contribution": {
+        "end_zone_targets": 0.0276,
+        "inside_10_carries": 0.0464,
+        "inside_10_targets": 0.0417
+      },
+      "injury_flag": "",
+      "flags": [
+        "no_current_data"
+      ]
+    },
+    {
+      "rank": 259,
       "player_id": "00-0040202",
       "player_name": "D.Neal",
       "player_full_name": "Devin Neal",
@@ -13026,7 +13078,7 @@
       ]
     },
     {
-      "rank": 259,
+      "rank": 260,
       "player_id": "00-0039920",
       "player_name": "M.Corley",
       "player_full_name": "Malachi Corley",
@@ -13054,58 +13106,6 @@
         "stat_1": "0 OF 10",
         "stat_1_label": "GAMES W/ A TD",
         "stat_2": "HEATING UP",
-        "stat_2_label": "LAST 3 GAMES"
-      },
-      "inside_10_opportunities": 2,
-      "end_zone_targets": 0,
-      "tds_last_10": 0,
-      "window_games": 10,
-      "inside_10_targets": 0,
-      "inside_10_carries": 0,
-      "goal_line_carries": 0,
-      "games_played": 8,
-      "end_zone_targets_pg": 0.0681,
-      "inside_10_carries_pg": 0.1686,
-      "inside_10_targets_pg": 0.1512,
-      "xtd_contribution": {
-        "end_zone_targets": 0.0276,
-        "inside_10_carries": 0.0464,
-        "inside_10_targets": 0.0417
-      },
-      "injury_flag": "",
-      "flags": [
-        "no_current_data"
-      ]
-    },
-    {
-      "rank": 260,
-      "player_id": "00-0039376",
-      "player_name": "S.Rattler",
-      "player_full_name": "Spencer Rattler",
-      "team": "NO",
-      "position": "QB",
-      "opponent": "vs ATL",
-      "kickoff": "Monday 20:15 ET",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/gcgmcf4kex3jsl4rlrng",
-      "xtd_per_game": 0.1157,
-      "anytime_td_prob": 0.1093,
-      "trend": {
-        "direction": "down",
-        "recent_games": 3,
-        "earlier_games": 5,
-        "games_in_window": 8,
-        "recent_chances_per_game": 0.0,
-        "earlier_chances_per_game": 0.4,
-        "recent_tds": 0
-      },
-      "games_scored_last_10": 0,
-      "display": {
-        "player_name": "S. RATTLER",
-        "hero": "11%",
-        "hero_label": "CHANCE TO SCORE",
-        "stat_1": "0 OF 8",
-        "stat_1_label": "GAMES W/ A TD",
-        "stat_2": "COOLING OFF",
         "stat_2_label": "LAST 3 GAMES"
       },
       "inside_10_opportunities": 2,
@@ -14387,6 +14387,56 @@
     },
     {
       "rank": 286,
+      "player_id": "00-0032104",
+      "player_name": "A.Abdullah",
+      "player_full_name": "Ameer Abdullah",
+      "team": "JAX",
+      "position": "RB",
+      "opponent": "@ CIN",
+      "kickoff": "Sunday 13:00 ET",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/k8teyeiqchljlm0h5te4",
+      "xtd_per_game": 0.076,
+      "anytime_td_prob": 0.0732,
+      "trend": {
+        "direction": "",
+        "recent_games": 3,
+        "earlier_games": 7,
+        "games_in_window": 10,
+        "recent_chances_per_game": 0.0,
+        "earlier_chances_per_game": 0.0,
+        "recent_tds": 0
+      },
+      "games_scored_last_10": 0,
+      "display": {
+        "player_name": "A. ABDULLAH",
+        "hero": "7%",
+        "hero_label": "CHANCE TO SCORE",
+        "stat_1": "0 OF 10",
+        "stat_1_label": "GAMES W/ A TD",
+        "stat_2": "\u2014",
+        "stat_2_label": "LAST 3 GAMES"
+      },
+      "inside_10_opportunities": 0,
+      "end_zone_targets": 0,
+      "tds_last_10": 0,
+      "window_games": 10,
+      "inside_10_targets": 0,
+      "inside_10_carries": 0,
+      "goal_line_carries": 0,
+      "games_played": 11,
+      "end_zone_targets_pg": 0.0545,
+      "inside_10_carries_pg": 0.1415,
+      "inside_10_targets_pg": 0.0543,
+      "xtd_contribution": {
+        "end_zone_targets": 0.0221,
+        "inside_10_carries": 0.039,
+        "inside_10_targets": 0.015
+      },
+      "injury_flag": "",
+      "flags": []
+    },
+    {
+      "rank": 287,
       "player_id": "00-0033106",
       "player_name": "J.Goff",
       "player_full_name": "Jared Goff",
@@ -14436,7 +14486,7 @@
       "flags": []
     },
     {
-      "rank": 287,
+      "rank": 288,
       "player_id": "00-0040138",
       "player_name": "J.Noel",
       "player_full_name": "Jaylin Noel",
@@ -14481,56 +14531,6 @@
         "end_zone_targets": 0.0195,
         "inside_10_carries": 0.0166,
         "inside_10_targets": 0.04
-      },
-      "injury_flag": "",
-      "flags": []
-    },
-    {
-      "rank": 288,
-      "player_id": "00-0032104",
-      "player_name": "A.Abdullah",
-      "player_full_name": "Ameer Abdullah",
-      "team": "JAX",
-      "position": "RB",
-      "opponent": "@ CIN",
-      "kickoff": "Sunday 13:00 ET",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/k8teyeiqchljlm0h5te4",
-      "xtd_per_game": 0.076,
-      "anytime_td_prob": 0.0732,
-      "trend": {
-        "direction": "",
-        "recent_games": 3,
-        "earlier_games": 7,
-        "games_in_window": 10,
-        "recent_chances_per_game": 0.0,
-        "earlier_chances_per_game": 0.0,
-        "recent_tds": 0
-      },
-      "games_scored_last_10": 0,
-      "display": {
-        "player_name": "A. ABDULLAH",
-        "hero": "7%",
-        "hero_label": "CHANCE TO SCORE",
-        "stat_1": "0 OF 10",
-        "stat_1_label": "GAMES W/ A TD",
-        "stat_2": "\u2014",
-        "stat_2_label": "LAST 3 GAMES"
-      },
-      "inside_10_opportunities": 0,
-      "end_zone_targets": 0,
-      "tds_last_10": 0,
-      "window_games": 10,
-      "inside_10_targets": 0,
-      "inside_10_carries": 0,
-      "goal_line_carries": 0,
-      "games_played": 11,
-      "end_zone_targets_pg": 0.0545,
-      "inside_10_carries_pg": 0.1415,
-      "inside_10_targets_pg": 0.0543,
-      "xtd_contribution": {
-        "end_zone_targets": 0.0221,
-        "inside_10_carries": 0.039,
-        "inside_10_targets": 0.015
       },
       "injury_flag": "",
       "flags": []

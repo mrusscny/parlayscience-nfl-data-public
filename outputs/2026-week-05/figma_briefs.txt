@@ -1,4 +1,4 @@
-Generated at 2026-10-08 14:53:58 EDT
+Generated at 2026-10-09 14:24:39 EDT
 
 Copy any block below into a Figma template — text only, full data in JSON
 
@@ -30,15 +30,6 @@ Support Stats:
   TDs (Last 10 Games): 10
 
 [FEATURED] CARD 3
-HERO: 0.65 Expected TD/Game
-PLAYER: Javonte Williams (DAL)
-MATCHUP: vs TB (Thursday 20:15 ET)
-Support Stats:
-  Inside 10 Opportunities: 24
-  End Zone Targets: 1
-  TDs (Last 10 Games): 10
-
-[FEATURED] CARD 4
 HERO: 0.64 Expected TD/Game
 PLAYER: Brock Bowers (LV)
 MATCHUP: @ NE (Sunday 13:00 ET)
@@ -46,6 +37,15 @@ Support Stats:
   Inside 10 Opportunities: 10
   End Zone Targets: 13
   TDs (Last 10 Games): 9
+
+[FEATURED] CARD 4
+HERO: 0.62 Expected TD/Game
+PLAYER: Javonte Williams (DAL)
+MATCHUP: vs TB (Thursday 20:15 ET)
+Support Stats:
+  Inside 10 Opportunities: 24
+  End Zone Targets: 1
+  TDs (Last 10 Games): 11
 
 CARD 5 (alternate)
 HERO: 0.62 Expected TD/Game
@@ -120,15 +120,6 @@ Support Stats:
   TDs (Last 10 Games): 7
 
 CARD 13 (alternate)
-HERO: 0.56 Expected TD/Game
-PLAYER: CeeDee Lamb (DAL)
-MATCHUP: vs TB (Thursday 20:15 ET)
-Support Stats:
-  Inside 10 Opportunities: 6
-  End Zone Targets: 11
-  TDs (Last 10 Games): 5
-
-CARD 14 (alternate)
 HERO: 0.53 Expected TD/Game
 PLAYER: Jonathan Taylor (IND)
 MATCHUP: @ PIT (Sunday 13:00 ET)
@@ -137,7 +128,7 @@ Support Stats:
   End Zone Targets: 0
   TDs (Last 10 Games): 9
 
-CARD 15 (alternate)
+CARD 14 (alternate)
 HERO: 0.53 Expected TD/Game
 PLAYER: Josh Jacobs (GB)
 MATCHUP: vs CHI (Sunday 13:00 ET)
@@ -146,7 +137,7 @@ Support Stats:
   End Zone Targets: 1
   TDs (Last 10 Games): 8
 
-CARD 16 (alternate)
+CARD 15 (alternate)
 HERO: 0.52 Expected TD/Game
 PLAYER: Amon-Ra St. Brown (DET)
 MATCHUP: @ ARI (Sunday 16:25 ET)
@@ -155,7 +146,7 @@ Support Stats:
   End Zone Targets: 7
   TDs (Last 10 Games): 7
 
-CARD 17 (alternate)
+CARD 16 (alternate)
 HERO: 0.51 Expected TD/Game
 PLAYER: Kyle Monangai (CHI)
 MATCHUP: @ GB (Sunday 13:00 ET)
@@ -164,7 +155,7 @@ Support Stats:
   End Zone Targets: 0
   TDs (Last 10 Games): 4
 
-CARD 18 (alternate)
+CARD 17 (alternate)
 HERO: 0.51 Expected TD/Game
 PLAYER: Kyren Williams (LA)
 MATCHUP: vs BUF (Monday 20:15 ET)
@@ -173,7 +164,7 @@ Support Stats:
   End Zone Targets: 0
   TDs (Last 10 Games): 8
 
-CARD 19 (alternate)
+CARD 18 (alternate)
 HERO: 0.51 Expected TD/Game
 PLAYER: Tony Pollard (TEN)
 MATCHUP: vs HOU (Sunday 13:00 ET)
@@ -182,7 +173,7 @@ Support Stats:
   End Zone Targets: 0
   TDs (Last 10 Games): 4
 
-CARD 20 (alternate)
+CARD 19 (alternate)
 HERO: 0.51 Expected TD/Game
 PLAYER: Mitchell Tinsley (CIN)
 MATCHUP: @ MIA (Sunday 13:00 ET)
@@ -190,6 +181,15 @@ Support Stats:
   Inside 10 Opportunities: 3
   End Zone Targets: 6
   TDs (Last 10 Games): 2
+
+CARD 20 (alternate)
+HERO: 0.50 Expected TD/Game
+PLAYER: Tetairoa McMillan (CAR)
+MATCHUP: BYE
+Support Stats:
+  Inside 10 Opportunities: 5
+  End Zone Targets: 7
+  TDs (Last 10 Games): 5
 
 
 ═══════════════════════════════════════
@@ -252,15 +252,6 @@ Support Stats:
   Snap Share: 63.2%
 
 CARD 7 (alternate)
-HERO: 18.7 Touches/Game
-PLAYER: Javonte Williams (DAL)
-MATCHUP: vs TB (Thursday 20:15 ET)
-Support Stats:
-  Carries/Game: 15.6
-  Targets/Game: 3.8
-  Snap Share: 72.4%
-
-CARD 8 (alternate)
 HERO: 18.9 Touches/Game
 PLAYER: Chase Brown (CIN)
 MATCHUP: @ MIA (Sunday 13:00 ET)
@@ -268,6 +259,15 @@ Support Stats:
   Carries/Game: 14.1
   Targets/Game: 5.7
   Snap Share: 70.0%
+
+CARD 8 (alternate)
+HERO: 18.1 Touches/Game
+PLAYER: Javonte Williams (DAL)
+MATCHUP: vs TB (Thursday 20:15 ET)
+Support Stats:
+  Carries/Game: 15.2
+  Targets/Game: 3.6
+  Snap Share: 73.5%
 
 CARD 9 (alternate)
 HERO: 18.1 Touches/Game
@@ -279,13 +279,13 @@ Support Stats:
   Snap Share: 67.6%
 
 CARD 10 (alternate)
-HERO: 18.6 Touches/Game
+HERO: 19.3 Touches/Game
 PLAYER: Bucky Irving (TB)
 MATCHUP: @ DAL (Thursday 20:15 ET)
 Support Stats:
-  Carries/Game: 15.5
+  Carries/Game: 16.3
   Targets/Game: 3.6
-  Snap Share: 62.1%
+  Snap Share: 61.2%
 
 CARD 11 (alternate)
 HERO: 17.1 Touches/Game
@@ -297,15 +297,6 @@ Support Stats:
   Snap Share: 63.3%
 
 CARD 12 (alternate)
-HERO: 19.0 Touches/Game
-PLAYER: Breece Hall (NYJ)
-MATCHUP: vs CLE (Sunday 13:00 ET)
-Support Stats:
-  Carries/Game: 16.2
-  Targets/Game: 3.2
-  Snap Share: 60.3%
-
-CARD 13 (alternate)
 HERO: 16.4 Touches/Game
 PLAYER: Jaylen Warren (PIT)
 MATCHUP: vs IND (Sunday 13:00 ET)
@@ -313,6 +304,15 @@ Support Stats:
   Carries/Game: 13.5
   Targets/Game: 4.2
   Snap Share: 63.3%
+
+CARD 13 (alternate)
+HERO: 19.0 Touches/Game
+PLAYER: Breece Hall (NYJ)
+MATCHUP: vs CLE (Sunday 13:00 ET)
+Support Stats:
+  Carries/Game: 16.2
+  Targets/Game: 3.2
+  Snap Share: 60.3%
 
 CARD 14 (alternate)
 HERO: 16.1 Touches/Game
@@ -342,15 +342,6 @@ Support Stats:
   Snap Share: 57.0%
 
 CARD 17 (alternate)
-HERO: 18.1 Touches/Game
-PLAYER: D'Andre Swift (CHI)
-MATCHUP: @ GB (Sunday 13:00 ET)
-Support Stats:
-  Carries/Game: 15.8
-  Targets/Game: 2.9
-  Snap Share: 57.4%
-
-CARD 18 (alternate)
 HERO: 18.0 Touches/Game
 PLAYER: Josh Jacobs (GB)
 MATCHUP: vs CHI (Sunday 13:00 ET)
@@ -358,6 +349,15 @@ Support Stats:
   Carries/Game: 15.6
   Targets/Game: 2.9
   Snap Share: 59.3%
+
+CARD 18 (alternate)
+HERO: 18.1 Touches/Game
+PLAYER: D'Andre Swift (CHI)
+MATCHUP: @ GB (Sunday 13:00 ET)
+Support Stats:
+  Carries/Game: 15.8
+  Targets/Game: 2.9
+  Snap Share: 57.4%
 
 CARD 19 (alternate)
 HERO: 17.5 Touches/Game
@@ -402,15 +402,6 @@ Support Stats:
   Receptions/Game: 7.6
 
 [FEATURED] CARD 3
-HERO: 10.5 Targets/Game
-PLAYER: CeeDee Lamb (DAL)
-MATCHUP: vs TB (Thursday 20:15 ET)
-Support Stats:
-  Target Share: 26.9%
-  Red Zone Targets: 7
-  Receptions/Game: 7.7
-
-[FEATURED] CARD 4
 HERO: 10.1 Targets/Game
 PLAYER: Jaxon Smith-Njigba (SEA)
 MATCHUP: vs SF (Sunday 16:25 ET)
@@ -419,7 +410,7 @@ Support Stats:
   Red Zone Targets: 10
   Receptions/Game: 7.5
 
-CARD 5 (alternate)
+[FEATURED] CARD 4
 HERO: 10.4 Targets/Game
 PLAYER: Puka Nacua (LA)
 MATCHUP: vs BUF (Monday 20:15 ET)
@@ -427,6 +418,15 @@ Support Stats:
   Target Share: 27.1%
   Red Zone Targets: 1
   Receptions/Game: 7.5
+
+CARD 5 (alternate)
+HERO: 9.8 Targets/Game
+PLAYER: CeeDee Lamb (DAL)
+MATCHUP: vs TB (Thursday 20:15 ET)
+Support Stats:
+  Target Share: 24.7%
+  Red Zone Targets: 7
+  Receptions/Game: 6.9
 
 CARD 6 (alternate)
 HERO: 9.4 Targets/Game
@@ -474,6 +474,15 @@ Support Stats:
   Receptions/Game: 5.4
 
 CARD 11 (alternate)
+HERO: 8.2 Targets/Game
+PLAYER: George Pickens (DAL)
+MATCHUP: vs TB (Thursday 20:15 ET)
+Support Stats:
+  Target Share: 20.7%
+  Red Zone Targets: 5
+  Receptions/Game: 5.4
+
+CARD 12 (alternate)
 HERO: 8.3 Targets/Game
 PLAYER: Tee Higgins (CIN)
 MATCHUP: @ MIA (Sunday 13:00 ET)
@@ -482,7 +491,7 @@ Support Stats:
   Red Zone Targets: 2
   Receptions/Game: 5.2
 
-CARD 12 (alternate)
+CARD 13 (alternate)
 HERO: 8.3 Targets/Game
 PLAYER: Garrett Wilson (NYJ)
 MATCHUP: vs CLE (Sunday 13:00 ET)
@@ -491,7 +500,7 @@ Support Stats:
   Red Zone Targets: 2
   Receptions/Game: 5.6
 
-CARD 13 (alternate)
+CARD 14 (alternate)
 HERO: 7.6 Targets/Game
 PLAYER: Rashee Rice (KC)
 MATCHUP: BYE
@@ -500,7 +509,7 @@ Support Stats:
   Red Zone Targets: 4
   Receptions/Game: 5.4
 
-CARD 14 (alternate)
+CARD 15 (alternate)
 HERO: 8.0 Targets/Game
 PLAYER: DeVonta Smith (PHI)
 MATCHUP: @ JAX (Sunday 09:30 ET)
@@ -509,7 +518,7 @@ Support Stats:
   Red Zone Targets: 2
   Receptions/Game: 5.5
 
-CARD 15 (alternate)
+CARD 16 (alternate)
 HERO: 8.0 Targets/Game
 PLAYER: Carnell Tate (TEN) [rookie]
 MATCHUP: vs HOU (Sunday 13:00 ET)
@@ -518,7 +527,7 @@ Support Stats:
   Red Zone Targets: 1
   Receptions/Game: 5.5
 
-CARD 16 (alternate)
+CARD 17 (alternate)
 HERO: 7.7 Targets/Game
 PLAYER: Drake London (ATL)
 MATCHUP: vs BAL (Sunday 20:20 ET)
@@ -526,15 +535,6 @@ Support Stats:
   Target Share: 25.4%
   Red Zone Targets: 0
   Receptions/Game: 5.3
-
-CARD 17 (alternate)
-HERO: 7.5 Targets/Game
-PLAYER: George Pickens (DAL)
-MATCHUP: vs TB (Thursday 20:15 ET)
-Support Stats:
-  Target Share: 19.2%
-  Red Zone Targets: 3
-  Receptions/Game: 4.9
 
 CARD 18 (alternate)
 HERO: 7.5 Targets/Game
@@ -570,8 +570,8 @@ Visual layout: TODO - not yet designed
 ═══════════════════════════════════════
 
 --- WR — most vulnerable defences (matchup signal: very weak, rho 0.034) ---
-1. DAL (vs TB)  score 94.1
-2. TEN (vs HOU)  score 93.1
+1. TEN (vs HOU)  score 93.1
+2. DAL (vs TB)  score 92.8
 3. WAS (vs NYG)  score 85.3
 4. DET (@ ARI)  score 83.9
 5. MIA (vs CIN)  score 75.0
@@ -601,7 +601,7 @@ Support Stats:
   Punts/Game: 4.5
 
 [FEATURED] CARD 3
-HERO: 89.1 Punt Radar Score
+HERO: 89.7 Punt Radar Score
 TEAM: MIN
 MATCHUP: @ NO (Sunday 13:00 ET)
 Support Stats:
@@ -610,7 +610,7 @@ Support Stats:
   Punts/Game: 4.7
 
 [FEATURED] CARD 4
-HERO: 88.1 Punt Radar Score
+HERO: 88.8 Punt Radar Score
 TEAM: DEN
 MATCHUP: @ LAC (Sunday 16:05 ET)
 Support Stats:
@@ -633,7 +633,7 @@ TEAM: CLE
 MATCHUP: @ NYJ (Sunday 13:00 ET)
 Support Stats:
   Offensive Punt Rank: 6 of 32
-  Defensive Stop Rank: 17 of 32
+  Defensive Stop Rank: 16 of 32
   Punts/Game: 4.6
 
 CARD 7 (alternate)
@@ -642,7 +642,7 @@ TEAM: HOU
 MATCHUP: @ TEN (Sunday 13:00 ET)
 Support Stats:
   Offensive Punt Rank: 7 of 32
-  Defensive Stop Rank: 16 of 32
+  Defensive Stop Rank: 15 of 32
   Punts/Game: 4.4
 
 CARD 8 (alternate)
@@ -664,7 +664,7 @@ Support Stats:
   Punts/Game: 4.3
 
 CARD 10 (alternate)
-HERO: 74.4 Punt Radar Score
+HERO: 75.0 Punt Radar Score
 TEAM: PIT
 MATCHUP: vs IND (Sunday 13:00 ET)
 Support Stats:
@@ -687,16 +687,16 @@ TEAM: GB
 MATCHUP: vs CHI (Sunday 13:00 ET)
 Support Stats:
   Offensive Punt Rank: 12 of 32
-  Defensive Stop Rank: 18 of 32
+  Defensive Stop Rank: 19 of 32
   Punts/Game: 3.8
 
 CARD 13 (alternate)
-HERO: 62.8 Punt Radar Score
+HERO: 61.9 Punt Radar Score
 TEAM: TB
 MATCHUP: @ DAL (Thursday 20:15 ET)
 Support Stats:
   Offensive Punt Rank: 13 of 32
-  Defensive Stop Rank: 15 of 32
+  Defensive Stop Rank: 17 of 32
   Punts/Game: 3.9
 
 CARD 14 (alternate)
@@ -714,7 +714,7 @@ TEAM: LAC
 MATCHUP: vs DEN (Sunday 16:05 ET)
 Support Stats:
   Offensive Punt Rank: 15 of 32
-  Defensive Stop Rank: 19 of 32
+  Defensive Stop Rank: 18 of 32
   Punts/Game: 3.8
 
 CARD 16 (alternate)
@@ -732,32 +732,32 @@ TEAM: CIN
 MATCHUP: @ MIA (Sunday 13:00 ET)
 Support Stats:
   Offensive Punt Rank: 17 of 32
-  Defensive Stop Rank: 30 of 32
+  Defensive Stop Rank: 31 of 32
   Punts/Game: 3.5
 
 CARD 18 (alternate)
-HERO: 41.6 Punt Radar Score
-TEAM: BAL
-MATCHUP: @ ATL (Sunday 20:20 ET)
-Support Stats:
-  Offensive Punt Rank: 18 of 32
-  Defensive Stop Rank: 25 of 32
-  Punts/Game: 3.5
-
-CARD 19 (alternate)
 HERO: 41.2 Punt Radar Score
 TEAM: NO
 MATCHUP: vs MIN (Sunday 13:00 ET)
 Support Stats:
-  Offensive Punt Rank: 19 of 32
+  Offensive Punt Rank: 18 of 32
   Defensive Stop Rank: 23 of 32
   Punts/Game: 3.4
 
-CARD 20 (alternate)
+CARD 19 (alternate)
 HERO: 40.9 Punt Radar Score
 TEAM: SEA
 MATCHUP: vs SF (Sunday 16:25 ET)
 Support Stats:
-  Offensive Punt Rank: 20 of 32
+  Offensive Punt Rank: 19 of 32
   Defensive Stop Rank: 1 of 32
   Punts/Game: 3.8
+
+CARD 20 (alternate)
+HERO: 40.6 Punt Radar Score
+TEAM: BAL
+MATCHUP: @ ATL (Sunday 20:20 ET)
+Support Stats:
+  Offensive Punt Rank: 20 of 32
+  Defensive Stop Rank: 25 of 32
+  Punts/Game: 3.5

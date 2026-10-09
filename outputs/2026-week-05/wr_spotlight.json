@@ -14,7 +14,7 @@
     "completed_weeks": 4,
     "first_kickoff": "2026-10-08",
     "last_game": "2026-10-12",
-    "generated_at_et": "2026-10-08T14:53:30-04:00",
+    "generated_at_et": "2026-10-09T14:24:07-04:00",
     "label": "2026-week-05"
   },
   "method": {
@@ -40,7 +40,7 @@
     }
   },
   "board_size": 20,
-  "total_eligible": 60,
+  "total_eligible": 59,
   "items": [
     {
       "rank": 1,
@@ -94,31 +94,6 @@
     },
     {
       "rank": 3,
-      "player_id": "00-0036358",
-      "player_name": "C.Lamb",
-      "player_full_name": "CeeDee Lamb",
-      "first_name": "CeeDee",
-      "last_name": "Lamb",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/mbblzwtynxr15ovzkevi",
-      "team": "DAL",
-      "position": "WR",
-      "opponent": "vs TB",
-      "kickoff": "Thursday 20:15 ET",
-      "score": 5.135,
-      "games_played": 13,
-      "injury_flag": "",
-      "flags": [],
-      "targets_per_game": 10.5125,
-      "target_share": 0.2689,
-      "red_zone_targets_per_game": 1.551,
-      "receptions_per_game": 7.6837,
-      "rec_yards_per_game": 105.7558,
-      "targets": 47,
-      "receptions": 37,
-      "red_zone_targets": 7
-    },
-    {
-      "rank": 4,
       "player_id": "00-0038543",
       "player_name": "J.Smith-Njigba",
       "player_full_name": "Jaxon Smith-Njigba",
@@ -143,7 +118,7 @@
       "red_zone_targets": 10
     },
     {
-      "rank": 5,
+      "rank": 4,
       "player_id": "00-0039075",
       "player_name": "P.Nacua",
       "player_full_name": "Puka Nacua",
@@ -166,6 +141,31 @@
       "targets": 21,
       "receptions": 14,
       "red_zone_targets": 1
+    },
+    {
+      "rank": 5,
+      "player_id": "00-0036358",
+      "player_name": "C.Lamb",
+      "player_full_name": "CeeDee Lamb",
+      "first_name": "CeeDee",
+      "last_name": "Lamb",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/mbblzwtynxr15ovzkevi",
+      "team": "DAL",
+      "position": "WR",
+      "opponent": "vs TB",
+      "kickoff": "Thursday 20:15 ET",
+      "score": 4.755,
+      "games_played": 13,
+      "injury_flag": "",
+      "flags": [],
+      "targets_per_game": 9.77,
+      "target_share": 0.2473,
+      "red_zone_targets_per_game": 1.3585,
+      "receptions_per_game": 6.8862,
+      "rec_yards_per_game": 93.0508,
+      "targets": 52,
+      "receptions": 39,
+      "red_zone_targets": 7
     },
     {
       "rank": 6,
@@ -294,6 +294,31 @@
     },
     {
       "rank": 11,
+      "player_id": "00-0037247",
+      "player_name": "G.Pickens",
+      "player_full_name": "George Pickens",
+      "first_name": "George",
+      "last_name": "Pickens",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/cbpyykoguf7rsxezqzvk",
+      "team": "DAL",
+      "position": "WR",
+      "opponent": "vs TB",
+      "kickoff": "Thursday 20:15 ET",
+      "score": 3.983,
+      "games_played": 17,
+      "injury_flag": "",
+      "flags": [],
+      "targets_per_game": 8.1629,
+      "target_share": 0.2071,
+      "red_zone_targets_per_game": 1.1853,
+      "receptions_per_game": 5.4318,
+      "rec_yards_per_game": 76.8765,
+      "targets": 41,
+      "receptions": 27,
+      "red_zone_targets": 5
+    },
+    {
+      "rank": 12,
       "player_id": "00-0036410",
       "player_name": "T.Higgins",
       "player_full_name": "Tee Higgins",
@@ -318,7 +343,7 @@
       "red_zone_targets": 2
     },
     {
-      "rank": 12,
+      "rank": 13,
       "player_id": "00-0037740",
       "player_name": "G.Wilson",
       "player_full_name": "Garrett Wilson",
@@ -343,7 +368,7 @@
       "red_zone_targets": 2
     },
     {
-      "rank": 13,
+      "rank": 14,
       "player_id": "00-0039067",
       "player_name": "R.Rice",
       "player_full_name": "Rashee Rice",
@@ -368,7 +393,7 @@
       "red_zone_targets": 4
     },
     {
-      "rank": 14,
+      "rank": 15,
       "player_id": "00-0036912",
       "player_name": "D.Smith",
       "player_full_name": "DeVonta Smith",
@@ -393,7 +418,7 @@
       "red_zone_targets": 2
     },
     {
-      "rank": 15,
+      "rank": 16,
       "player_id": "00-0041438",
       "player_name": "C.Tate",
       "player_full_name": "Carnell Tate",
@@ -420,7 +445,7 @@
       "red_zone_targets": 1
     },
     {
-      "rank": 16,
+      "rank": 17,
       "player_id": "00-0037238",
       "player_name": "D.London",
       "player_full_name": "Drake London",
@@ -443,31 +468,6 @@
       "targets": 25,
       "receptions": 20,
       "red_zone_targets": 0
-    },
-    {
-      "rank": 17,
-      "player_id": "00-0037247",
-      "player_name": "G.Pickens",
-      "player_full_name": "George Pickens",
-      "first_name": "George",
-      "last_name": "Pickens",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/cbpyykoguf7rsxezqzvk",
-      "team": "DAL",
-      "position": "WR",
-      "opponent": "vs TB",
-      "kickoff": "Thursday 20:15 ET",
-      "score": 3.653,
-      "games_played": 17,
-      "injury_flag": "",
-      "flags": [],
-      "targets_per_game": 7.5029,
-      "target_share": 0.1925,
-      "red_zone_targets_per_game": 1.0478,
-      "receptions_per_game": 4.9368,
-      "rec_yards_per_game": 68.764,
-      "targets": 28,
-      "receptions": 18,
-      "red_zone_targets": 3
     },
     {
       "rank": 18,
@@ -623,6 +623,31 @@
     },
     {
       "rank": 24,
+      "player_id": "00-0040129",
+      "player_name": "E.Egbuka",
+      "player_full_name": "Emeka Egbuka",
+      "first_name": "Emeka",
+      "last_name": "Egbuka",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/z224kbzs62rjuykc0vha",
+      "team": "TB",
+      "position": "WR",
+      "opponent": "@ DAL",
+      "kickoff": "Thursday 20:15 ET",
+      "score": 3.419,
+      "games_played": 17,
+      "injury_flag": "",
+      "flags": [],
+      "targets_per_game": 7.0182,
+      "target_share": 0.2037,
+      "red_zone_targets_per_game": 0.9471,
+      "receptions_per_game": 3.9776,
+      "rec_yards_per_game": 45.9494,
+      "targets": 33,
+      "receptions": 21,
+      "red_zone_targets": 5
+    },
+    {
+      "rank": 25,
       "player_id": "00-0038124",
       "player_name": "C.Watson",
       "player_full_name": "Christian Watson",
@@ -647,7 +672,7 @@
       "red_zone_targets": 7
     },
     {
-      "rank": 25,
+      "rank": 26,
       "player_id": "00-0031588",
       "player_name": "S.Diggs",
       "player_full_name": "Stefon Diggs",
@@ -672,7 +697,7 @@
       "red_zone_targets": 4
     },
     {
-      "rank": 26,
+      "rank": 27,
       "player_id": "00-0041547",
       "player_name": "K.Concepcion",
       "player_full_name": "KC Concepcion",
@@ -699,7 +724,7 @@
       "red_zone_targets": 3
     },
     {
-      "rank": 27,
+      "rank": 28,
       "player_id": "00-0030279",
       "player_name": "K.Allen",
       "player_full_name": "Keenan Allen",
@@ -724,7 +749,7 @@
       "red_zone_targets": 3
     },
     {
-      "rank": 28,
+      "rank": 29,
       "player_id": "00-0031408",
       "player_name": "M.Evans",
       "player_full_name": "Mike Evans",
@@ -749,7 +774,7 @@
       "red_zone_targets": 4
     },
     {
-      "rank": 29,
+      "rank": 30,
       "player_id": "00-0035659",
       "player_name": "T.McLaurin",
       "player_full_name": "Terry McLaurin",
@@ -772,31 +797,6 @@
       "targets": 22,
       "receptions": 10,
       "red_zone_targets": 2
-    },
-    {
-      "rank": 30,
-      "player_id": "00-0040129",
-      "player_name": "E.Egbuka",
-      "player_full_name": "Emeka Egbuka",
-      "first_name": "Emeka",
-      "last_name": "Egbuka",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/z224kbzs62rjuykc0vha",
-      "team": "TB",
-      "position": "WR",
-      "opponent": "@ DAL",
-      "kickoff": "Thursday 20:15 ET",
-      "score": 3.238,
-      "games_played": 17,
-      "injury_flag": "",
-      "flags": [],
-      "targets_per_game": 6.6882,
-      "target_share": 0.1886,
-      "red_zone_targets_per_game": 0.8096,
-      "receptions_per_game": 3.7301,
-      "rec_yards_per_game": 46.0044,
-      "targets": 24,
-      "receptions": 15,
-      "red_zone_targets": 3
     },
     {
       "rank": 31,
@@ -1454,31 +1454,6 @@
     },
     {
       "rank": 57,
-      "player_id": "00-0039410",
-      "player_name": "R.Flournoy",
-      "player_full_name": "Ryan Flournoy",
-      "first_name": "Ryan",
-      "last_name": "Flournoy",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/tqwq3cgpqu7j9hzoyicx",
-      "team": "DAL",
-      "position": "WR",
-      "opponent": "vs TB",
-      "kickoff": "Thursday 20:15 ET",
-      "score": 2.527,
-      "games_played": 13,
-      "injury_flag": "",
-      "flags": [],
-      "targets_per_game": 5.101,
-      "target_share": 0.1315,
-      "red_zone_targets_per_game": 0.9298,
-      "receptions_per_game": 3.1721,
-      "rec_yards_per_game": 30.7423,
-      "targets": 23,
-      "receptions": 13,
-      "red_zone_targets": 5
-    },
-    {
-      "rank": 58,
       "player_id": "00-0038618",
       "player_name": "X.Hutchinson",
       "player_full_name": "Xavier Hutchinson",
@@ -1503,7 +1478,7 @@
       "red_zone_targets": 1
     },
     {
-      "rank": 59,
+      "rank": 58,
       "player_id": "00-0036252",
       "player_name": "M.Pittman",
       "player_full_name": "Michael Pittman",
@@ -1528,29 +1503,29 @@
       "red_zone_targets": 0
     },
     {
-      "rank": 60,
-      "player_id": "00-0033921",
-      "player_name": "C.Godwin",
-      "player_full_name": "Chris Godwin Jr.",
-      "first_name": "Chris",
-      "last_name": "Godwin",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ilkheljdx4hbjpisulke",
-      "team": "TB",
+      "rank": 59,
+      "player_id": "00-0039410",
+      "player_name": "R.Flournoy",
+      "player_full_name": "Ryan Flournoy",
+      "first_name": "Ryan",
+      "last_name": "Flournoy",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/tqwq3cgpqu7j9hzoyicx",
+      "team": "DAL",
       "position": "WR",
-      "opponent": "@ DAL",
+      "opponent": "vs TB",
       "kickoff": "Thursday 20:15 ET",
-      "score": 2.414,
-      "games_played": 9,
+      "score": 2.484,
+      "games_played": 13,
       "injury_flag": "",
       "flags": [],
-      "targets_per_game": 5.075,
-      "target_share": 0.1442,
-      "red_zone_targets_per_game": 0.4,
-      "receptions_per_game": 3.85,
-      "rec_yards_per_game": 37.525,
-      "targets": 18,
+      "targets_per_game": 5.0185,
+      "target_share": 0.1279,
+      "red_zone_targets_per_game": 0.9023,
+      "receptions_per_game": 3.1446,
+      "rec_yards_per_game": 37.7823,
+      "targets": 28,
       "receptions": 16,
-      "red_zone_targets": 0
+      "red_zone_targets": 6
     }
   ]
 }

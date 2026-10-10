@@ -15,7 +15,7 @@
     "completed_weeks": 4,
     "first_kickoff": "2026-10-08",
     "last_game": "2026-10-12",
-    "generated_at_et": "2026-10-09T14:24:07-04:00",
+    "generated_at_et": "2026-10-10T13:22:36-04:00",
     "label": "2026-week-05"
   },
   "method": {
@@ -33,14 +33,14 @@
       },
       "coverage": {
         "pass_yards": "28 players, 254 rungs, 254 priced (books open)",
-        "rush_yards": "73 players, 634 rungs, 634 priced (books open)",
-        "rec_yards": "125 players, 992 rungs, 992 priced (books open)"
+        "rush_yards": "76 players, 667 rungs, 667 priced (books open)",
+        "rec_yards": "136 players, 1063 rungs, 1063 priced (books open)"
       },
       "note": "Coverage is partial and deepens as kickoff approaches. A player the exchange does not list falls back to the synthetic grid rather than being dropped."
     },
     "started_games_excluded": true,
     "started_games_note": "Week 1 opens on a Wednesday, so by the Sunday run the Wed/Thu/Sat props are already settled. Players whose kickoff has passed are excluded outright.",
-    "generated_at_et": "2026-10-09T14:24:39-04:00",
+    "generated_at_et": "2026-10-10T13:23:07-04:00",
     "p_target": {
       "pass_yards": 0.7,
       "rush_yards": 0.7,
@@ -113,7 +113,7 @@
       "picks_shown": 4,
       "figma_row": "touchdowns",
       "source_concept": "touchdown_radar",
-      "total_eligible": 304,
+      "total_eligible": 288,
       "picks": [
         {
           "player_id": "00-0032764",
@@ -382,7 +382,7 @@
           "player_full_name": "Nico Collins",
           "first_name": "Nico",
           "last_name": "Collins",
-          "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/fguybjrn1kwflxm5szwq",
+          "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/pyevyueqikk1vbkh9ju1",
           "team_variant": "Texans",
           "team": "HOU",
           "position": "WR",
@@ -415,7 +415,7 @@
       "picks_shown": 4,
       "figma_row": "passing_yards",
       "source_concept": "_passer_metrics",
-      "total_eligible": 39,
+      "total_eligible": 38,
       "picks": [
         {
           "player_id": "00-0033106",
@@ -441,7 +441,7 @@
           "book_line": 224.5,
           "book_ticker": "KXNFLPASSYDS-26OCT11DETARI-DETJGOFF16-225",
           "book_verified": true,
-          "market_implied_probability": 0.79,
+          "market_implied_probability": 0.795,
           "injury_flag": "",
           "flags": [],
           "on_graphic": true
@@ -470,7 +470,7 @@
           "book_line": 224.5,
           "book_ticker": "KXNFLPASSYDS-26OCT12BUFLAR-LARMSTAFFORD9-225",
           "book_verified": true,
-          "market_implied_probability": 0.775,
+          "market_implied_probability": 0.785,
           "injury_flag": "",
           "flags": [],
           "on_graphic": true
@@ -530,7 +530,7 @@
           "book_line": 199.5,
           "book_ticker": "KXNFLPASSYDS-26OCT11HOUTEN-HOUCSTROUD7-200",
           "book_verified": true,
-          "market_implied_probability": 0.735,
+          "market_implied_probability": 0.72,
           "injury_flag": "",
           "flags": [],
           "on_graphic": true
@@ -588,7 +588,7 @@
           "book_line": 199.5,
           "book_ticker": "KXNFLPASSYDS-26OCT11CINMIA-CINJBURROW9-200",
           "book_verified": true,
-          "market_implied_probability": 0.755,
+          "market_implied_probability": 0.795,
           "injury_flag": "",
           "flags": [],
           "on_graphic": false
@@ -599,7 +599,7 @@
           "player_full_name": "Tyler Shough",
           "first_name": "Tyler",
           "last_name": "Shough",
-          "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/toiafc7qighw86geo7jf",
+          "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/vu51ogqu4i3abbwpj2fl",
           "team_variant": "Saints",
           "team": "NO",
           "position": "QB",
@@ -617,7 +617,7 @@
           "book_line": 199.5,
           "book_ticker": "KXNFLPASSYDS-26OCT11MINNO-NOTSHOUGH6-200",
           "book_verified": true,
-          "market_implied_probability": 0.725,
+          "market_implied_probability": 0.715,
           "injury_flag": "",
           "flags": [],
           "on_graphic": false
@@ -628,7 +628,7 @@
           "player_full_name": "Josh Allen",
           "first_name": "Josh",
           "last_name": "Allen",
-          "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/mjwbioajzldkq1vzoz2d",
+          "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ynrhq9iv30ysjpwmrfdv",
           "team_variant": "Bills",
           "team": "BUF",
           "position": "QB",
@@ -646,7 +646,7 @@
           "book_line": 199.5,
           "book_ticker": "KXNFLPASSYDS-26OCT12BUFLAR-BUFJALLEN17-200",
           "book_verified": true,
-          "market_implied_probability": 0.75,
+          "market_implied_probability": 0.745,
           "injury_flag": "",
           "flags": [],
           "on_graphic": false
@@ -657,7 +657,7 @@
           "player_full_name": "Drake Maye",
           "first_name": "Drake",
           "last_name": "Maye",
-          "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/s1nmoon2xnrc3bnyulv4",
+          "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/mkauzrg7vo8lfziigsbg",
           "team_variant": "Patriots",
           "team": "NE",
           "position": "QB",
@@ -704,7 +704,7 @@
           "book_line": 174.5,
           "book_ticker": "KXNFLPASSYDS-26OCT11INDPIT-PITARODGERS8-175",
           "book_verified": true,
-          "market_implied_probability": 0.775,
+          "market_implied_probability": 0.78,
           "injury_flag": "",
           "flags": [],
           "on_graphic": false
@@ -719,7 +719,7 @@
       "picks_shown": 4,
       "figma_row": "rushing_yards",
       "source_concept": "rb_spotlight",
-      "total_eligible": 48,
+      "total_eligible": 44,
       "picks": [
         {
           "player_id": "00-0038542",
@@ -727,7 +727,7 @@
           "player_full_name": "Bijan Robinson",
           "first_name": "Bijan",
           "last_name": "Robinson",
-          "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/esii5yb8yn9edboi4mlq",
+          "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/zaxetgy0p0ul6evlsf63",
           "team_variant": "Falcons",
           "team": "ATL",
           "position": "RB",
@@ -774,7 +774,7 @@
           "book_line": 59.5,
           "book_ticker": "KXNFLRSHYDS-26OCT12BUFLAR-BUFJCOOK4-60",
           "book_verified": true,
-          "market_implied_probability": 0.67,
+          "market_implied_probability": 0.66,
           "injury_flag": "",
           "flags": [],
           "on_graphic": true
@@ -803,7 +803,7 @@
           "book_line": 49.5,
           "book_ticker": "KXNFLRSHYDS-26OCT12BUFLAR-LARKWILLIAMS23-50",
           "book_verified": true,
-          "market_implied_probability": 0.72,
+          "market_implied_probability": 0.71,
           "injury_flag": "",
           "flags": [],
           "on_graphic": true
@@ -814,7 +814,7 @@
           "player_full_name": "Jonathan Taylor",
           "first_name": "Jonathan",
           "last_name": "Taylor",
-          "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/yw46ky6akdm7h7siofu8",
+          "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/d7pmatz5wylijbsplnkg",
           "team_variant": "Colts",
           "team": "IND",
           "position": "RB",
@@ -832,7 +832,7 @@
           "book_line": 49.5,
           "book_ticker": "KXNFLRSHYDS-26OCT11INDPIT-INDJTAYLOR28-50",
           "book_verified": true,
-          "market_implied_probability": 0.84,
+          "market_implied_probability": 0.835,
           "injury_flag": "",
           "flags": [],
           "on_graphic": true
@@ -861,7 +861,7 @@
           "book_line": 49.5,
           "book_ticker": "KXNFLRSHYDS-26OCT11CHIGB-CHIDSWIFT4-50",
           "book_verified": true,
-          "market_implied_probability": 0.8,
+          "market_implied_probability": 0.825,
           "injury_flag": "",
           "flags": [],
           "on_graphic": false
@@ -919,7 +919,7 @@
           "book_line": 39.5,
           "book_ticker": "KXNFLRSHYDS-26OCT11INDPIT-PITJWARREN30-40",
           "book_verified": true,
-          "market_implied_probability": 0.745,
+          "market_implied_probability": 0.75,
           "injury_flag": "",
           "flags": [],
           "on_graphic": false
@@ -979,7 +979,7 @@
           "book_line": 39.5,
           "book_ticker": "KXNFLRSHYDS-26OCT11MINNO-MINAJONES33-40",
           "book_verified": true,
-          "market_implied_probability": 0.84,
+          "market_implied_probability": 0.85,
           "injury_flag": "",
           "flags": [],
           "on_graphic": false
@@ -1008,8 +1008,8 @@
           "book_line": 39.5,
           "book_ticker": "KXNFLRSHYDS-26OCT11LVNE-LVAJEANTY2-40",
           "book_verified": true,
-          "market_implied_probability": 0.685,
-          "injury_flag": "",
+          "market_implied_probability": 0.745,
+          "injury_flag": "Questionable",
           "flags": [],
           "on_graphic": false
         }
@@ -1023,7 +1023,7 @@
       "picks_shown": 4,
       "figma_row": "receiving_yards",
       "source_concept": "wr_spotlight",
-      "total_eligible": 59,
+      "total_eligible": 54,
       "picks": [
         {
           "player_id": "00-0038543",
@@ -1060,7 +1060,7 @@
           "player_full_name": "Chris Olave",
           "first_name": "Chris",
           "last_name": "Olave",
-          "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/onmxufsprtvglhejg94o",
+          "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/u1wdmijwkbobujmw7kbb",
           "team_variant": "Saints",
           "team": "NO",
           "position": "WR",
@@ -1078,7 +1078,7 @@
           "book_line": 69.5,
           "book_ticker": "KXNFLRECYDS-26OCT11MINNO-NOCOLAVE12-70",
           "book_verified": true,
-          "market_implied_probability": 0.595,
+          "market_implied_probability": 0.6,
           "injury_flag": "",
           "flags": [],
           "on_graphic": true
@@ -1107,8 +1107,8 @@
           "book_line": 69.5,
           "book_ticker": "KXNFLRECYDS-26OCT11BALATL-BALZFLOWERS4-70",
           "book_verified": true,
-          "market_implied_probability": 0.475,
-          "injury_flag": "",
+          "market_implied_probability": 0.48,
+          "injury_flag": "Questionable",
           "flags": [],
           "on_graphic": true
         },
@@ -1147,7 +1147,7 @@
           "player_full_name": "Nico Collins",
           "first_name": "Nico",
           "last_name": "Collins",
-          "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/fguybjrn1kwflxm5szwq",
+          "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/pyevyueqikk1vbkh9ju1",
           "team_variant": "Texans",
           "team": "HOU",
           "position": "WR",
@@ -1165,7 +1165,7 @@
           "book_line": 59.5,
           "book_ticker": "KXNFLRECYDS-26OCT11HOUTEN-HOUNCOLLINS12-60",
           "book_verified": true,
-          "market_implied_probability": 0.675,
+          "market_implied_probability": 0.665,
           "injury_flag": "",
           "flags": [],
           "on_graphic": false
@@ -1195,7 +1195,7 @@
           "book_ticker": null,
           "book_verified": false,
           "market_implied_probability": null,
-          "injury_flag": "",
+          "injury_flag": "Questionable",
           "flags": [],
           "on_graphic": false
         },
@@ -1205,7 +1205,7 @@
           "player_full_name": "Drake London",
           "first_name": "Drake",
           "last_name": "London",
-          "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/mcllowcfrmmdeo4zy3g1",
+          "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/y5mkxrljhsglpwl3ky94",
           "team_variant": "Falcons",
           "team": "ATL",
           "position": "WR",
@@ -1287,32 +1287,34 @@
           "on_graphic": false
         },
         {
-          "player_id": "00-0036912",
-          "player_name": "D.Smith",
-          "player_full_name": "DeVonta Smith",
-          "first_name": "DeVonta",
-          "last_name": "Smith",
-          "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/k724kq3hyv7jc0y9s03x",
-          "team_variant": "Eagles",
-          "team": "PHI",
+          "player_id": "00-0041037",
+          "player_name": "D.Boston",
+          "player_full_name": "Denzel Boston",
+          "first_name": "Denzel",
+          "last_name": "Boston",
+          "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ybkny6eh5eegq3bqmony",
+          "team_variant": "Browns",
+          "team": "CLE",
           "position": "WR",
-          "opponent": "@ JAX",
-          "kickoff": "Sunday 09:30 ET",
+          "opponent": "@ NYJ",
+          "kickoff": "Sunday 13:00 ET",
           "line": 39.5,
           "line_display": "39.5",
           "side": "over",
-          "projection": 69.77,
-          "hit_probability": 0.7703,
-          "cushion_sigmas": 0.717,
-          "cushion_yards": 30.3,
-          "sigma": 42.19,
-          "ladder_source": "synthetic_grid",
-          "book_line": null,
-          "book_ticker": null,
-          "book_verified": false,
-          "market_implied_probability": null,
+          "projection": 71.0,
+          "hit_probability": 0.7675,
+          "cushion_sigmas": 0.708,
+          "cushion_yards": 31.5,
+          "sigma": 44.51,
+          "ladder_source": "kalshi",
+          "book_line": 39.5,
+          "book_ticker": "KXNFLRECYDS-26OCT11CLENYJ-CLEDBOSTON12-40",
+          "book_verified": true,
+          "market_implied_probability": 0.585,
           "injury_flag": "",
-          "flags": [],
+          "flags": [
+            "rookie"
+          ],
           "on_graphic": false
         }
       ]

@@ -1,4 +1,4 @@
-Generated at 2026-10-13 15:20:54 EDT
+Generated at 2026-10-14 13:18:25 EDT
 
 Copy any block below into a Figma template — text only, full data in JSON
 

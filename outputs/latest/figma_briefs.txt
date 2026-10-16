@@ -1,4 +1,4 @@
-Generated at 2026-10-15 13:07:17 EDT
+Generated at 2026-10-16 12:44:54 EDT
 
 Copy any block below into a Figma template — text only, full data in JSON
 
@@ -139,15 +139,6 @@ Support Stats:
 
 CARD 15 (alternate)
 HERO: 0.54 Expected TD/Game
-PLAYER: Jaxon Smith-Njigba (SEA)
-MATCHUP: @ DEN (Thursday 20:15 ET)
-Support Stats:
-  Inside 10 Opportunities: 10
-  End Zone Targets: 11
-  TDs (Last 10 Games): 10
-
-CARD 16 (alternate)
-HERO: 0.54 Expected TD/Game
 PLAYER: Puka Nacua (LA)
 MATCHUP: vs ARI (Sunday 16:05 ET)
 Support Stats:
@@ -155,7 +146,7 @@ Support Stats:
   End Zone Targets: 7
   TDs (Last 10 Games): 8
 
-CARD 17 (alternate)
+CARD 16 (alternate)
 HERO: 0.54 Expected TD/Game
 PLAYER: Tetairoa McMillan (CAR)
 MATCHUP: @ PHI (Sunday 13:00 ET)
@@ -164,7 +155,7 @@ Support Stats:
   End Zone Targets: 7
   TDs (Last 10 Games): 5
 
-CARD 18 (alternate)
+CARD 17 (alternate)
 HERO: 0.53 Expected TD/Game
 PLAYER: Michael Wilson (ARI)
 MATCHUP: @ LA (Sunday 16:05 ET)
@@ -173,7 +164,7 @@ Support Stats:
   End Zone Targets: 11
   TDs (Last 10 Games): 7
 
-CARD 19 (alternate)
+CARD 18 (alternate)
 HERO: 0.53 Expected TD/Game
 PLAYER: Josh Jacobs (GB)
 MATCHUP: vs DAL (Sunday 20:20 ET)
@@ -182,7 +173,7 @@ Support Stats:
   End Zone Targets: 1
   TDs (Last 10 Games): 8
 
-CARD 20 (alternate)
+CARD 19 (alternate)
 HERO: 0.53 Expected TD/Game
 PLAYER: Nico Collins (HOU)
 MATCHUP: @ JAX (Sunday 09:30 ET)
@@ -190,6 +181,15 @@ Support Stats:
   Inside 10 Opportunities: 5
   End Zone Targets: 9
   TDs (Last 10 Games): 7
+
+CARD 20 (alternate)
+HERO: 0.51 Expected TD/Game
+PLAYER: James Cook (BUF)
+MATCHUP: @ LV (Sunday 16:25 ET)
+Support Stats:
+  Inside 10 Opportunities: 23
+  End Zone Targets: 0
+  TDs (Last 10 Games): 10
 
 
 ═══════════════════════════════════════
@@ -402,21 +402,21 @@ Support Stats:
   Receptions/Game: 7.2
 
 [FEATURED] CARD 3
+HERO: 10.5 Targets/Game
+PLAYER: Jaxon Smith-Njigba (SEA)
+MATCHUP: @ DEN (Thursday 20:15 ET)
+Support Stats:
+  Target Share: 31.1%
+  Red Zone Targets: 11
+  Receptions/Game: 7.8
+
+[FEATURED] CARD 4
 HERO: 10.4 Targets/Game
 PLAYER: Chris Olave (NO)
 MATCHUP: @ NYG (Sunday 13:00 ET)
 Support Stats:
   Target Share: 25.1%
   Red Zone Targets: 5
-  Receptions/Game: 7.3
-
-[FEATURED] CARD 4
-HERO: 9.9 Targets/Game
-PLAYER: Jaxon Smith-Njigba (SEA)
-MATCHUP: @ DEN (Thursday 20:15 ET)
-Support Stats:
-  Target Share: 31.8%
-  Red Zone Targets: 11
   Receptions/Game: 7.3
 
 CARD 5 (alternate)
@@ -601,21 +601,21 @@ Support Stats:
   Punts/Game: 4.7
 
 [FEATURED] CARD 3
-HERO: 88.8 Punt Radar Score
-TEAM: NYJ
-MATCHUP: @ NE (Sunday 13:00 ET)
-Support Stats:
-  Offensive Punt Rank: 3 of 32
-  Defensive Stop Rank: 5 of 32
-  Punts/Game: 4.7
-
-[FEATURED] CARD 4
-HERO: 88.4 Punt Radar Score
+HERO: 91.9 Punt Radar Score
 TEAM: DEN
 MATCHUP: vs SEA (Thursday 20:15 ET)
 Support Stats:
+  Offensive Punt Rank: 3 of 32
+  Defensive Stop Rank: 9 of 32
+  Punts/Game: 5.0
+
+[FEATURED] CARD 4
+HERO: 87.2 Punt Radar Score
+TEAM: NYJ
+MATCHUP: @ NE (Sunday 13:00 ET)
+Support Stats:
   Offensive Punt Rank: 4 of 32
-  Defensive Stop Rank: 8 of 32
+  Defensive Stop Rank: 5 of 32
   Punts/Game: 4.7
 
 CARD 5 (alternate)
@@ -628,7 +628,7 @@ Support Stats:
   Punts/Game: 5.0
 
 CARD 6 (alternate)
-HERO: 84.4 Punt Radar Score
+HERO: 83.4 Punt Radar Score
 TEAM: MIN
 MATCHUP: BYE
 Support Stats:
@@ -637,12 +637,12 @@ Support Stats:
   Punts/Game: 4.6
 
 CARD 7 (alternate)
-HERO: 81.9 Punt Radar Score
+HERO: 80.9 Punt Radar Score
 TEAM: ARI
 MATCHUP: @ LA (Sunday 16:05 ET)
 Support Stats:
   Offensive Punt Rank: 7 of 32
-  Defensive Stop Rank: 32 of 32
+  Defensive Stop Rank: 31 of 32
   Punts/Game: 4.5
 
 CARD 8 (alternate)

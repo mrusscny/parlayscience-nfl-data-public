@@ -1,4 +1,4 @@
-Generated at 2026-10-17 11:41:27 EDT
+Generated at 2026-10-18 11:57:12 EDT
 
 Copy any block below into a Figma template — text only, full data in JSON
 
@@ -369,13 +369,13 @@ Support Stats:
   Snap Share: 56.9%
 
 CARD 20 (alternate)
-HERO: 15.6 Touches/Game
-PLAYER: Chuba Hubbard (CAR)
-MATCHUP: @ PHI (Sunday 13:00 ET)
+HERO: 15.2 Touches/Game
+PLAYER: Travis Etienne (NO)
+MATCHUP: @ NYG (Sunday 13:00 ET)
 Support Stats:
-  Carries/Game: 13.2
-  Targets/Game: 2.7
-  Snap Share: 65.8%
+  Carries/Game: 12.1
+  Targets/Game: 3.9
+  Snap Share: 53.6%
 
 
 ═══════════════════════════════════════
@@ -538,7 +538,7 @@ Support Stats:
 
 CARD 18 (alternate)
 HERO: 7.3 Targets/Game
-PLAYER: Mike Evans (SF)
+PLAYER: Mike Evans (SF) [Questionable]
 MATCHUP: vs WAS (Monday 20:15 ET)
 Support Stats:
   Target Share: 22.8%

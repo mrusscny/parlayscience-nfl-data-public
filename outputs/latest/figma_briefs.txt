@@ -1,4 +1,4 @@
-Generated at 2026-10-21 13:18:40 EDT
+Generated at 2026-10-22 13:16:46 EDT
 
 Copy any block below into a Figma template — text only, full data in JSON
 
@@ -129,15 +129,6 @@ Support Stats:
   TDs (Last 10 Games): 2
 
 CARD 14 (alternate)
-HERO: 0.56 Expected TD/Game
-PLAYER: Kyle Monangai (CHI)
-MATCHUP: vs NE (Thursday 20:15 ET)
-Support Stats:
-  Inside 10 Opportunities: 20
-  End Zone Targets: 0
-  TDs (Last 10 Games): 4
-
-CARD 15 (alternate)
 HERO: 0.53 Expected TD/Game
 PLAYER: Kyren Williams (LA)
 MATCHUP: @ LV (Sunday 16:25 ET)
@@ -146,7 +137,7 @@ Support Stats:
   End Zone Targets: 0
   TDs (Last 10 Games): 7
 
-CARD 16 (alternate)
+CARD 15 (alternate)
 HERO: 0.53 Expected TD/Game
 PLAYER: Josh Jacobs (GB)
 MATCHUP: @ DET (Sunday 16:25 ET)
@@ -155,7 +146,7 @@ Support Stats:
   End Zone Targets: 1
   TDs (Last 10 Games): 8
 
-CARD 17 (alternate)
+CARD 16 (alternate)
 HERO: 0.52 Expected TD/Game
 PLAYER: Jaxon Smith-Njigba (SEA)
 MATCHUP: vs KC (Sunday 20:20 ET)
@@ -164,7 +155,7 @@ Support Stats:
   End Zone Targets: 9
   TDs (Last 10 Games): 8
 
-CARD 18 (alternate)
+CARD 17 (alternate)
 HERO: 0.52 Expected TD/Game
 PLAYER: Christian Watson (GB)
 MATCHUP: @ DET (Sunday 16:25 ET)
@@ -173,7 +164,7 @@ Support Stats:
   End Zone Targets: 12
   TDs (Last 10 Games): 9
 
-CARD 19 (alternate)
+CARD 18 (alternate)
 HERO: 0.52 Expected TD/Game
 PLAYER: Nico Collins (HOU)
 MATCHUP: vs NYG (Sunday 13:00 ET)
@@ -182,13 +173,22 @@ Support Stats:
   End Zone Targets: 8
   TDs (Last 10 Games): 6
 
-CARD 20 (alternate)
+CARD 19 (alternate)
 HERO: 0.51 Expected TD/Game
 PLAYER: Tetairoa McMillan (CAR)
 MATCHUP: vs TB (Sunday 13:00 ET)
 Support Stats:
   Inside 10 Opportunities: 5
   End Zone Targets: 7
+  TDs (Last 10 Games): 4
+
+CARD 20 (alternate)
+HERO: 0.51 Expected TD/Game
+PLAYER: Malik Nabers (NYG)
+MATCHUP: @ HOU (Sunday 13:00 ET)
+Support Stats:
+  Inside 10 Opportunities: 7
+  End Zone Targets: 13
   TDs (Last 10 Games): 4
 
 
@@ -360,15 +360,6 @@ Support Stats:
   Snap Share: 57.6%
 
 CARD 19 (alternate)
-HERO: 22.0 Touches/Game
-PLAYER: Derrick Henry (BAL)
-MATCHUP: vs CIN (Sunday 13:00 ET)
-Support Stats:
-  Carries/Game: 20.7
-  Targets/Game: 1.5
-  Snap Share: 57.1%
-
-CARD 20 (alternate)
 HERO: 15.3 Touches/Game
 PLAYER: De'Von Achane (MIA)
 MATCHUP: @ NYJ (Sunday 13:00 ET)
@@ -376,6 +367,15 @@ Support Stats:
   Carries/Game: 12.4
   Targets/Game: 4.4
   Snap Share: 61.6%
+
+CARD 20 (alternate)
+HERO: 22.0 Touches/Game
+PLAYER: Derrick Henry (BAL)
+MATCHUP: vs CIN (Sunday 13:00 ET)
+Support Stats:
+  Carries/Game: 20.7
+  Targets/Game: 1.5
+  Snap Share: 57.1%
 
 
 ═══════════════════════════════════════

@@ -1,4 +1,4 @@
-Generated at 2026-10-22 13:16:46 EDT
+Generated at 2026-10-23 13:14:46 EDT
 
 Copy any block below into a Figma template — text only, full data in JSON
 
@@ -39,15 +39,6 @@ Support Stats:
   TDs (Last 10 Games): 14
 
 [FEATURED] CARD 4
-HERO: 0.66 Expected TD/Game
-PLAYER: D'Andre Swift (CHI)
-MATCHUP: vs NE (Thursday 20:15 ET)
-Support Stats:
-  Inside 10 Opportunities: 25
-  End Zone Targets: 0
-  TDs (Last 10 Games): 10
-
-CARD 5 (alternate)
 HERO: 0.62 Expected TD/Game
 PLAYER: Jonathan Taylor (IND)
 MATCHUP: @ MIN (Sunday 13:00 ET)
@@ -56,7 +47,7 @@ Support Stats:
   End Zone Targets: 0
   TDs (Last 10 Games): 9
 
-CARD 6 (alternate)
+CARD 5 (alternate)
 HERO: 0.62 Expected TD/Game
 PLAYER: Javonte Williams (DAL)
 MATCHUP: @ PHI (Monday 20:15 ET)
@@ -65,7 +56,7 @@ Support Stats:
   End Zone Targets: 1
   TDs (Last 10 Games): 11
 
-CARD 7 (alternate)
+CARD 6 (alternate)
 HERO: 0.61 Expected TD/Game
 PLAYER: Davante Adams (LA)
 MATCHUP: @ LV (Sunday 16:25 ET)
@@ -73,6 +64,15 @@ Support Stats:
   Inside 10 Opportunities: 9
   End Zone Targets: 15
   TDs (Last 10 Games): 8
+
+CARD 7 (alternate)
+HERO: 0.60 Expected TD/Game
+PLAYER: D'Andre Swift (CHI)
+MATCHUP: vs NE (Thursday 20:15 ET)
+Support Stats:
+  Inside 10 Opportunities: 25
+  End Zone Targets: 0
+  TDs (Last 10 Games): 9
 
 CARD 8 (alternate)
 HERO: 0.60 Expected TD/Game
@@ -324,6 +324,15 @@ Support Stats:
   Snap Share: 64.0%
 
 CARD 15 (alternate)
+HERO: 18.6 Touches/Game
+PLAYER: D'Andre Swift (CHI)
+MATCHUP: vs NE (Thursday 20:15 ET)
+Support Stats:
+  Carries/Game: 15.8
+  Targets/Game: 3.4
+  Snap Share: 60.4%
+
+CARD 16 (alternate)
 HERO: 18.2 Touches/Game
 PLAYER: Quinshon Judkins (CLE)
 MATCHUP: @ TEN (Sunday 13:00 ET)
@@ -331,15 +340,6 @@ Support Stats:
   Carries/Game: 15.2
   Targets/Game: 3.6
   Snap Share: 57.4%
-
-CARD 16 (alternate)
-HERO: 18.0 Touches/Game
-PLAYER: Josh Jacobs (GB)
-MATCHUP: @ DET (Sunday 16:25 ET)
-Support Stats:
-  Carries/Game: 15.6
-  Targets/Game: 2.9
-  Snap Share: 59.3%
 
 CARD 17 (alternate)
 HERO: 17.4 Touches/Game
@@ -351,13 +351,13 @@ Support Stats:
   Snap Share: 69.8%
 
 CARD 18 (alternate)
-HERO: 17.9 Touches/Game
-PLAYER: D'Andre Swift (CHI)
-MATCHUP: vs NE (Thursday 20:15 ET)
+HERO: 18.0 Touches/Game
+PLAYER: Josh Jacobs (GB)
+MATCHUP: @ DET (Sunday 16:25 ET)
 Support Stats:
-  Carries/Game: 15.1
-  Targets/Game: 3.4
-  Snap Share: 57.6%
+  Carries/Game: 15.6
+  Targets/Game: 2.9
+  Snap Share: 59.3%
 
 CARD 19 (alternate)
 HERO: 15.3 Touches/Game
@@ -570,11 +570,11 @@ Visual layout: TODO - not yet designed
 ═══════════════════════════════════════
 
 --- WR — most vulnerable defences (matchup signal: very weak, rho 0.034) ---
-1. DAL (@ PHI)  score 90.3
+1. DAL (@ PHI)  score 91.4
 2. TEN (vs CLE)  score 88.1
-3. WAS (BYE)  score 81.2
-4. LAC (BYE)  score 77.2
-5. DET (vs GB)  score 74.1
+3. NE (@ CHI)  score 80.5
+4. WAS (BYE)  score 80.2
+5. LAC (BYE)  score 76.1
 
 
 ═══════════════════════════════════════
@@ -633,7 +633,7 @@ TEAM: NYJ
 MATCHUP: vs MIA (Sunday 13:00 ET)
 Support Stats:
   Offensive Punt Rank: 6 of 32
-  Defensive Stop Rank: 8 of 32
+  Defensive Stop Rank: 7 of 32
   Punts/Game: 4.4
 
 CARD 7 (alternate)
@@ -678,7 +678,7 @@ TEAM: PIT
 MATCHUP: @ NO (Sunday 09:30 ET)
 Support Stats:
   Offensive Punt Rank: 11 of 32
-  Defensive Stop Rank: 24 of 32
+  Defensive Stop Rank: 23 of 32
   Punts/Game: 4.1
 
 CARD 12 (alternate)
@@ -723,11 +723,11 @@ TEAM: NO
 MATCHUP: vs PIT (Sunday 09:30 ET)
 Support Stats:
   Offensive Punt Rank: 16 of 32
-  Defensive Stop Rank: 24 of 32
+  Defensive Stop Rank: 25 of 32
   Punts/Game: 3.9
 
 CARD 17 (alternate)
-HERO: 49.1 Punt Radar Score
+HERO: 49.7 Punt Radar Score
 TEAM: LV
 MATCHUP: vs LA (Sunday 16:25 ET)
 Support Stats:
@@ -741,7 +741,7 @@ TEAM: NYG
 MATCHUP: @ HOU (Sunday 13:00 ET)
 Support Stats:
   Offensive Punt Rank: 18 of 32
-  Defensive Stop Rank: 5 of 32
+  Defensive Stop Rank: 4 of 32
   Punts/Game: 3.7
 
 CARD 19 (alternate)
@@ -754,7 +754,7 @@ Support Stats:
   Punts/Game: 3.6
 
 CARD 20 (alternate)
-HERO: 37.2 Punt Radar Score
+HERO: 36.2 Punt Radar Score
 TEAM: SEA
 MATCHUP: vs KC (Sunday 20:20 ET)
 Support Stats:

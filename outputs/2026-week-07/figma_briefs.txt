@@ -1,4 +1,4 @@
-Generated at 2026-10-24 12:02:39 EDT
+Generated at 2026-10-25 12:30:44 EDT
 
 Copy any block below into a Figma template — text only, full data in JSON
 
@@ -447,15 +447,6 @@ Support Stats:
   Receptions/Game: 5.2
 
 CARD 8 (alternate)
-HERO: 9.2 Targets/Game
-PLAYER: DeVonta Smith (PHI)
-MATCHUP: vs DAL (Monday 20:15 ET)
-Support Stats:
-  Target Share: 26.3%
-  Red Zone Targets: 3
-  Receptions/Game: 5.9
-
-CARD 9 (alternate)
 HERO: 8.9 Targets/Game
 PLAYER: Tetairoa McMillan (CAR)
 MATCHUP: vs TB (Sunday 13:00 ET)
@@ -464,7 +455,7 @@ Support Stats:
   Red Zone Targets: 7
   Receptions/Game: 5.7
 
-CARD 10 (alternate)
+CARD 9 (alternate)
 HERO: 8.8 Targets/Game
 PLAYER: Ja'Marr Chase (CIN)
 MATCHUP: @ BAL (Sunday 13:00 ET)
@@ -473,7 +464,7 @@ Support Stats:
   Red Zone Targets: 7
   Receptions/Game: 6.1
 
-CARD 11 (alternate)
+CARD 10 (alternate)
 HERO: 8.5 Targets/Game
 PLAYER: George Pickens (DAL)
 MATCHUP: @ PHI (Monday 20:15 ET)
@@ -482,7 +473,7 @@ Support Stats:
   Red Zone Targets: 6
   Receptions/Game: 5.5
 
-CARD 12 (alternate)
+CARD 11 (alternate)
 HERO: 8.2 Targets/Game
 PLAYER: Davante Adams (LA)
 MATCHUP: @ LV (Sunday 16:25 ET)
@@ -491,7 +482,7 @@ Support Stats:
   Red Zone Targets: 7
   Receptions/Game: 4.8
 
-CARD 13 (alternate)
+CARD 12 (alternate)
 HERO: 8.3 Targets/Game
 PLAYER: Drake London (ATL)
 MATCHUP: vs SF (Sunday 13:00 ET)
@@ -500,7 +491,7 @@ Support Stats:
   Red Zone Targets: 3
   Receptions/Game: 5.3
 
-CARD 14 (alternate)
+CARD 13 (alternate)
 HERO: 8.3 Targets/Game
 PLAYER: Garrett Wilson (NYJ)
 MATCHUP: vs MIA (Sunday 13:00 ET)
@@ -509,7 +500,7 @@ Support Stats:
   Red Zone Targets: 4
   Receptions/Game: 5.6
 
-CARD 15 (alternate)
+CARD 14 (alternate)
 HERO: 8.0 Targets/Game
 PLAYER: Zay Flowers (BAL)
 MATCHUP: vs CIN (Sunday 13:00 ET)
@@ -518,7 +509,7 @@ Support Stats:
   Red Zone Targets: 5
   Receptions/Game: 6.0
 
-CARD 16 (alternate)
+CARD 15 (alternate)
 HERO: 7.7 Targets/Game
 PLAYER: Matthew Golden (GB)
 MATCHUP: @ DET (Sunday 16:25 ET)
@@ -527,7 +518,7 @@ Support Stats:
   Red Zone Targets: 12
   Receptions/Game: 4.1
 
-CARD 17 (alternate)
+CARD 16 (alternate)
 HERO: 8.0 Targets/Game
 PLAYER: DK Metcalf (PIT)
 MATCHUP: @ NO (Sunday 09:30 ET)
@@ -536,7 +527,7 @@ Support Stats:
   Red Zone Targets: 3
   Receptions/Game: 4.7
 
-CARD 18 (alternate)
+CARD 17 (alternate)
 HERO: 8.0 Targets/Game
 PLAYER: Tee Higgins (CIN)
 MATCHUP: @ BAL (Sunday 13:00 ET)
@@ -545,7 +536,7 @@ Support Stats:
   Red Zone Targets: 2
   Receptions/Game: 5.0
 
-CARD 19 (alternate)
+CARD 18 (alternate)
 HERO: 7.7 Targets/Game
 PLAYER: Nico Collins (HOU)
 MATCHUP: vs NYG (Sunday 13:00 ET)
@@ -554,7 +545,7 @@ Support Stats:
   Red Zone Targets: 5
   Receptions/Game: 5.3
 
-CARD 20 (alternate)
+CARD 19 (alternate)
 HERO: 7.8 Targets/Game
 PLAYER: Keenan Allen (IND)
 MATCHUP: @ MIN (Sunday 13:00 ET)
@@ -562,6 +553,15 @@ Support Stats:
   Target Share: 20.0%
   Red Zone Targets: 4
   Receptions/Game: 5.1
+
+CARD 20 (alternate)
+HERO: 7.3 Targets/Game
+PLAYER: Parker Washington (JAX)
+MATCHUP: BYE
+Support Stats:
+  Target Share: 21.9%
+  Red Zone Targets: 8
+  Receptions/Game: 4.2
 
 
 ═══════════════════════════════════════

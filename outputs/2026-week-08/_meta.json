@@ -1,0 +1,26 @@
+{
+  "week": {
+    "season": 2026,
+    "week": 8,
+    "prior_season": 2025,
+    "is_preseason": false,
+    "completed_weeks": 7,
+    "first_kickoff": "2026-10-29",
+    "last_game": "2026-11-02",
+    "generated_at_et": "2026-10-27T14:04:04-04:00",
+    "label": "2026-week-08"
+  },
+  "blend": {
+    "prior": 0.25,
+    "current": 0.75
+  },
+  "concepts_built": [
+    "touchdown_radar",
+    "rb_spotlight",
+    "wr_spotlight",
+    "position_matchups",
+    "punt_radar",
+    "all_in_one"
+  ],
+  "pipeline_phase": "1-scaffold"
+}

@@ -1,18 +1,18 @@
 {
   "week": {
     "season": 2026,
-    "week": 7,
+    "week": 8,
     "prior_season": 2025,
     "is_preseason": false,
-    "completed_weeks": 6,
-    "first_kickoff": "2026-10-22",
-    "last_game": "2026-10-26",
-    "generated_at_et": "2026-10-25T12:30:18-04:00",
-    "label": "2026-week-07"
+    "completed_weeks": 7,
+    "first_kickoff": "2026-10-29",
+    "last_game": "2026-11-02",
+    "generated_at_et": "2026-10-27T14:04:04-04:00",
+    "label": "2026-week-08"
   },
   "blend": {
-    "prior": 0.3,
-    "current": 0.7
+    "prior": 0.25,
+    "current": 0.75
   },
   "concepts_built": [
     "touchdown_radar",

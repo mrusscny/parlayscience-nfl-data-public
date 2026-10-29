@@ -1,4 +1,4 @@
-Generated at 2026-10-28 14:23:26 EDT
+Generated at 2026-10-29 14:32:06 EDT
 
 Copy any block below into a Figma template — text only, full data in JSON
 
@@ -475,7 +475,7 @@ Support Stats:
 
 CARD 11 (alternate)
 HERO: 8.3 Targets/Game
-PLAYER: Matthew Golden (GB)
+PLAYER: Matthew Golden (GB) [Questionable]
 MATCHUP: vs CAR (Thursday 20:15 ET)
 Support Stats:
   Target Share: 20.9%

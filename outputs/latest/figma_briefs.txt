@@ -1,4 +1,4 @@
-Generated at 2026-11-04 14:51:03 EST
+Generated at 2026-11-05 15:02:46 EST
 
 Copy any block below into a Figma template — text only, full data in JSON
 
@@ -166,21 +166,21 @@ Support Stats:
 
 CARD 18 (alternate)
 HERO: 0.52 Expected TD/Game
-PLAYER: Jaxon Smith-Njigba (SEA)
-MATCHUP: vs ARI (Sunday 16:25 ET)
-Support Stats:
-  Inside 10 Opportunities: 7
-  End Zone Targets: 9
-  TDs (Last 10 Games): 9
-
-CARD 19 (alternate)
-HERO: 0.52 Expected TD/Game
 PLAYER: Amon-Ra St. Brown (DET)
 MATCHUP: @ MIA (Sunday 13:00 ET)
 Support Stats:
   Inside 10 Opportunities: 11
   End Zone Targets: 8
   TDs (Last 10 Games): 5
+
+CARD 19 (alternate)
+HERO: 0.52 Expected TD/Game
+PLAYER: Jaxon Smith-Njigba (SEA)
+MATCHUP: vs ARI (Sunday 16:25 ET)
+Support Stats:
+  Inside 10 Opportunities: 7
+  End Zone Targets: 9
+  TDs (Last 10 Games): 9
 
 CARD 20 (alternate)
 HERO: 0.50 Expected TD/Game

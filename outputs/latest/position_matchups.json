@@ -15,7 +15,7 @@
     "completed_weeks": 9,
     "first_kickoff": "2026-11-12",
     "last_game": "2026-11-16",
-    "generated_at_et": "2026-11-10T14:49:12-05:00",
+    "generated_at_et": "2026-11-11T14:41:17-05:00",
     "label": "2026-week-10"
   },
   "method": {
@@ -1230,8 +1230,8 @@
       "flags": [],
       "receptions_allowed": 4.737,
       "receptions_allowed_unadjusted": 5.251,
-      "rec_yards_allowed": 42.433,
-      "rec_yards_allowed_unadjusted": 47.072,
+      "rec_yards_allowed": 42.517,
+      "rec_yards_allowed_unadjusted": 47.166,
       "rec_tds_allowed": 0.144,
       "rec_tds_allowed_unadjusted": 0.156
     },
@@ -2236,8 +2236,8 @@
       "games_played": 17,
       "matchup_signal_rho": 0.124,
       "flags": [],
-      "pass_yards_allowed": 213.214,
-      "pass_yards_allowed_unadjusted": 212.838,
+      "pass_yards_allowed": 213.31,
+      "pass_yards_allowed_unadjusted": 212.933,
       "pass_tds_allowed": 1.269,
       "pass_tds_allowed_unadjusted": 1.268,
       "qb_rush_yards_allowed": 20.646,

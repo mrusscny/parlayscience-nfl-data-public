@@ -15,7 +15,7 @@
     "completed_weeks": 9,
     "first_kickoff": "2026-11-12",
     "last_game": "2026-11-16",
-    "generated_at_et": "2026-11-11T14:41:17-05:00",
+    "generated_at_et": "2026-11-12T15:01:39-05:00",
     "label": "2026-week-10"
   },
   "method": {
@@ -32,15 +32,15 @@
         "rec_yards": "KXNFLRECYDS"
       },
       "coverage": {
-        "pass_yards": "15 players, 143 rungs, 143 priced (books open)",
-        "rush_yards": "51 players, 459 rungs, 459 priced (books open)",
-        "rec_yards": "92 players, 954 rungs, 943 priced (books open)"
+        "pass_yards": "25 players, 238 rungs, 238 priced (books open)",
+        "rush_yards": "73 players, 649 rungs, 649 priced (books open)",
+        "rec_yards": "132 players, 1324 rungs, 1324 priced (books open)"
       },
       "note": "Coverage is partial and deepens as kickoff approaches. A player the exchange does not list falls back to the synthetic grid rather than being dropped."
     },
     "started_games_excluded": true,
     "started_games_note": "Week 1 opens on a Wednesday, so by the Sunday run the Wed/Thu/Sat props are already settled. Players whose kickoff has passed are excluded outright.",
-    "generated_at_et": "2026-11-11T14:41:36-05:00",
+    "generated_at_et": "2026-11-12T15:01:58-05:00",
     "p_target": {
       "pass_yards": 0.7,
       "rush_yards": 0.7,
@@ -113,7 +113,7 @@
       "picks_shown": 4,
       "figma_row": "touchdowns",
       "source_concept": "touchdown_radar",
-      "total_eligible": 337,
+      "total_eligible": 336,
       "picks": [
         {
           "player_id": "00-0038559",
@@ -443,7 +443,7 @@
           "book_line": 224.5,
           "book_ticker": "KXNFLPASSYDS-26NOV15MINGB-GBJLOVE10-225",
           "book_verified": true,
-          "market_implied_probability": 0.7,
+          "market_implied_probability": 0.68,
           "injury_flag": "",
           "flags": [],
           "on_graphic": true
@@ -472,7 +472,7 @@
           "book_line": 224.5,
           "book_ticker": "KXNFLPASSYDS-26NOV15PITCIN-CINJBURROW9-225",
           "book_verified": true,
-          "market_implied_probability": 0.8,
+          "market_implied_probability": 0.81,
           "injury_flag": "",
           "flags": [],
           "on_graphic": true
@@ -497,11 +497,11 @@
           "cushion_sigmas": 0.631,
           "cushion_yards": 47.3,
           "sigma": 74.83,
-          "ladder_source": "synthetic_grid",
-          "book_line": null,
-          "book_ticker": null,
-          "book_verified": false,
-          "market_implied_probability": null,
+          "ladder_source": "kalshi",
+          "book_line": 224.5,
+          "book_ticker": "KXNFLPASSYDS-26NOV15HOUCLE-HOUCSTROUD7-225",
+          "book_verified": true,
+          "market_implied_probability": 0.62,
           "injury_flag": "",
           "flags": [],
           "on_graphic": true
@@ -530,7 +530,7 @@
           "book_line": 224.5,
           "book_ticker": "KXNFLPASSYDS-26NOV15NEDET-DETJGOFF16-225",
           "book_verified": true,
-          "market_implied_probability": 0.735,
+          "market_implied_probability": 0.745,
           "injury_flag": "",
           "flags": [],
           "on_graphic": true
@@ -559,7 +559,7 @@
           "book_line": 199.5,
           "book_ticker": "KXNFLPASSYDS-26NOV15SFDAL-DALDPRESCOTT4-200",
           "book_verified": true,
-          "market_implied_probability": 0.81,
+          "market_implied_probability": 0.82,
           "injury_flag": "",
           "flags": [],
           "on_graphic": false
@@ -588,7 +588,7 @@
           "book_line": 199.5,
           "book_ticker": "KXNFLPASSYDS-26NOV15NEDET-NEDMAYE10-200",
           "book_verified": true,
-          "market_implied_probability": 0.81,
+          "market_implied_probability": 0.805,
           "injury_flag": "",
           "flags": [],
           "on_graphic": false
@@ -644,11 +644,11 @@
           "cushion_sigmas": 0.87,
           "cushion_yards": 55.4,
           "sigma": 63.65,
-          "ladder_source": "synthetic_grid",
-          "book_line": null,
-          "book_ticker": null,
-          "book_verified": false,
-          "market_implied_probability": null,
+          "ladder_source": "kalshi",
+          "book_line": 199.5,
+          "book_ticker": "KXNFLPASSYDS-26NOV15KCATL-KCPMAHOMES15-200",
+          "book_verified": true,
+          "market_implied_probability": 0.74,
           "injury_flag": "",
           "flags": [],
           "on_graphic": false
@@ -673,11 +673,11 @@
           "cushion_sigmas": 0.767,
           "cushion_yards": 66.2,
           "sigma": 86.33,
-          "ladder_source": "synthetic_grid",
-          "book_line": null,
-          "book_ticker": null,
-          "book_verified": false,
-          "market_implied_probability": null,
+          "ladder_source": "kalshi",
+          "book_line": 199.5,
+          "book_ticker": "KXNFLPASSYDS-26NOV15LARARI-LARMSTAFFORD9-200",
+          "book_verified": true,
+          "market_implied_probability": 0.575,
           "injury_flag": "",
           "flags": [],
           "on_graphic": false
@@ -706,7 +706,7 @@
           "book_line": 199.5,
           "book_ticker": "KXNFLPASSYDS-26NOV15SFDAL-SFBPURDY13-200",
           "book_verified": true,
-          "market_implied_probability": 0.77,
+          "market_implied_probability": 0.795,
           "injury_flag": "",
           "flags": [],
           "on_graphic": false
@@ -721,7 +721,7 @@
       "picks_shown": 4,
       "figma_row": "rushing_yards",
       "source_concept": "rb_spotlight",
-      "total_eligible": 51,
+      "total_eligible": 53,
       "picks": [
         {
           "player_id": "00-0037248",
@@ -743,11 +743,11 @@
           "cushion_sigmas": 0.634,
           "cushion_yards": 31.3,
           "sigma": 49.33,
-          "ladder_source": "synthetic_grid",
-          "book_line": null,
-          "book_ticker": null,
-          "book_verified": false,
-          "market_implied_probability": null,
+          "ladder_source": "kalshi",
+          "book_line": 69.5,
+          "book_ticker": "KXNFLRSHYDS-26NOV15BUFNYJ-BUFJCOOK4-70",
+          "book_verified": true,
+          "market_implied_probability": 0.715,
           "injury_flag": "",
           "flags": [],
           "on_graphic": true
@@ -776,7 +776,7 @@
           "book_line": 59.5,
           "book_ticker": "KXNFLRSHYDS-26NOV15KCATL-ATLBROBINSON7-60",
           "book_verified": true,
-          "market_implied_probability": 0.735,
+          "market_implied_probability": 0.76,
           "injury_flag": "",
           "flags": [],
           "on_graphic": true
@@ -805,7 +805,7 @@
           "book_line": 49.5,
           "book_ticker": "KXNFLRSHYDS-26NOV15PITCIN-PITJWARREN30-50",
           "book_verified": true,
-          "market_implied_probability": 0.645,
+          "market_implied_probability": 0.665,
           "injury_flag": "",
           "flags": [],
           "on_graphic": true
@@ -830,11 +830,11 @@
           "cushion_sigmas": 0.637,
           "cushion_yards": 17.6,
           "sigma": 27.54,
-          "ladder_source": "synthetic_grid",
-          "book_line": null,
-          "book_ticker": null,
-          "book_verified": false,
-          "market_implied_probability": null,
+          "ladder_source": "kalshi",
+          "book_line": 49.5,
+          "book_ticker": "KXNFLRSHYDS-26NOV15LARARI-LARKWILLIAMS23-50",
+          "book_verified": true,
+          "market_implied_probability": 0.69,
           "injury_flag": "",
           "flags": [],
           "on_graphic": true
@@ -863,7 +863,7 @@
           "book_line": 49.5,
           "book_ticker": "KXNFLRSHYDS-26NOV15CARNO-CARCHUBBARD30-50",
           "book_verified": true,
-          "market_implied_probability": 0.775,
+          "market_implied_probability": 0.8,
           "injury_flag": "",
           "flags": [],
           "on_graphic": false
@@ -888,11 +888,11 @@
           "cushion_sigmas": 0.604,
           "cushion_yards": 29.6,
           "sigma": 49.12,
-          "ladder_source": "synthetic_grid",
-          "book_line": null,
-          "book_ticker": null,
-          "book_verified": false,
-          "market_implied_probability": null,
+          "ladder_source": "kalshi",
+          "book_line": 49.5,
+          "book_ticker": "KXNFLRSHYDS-26NOV16LACBAL-BALDHENRY22-50",
+          "book_verified": true,
+          "market_implied_probability": 0.745,
           "injury_flag": "",
           "flags": [],
           "on_graphic": false
@@ -921,7 +921,7 @@
           "book_line": 49.5,
           "book_ticker": "KXNFLRSHYDS-26NOV15JACTEN-TENTPOLLARD20-50",
           "book_verified": true,
-          "market_implied_probability": 0.565,
+          "market_implied_probability": 0.6,
           "injury_flag": "",
           "flags": [],
           "on_graphic": false
@@ -950,7 +950,7 @@
           "book_line": 39.5,
           "book_ticker": "KXNFLRSHYDS-26NOV15SFDAL-DALJWILLIAMS33-40",
           "book_verified": true,
-          "market_implied_probability": 0.765,
+          "market_implied_probability": 0.775,
           "injury_flag": "",
           "flags": [],
           "on_graphic": false
@@ -979,7 +979,7 @@
           "book_line": 39.5,
           "book_ticker": "KXNFLRSHYDS-26NOV12WASNYG-NYGCSKATTEBO44-40",
           "book_verified": true,
-          "market_implied_probability": 0.65,
+          "market_implied_probability": 0.735,
           "injury_flag": "",
           "flags": [],
           "on_graphic": false
@@ -1004,11 +1004,11 @@
           "cushion_sigmas": 0.724,
           "cushion_yards": 36.4,
           "sigma": 50.3,
-          "ladder_source": "synthetic_grid",
-          "book_line": null,
-          "book_ticker": null,
-          "book_verified": false,
-          "market_implied_probability": null,
+          "ladder_source": "kalshi",
+          "book_line": 39.5,
+          "book_ticker": "KXNFLRSHYDS-26NOV15MIAIND-INDJTAYLOR28-40",
+          "book_verified": true,
+          "market_implied_probability": 0.805,
           "injury_flag": "",
           "flags": [],
           "on_graphic": false
@@ -1049,7 +1049,7 @@
           "book_line": 79.5,
           "book_ticker": "KXNFLRECYDS-26NOV15SEALV-SEAJSMITHNJIGBA11-80",
           "book_verified": true,
-          "market_implied_probability": 0.585,
+          "market_implied_probability": 0.595,
           "injury_flag": "",
           "flags": [],
           "on_graphic": true
@@ -1107,7 +1107,7 @@
           "book_line": 59.5,
           "book_ticker": "KXNFLRECYDS-26NOV15SFDAL-DALCLAMB88-60",
           "book_verified": true,
-          "market_implied_probability": 0.735,
+          "market_implied_probability": 0.75,
           "injury_flag": "",
           "flags": [],
           "on_graphic": true
@@ -1136,7 +1136,7 @@
           "book_line": 59.5,
           "book_ticker": "KXNFLRECYDS-26NOV15MINGB-GBCWATSON9-60",
           "book_verified": true,
-          "market_implied_probability": 0.615,
+          "market_implied_probability": 0.625,
           "injury_flag": "",
           "flags": [],
           "on_graphic": true
@@ -1165,7 +1165,7 @@
           "book_line": 59.5,
           "book_ticker": "KXNFLRECYDS-26NOV15CARNO-NOCOLAVE12-60",
           "book_verified": true,
-          "market_implied_probability": 0.64,
+          "market_implied_probability": 0.625,
           "injury_flag": "",
           "flags": [],
           "on_graphic": false
@@ -1223,7 +1223,7 @@
           "book_line": 49.5,
           "book_ticker": "KXNFLRECYDS-26NOV15NEDET-DETASTBROWN14-50",
           "book_verified": true,
-          "market_implied_probability": 0.785,
+          "market_implied_probability": 0.79,
           "injury_flag": "",
           "flags": [],
           "on_graphic": false
@@ -1252,7 +1252,7 @@
           "book_line": 49.5,
           "book_ticker": "KXNFLRECYDS-26NOV15PITCIN-CINJCHASE1-50",
           "book_verified": true,
-          "market_implied_probability": 0.835,
+          "market_implied_probability": 0.845,
           "injury_flag": "",
           "flags": [],
           "on_graphic": false
@@ -1281,7 +1281,7 @@
           "book_line": 49.5,
           "book_ticker": "KXNFLRECYDS-26NOV15MINGB-GBMGOLDEN0-50",
           "book_verified": true,
-          "market_implied_probability": 0.69,
+          "market_implied_probability": 0.7,
           "injury_flag": "",
           "flags": [],
           "on_graphic": false

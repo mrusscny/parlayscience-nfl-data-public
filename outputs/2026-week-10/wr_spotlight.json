@@ -14,7 +14,7 @@
     "completed_weeks": 9,
     "first_kickoff": "2026-11-12",
     "last_game": "2026-11-16",
-    "generated_at_et": "2026-11-12T15:01:39-05:00",
+    "generated_at_et": "2026-11-13T14:48:59-05:00",
     "label": "2026-week-10"
   },
   "method": {
@@ -194,31 +194,6 @@
     },
     {
       "rank": 7,
-      "player_id": "00-0039337",
-      "player_name": "M.Nabers",
-      "player_full_name": "Malik Nabers",
-      "first_name": "Malik",
-      "last_name": "Nabers",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/w3edoyyuomqlovvp9ixc",
-      "team": "NYG",
-      "position": "WR",
-      "opponent": "vs WAS",
-      "kickoff": "Thursday 20:15 ET",
-      "score": 4.702,
-      "games_played": 8,
-      "injury_flag": "",
-      "flags": [],
-      "targets_per_game": 9.7062,
-      "target_share": 0.2618,
-      "red_zone_targets_per_game": 1.2125,
-      "receptions_per_game": 6.3062,
-      "rec_yards_per_game": 79.0125,
-      "targets": 79,
-      "receptions": 53,
-      "red_zone_targets": 10
-    },
-    {
-      "rank": 8,
       "player_id": "00-0036900",
       "player_name": "J.Chase",
       "player_full_name": "Ja'Marr Chase",
@@ -243,7 +218,7 @@
       "red_zone_targets": 13
     },
     {
-      "rank": 9,
+      "rank": 8,
       "player_id": "00-0036912",
       "player_name": "D.Smith",
       "player_full_name": "DeVonta Smith",
@@ -266,6 +241,31 @@
       "targets": 41,
       "receptions": 26,
       "red_zone_targets": 3
+    },
+    {
+      "rank": 9,
+      "player_id": "00-0039337",
+      "player_name": "M.Nabers",
+      "player_full_name": "Malik Nabers",
+      "first_name": "Malik",
+      "last_name": "Nabers",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/w3edoyyuomqlovvp9ixc",
+      "team": "NYG",
+      "position": "WR",
+      "opponent": "vs WAS",
+      "kickoff": "Thursday 20:15 ET",
+      "score": 4.573,
+      "games_played": 9,
+      "injury_flag": "",
+      "flags": [],
+      "targets_per_game": 9.4347,
+      "target_share": 0.2547,
+      "red_zone_targets_per_game": 1.1889,
+      "receptions_per_game": 6.1528,
+      "rec_yards_per_game": 75.5181,
+      "targets": 86,
+      "receptions": 58,
+      "red_zone_targets": 11
     },
     {
       "rank": 10,
@@ -569,6 +569,31 @@
     },
     {
       "rank": 22,
+      "player_id": "00-0031588",
+      "player_name": "S.Diggs",
+      "player_full_name": "Stefon Diggs",
+      "first_name": "Stefon",
+      "last_name": "Diggs",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/dpmpctgbwlvgyzg3opli",
+      "team": "WAS",
+      "position": "WR",
+      "opponent": "@ NYG",
+      "kickoff": "Thursday 20:15 ET",
+      "score": 3.466,
+      "games_played": 17,
+      "injury_flag": "",
+      "flags": [],
+      "targets_per_game": 7.1687,
+      "target_share": 0.2001,
+      "red_zone_targets_per_game": 0.8496,
+      "receptions_per_game": 4.575,
+      "rec_yards_per_game": 49.9507,
+      "targets": 59,
+      "receptions": 36,
+      "red_zone_targets": 7
+    },
+    {
+      "rank": 23,
       "player_id": "00-0030279",
       "player_name": "K.Allen",
       "player_full_name": "Keenan Allen",
@@ -593,7 +618,7 @@
       "red_zone_targets": 5
     },
     {
-      "rank": 23,
+      "rank": 24,
       "player_id": "00-0041438",
       "player_name": "C.Tate",
       "player_full_name": "Carnell Tate",
@@ -620,7 +645,7 @@
       "red_zone_targets": 3
     },
     {
-      "rank": 24,
+      "rank": 25,
       "player_id": "00-0033040",
       "player_name": "T.Hill",
       "player_full_name": "Tyreek Hill",
@@ -647,7 +672,7 @@
       "red_zone_targets": 0
     },
     {
-      "rank": 25,
+      "rank": 26,
       "player_id": "00-0039067",
       "player_name": "R.Rice",
       "player_full_name": "Rashee Rice",
@@ -672,7 +697,7 @@
       "red_zone_targets": 5
     },
     {
-      "rank": 26,
+      "rank": 27,
       "player_id": "00-0041037",
       "player_name": "D.Boston",
       "player_full_name": "Denzel Boston",
@@ -699,7 +724,7 @@
       "red_zone_targets": 11
     },
     {
-      "rank": 27,
+      "rank": 28,
       "player_id": "00-0038606",
       "player_name": "P.Washington",
       "player_full_name": "Parker Washington",
@@ -724,7 +749,7 @@
       "red_zone_targets": 10
     },
     {
-      "rank": 28,
+      "rank": 29,
       "player_id": "00-0031408",
       "player_name": "M.Evans",
       "player_full_name": "Mike Evans",
@@ -749,7 +774,7 @@
       "red_zone_targets": 7
     },
     {
-      "rank": 29,
+      "rank": 30,
       "player_id": "00-0035676",
       "player_name": "A.Brown",
       "player_full_name": "A.J. Brown",
@@ -762,7 +787,7 @@
       "kickoff": "Sunday 09:30 ET",
       "score": 3.363,
       "games_played": 15,
-      "injury_flag": "",
+      "injury_flag": "Questionable",
       "flags": [],
       "targets_per_game": 6.8767,
       "target_share": 0.2072,
@@ -772,31 +797,6 @@
       "targets": 20,
       "receptions": 9,
       "red_zone_targets": 3
-    },
-    {
-      "rank": 30,
-      "player_id": "00-0031588",
-      "player_name": "S.Diggs",
-      "player_full_name": "Stefon Diggs",
-      "first_name": "Stefon",
-      "last_name": "Diggs",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/dpmpctgbwlvgyzg3opli",
-      "team": "WAS",
-      "position": "WR",
-      "opponent": "@ NYG",
-      "kickoff": "Thursday 20:15 ET",
-      "score": 3.316,
-      "games_played": 17,
-      "injury_flag": "",
-      "flags": [],
-      "targets_per_game": 6.85,
-      "target_share": 0.1898,
-      "red_zone_targets_per_game": 0.8345,
-      "receptions_per_game": 4.3929,
-      "rec_yards_per_game": 45.7311,
-      "targets": 49,
-      "receptions": 30,
-      "red_zone_targets": 6
     },
     {
       "rank": 31,

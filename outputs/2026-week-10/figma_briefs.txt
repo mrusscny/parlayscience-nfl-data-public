@@ -1,4 +1,4 @@
-Generated at 2026-11-12 15:01:58 EST
+Generated at 2026-11-13 14:49:29 EST
 
 Copy any block below into a Figma template — text only, full data in JSON
 
@@ -342,6 +342,15 @@ Support Stats:
   Snap Share: 61.9%
 
 CARD 17 (alternate)
+HERO: 18.1 Touches/Game
+PLAYER: Cam Skattebo (NYG)
+MATCHUP: vs WAS (Thursday 20:15 ET)
+Support Stats:
+  Carries/Game: 16.0
+  Targets/Game: 2.7
+  Snap Share: 58.5%
+
+CARD 18 (alternate)
 HERO: 17.4 Touches/Game
 PLAYER: Quinshon Judkins (CLE)
 MATCHUP: vs HOU (Sunday 13:00 ET)
@@ -350,7 +359,7 @@ Support Stats:
   Targets/Game: 2.9
   Snap Share: 53.0%
 
-CARD 18 (alternate)
+CARD 19 (alternate)
 HERO: 14.5 Touches/Game
 PLAYER: De'Von Achane (MIA)
 MATCHUP: @ IND (Sunday 13:00 ET)
@@ -358,15 +367,6 @@ Support Stats:
   Carries/Game: 11.9
   Targets/Game: 4.2
   Snap Share: 58.6%
-
-CARD 19 (alternate)
-HERO: 17.8 Touches/Game
-PLAYER: Cam Skattebo (NYG)
-MATCHUP: vs WAS (Thursday 20:15 ET)
-Support Stats:
-  Carries/Game: 15.8
-  Targets/Game: 2.4
-  Snap Share: 54.9%
 
 CARD 20 (alternate)
 HERO: 15.9 Touches/Game
@@ -438,15 +438,6 @@ Support Stats:
   Receptions/Game: 5.5
 
 CARD 7 (alternate)
-HERO: 9.7 Targets/Game
-PLAYER: Malik Nabers (NYG)
-MATCHUP: vs WAS (Thursday 20:15 ET)
-Support Stats:
-  Target Share: 26.2%
-  Red Zone Targets: 10
-  Receptions/Game: 6.3
-
-CARD 8 (alternate)
 HERO: 9.5 Targets/Game
 PLAYER: Ja'Marr Chase (CIN)
 MATCHUP: vs PIT (Sunday 20:20 ET)
@@ -455,13 +446,22 @@ Support Stats:
   Red Zone Targets: 13
   Receptions/Game: 6.8
 
-CARD 9 (alternate)
+CARD 8 (alternate)
 HERO: 9.7 Targets/Game
 PLAYER: DeVonta Smith (PHI)
 MATCHUP: BYE
 Support Stats:
   Target Share: 27.4%
   Red Zone Targets: 3
+  Receptions/Game: 6.2
+
+CARD 9 (alternate)
+HERO: 9.4 Targets/Game
+PLAYER: Malik Nabers (NYG)
+MATCHUP: vs WAS (Thursday 20:15 ET)
+Support Stats:
+  Target Share: 25.5%
+  Red Zone Targets: 11
   Receptions/Game: 6.2
 
 CARD 10 (alternate)
@@ -655,16 +655,16 @@ Support Stats:
   Punts/Game: 4.3
 
 CARD 9 (alternate)
-HERO: 73.8 Punt Radar Score
+HERO: 74.7 Punt Radar Score
 TEAM: WAS
 MATCHUP: @ NYG (Thursday 20:15 ET)
 Support Stats:
   Offensive Punt Rank: 9 of 32
-  Defensive Stop Rank: 15 of 32
+  Defensive Stop Rank: 14 of 32
   Punts/Game: 4.3
 
 CARD 10 (alternate)
-HERO: 70.0 Punt Radar Score
+HERO: 69.1 Punt Radar Score
 TEAM: BAL
 MATCHUP: vs LAC (Monday 20:15 ET)
 Support Stats:
@@ -682,22 +682,22 @@ Support Stats:
   Punts/Game: 3.8
 
 CARD 12 (alternate)
-HERO: 66.2 Punt Radar Score
-TEAM: LAC
-MATCHUP: @ BAL (Monday 20:15 ET)
-Support Stats:
-  Offensive Punt Rank: 12 of 32
-  Defensive Stop Rank: 18 of 32
-  Punts/Game: 4.1
-
-CARD 13 (alternate)
 HERO: 65.9 Punt Radar Score
 TEAM: PIT
 MATCHUP: @ CIN (Sunday 20:20 ET)
 Support Stats:
-  Offensive Punt Rank: 13 of 32
-  Defensive Stop Rank: 20 of 32
+  Offensive Punt Rank: 12 of 32
+  Defensive Stop Rank: 19 of 32
   Punts/Game: 3.9
+
+CARD 13 (alternate)
+HERO: 65.6 Punt Radar Score
+TEAM: LAC
+MATCHUP: @ BAL (Monday 20:15 ET)
+Support Stats:
+  Offensive Punt Rank: 13 of 32
+  Defensive Stop Rank: 18 of 32
+  Punts/Game: 4.1
 
 CARD 14 (alternate)
 HERO: 61.9 Punt Radar Score
@@ -709,13 +709,13 @@ Support Stats:
   Punts/Game: 4.0
 
 CARD 15 (alternate)
-HERO: 56.2 Punt Radar Score
+HERO: 56.9 Punt Radar Score
 TEAM: NYG
 MATCHUP: vs WAS (Thursday 20:15 ET)
 Support Stats:
   Offensive Punt Rank: 15 of 32
   Defensive Stop Rank: 3 of 32
-  Punts/Game: 4.0
+  Punts/Game: 4.1
 
 CARD 16 (alternate)
 HERO: 51.2 Punt Radar Score
@@ -732,7 +732,7 @@ TEAM: ATL
 MATCHUP: vs KC (Sunday 13:00 ET)
 Support Stats:
   Offensive Punt Rank: 17 of 32
-  Defensive Stop Rank: 14 of 32
+  Defensive Stop Rank: 15 of 32
   Punts/Game: 3.5
 
 CARD 18 (alternate)

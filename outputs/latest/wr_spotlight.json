@@ -14,7 +14,7 @@
     "completed_weeks": 9,
     "first_kickoff": "2026-11-12",
     "last_game": "2026-11-16",
-    "generated_at_et": "2026-11-13T14:48:59-05:00",
+    "generated_at_et": "2026-11-14T13:13:29-05:00",
     "label": "2026-week-10"
   },
   "method": {
@@ -40,7 +40,7 @@
     }
   },
   "board_size": 20,
-  "total_eligible": 60,
+  "total_eligible": 58,
   "items": [
     {
       "rank": 1,
@@ -106,7 +106,7 @@
       "kickoff": "Sunday 09:30 ET",
       "score": 5.341,
       "games_played": 17,
-      "injury_flag": "",
+      "injury_flag": "Questionable",
       "flags": [],
       "targets_per_game": 10.6551,
       "target_share": 0.291,
@@ -381,7 +381,7 @@
       "kickoff": "Sunday 13:00 ET",
       "score": 3.895,
       "games_played": 8,
-      "injury_flag": "",
+      "injury_flag": "Questionable",
       "flags": [],
       "targets_per_game": 8.0857,
       "target_share": 0.2477,
@@ -619,33 +619,6 @@
     },
     {
       "rank": 24,
-      "player_id": "00-0041438",
-      "player_name": "C.Tate",
-      "player_full_name": "Carnell Tate",
-      "first_name": "Carnell",
-      "last_name": "Tate",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/xlva68qwhtm0n36pwyad",
-      "team": "TEN",
-      "position": "WR",
-      "opponent": "vs JAX",
-      "kickoff": "Sunday 13:00 ET",
-      "score": 3.445,
-      "games_played": 7,
-      "injury_flag": "",
-      "flags": [
-        "rookie"
-      ],
-      "targets_per_game": 7.2857,
-      "target_share": 0.2318,
-      "red_zone_targets_per_game": 0.4286,
-      "receptions_per_game": 4.8571,
-      "rec_yards_per_game": 59.0,
-      "targets": 51,
-      "receptions": 34,
-      "red_zone_targets": 3
-    },
-    {
-      "rank": 25,
       "player_id": "00-0033040",
       "player_name": "T.Hill",
       "player_full_name": "Tyreek Hill",
@@ -672,7 +645,7 @@
       "red_zone_targets": 0
     },
     {
-      "rank": 26,
+      "rank": 25,
       "player_id": "00-0039067",
       "player_name": "R.Rice",
       "player_full_name": "Rashee Rice",
@@ -697,7 +670,7 @@
       "red_zone_targets": 5
     },
     {
-      "rank": 27,
+      "rank": 26,
       "player_id": "00-0041037",
       "player_name": "D.Boston",
       "player_full_name": "Denzel Boston",
@@ -710,7 +683,7 @@
       "kickoff": "Sunday 13:00 ET",
       "score": 3.412,
       "games_played": 9,
-      "injury_flag": "",
+      "injury_flag": "Questionable",
       "flags": [
         "rookie"
       ],
@@ -724,7 +697,7 @@
       "red_zone_targets": 11
     },
     {
-      "rank": 28,
+      "rank": 27,
       "player_id": "00-0038606",
       "player_name": "P.Washington",
       "player_full_name": "Parker Washington",
@@ -749,32 +722,7 @@
       "red_zone_targets": 10
     },
     {
-      "rank": 29,
-      "player_id": "00-0031408",
-      "player_name": "M.Evans",
-      "player_full_name": "Mike Evans",
-      "first_name": "Mike",
-      "last_name": "Evans",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/zc4ujpmndyxrbiyyjomz",
-      "team": "SF",
-      "position": "WR",
-      "opponent": "@ DAL",
-      "kickoff": "Sunday 16:25 ET",
-      "score": 3.383,
-      "games_played": 8,
-      "injury_flag": "",
-      "flags": [],
-      "targets_per_game": 6.8292,
-      "target_share": 0.2231,
-      "red_zone_targets_per_game": 1.1604,
-      "receptions_per_game": 4.3875,
-      "rec_yards_per_game": 66.4,
-      "targets": 40,
-      "receptions": 27,
-      "red_zone_targets": 7
-    },
-    {
-      "rank": 30,
+      "rank": 28,
       "player_id": "00-0035676",
       "player_name": "A.Brown",
       "player_full_name": "A.J. Brown",
@@ -799,7 +747,7 @@
       "red_zone_targets": 3
     },
     {
-      "rank": 31,
+      "rank": 29,
       "player_id": "00-0040735",
       "player_name": "L.Burden",
       "player_full_name": "Luther Burden III",
@@ -824,7 +772,7 @@
       "red_zone_targets": 11
     },
     {
-      "rank": 32,
+      "rank": 30,
       "player_id": "00-0036554",
       "player_name": "N.Collins",
       "player_full_name": "Nico Collins",
@@ -849,7 +797,7 @@
       "red_zone_targets": 6
     },
     {
-      "rank": 33,
+      "rank": 31,
       "player_id": "00-0038117",
       "player_name": "W.Robinson",
       "player_full_name": "Wan'Dale Robinson",
@@ -874,7 +822,7 @@
       "red_zone_targets": 10
     },
     {
-      "rank": 34,
+      "rank": 32,
       "player_id": "00-0039491",
       "player_name": "J.Coker",
       "player_full_name": "Jalen Coker",
@@ -899,7 +847,7 @@
       "red_zone_targets": 7
     },
     {
-      "rank": 35,
+      "rank": 33,
       "player_id": "00-0039890",
       "player_name": "A.Mitchell",
       "player_full_name": "Adonai Mitchell",
@@ -912,7 +860,7 @@
       "kickoff": "Sunday 13:00 ET",
       "score": 3.164,
       "games_played": 16,
-      "injury_flag": "",
+      "injury_flag": "Questionable",
       "flags": [],
       "targets_per_game": 6.4737,
       "target_share": 0.1869,
@@ -924,7 +872,7 @@
       "red_zone_targets": 5
     },
     {
-      "rank": 36,
+      "rank": 34,
       "player_id": "00-0034827",
       "player_name": "D.Moore",
       "player_full_name": "DJ Moore",
@@ -949,7 +897,7 @@
       "red_zone_targets": 5
     },
     {
-      "rank": 37,
+      "rank": 35,
       "player_id": "00-0039424",
       "player_name": "D.Vele",
       "player_full_name": "Devaughn Vele",
@@ -974,7 +922,7 @@
       "red_zone_targets": 7
     },
     {
-      "rank": 38,
+      "rank": 36,
       "player_id": "00-0038997",
       "player_name": "J.Downs",
       "player_full_name": "Josh Downs",
@@ -999,7 +947,7 @@
       "red_zone_targets": 6
     },
     {
-      "rank": 39,
+      "rank": 37,
       "player_id": "00-0041489",
       "player_name": "G.Bernard",
       "player_full_name": "Germie Bernard",
@@ -1026,7 +974,7 @@
       "red_zone_targets": 7
     },
     {
-      "rank": 40,
+      "rank": 38,
       "player_id": "00-0038563",
       "player_name": "T.Tucker",
       "player_full_name": "Tre Tucker",
@@ -1051,7 +999,7 @@
       "red_zone_targets": 7
     },
     {
-      "rank": 41,
+      "rank": 39,
       "player_id": "00-0036613",
       "player_name": "J.Waddle",
       "player_full_name": "Jaylen Waddle",
@@ -1076,7 +1024,7 @@
       "red_zone_targets": 7
     },
     {
-      "rank": 42,
+      "rank": 40,
       "player_id": "00-0039919",
       "player_name": "R.Odunze",
       "player_full_name": "Rome Odunze",
@@ -1101,7 +1049,7 @@
       "red_zone_targets": 7
     },
     {
-      "rank": 43,
+      "rank": 41,
       "player_id": "00-0041547",
       "player_name": "K.Concepcion",
       "player_full_name": "KC Concepcion",
@@ -1128,7 +1076,7 @@
       "red_zone_targets": 3
     },
     {
-      "rank": 44,
+      "rank": 42,
       "player_id": "00-0041511",
       "player_name": "O.Cooper",
       "player_full_name": "Omar Cooper Jr.",
@@ -1141,7 +1089,7 @@
       "kickoff": "Sunday 13:00 ET",
       "score": 2.866,
       "games_played": 4,
-      "injury_flag": "",
+      "injury_flag": "Questionable",
       "flags": [
         "rookie"
       ],
@@ -1155,7 +1103,7 @@
       "red_zone_targets": 2
     },
     {
-      "rank": 45,
+      "rank": 43,
       "player_id": "00-0037240",
       "player_name": "J.Williams",
       "player_full_name": "Jameson Williams",
@@ -1180,7 +1128,7 @@
       "red_zone_targets": 8
     },
     {
-      "rank": 46,
+      "rank": 44,
       "player_id": "00-0039894",
       "player_name": "X.Worthy",
       "player_full_name": "Xavier Worthy",
@@ -1205,7 +1153,7 @@
       "red_zone_targets": 8
     },
     {
-      "rank": 47,
+      "rank": 45,
       "player_id": "00-0040184",
       "player_name": "K.Lambert-Smith",
       "player_full_name": "KeAndre Lambert-Smith",
@@ -1230,7 +1178,7 @@
       "red_zone_targets": 2
     },
     {
-      "rank": 48,
+      "rank": 46,
       "player_id": "00-0040867",
       "player_name": "M.Lemon",
       "player_full_name": "Makai Lemon",
@@ -1257,7 +1205,7 @@
       "red_zone_targets": 2
     },
     {
-      "rank": 49,
+      "rank": 47,
       "player_id": "00-0039916",
       "player_name": "R.Pearsall",
       "player_full_name": "Ricky Pearsall",
@@ -1284,7 +1232,7 @@
       "red_zone_targets": 0
     },
     {
-      "rank": 50,
+      "rank": 48,
       "player_id": "00-0034348",
       "player_name": "C.Sutton",
       "player_full_name": "Courtland Sutton",
@@ -1309,7 +1257,7 @@
       "red_zone_targets": 10
     },
     {
-      "rank": 51,
+      "rank": 49,
       "player_id": "00-0035659",
       "player_name": "T.McLaurin",
       "player_full_name": "Terry McLaurin",
@@ -1334,7 +1282,7 @@
       "red_zone_targets": 4
     },
     {
-      "rank": 52,
+      "rank": 50,
       "player_id": "00-0039880",
       "player_name": "M.Washington",
       "player_full_name": "Malik Washington",
@@ -1359,7 +1307,7 @@
       "red_zone_targets": 4
     },
     {
-      "rank": 53,
+      "rank": 51,
       "player_id": "00-0037261",
       "player_name": "K.Shakir",
       "player_full_name": "Khalil Shakir",
@@ -1384,7 +1332,7 @@
       "red_zone_targets": 8
     },
     {
-      "rank": 54,
+      "rank": 52,
       "player_id": "00-0039410",
       "player_name": "R.Flournoy",
       "player_full_name": "Ryan Flournoy",
@@ -1409,7 +1357,7 @@
       "red_zone_targets": 11
     },
     {
-      "rank": 55,
+      "rank": 53,
       "player_id": "00-0041523",
       "player_name": "C.Douglas",
       "player_full_name": "Caleb Douglas",
@@ -1436,7 +1384,7 @@
       "red_zone_targets": 2
     },
     {
-      "rank": 56,
+      "rank": 54,
       "player_id": "00-0038618",
       "player_name": "X.Hutchinson",
       "player_full_name": "Xavier Hutchinson",
@@ -1461,7 +1409,7 @@
       "red_zone_targets": 4
     },
     {
-      "rank": 57,
+      "rank": 55,
       "player_id": "00-0033307",
       "player_name": "K.Bourne",
       "player_full_name": "Kendrick Bourne",
@@ -1486,7 +1434,7 @@
       "red_zone_targets": 7
     },
     {
-      "rank": 58,
+      "rank": 56,
       "player_id": "00-0038994",
       "player_name": "J.Addison",
       "player_full_name": "Jordan Addison",
@@ -1499,7 +1447,7 @@
       "kickoff": "Sunday 13:00 ET",
       "score": 2.538,
       "games_played": 14,
-      "injury_flag": "",
+      "injury_flag": "Questionable",
       "flags": [],
       "targets_per_game": 5.3393,
       "target_share": 0.1695,
@@ -1511,7 +1459,7 @@
       "red_zone_targets": 2
     },
     {
-      "rank": 59,
+      "rank": 57,
       "player_id": "00-0033555",
       "player_name": "M.Hollins",
       "player_full_name": "Mack Hollins",
@@ -1536,7 +1484,7 @@
       "red_zone_targets": 5
     },
     {
-      "rank": 60,
+      "rank": 58,
       "player_id": "00-0038393",
       "player_name": "D.Wicks",
       "player_full_name": "Dontayvion Wicks",

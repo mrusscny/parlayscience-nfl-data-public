@@ -1,4 +1,4 @@
-Generated at 2026-11-18 15:39:04 EST
+Generated at 2026-11-19 15:44:54 EST
 
 Copy any block below into a Figma template — text only, full data in JSON
 
@@ -261,6 +261,15 @@ Support Stats:
   Snap Share: 69.8%
 
 CARD 8 (alternate)
+HERO: 20.9 Touches/Game
+PLAYER: Bucky Irving (TB)
+MATCHUP: @ DET (Sunday 13:00 ET)
+Support Stats:
+  Carries/Game: 18.4
+  Targets/Game: 3.1
+  Snap Share: 62.9%
+
+CARD 9 (alternate)
 HERO: 17.2 Touches/Game
 PLAYER: Jaylen Warren (PIT)
 MATCHUP: @ PHI (Sunday 16:25 ET)
@@ -269,7 +278,7 @@ Support Stats:
   Targets/Game: 4.6
   Snap Share: 66.5%
 
-CARD 9 (alternate)
+CARD 10 (alternate)
 HERO: 17.9 Touches/Game
 PLAYER: Christian McCaffrey (SF)
 MATCHUP: vs MIN (Sunday 20:20 ET)
@@ -277,15 +286,6 @@ Support Stats:
   Carries/Game: 13.3
   Targets/Game: 5.8
   Snap Share: 69.3%
-
-CARD 10 (alternate)
-HERO: 20.9 Touches/Game
-PLAYER: Bucky Irving (TB)
-MATCHUP: @ DET (Sunday 13:00 ET)
-Support Stats:
-  Carries/Game: 18.4
-  Targets/Game: 3.1
-  Snap Share: 62.9%
 
 CARD 11 (alternate)
 HERO: 19.5 Touches/Game

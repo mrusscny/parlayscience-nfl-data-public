@@ -14,7 +14,7 @@
     "completed_weeks": 10,
     "first_kickoff": "2026-11-19",
     "last_game": "2026-11-23",
-    "generated_at_et": "2026-11-19T15:44:18-05:00",
+    "generated_at_et": "2026-11-20T15:28:40-05:00",
     "label": "2026-week-11"
   },
   "method": {
@@ -469,31 +469,6 @@
     },
     {
       "rank": 18,
-      "player_id": "00-0036554",
-      "player_name": "N.Collins",
-      "player_full_name": "Nico Collins",
-      "first_name": "Nico",
-      "last_name": "Collins",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/pyevyueqikk1vbkh9ju1",
-      "team": "HOU",
-      "position": "WR",
-      "opponent": "vs IND",
-      "kickoff": "Thursday 20:15 ET",
-      "score": 3.827,
-      "games_played": 15,
-      "injury_flag": "",
-      "flags": [],
-      "targets_per_game": 7.8781,
-      "target_share": 0.2193,
-      "red_zone_targets_per_game": 1.0267,
-      "receptions_per_game": 5.2305,
-      "rec_yards_per_game": 68.9038,
-      "targets": 55,
-      "receptions": 37,
-      "red_zone_targets": 7
-    },
-    {
-      "rank": 19,
       "player_id": "00-0039064",
       "player_name": "Z.Flowers",
       "player_full_name": "Zay Flowers",
@@ -518,7 +493,7 @@
       "red_zone_targets": 7
     },
     {
-      "rank": 20,
+      "rank": 19,
       "player_id": "00-0040129",
       "player_name": "E.Egbuka",
       "player_full_name": "Emeka Egbuka",
@@ -543,7 +518,7 @@
       "red_zone_targets": 7
     },
     {
-      "rank": 21,
+      "rank": 20,
       "player_id": "00-0035640",
       "player_name": "D.Metcalf",
       "player_full_name": "DK Metcalf",
@@ -566,6 +541,31 @@
       "targets": 71,
       "receptions": 35,
       "red_zone_targets": 6
+    },
+    {
+      "rank": 21,
+      "player_id": "00-0036554",
+      "player_name": "N.Collins",
+      "player_full_name": "Nico Collins",
+      "first_name": "Nico",
+      "last_name": "Collins",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/pyevyueqikk1vbkh9ju1",
+      "team": "HOU",
+      "position": "WR",
+      "opponent": "vs IND",
+      "kickoff": "Thursday 20:15 ET",
+      "score": 3.659,
+      "games_played": 15,
+      "injury_flag": "",
+      "flags": [],
+      "targets_per_game": 7.5567,
+      "target_share": 0.2157,
+      "red_zone_targets_per_game": 0.9142,
+      "receptions_per_game": 4.9733,
+      "rec_yards_per_game": 67.7467,
+      "targets": 60,
+      "receptions": 40,
+      "red_zone_targets": 7
     },
     {
       "rank": 22,
@@ -1233,31 +1233,6 @@
     },
     {
       "rank": 48,
-      "player_id": "00-0038618",
-      "player_name": "X.Hutchinson",
-      "player_full_name": "Xavier Hutchinson",
-      "first_name": "Xavier",
-      "last_name": "Hutchinson",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ozdgoi4ync5i38s1fpb7",
-      "team": "HOU",
-      "position": "WR",
-      "opponent": "vs IND",
-      "kickoff": "Thursday 20:15 ET",
-      "score": 2.764,
-      "games_played": 15,
-      "injury_flag": "",
-      "flags": [],
-      "targets_per_game": 5.78,
-      "target_share": 0.1525,
-      "red_zone_targets_per_game": 0.5467,
-      "receptions_per_game": 3.0333,
-      "rec_yards_per_game": 37.3533,
-      "targets": 54,
-      "receptions": 28,
-      "red_zone_targets": 5
-    },
-    {
-      "rank": 49,
       "player_id": "00-0041523",
       "player_name": "C.Douglas",
       "player_full_name": "Caleb Douglas",
@@ -1284,7 +1259,7 @@
       "red_zone_targets": 2
     },
     {
-      "rank": 50,
+      "rank": 49,
       "player_id": "00-0041489",
       "player_name": "G.Bernard",
       "player_full_name": "Germie Bernard",
@@ -1311,7 +1286,7 @@
       "red_zone_targets": 7
     },
     {
-      "rank": 51,
+      "rank": 50,
       "player_id": "00-0035659",
       "player_name": "T.McLaurin",
       "player_full_name": "Terry McLaurin",
@@ -1336,7 +1311,7 @@
       "red_zone_targets": 4
     },
     {
-      "rank": 52,
+      "rank": 51,
       "player_id": "00-0039410",
       "player_name": "R.Flournoy",
       "player_full_name": "Ryan Flournoy",
@@ -1361,7 +1336,7 @@
       "red_zone_targets": 14
     },
     {
-      "rank": 53,
+      "rank": 52,
       "player_id": "00-0034348",
       "player_name": "C.Sutton",
       "player_full_name": "Courtland Sutton",
@@ -1386,7 +1361,7 @@
       "red_zone_targets": 10
     },
     {
-      "rank": 54,
+      "rank": 53,
       "player_id": "00-0039894",
       "player_name": "X.Worthy",
       "player_full_name": "Xavier Worthy",
@@ -1409,6 +1384,31 @@
       "targets": 50,
       "receptions": 33,
       "red_zone_targets": 8
+    },
+    {
+      "rank": 54,
+      "player_id": "00-0038618",
+      "player_name": "X.Hutchinson",
+      "player_full_name": "Xavier Hutchinson",
+      "first_name": "Xavier",
+      "last_name": "Hutchinson",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ozdgoi4ync5i38s1fpb7",
+      "team": "HOU",
+      "position": "WR",
+      "opponent": "vs IND",
+      "kickoff": "Thursday 20:15 ET",
+      "score": 2.631,
+      "games_played": 15,
+      "injury_flag": "",
+      "flags": [],
+      "targets_per_game": 5.51,
+      "target_share": 0.149,
+      "red_zone_targets_per_game": 0.4967,
+      "receptions_per_game": 2.9333,
+      "rec_yards_per_game": 35.0733,
+      "targets": 57,
+      "receptions": 30,
+      "red_zone_targets": 5
     },
     {
       "rank": 55,

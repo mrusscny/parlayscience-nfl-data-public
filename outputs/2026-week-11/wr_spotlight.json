@@ -14,7 +14,7 @@
     "completed_weeks": 10,
     "first_kickoff": "2026-11-19",
     "last_game": "2026-11-23",
-    "generated_at_et": "2026-11-20T15:28:40-05:00",
+    "generated_at_et": "2026-11-21T14:23:50-05:00",
     "label": "2026-week-11"
   },
   "method": {
@@ -40,7 +40,7 @@
     }
   },
   "board_size": 20,
-  "total_eligible": 61,
+  "total_eligible": 58,
   "items": [
     {
       "rank": 1,
@@ -656,7 +656,7 @@
       "kickoff": "Sunday 13:00 ET",
       "score": 3.445,
       "games_played": 7,
-      "injury_flag": "",
+      "injury_flag": "Questionable",
       "flags": [
         "rookie"
       ],
@@ -760,7 +760,7 @@
       "kickoff": "Sunday 20:20 ET",
       "score": 3.36,
       "games_played": 8,
-      "injury_flag": "",
+      "injury_flag": "Questionable",
       "flags": [],
       "targets_per_game": 6.775,
       "target_share": 0.2241,
@@ -1077,33 +1077,6 @@
     },
     {
       "rank": 42,
-      "player_id": "00-0041511",
-      "player_name": "O.Cooper",
-      "player_full_name": "Omar Cooper Jr.",
-      "first_name": "Omar",
-      "last_name": "Cooper",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/lmua2lbg0m77ibvydvaq",
-      "team": "NYJ",
-      "position": "WR",
-      "opponent": "@ LAC",
-      "kickoff": "Sunday 16:05 ET",
-      "score": 2.866,
-      "games_played": 4,
-      "injury_flag": "",
-      "flags": [
-        "rookie"
-      ],
-      "targets_per_game": 6.0,
-      "target_share": 0.189,
-      "red_zone_targets_per_game": 0.5,
-      "receptions_per_game": 5.0,
-      "rec_yards_per_game": 76.5,
-      "targets": 24,
-      "receptions": 20,
-      "red_zone_targets": 2
-    },
-    {
-      "rank": 43,
       "player_id": "00-0039919",
       "player_name": "R.Odunze",
       "player_full_name": "Rome Odunze",
@@ -1128,7 +1101,7 @@
       "red_zone_targets": 7
     },
     {
-      "rank": 44,
+      "rank": 43,
       "player_id": "00-0039424",
       "player_name": "D.Vele",
       "player_full_name": "Devaughn Vele",
@@ -1153,7 +1126,7 @@
       "red_zone_targets": 7
     },
     {
-      "rank": 45,
+      "rank": 44,
       "player_id": "00-0040867",
       "player_name": "M.Lemon",
       "player_full_name": "Makai Lemon",
@@ -1180,7 +1153,7 @@
       "red_zone_targets": 2
     },
     {
-      "rank": 46,
+      "rank": 45,
       "player_id": "00-0039916",
       "player_name": "R.Pearsall",
       "player_full_name": "Ricky Pearsall",
@@ -1207,7 +1180,7 @@
       "red_zone_targets": 0
     },
     {
-      "rank": 47,
+      "rank": 46,
       "player_id": "00-0038563",
       "player_name": "T.Tucker",
       "player_full_name": "Tre Tucker",
@@ -1229,6 +1202,33 @@
       "rec_yards_per_game": 52.5141,
       "targets": 58,
       "receptions": 34,
+      "red_zone_targets": 7
+    },
+    {
+      "rank": 47,
+      "player_id": "00-0041489",
+      "player_name": "G.Bernard",
+      "player_full_name": "Germie Bernard",
+      "first_name": "Germie",
+      "last_name": "Bernard",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/rsbtypbsvxux94vokb5q",
+      "team": "PIT",
+      "position": "WR",
+      "opponent": "@ PHI",
+      "kickoff": "Sunday 16:25 ET",
+      "score": 2.758,
+      "games_played": 8,
+      "injury_flag": "",
+      "flags": [
+        "rookie"
+      ],
+      "targets_per_game": 5.625,
+      "target_share": 0.1466,
+      "red_zone_targets_per_game": 0.875,
+      "receptions_per_game": 4.0,
+      "rec_yards_per_game": 35.5,
+      "targets": 45,
+      "receptions": 32,
       "red_zone_targets": 7
     },
     {
@@ -1260,33 +1260,6 @@
     },
     {
       "rank": 49,
-      "player_id": "00-0041489",
-      "player_name": "G.Bernard",
-      "player_full_name": "Germie Bernard",
-      "first_name": "Germie",
-      "last_name": "Bernard",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/rsbtypbsvxux94vokb5q",
-      "team": "PIT",
-      "position": "WR",
-      "opponent": "@ PHI",
-      "kickoff": "Sunday 16:25 ET",
-      "score": 2.758,
-      "games_played": 8,
-      "injury_flag": "",
-      "flags": [
-        "rookie"
-      ],
-      "targets_per_game": 5.625,
-      "target_share": 0.1466,
-      "red_zone_targets_per_game": 0.875,
-      "receptions_per_game": 4.0,
-      "rec_yards_per_game": 35.5,
-      "targets": 45,
-      "receptions": 32,
-      "red_zone_targets": 7
-    },
-    {
-      "rank": 50,
       "player_id": "00-0035659",
       "player_name": "T.McLaurin",
       "player_full_name": "Terry McLaurin",
@@ -1311,7 +1284,7 @@
       "red_zone_targets": 4
     },
     {
-      "rank": 51,
+      "rank": 50,
       "player_id": "00-0039410",
       "player_name": "R.Flournoy",
       "player_full_name": "Ryan Flournoy",
@@ -1336,7 +1309,7 @@
       "red_zone_targets": 14
     },
     {
-      "rank": 52,
+      "rank": 51,
       "player_id": "00-0034348",
       "player_name": "C.Sutton",
       "player_full_name": "Courtland Sutton",
@@ -1361,7 +1334,7 @@
       "red_zone_targets": 10
     },
     {
-      "rank": 53,
+      "rank": 52,
       "player_id": "00-0039894",
       "player_name": "X.Worthy",
       "player_full_name": "Xavier Worthy",
@@ -1386,7 +1359,7 @@
       "red_zone_targets": 8
     },
     {
-      "rank": 54,
+      "rank": 53,
       "player_id": "00-0038618",
       "player_name": "X.Hutchinson",
       "player_full_name": "Xavier Hutchinson",
@@ -1411,7 +1384,7 @@
       "red_zone_targets": 5
     },
     {
-      "rank": 55,
+      "rank": 54,
       "player_id": "00-0039880",
       "player_name": "M.Washington",
       "player_full_name": "Malik Washington",
@@ -1436,7 +1409,7 @@
       "red_zone_targets": 4
     },
     {
-      "rank": 56,
+      "rank": 55,
       "player_id": "00-0033555",
       "player_name": "M.Hollins",
       "player_full_name": "Mack Hollins",
@@ -1461,7 +1434,7 @@
       "red_zone_targets": 6
     },
     {
-      "rank": 57,
+      "rank": 56,
       "player_id": "00-0033307",
       "player_name": "K.Bourne",
       "player_full_name": "Kendrick Bourne",
@@ -1486,7 +1459,7 @@
       "red_zone_targets": 7
     },
     {
-      "rank": 58,
+      "rank": 57,
       "player_id": "00-0040870",
       "player_name": "J.Lane",
       "player_full_name": "Ja'Kobi Lane",
@@ -1513,7 +1486,7 @@
       "red_zone_targets": 7
     },
     {
-      "rank": 59,
+      "rank": 58,
       "player_id": "00-0037261",
       "player_name": "K.Shakir",
       "player_full_name": "Khalil Shakir",
@@ -1536,56 +1509,6 @@
       "targets": 45,
       "receptions": 33,
       "red_zone_targets": 8
-    },
-    {
-      "rank": 60,
-      "player_id": "00-0038994",
-      "player_name": "J.Addison",
-      "player_full_name": "Jordan Addison",
-      "first_name": "Jordan",
-      "last_name": "Addison",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ty8e8iasniuuhto6qfdx",
-      "team": "MIN",
-      "position": "WR",
-      "opponent": "@ SF",
-      "kickoff": "Sunday 20:20 ET",
-      "score": 2.524,
-      "games_played": 14,
-      "injury_flag": "",
-      "flags": [],
-      "targets_per_game": 5.3214,
-      "target_share": 0.1696,
-      "red_zone_targets_per_game": 0.35,
-      "receptions_per_game": 2.6143,
-      "rec_yards_per_game": 39.9714,
-      "targets": 37,
-      "receptions": 18,
-      "red_zone_targets": 2
-    },
-    {
-      "rank": 61,
-      "player_id": "00-0038393",
-      "player_name": "D.Wicks",
-      "player_full_name": "Dontayvion Wicks",
-      "first_name": "Dontayvion",
-      "last_name": "Wicks",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/v1lt8kpvkn0qw5elyaoz",
-      "team": "PHI",
-      "position": "WR",
-      "opponent": "vs PIT",
-      "kickoff": "Sunday 16:25 ET",
-      "score": 2.496,
-      "games_played": 13,
-      "injury_flag": "",
-      "flags": [],
-      "targets_per_game": 5.1538,
-      "target_share": 0.1447,
-      "red_zone_targets_per_game": 0.6308,
-      "receptions_per_game": 3.0808,
-      "rec_yards_per_game": 45.1538,
-      "targets": 32,
-      "receptions": 19,
-      "red_zone_targets": 4
     }
   ]
 }

@@ -1,4 +1,4 @@
-Generated at 2026-11-21 14:24:10 EST
+Generated at 2026-11-22 14:47:46 EST
 
 Copy any block below into a Figma template — text only, full data in JSON
 
@@ -263,7 +263,7 @@ Support Stats:
 CARD 8 (alternate)
 HERO: 17.2 Touches/Game
 PLAYER: Jaylen Warren (PIT)
-MATCHUP: @ PHI (Sunday 16:25 ET)
+MATCHUP: @ PHI (Sunday 13:00 ET)
 Support Stats:
   Carries/Game: 13.9
   Targets/Game: 4.6
@@ -335,7 +335,7 @@ Support Stats:
 CARD 16 (alternate)
 HERO: 18.3 Touches/Game
 PLAYER: Cam Skattebo (NYG)
-MATCHUP: vs JAX (Sunday 13:00 ET)
+MATCHUP: vs JAX (Sunday 16:25 ET)
 Support Stats:
   Carries/Game: 16.2
   Targets/Game: 2.6
@@ -440,7 +440,7 @@ Support Stats:
 CARD 7 (alternate)
 HERO: 9.9 Targets/Game
 PLAYER: DeVonta Smith (PHI)
-MATCHUP: vs PIT (Sunday 16:25 ET)
+MATCHUP: vs PIT (Sunday 13:00 ET)
 Support Stats:
   Target Share: 27.8%
   Red Zone Targets: 3
@@ -467,7 +467,7 @@ Support Stats:
 CARD 10 (alternate)
 HERO: 9.5 Targets/Game
 PLAYER: Malik Nabers (NYG)
-MATCHUP: vs JAX (Sunday 13:00 ET)
+MATCHUP: vs JAX (Sunday 16:25 ET)
 Support Stats:
   Target Share: 25.5%
   Red Zone Targets: 11
@@ -557,7 +557,7 @@ Support Stats:
 CARD 20 (alternate)
 HERO: 7.8 Targets/Game
 PLAYER: DK Metcalf (PIT)
-MATCHUP: @ PHI (Sunday 16:25 ET)
+MATCHUP: @ PHI (Sunday 13:00 ET)
 Support Stats:
   Target Share: 20.3%
   Red Zone Targets: 6
@@ -585,7 +585,7 @@ Visual layout: TODO - not yet designed
 [FEATURED] CARD 1
 HERO: 98.8 Punt Radar Score
 TEAM: PHI
-MATCHUP: vs PIT (Sunday 16:25 ET)
+MATCHUP: vs PIT (Sunday 13:00 ET)
 Support Stats:
   Offensive Punt Rank: 1 of 32
   Defensive Stop Rank: 9 of 32
@@ -666,7 +666,7 @@ Support Stats:
 CARD 10 (alternate)
 HERO: 70.9 Punt Radar Score
 TEAM: PIT
-MATCHUP: @ PHI (Sunday 16:25 ET)
+MATCHUP: @ PHI (Sunday 13:00 ET)
 Support Stats:
   Offensive Punt Rank: 10 of 32
   Defensive Stop Rank: 23 of 32
@@ -711,7 +711,7 @@ Support Stats:
 CARD 15 (alternate)
 HERO: 54.4 Punt Radar Score
 TEAM: NYG
-MATCHUP: vs JAX (Sunday 13:00 ET)
+MATCHUP: vs JAX (Sunday 16:25 ET)
 Support Stats:
   Offensive Punt Rank: 15 of 32
   Defensive Stop Rank: 2 of 32

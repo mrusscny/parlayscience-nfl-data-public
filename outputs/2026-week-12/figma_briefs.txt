@@ -1,4 +1,4 @@
-Generated at 2026-11-24 17:32:15 EST
+Generated at 2026-11-25 16:47:41 EST
 
 Copy any block below into a Figma template — text only, full data in JSON
 
@@ -22,7 +22,7 @@ Support Stats:
 
 [FEATURED] CARD 2
 HERO: 0.89 Expected TD/Game
-PLAYER: Josh Jacobs (GB)
+PLAYER: Josh Jacobs (GB) [Questionable]
 MATCHUP: @ LA (Wednesday 20:00 ET)
 Support Stats:
   Inside 10 Opportunities: 20
